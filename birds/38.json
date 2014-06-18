@@ -1,0 +1,70 @@
+{
+  "id": 38,
+  "name": "23andMe",
+  "thumbnail_100_url": "/system/assets/4/sq100/logo.png",
+  "thumbnail_50_url": "/system/assets/4/sq50/logo.png",
+  "url": "https://www.23andme.com",
+  "foritself": "Yes, it's aware. Its research arm, 23andWe, actively encourages community, allowing its customers to contribute their data to genetics studies, have a say in the research, and find out more about their data in light of it. 'Research communities' include those contributing to studies of Parkinson's Disease, disease in African Americans, Sarcoma, Myeloproliferative Neoplasms (MPN), and Metastatic breast cancer research. Contributors, however, do not have much say in the choice or direction of the research. 23andMe offers online forums and social networking functions around which people can discuss the meaning of genetics findings. The technology will also help identify potential distant relatives which users can opt to contact. \r\n\r\nhttps://www.23andme.com/research/\r\nhttps://www.23andme.com/invite-study/",
+  "brand": "Consumer genomics and consumer-driven research. Private, for-profit personal genomics and biotechnology company conducting participatory, diy disease research. It claims to 'democratize personal genetics.' It offers customers genetic disease and trait assessment as well as ancestry information. The company is named for the 23 pairs of chromosomes in a normal human cell. \r\n\r\nhttps://www.23andme.com/about/press/20080909b/\r\n\r\n\"The members of 23andMe have come together because we believe in the combined potential of genetics and the Internet to have a significant, positive impact.\"\r\nhttps://www.23andme.com/about/values/ ",
+  "fse_name": "23andMe",
+  "fse_owner_founder": "Anne Wojcicki (wife of Google's Sergey Brin) and Linda Avey",
+  "fse_significant_member": "Dr. Henry Louis Gates, Jr., W.E.B. Du Bois Institute at Harvard University, as an adviser to the 'Roots into the Future' research; Esther Dyson, board member.",
+  "fse_mission_statement": "23andMe's mission is to be the world's trusted source of personal genetic information. \r\n\r\nhttps://www.23andme.com/about/",
+  "op_name": "23andWe is the \"research arm\" of 23andMe. The research is the main \"participatory\" part of the project. However, many of the ostensibly participatory, social networking functions are part of 23andMe.",
+  "op_vip_founders": "One VIP is Muhammed Ali, as a data contributor to Parkinsons Disease research",
+  "op_typical_member": "People interested in their ancestry and genetic inheritance, people with diseases, researchers in science, medicine, and policy.",
+  "formation": "23andMe was founded as a corporate FSE that has grown its OP base to 35 million. [where does this figure come from? It is likely incorrect.]\r\nIn June 2011, there were 100,000 users in the 23andMe database (https://www.23andme.com/about/press/23andme_database_100000k_users/ accessed 7/17/2012).",
+  "history": "Founded in November 2007 for US consumers and cost $999. In January 2008 the service was extended to Canada and most countries in Europe. In November 2010 23andMe introduced an alternative pricing option of $199 with a required one-year subscription of $5 a month. The subscription plan has since been canceled. 23andMe continues to experiment with different pricing plans. \r\n\r\nIn 2008 23andMe was named Time Magazine's invention of the year (https://www.23andme.com/about/press/20081030/). It is the most hyped and well known of the personal genomics companies. \r\n\r\nOn June 15, 2011 23andMe announced in three and a half years of service their database has grown to include the DNA data of more than 100,000 people. Other statistics include 60,000 users had completed on average 10 surveys, 100,000 community forum posts, more than 60,000 pairs of relatives have been discovered, 57% of 23andMe users are male, 47% share their data with other users, and 12% have multiple ancestries.  Their mode of research has contributed insights into Parkinson’s disease, such as discovering a genetic variant that may protect those at high risk. [Source?? this is no longer in Wikipedia entry.]\r\n\r\nSo far the company has received 35 million responses to surveys with topics as diverse as male fertility, eye color, and reactions to various medications. [This figure must be incorrect. No longer on Wikipedia.]\r\n\r\nhttp://en.wikipedia.org/wiki/23andMe",
+  "lifespan": "2007 - today, and going strong. The constant experimentation with the pricing model suggests some difficulty balancing costs with customer demand.",
+  "resource": "23andMe provides participants' with their genetic data and offers tools and educational materials to understand it. It also keeps customers up to date if there are new developments that are potentially relevant to their genome. Participants can opt-in to share genetic information with other customers and research groups, at basic or extended levels. \r\n\r\nAdditionally the company aims to grow a new resource for research and develop alternative methods of research. \r\nhttps://www.23andme.com/about/press/sgk1/\r\n\r\n23andWe, the research arm, boasts the discovery of genetic associations for several traits including male pattern baldness, breast size and cancer, hypothyroidism, Parkinson's, etc. The dataset has also been used to replicate other published associations. (https://www.23andme.com/about/news/ July 17, 2012)\r\n\r\nThe company also provides forums where customers ask questions and make connections - an attempt at creating communities around the service - a kind of Facebook for people with similar genetic concerns.",
+  "availability": "Participants must be able to afford the costs of taking the genetic tests. Pricing is $99 with $9/month (for at least one year) - a subscription provides subscribers with updates on discoveries made about their DNA over time. There is also a single-fee payment of $399 without the commitment. These price plans are in constant flux. As of July 2012 it had been lowered to $299.\r\n\r\nIndividuals can see their own data, share limited data with others. They can also download their SNP data for use in other personal genomics services (like SNPedia).\r\n\r\nUltimately, though, the company retains ownership of the data themselves. According to the site, \"Participation consists of allowing 23andMe investigators to access your Genetic & Self-Reported Information.\" 23andMe reserves the rights to share data (stripped of identifying features) with third-parties and to monetize the data without compensating participants.\r\n\r\nParticipation is governed by what seems to be fairly standard IRB consent rules. In particular, participants are allowed to withdraw from the research community. It is unclear how withdrawal is handled viz. 23andWe's research partners. See their consent document: https://www.23andme.com/about/consent/ ",
+  "participation": "Participants have limited participation in goal-setting in the private company. Participants can make requests; for instance, because of customer interest, 23andMe is planning to survey its members to study the biology and genetics behind sexual orientation.\r\n(http://spittoon.23andme.com/2012/03/30/do-ask-do-tell/). \r\n\r\nBut ultimately the company sets goals without consulting their customers.\r\n\r\n",
+  "tasks": "Taking initial genetics test and completing surveys, participating in forums, contacting distant relatives, sharing data with research communities.",
+  "modularity": "After making the initial payment, the level of investment is low: simply sending in a DNA sample and taking the surveys. Participation increases depending on how much you share your data and take an interest in participating in various research communities.",
+  "granularity": "As small as submitting for your personal DNA data, and as large as participating in research forums for disease research. However, even robust participation is fairly limited--filling out surveys and discussion on forums. Users who download their data and analyze it in other resources can, as individuals separate from 23andMe, engage in more robust tasks.",
+  "metrics": "Tasks are measured by levels of openness. A completed task would be sending a DNA sample to the company and/or sharing data for disease and biology research. Users' participation is encouraged by email reminders telling them when new genetics findings have been added to their profiles. On the 23andMe site, users are reminded to fill out research surveys--they are told what percent of available surveys have been completed.",
+  "alliances": "Google. A network of academic genetics researchers (https://www.23andme.com/about/advisors/). Some NIH funding (https://www.23andme.com/about/press/20101216/).\r\n23andMe has had some tension with NIH and FDA about the potential regulation of personal genetic tests as a medical device (http://spittoon.23andme.com/big-questions/23andme-letter-to-heads-of-fda-and-nih/)",
+  "clients": "Participants are also project clients - by contributing your DNA data you also receive the services and tools to explore and/or share it.\r\nThe other set of clients are the research scientists with whom 23andWe, the research arm, forms partnerships.",
+  "sponsors": "Google has invested $6.5M and from NIH $190,000 for “Web-based Phenotyping for Genome-Wide Association Studies of Drug Response” from NIH's National Human Genome Research Institute.\r\n\r\nOther funders include Johnson & Johnson Development Corporation (NYSE: JNJ); MPM Capital, The Roche Venture Fund (Swiss: RO.SW ), and New Enterprise Associates, among others.'\r\n\r\nhttp://news.bbc.co.uk/2/hi/business/6682451.stm\r\nhttp://gigaom.com/2007/05/24/google-sergey-and-23andme-why-it-all-makes-sense/\r\nhttps://www.23andme.com/about/press/20101216/\r\nhttps://www.23andme.com/about/corporate/",
+  "elites": "Board members Anne Wojcicki, Esther Dyson, Patrick Chung\r\nhttps://www.23andme.com/about/board/\r\n\r\nA ten person Leadership Team:\r\nhttps://www.23andme.com/about/leadership/\r\n\r\nA seven person scientific advisory board:\r\nhttps://www.23andme.com/about/editorial/\r\n\r\nThese elites have the management authority and economic rewards that come with bureaucratic positions of power in a for-profit corporation. ",
+  "created_at": null,
+  "updated_at": "2012-10-23T01:55:19Z",
+  "summary": "23andMe is a retail DNA testing service providing information and tools for consumers to learn about and explore their own genetic information. Data are also used in research applications and partnerships. 23andMe was founded in 2007 as an FSE and has built an OP as its customer base. Members of the OP contribute their DNA and fill out surveys about their health and other traits, they can share their information, engage in social networking, and download their DNA data. They can suggest goals to the FSE but have no authority to make decisions. 23andMe says it is democratizing genetics, but this largely means giving users access to the data they have paid for. 23andMe uses these data to engage in research projects and collaborations with research scientists; there are likely other plans to commoditize this resource, but the company lists no details. \r\n\r\n",
+  "birder_credits": "Morgan Currie, initial entry\r\nAaron Panofsky, supplemental information (7/17/2012)",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "An unorganized mass whose only relation to each other is a mutual relationship to a producer. ",
+    "id": 9,
+    "name": "Consumer Market",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Projects that allow participation in science or engineering, such as citizen science, and including medical research",
+    "id": 5,
+    "name": "Science and/or Engineering",
+    "updated_at": "2011-11-29T21:48:40Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2011-07-22T19:07:49Z",
+    "email": "sr.erickson@gmail.com",
+    "id": 1,
+    "updated_at": "2013-10-31T22:33:51Z"
+  }
+}

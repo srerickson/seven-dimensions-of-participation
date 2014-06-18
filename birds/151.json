@@ -1,0 +1,70 @@
+{
+  "id": 151,
+  "name": "Threadless Community",
+  "thumbnail_100_url": "/system/assets/28/sq100/threadless_logo_5030.png",
+  "thumbnail_50_url": "/system/assets/28/sq50/threadless_logo_5030.png",
+  "url": "http://threadless.com/",
+  "foritself": "Yes. The Threadless Community consists of millions of users who submit designs for t-shirts and related goods, vote on the designs of others, and comment in forums on the site. Threadless produces and sells these goods to members of the community and to the public at large.\r\n",
+  "brand": "The Threadless logo is a chunky line of text rendered in a cursive typeface. The logo and the company's motto —\"Nude No More\" — evoke humor, irony, irreverence and nostalgia. There's a winking sensibility prevalent in the branding. The people depicted wearing the merchandise tend to look like young amateurs rather than professional models, extending the site's DIY and pop culture aesthetic. The company's visual branding does not extend to the various designs it prints, although Threadless t-shirts tend to use puns, visual gags, and slang.",
+  "fse_name": "Threadless.com is owned and operated by skinnyCorp LLC, a parent company. skinnyCorp's main product is the Threadless website and its various design projects. According to CrunchBase: \"skinnyCorp is a company with a lot of style. They produce well-designed, fresh websites, with their main one being Threadless, a t-shirt community that allows user-submitted designs.\"\r\n\r\nhttp://www.crunchbase.com/company/skinnycorp",
+  "fse_owner_founder": "Jake Nickell and Jacob DeHart founded the company in 2000 as an offshoot of precursor design forum that folded. As of 2012, the company had approximately 45 employees.",
+  "fse_significant_member": "Tom Ryan, CEO of skinnyCorp.\r\n\r\nFormer employees include Jeffrey Kalmikoff (Chief Creative Officer), Harper Reed (Chief Technology Officer), and founder Jacob DeHart.\r\n\r\n\r\n",
+  "fse_mission_statement": "\"Threadless is a community-based company that prints awesome designs created and chosen by you!\"",
+  "op_name": "Threadless Community. The Threadless Community consists of millions of Threadless users communicating via traditional social network and Web 2.0 tools such as user accounts, forums, blogs, shared music playlists, and profile pages. Profile pages also list the designs submitted and printed by a given user, along with statistics about the popularity of these designs. The site hosts various \"critiques\" of designs in its forums. Critically, the Threadless Community produces and votes on designs that are ultimately selected and manufactured for sale by Threadless staff.\r\n",
+  "op_vip_founders": "Glenn Jones of New Zealand has produced winning designs over 20 times and used his success on the site to launch his own company, Glennz.com. The company also gives out Bestee Awards in several categories, including Design of the Year, Designer of the Year, Collaboration of the Year, and so forth.\r\n\r\nhttp://t-shirtmagazineonline.com/glenn-jones/",
+  "op_typical_member": "People interested in fashion, design, nerd chic, and pop culture. Aspiring designers and critics post profiles and comment on blogs and in forums.\r\n",
+  "formation": "FSE --> OP. The founders created the site as an ongoing design competition with $1000. The FSE formed after founder Jake Nickell won a design competition on a predecessor site and decided to produce something similar.\r\n",
+  "history": "Founder and CSO Jake Nickell won a t-shirt design competition through a now-defunct online art forum called Dreamless. This inspired Nickell and friend Jacob DeHart to create Threadless in 2000, an ongoing open call for t-shirt design submissions. The two periodically printed and sold t-shirts from winning designs, the frequency of printing increasing as the popularity of the site increased. Eventually the site gained enough users to become a successful business with millions of users and millions of dollars in revenue.\r\n\r\nBased on the success of the website, Threadless expanded to include physical outlets and to partner with established companies to license designs for electronic device covers, bedding, and wall decals.\r\n",
+  "lifespan": "Very much alive as of 2012.",
+  "resource": "Threadless is a t-shirt and accessory marketplace that crowdsources the design of its products to the same group of customers who will ultimately buy these products.  Threadless provides the service of printing, selling, and shipping the shirts, but the resource created is the design itself, which is submitted via the community to be voted on and potentially selected for printing. Threadless staff ultimately decide which designs will be printed, although the primary factor that determines whether a shirt will be printed is the popularity of the design among Threadless users. Only winning designers are paid for participation: winning designers receive $2,000 cash and $500 in Threadless gift cards, plus  $500 cash each time a design is reprinted.\r\n\r\nIn addition to t-shirts, Threadless produces laptop cases, mobile device covers, housewares, wallets, and various other textiles.\r\n",
+  "availability": "Designs are automatically licensed to Threadless for use on clothes and wall decals.  Designers can use the designs for other purposes, but not commercially competitive ones.  If a design is not chosen, it can be used for any purpose as long as it is removed from the Threadless site and the Threadless blogs are not used to promote it. \r\n\r\nFull terms:  http://www.threadless.com/submitterms.html",
+  "participation": "The goals of of the organization seem to be primarily set by employees of Threadless and its parent, skinnyCorp.  There is no obvious mechanism for Threadless designers, voters or buyers to have any direct participation in the goals of the company other than through scoring designs and posting on blogs or in forums. All of these activities are oriented toward selling t-shirts and related goods, rather than structuring the interaction of the Threadless Community.",
+  "tasks": "The main tasks for users are to submit designs, score designs, and comment on designs.\r\n\r\nScoring is easy and addictive.  The site offers a \"Submission Kit\" that includes several sophisticated Photoshop templates and PDFs explaining the process, the design constraints, and instructions for the use of specialty inks and other techniques. \r\n\r\nDesigns can be submitted for critiques as well, as part of the forum system. The critique functions to solicit feedback before a design is formally submitted.\r\n",
+  "modularity": "Threadless promotes its crowdsourced design market as a DIY art community. Assuming that one can create a design, submission and review of the design are low cost activities.  A designer needs graphics software, design skills, and the ability to access Threadless' forum system in order to submit a project for the community to appraise. \r\n",
+  "granularity": "Participation in Threadless only begins once a design is completed and submitted by a user. The tasks as summarized by the site involve submitting a design, scoring a design, commenting on a design-in-progress, or voting in a promotional competition. Each person's design is his/her own until it wins and collaboration happens only when two designers decide to work on a single design. \r\n",
+  "metrics": "A weekly design competition produces several winning designs, selected by Threadless staff based on community input and a high average score as judged by users. The winning designs are printed and sold in a limited run. Winning designers receive $2,000 cash and $500 in Threadless gift cards. Each time a design is reprinted, the artist receives $500 cash.\r\n",
+  "alliances": "Design Challenges partner manufacturers or other corporations with designers in the form of a contest such as the \"Griffin iPhone 4 Case Design Challenge.\" Most of the mating behavior of Threadless appears to center around using designs produced by the Threadless Community on consumer goods produced by more traditional companies, such as Blik Wall Decals, Thermos, Griffin, Bed Bath & Beyond, and Dell. \r\n\r\nThreadless also partnered with UNICEF in the Good Shirts project to generate money for the charity: each t-shirt depicted an item needed to alleviate poverty in the Horn of Africa and cost as much as the corresponding item. According to the project's site, \"The design on each shirt symbolizes the type of aid UNICEF is delivering in the Horn of Africa. 100% of your donation will go to the U.S. Fund for UNICEF to support life-saving relief efforts for children.\"\r\n",
+  "clients": "None. Threadless customers are ostensibly the same group that provide the design of goods and feedback on design. Threadless also encourages users to link to the site and promote sales via a Street Team affiliate program that rewards referrals with points and store credit.\r\n",
+  "sponsors": "skinnyCorp owns and operates Threadless. http://www.skinnycorp.com\r\n",
+  "elites": "Forums are moderated by Threadless staff. \r\n",
+  "created_at": null,
+  "updated_at": "2012-07-31T02:32:34Z",
+  "summary": "Threadless is a hybrid social media and marketplace website. Users participate by creating, scoring, and commenting on designs; Threadless staff produce, print, and ship t-shirts and other merchandise based on the most popular designs. Winning designers are paid for their work.\r\n\r\nJake Nickell and Jacob DeHart incorporated as skinnyCorp LLC in 2000 and created Threadless as an offshoot of a precursor design forum, a now defunct site called Dreamless. In some sense, their company captured a preexisting OP (that of the defunct site) by founding this new company, although in terms of Threadless as it currently exists, the FSE came first. As of 2012, the company has approximately 45 employees and millions of users.\r\n\r\nThreadless competitions occur on an ongoing basis and the staff print winning designs weekly, which are then offered for sale through the Threadless website to both users and the general public. As the site gained more users and became more popular, the proprietors produced more merchandise from winning designs more frequently and branched out into other good such as mobile device covers, wall decals, and textiles. Threadless also sponsors special competitions with brick-and-mortar partners. Although the proprietors bill the site as a DIY and arts community, business reporters have focused on the profitability of crowdsourcing the design process.\r\n\r\nAitamurto, T. (2011). \"The Promise of Idea Crowdsourcing-Benefits, Contexts, Limitations.\" Ideasproject.com\r\n\r\nBrabham, DC.(2011). \"Moving the Crowd at Threadless.\" Communication and Society. Volume 13, Issue 8. \r\n\r\nBullinger, AC et. al. (2010). \"Community Based Innovation Contests: Where Competition Meets Cooperation.\" Creativity and Innovation Management. Volume 19, Issue 3, pages 290-303. \r\n\r\nGeiger, D. et.al.  \"Managing the Crowd: Towards a Taxonomy of Crowdsourcing Processes.\"\r\nProceedings of the Seventeenth Americas Conference on Information Systems, Detroit, Michigan August 4th-7th 2011. \r\n\r\nLawton, J. (2006). \"Web T-Shirt company builds a community, business.\" National Public Radio. http://www.npr.org/templates/story/story.php?storyId=6607681\r\n\r\nLiu, J. H. (2010)\"Threadless—Celebrating 10 years of creativity and innovation.\" Wired: Geek Dad. http://www.wired.com/geekdad/2010/11/threadless%E2%80%94celebrating-10-years-of-creativity-and-innovation/ ",
+  "birder_credits": "Revised by Roderic Crooks and Stacy Wood, Summer 2012.",
+  "tangible_problem": "",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Projects that enable participation in making, remaking or learning how to make things, often for sale.",
+    "id": 8,
+    "name": "Craft, DIY, Consumer goods",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2012-04-09T16:35:57Z",
+    "email": "stacyewood@gmail.com",
+    "id": 14,
+    "updated_at": "2012-11-02T17:02:53Z"
+  }
+}

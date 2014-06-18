@@ -1,0 +1,70 @@
+{
+  "id": 17,
+  "name": "Red Hat",
+  "thumbnail_100_url": "/system/assets/122/sq100/red-hat-enterprise-linux.jpg",
+  "thumbnail_50_url": "/system/assets/122/sq50/red-hat-enterprise-linux.jpg",
+  "url": "http://www.redhat.com/",
+  "foritself": "it is self-aware of its importance in the Free Software community, sponsoring community projects and bringing Free Software service to the corporate world (focus on \"enterprise solutions\"). It promotes Open Source values widely, such as \"freedom of choice\", and \"freedom of enterprise,\" against monopolistic practices of IT corporations.",
+  "brand": "Marc Ewing (the founder of Red Hat Linux) used to wear a red hat at Carnegie Melon, so he adopted the name to his Linux distribution. The man wearing the redhat is called \"Shadow Man\" and stands for the company itself (Red Hat).",
+  "fse_name": "Red Hat, Inc. (NYSE: RHT).",
+  "fse_owner_founder": "Marc Ewing\r\nBob Young\r\n\r\nhttp://en.wikipedia.org/wiki/Red_hat#cite_note-history-6",
+  "fse_significant_member": "Jim Whitehurst (CEO)\r\nHugh Shelton (Chairman)\r\nMichael Tiemann (Vice President of Open Source Affairs)\r\nMatthew Szulik (Former Chairman)",
+  "fse_mission_statement": "\"Red Hat's mission is to be the catalyst in communities of customers, contributors, and partners creating better technology the open source way.\"\r\n\r\nhttp://www.redhat.com/promo/os-community/. Accessed 5 September 2012.",
+  "op_name": "Red Hat. Red Hat partners with and sponsors a number of FOSS projects and has in certain cases tasked its paid employees with developing free software projects. A notable OP within Red Hat's larger structure is the Fedora Project, the main OP that develops Linux code used in all popular distributions.\r\n\r\nhttp://fedoraproject.org/wiki/Overview. Accessed 5 September 2012.",
+  "op_vip_founders": "Warren Togami\r\n\r\nhttp://web.archive.org/web/20031001204515/http://www.fedora.us/. Accessed 5 September 2012.",
+  "op_typical_member": "Open Source Developer, Open Source Evangelist, Red Hat employee.",
+  "formation": "The FSE created and, to a large degree, manages the OP.\r\n\r\nhttp://en.wikipedia.org/wiki/Fedora_Project. ",
+  "history": "Marc Ewing, a computer science student at Carnegie Melon, created one of the first commercial Linux distributions (Red Hat Linux) in 1994. Bob Young, based on his experiences with the New York Unix Users Group (Uni ), created a company called ACC corporation, a catalog-like service selling UNIX/Linux software and services. Young was also the creator of a magazine called New York Unix. In 1995, Red Hat Linux was bought by Bob Young.\r\n\r\nRed Hat founders met with influential names in Palo Alto in 1998 and created the term \"Open Source\", partly in order to divert attention from Free Software Foundation discourse on \"software freedom\" and the ambiguity with the term \"Free Software,\" which might lead people to to confuse the term with  \"Freeware\". The late 90s was a period of intense growth of Free Software businesses, and this group met to create a new movement and an institution ( \"Open Source Initiative\") to bring Free Software to the corporate world.\r\n\r\nIn 2003, Red Hat Linux was discontinued and the Fedora Project was launched. Red Hat Inc. made the decision of adopting a dual licensing scheme: GPL for its software and EULA for its services, creating a new commercial version of Red Hat Linux called Red Hat Enterprise Linux, which was not distributed for free (as in free beer). This fork between the community version and the commercial version was highly criticized and created tensions between community efforts and Open Source businesses; On the flip-side, it transformed Red Hat into a huge corporate player, competing side-by-side with large companies such as IBM, Microsoft, Sun, and Oracle in the network service market. The Fedora Project was considered by Red Hat a \"shared Open R&D\" laboratory with the community, in which they worked on all the new projects (closely with upstream FOSS projects) in order to create a stable, commercial, non-free (price) Red Hat Enterprise Linux edition (for which they provide support of several years).\r\n\r\n",
+  "lifespan": "It was founded in 1994, forked in 2003, still alive in three flavours: Red Hat Enterprise Linux (a commercial version of Linux), community project CentOS (which is targeted to the business world, a community-led project based on Red Hat Enterprise Linux source code), Fedora Project, which is the community Linux project sponsored by Red Hat. Red Hat is alive and doing well; it is one of the top companies in the IT business. ",
+  "resource": "Software, Documentation, Service and Support",
+  "availability": "From Red Hat:\r\n\r\nAny software (\"Software\") that is made available to you to download from this website is the copyrighted work of Red Hat and/or third parties. Your use of the Software is governed by the terms of the end user license agreement which accompanies or is included with the Software (\"License Agreement\"). You will not install any Software that is accompanied by or includes a License Agreement, unless you first agree to the terms of the License Agreement.\r\n\r\nhttp://www.redhat.com/footer/terms-of-use.html. Accessed 5 September 2012.\r\n\r\nFedora Project output is generally free and open source.",
+  "participation": "FSE sets goals at the highest level, although contributions from the OP often filter back up.\r\n\r\nhttp://en.wikipedia.org/wiki/Fedora_Project. Accessed 5 September 2012.",
+  "tasks": "Debugging, Documenting, Helping to promote Fedora, Open Source evangelism, software packaging (CentOS and Fedora).\r\n\r\nOnly participants with expertise in software development may participate in practice, though in theory there is no limitation on participation.",
+  "modularity": "Tasks are typical of F/OSS projects.",
+  "granularity": "Tasks are typical of FOSS projects.",
+  "metrics": "A task will have been successful if it demonstrably improves or leads to the creation of a software product.",
+  "alliances": "One Laptop per Child\r\n\r\nhttp://en.wikipedia.org/wiki/Red_Hat#One_Laptop_per_Child",
+  "clients": "Computer users and corporations/businesses of all sizes.",
+  "sponsors": "Red Hat Inc supports Fedora Project.",
+  "elites": "Known programmers in Open Source.\r\nOpen Source advocates, evangelists, community managers / organizers.",
+  "created_at": null,
+  "updated_at": "2012-09-04T20:04:14Z",
+  "summary": "Red Hat, Inc. (NYSE: RHT) is an American software company that develops FOSS software, in particular Red Hat Enterprise Linux. It makes its money by selling subscriptions and  services to other businesses. Red Hat is involved in a number of FOSS projects and generally makes the code for its products publicly available.\r\n  \r\nMarc Ewing, a computer science student at Carnegie Melon, created one of the first commercial Linux distributions (Red Hat Linux) in 1994. In 1995, Bob Young bought Ewing's business and created Red hat Software, which went public in 1999. Red Hat's business model is based on open-source software. They make their code available publicly, so more paid and volunteer programmers can jointly develop and customize the software.  Red Hat sells subscriptions for the support, training, and integration services that business need to use the software. \r\n\r\nIn 2003, Red Hat Linux was discontinued and the Fedora Project was launched. Red Hat Inc. made the decision of adopting a dual licensing scheme: GPL for its software and EULA for its services, creating a new commercial version of Red Hat Linux called Red Hat Enterprise Linux, which was not distributed for free (as in free beer). This fork between the community version and the commercial version was highly criticized and created tensions between community developers and the FSE.\r\n\r\n",
+  "birder_credits": "Luis Felipe R. Murillo. Edited by rncrooks@ucla.edu 5 September 2012.",
+  "tangible_problem": "Yes",
+  "tangible_problem_detail": "Promote manage and develop open software",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "An aversion to hierarchy resulting in hierarchy.  See http://www.youtube.com/watch?v=yY-7_uzJL6w",
+    "id": 12,
+    "name": "Cryptohierarchy",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Free and Open Source Software",
+    "id": 1,
+    "name": "FOSS",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Projects that directly interacts with or depends on the ecology of low-level UNIX-based tools and Internet-based services such as UNIX operating systems, C compilers, source code management systems (SCM), POSIX standard components, internet protocols and services.  ",
+    "id": 1,
+    "name": "UNIX + Internet",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2012-04-17T03:52:58Z",
+    "email": "rncrooks@ucla.edu",
+    "id": 23,
+    "updated_at": "2013-07-09T15:08:37Z"
+  }
+}

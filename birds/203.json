@@ -1,0 +1,70 @@
+{
+  "id": 203,
+  "name": "Open Solaris",
+  "thumbnail_100_url": "/system/assets/191/sq100/167px-OpenSolaris_Logo.svg.png",
+  "thumbnail_50_url": "/system/assets/191/sq50/167px-OpenSolaris_Logo.svg.png",
+  "url": "N/A",
+  "foritself": "Yes. Sun Microsystems started this as an open source computer operating system based on Solaris, in an attempt to build a developer and user community around the software.",
+  "brand": "The concentric circles could denote the 'openness' of the OS in relation to Solaris, a closed Unix operating system originally developed by Sun Microsystems (and now knows as Oracle Solaris)",
+  "fse_name": "Sun Microsystem (1982-2010)",
+  "fse_owner_founder": "Vinod Khosla, Andy Bechtolsheim, Scott McNealy and Bill Joy.\r\nhttp://en.wikipedia.org/wiki/Sun_Microsystems",
+  "fse_significant_member": "Bill Shannon and Andy Tucker from Sun.\r\n\r\nMajor stockholders:\r\n\r\nBarclays Global Investors \t37,606,402 \t$353,500,180\r\nScott G. McNealy \t14,566,433 \t$136,924,470\r\nM. Kenneth Oshman \t584,985 \t$5,498,860\r\nJonathan I. Schwartz \t536,109 \t$5,039,425\r\nJames L. Barksdale \t231,785 \t$2,178,780\r\nMichael E. Lehman \t106,684 \t$1,002,830\r\n\r\nhttp://en.wikipedia.org/wiki/Sun_Microsystems#Major_stockholders",
+  "fse_mission_statement": "\"\"The Network Is The Computer ... Sun was founded with one driving vision. A vision of computers that talk to each other no matter who built them. A vision in which technology works for you, not the other way around. While others protected proprietary, stand-alone architectures, we focused on taking companies into the network age, providing systems and software with the scalability and reliability needed to drive the electronic marketplace.\"\r\n\r\nRead more: http://wiki.answers.com/Q/What_is_the_mission_statement_for_Sun_Microsystems#ixzz209xwj6lR\r\n",
+  "op_name": "Open Solaris developers",
+  "op_vip_founders": "Roy Fielding who started Mac OS X as an underground project at Apple.\r\nhttp://mail.opensolaris.org/pipermail/ogb-discuss/2010-March/007627.html\r\n\r\nCommunity Advisory Board was announced on April 4, 2005: two were elected by the pilot community, two were employees appointed by Sun, and one was appointed from the broader free software community by Sun. The members were Roy Fielding, Al Hopper, Rich Teer, Casper Dik, and Simon Phipps. \r\nhttp://en.wikipedia.org/wiki/OpenSolaris\r\n\r\nIan Murdock, founder of Debian, headed Project Indiana, an effort to produce a complete OpenSolaris distribution, with GNOME and userland tools from GNU, plus a network-based package management system.\r\nhttp://www.itjungle.com/tug/tug080207-story01.html",
+  "op_typical_member": "programmer, open source advocate",
+  "formation": "FSE to OP. ",
+  "history": "OpenSolaris was based on Solaris, which was originally released by Sun in 1991. On September 14th, 2004,  the OpenSolaris pilot started and was announced on a press release. A week later, the people  from the pilot had access to the code that had been reviewed so far. On December 3rd 2004, Joerg Schilling proposed to have an OpenSolaris constitution and an OpenSolaris \"steering board\".\r\nhttp://mail.opensolaris.org/pipermail/ogb-discuss/2010-March/007627.html\r\n\r\nAfter the acquisition of Sun Microsystems, Oracle decided to discontinue open development of the core software, and replaced the OpenSolaris distribution model with the proprietary Solaris Express.\r\nhttp://mail.opensolaris.org/pipermail/opensolaris-discuss/2010-August/059310.html\r\n\r\nOn November 12, 2010, a final build of OpenSolaris (134b) was published by Oracle to the /release repository to serve as an upgrade path to Solaris 11 Express.\r\nhttp://mail.opensolaris.org/pipermail/opensolaris-announce/2010-November/001512.html\r\n\r\nOracle Solaris 11 Express 2010.11, a preview of Solaris 11 and the first release of the post-OpenSolaris distribution from Oracle, was released on November 15, 2010. \r\n\r\nIn 2010, a group of former OpenSolaris developers decided to \"fork\" the core software under the name OpenIndiana. The project, a part of the Illumos Foundation, aims to continue the development and distribution of the OpenSolaris codebase. (http://openindiana.org/)",
+  "lifespan": "2004 - 2010. The project was closed when Oracle bought Sun Microsystem.",
+  "resource": "OpenSolaris was an Operating System (OS), an open source engineering project, a website of multiple services, and a global community of developers and users. \r\n\r\nBelow were key OpenSolaris-related technologies:\r\n\r\nOpenSolaris Source Code: This was the source base for open development. It consisted of several components called consolidations.  \r\n\r\nOpenSolaris Operating System: This was a community-developed binary distribution of an operating system based on the OpenSolaris source code. The distribution ran on SPARC, Intel, and AMD processors on the server and desktop and as a storage platform. It was free to use, modify, and redistribute. Support was available from Sun Microsystems.\r\n\r\nSolaris Operating System: This was Sun's fully supported and tested enterprise operating system, and future versions of Solaris will be based on technology from the OpenSolaris project. Solaris was available as a free binary download, and Sun offers service packages and regular updates.\r\n\r\n[this text was adapted from: http://hub.opensolaris.org/bin/view/Main/general_faq#HWhatversionoftheSolarisOperatingSystemisOpenSolaris]",
+  "availability": "\"The contents of the OpenSolaris OS Live Media Image are governed by the Common Development and Distribution License Version 1.0, with the exception of certain portions under other licenses such as the OpenSolaris Binary License.  Additional software available from the OpenSolaris Package Repository on opensolaris.org and not included on the Live Media Image is governed by the licenses provided in the OpenSolaris Package Repository License file and/or in the individual software packages located in that repository.  All of the licenses permit use, copying and redistribution of the software.\r\n\r\nIs OpenSolaris free software?\r\nYes, OpenSolaris is free to use, free to modify, and free to redistribute.\"\r\n\r\nhttp://hub.opensolaris.org/bin/view/Main/general_faq#HWhatversionoftheSolarisOperatingSystemisOpenSolaris\r\n\r\nNote that OpenSolaris was not 100% open source: Some drivers and some libraries were property of other companies that Sun (now Oracle) licensed and was not able to release.\r\nhttp://en.wikipedia.org/wiki/OpenSolaris",
+  "participation": "The project's goals are innovation, collaboration, and the extension of OpenSolaris technology.  \r\n\r\nhttp://hub.opensolaris.org/bin/view/Main/general_faq#HWhatversionoftheSolarisOperatingSystemisOpenSolaris",
+  "tasks": "Programmers participate by joining Collectives, getting involved in discussions, filing bugs, testing, contributing packages and code, translating content, and evangelizing the community and the technology. Anyone with the technical skills or interest can participate.\r\n\r\nhttp://hub.opensolaris.org/bin/view/Main/general_faq#HWhatversionoftheSolarisOperatingSystemisOpenSolaris",
+  "modularity": "Investment can be as low as joining in a discussion, or as complicated as fixing a bug or contributing new code.",
+  "granularity": "N/A",
+  "metrics": "A task would be considered complete if a programmer fixed a bug, reported a bug, or contributed code.",
+  "alliances": "OpenIndiana, a part of the Illumos Foundation, that continues the development and distribution of the OpenSolaris codebase.",
+  "clients": "N/A",
+  "sponsors": "Sun Microsystems",
+  "elites": "See founders/VIPs, OP and FSE",
+  "created_at": "2012-05-21T03:58:58Z",
+  "updated_at": "2012-07-10T20:52:03Z",
+  "summary": "OpenSolaris was an open source computer operating system based on Solaris created by Sun Microsystems. It was also the name of the project initiated by Sun to build a developer and user community around the software. After the acquisition of Sun Microsystems, Oracle decided to discontinue open development of the core software, and replaced the OpenSolaris distribution model with the proprietary Solaris Express.",
+  "birder_credits": "Morgan Currie",
+  "tangible_problem": "Yes",
+  "tangible_problem_detail": "To develop, improve, and extend Solaris applications and OS.",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Free and Open Source Software",
+    "id": 1,
+    "name": "FOSS",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Projects that directly interacts with or depends on the ecology of low-level UNIX-based tools and Internet-based services such as UNIX operating systems, C compilers, source code management systems (SCM), POSIX standard components, internet protocols and services.  ",
+    "id": 1,
+    "name": "UNIX + Internet",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2011-10-11T04:09:00Z",
+    "email": "morganecurrie@gmail.com",
+    "id": 7,
+    "updated_at": "2013-07-02T22:12:45Z"
+  }
+}

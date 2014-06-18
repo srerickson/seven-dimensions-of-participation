@@ -1,0 +1,70 @@
+{
+  "id": 167,
+  "name": "Safecast",
+  "thumbnail_100_url": "/system/assets/60/sq100/safecast-square-ct.png",
+  "thumbnail_50_url": "/system/assets/60/sq50/safecast-square-ct.png",
+  "url": "http://blog.safecast.org/",
+  "foritself": "Yes, it is self-aware.  Safecast founders have experience with Internet companies and tech collectives. This is a distinctive aspect of Safecast and relation to other OPs.",
+  "brand": "Position themselves as a hacker project for public good. Clean interface. Blog aesthetic with changing visuals, engaging. ",
+  "fse_name": "Safecast Project",
+  "fse_owner_founder": "Joi Ito, Sean Bonner, Pieter Franken.",
+  "fse_significant_member": "Joi Ito, Ray Ozzie, Jun Murai, Dan Sythe, Ian McFarland, Kevin Nelson, Anthony DeVincenzi, Paul Campbell, Scott Bates, Kiki, JAM, Jeremy Hinegardner, Robin Scheiber, Kalin Kozhuharov, Matt Alt, Stig, Bryan Moross, Naozumi Sugimura, Kei Uehara, Tomoyuki Furutani\r\n",
+  "fse_mission_statement": "\"Our goal is not to single out any individual source of data as untrustworthy, but rather to contribute to the existing measurement data and make it more robust. Multiple sources of data are always better and more accurate when aggregated.\" (Safecast blog, 'About Us' page, Accessed July 30, 2012:  http://blog.safecast.org/about/)",
+  "op_name": "Safecast Project",
+  "op_vip_founders": "Joi Ito, Pieter Franken, Sean Bonner, Jun Murai, Andrew Huang, Ray Ozzie, Dan Sythe, Ian McFarland, Kevin Nelson, Anthony DeVincenzi, Paul Campbell, Scott Bates, Kiki, JAM, Jeremy Hinegardner, Robin Scheiber, Kalin Kozhuharov, Matt Alt, Stig, Bryan Moross, Naozumi Sugimura, Kei Uehara, Tomoyuki Furutani\r\n",
+  "op_typical_member": "Computer/Electronics Geek, Journalist, Internet Entrepreneur, Scientist/Researcher.",
+  "formation": "Started as an Internet-project and never assumed the form of a Formal Social Enterprise. All the FSE support is provided by Momoko Ito Foundation (which receives the grants and donations and disbursed them to Safecast). There were also initial private donations and a successful Kickstarter campaign that was used for start up money in the nascent stages of Safecast.org. ",
+  "history": "One week after the earthquake in Japan a group of internet entrepreneurs got together in Boston to organize a support initiative. They suggested creating a website for crowdsourcing the radiation monitoring efforts. This initial group in Boston contacted Tokyo Hackerspace (where some Open Hardware developers and engineers were members) and started to work in a joint effort to build (from the scratch) open hardware devices to help the affected areas of Japan. Projects they created include a solar-powered lantern and a geiger counter. With the aforementioned start up money, they funded the equipment through the preexisting networks of the three original members (Sean Bonner, Joi Ito,  and Pieter Franken.) These networks included scientists, statisticians, mathematicians and activists. (Accessed July 30, 2012: http://blog.safecast.org/history/) ",
+  "lifespan": "The project was launched a week after March 11th earthquake and it is still very active.",
+  "resource": "Overall, the organization provides a \"global sensor network for collecting and sharing radiation measurements to empower people with data about their environments.\"  The organization provides data on radiation, tutorials on how to assemble a geiger counter using OSS and Open Hardware, and gives lectures and presentations on radiation. ",
+  "availability": "According to Safecast, \"All Safecast data is published, free of charge, under a CC0 designation.\" Thus, the geo-tagged data on radiation levels in Japan is available via a Creative Commons CC0 license, making it public domain data. \r\n\r\n(Accessed July 30, 2012: http://blog.safecast.org/faq/)\r\n\r\n",
+  "participation": "\"Safecast is a global project working to empower people with data, primarily by mapping radiation levels and building a sensor network, enabling people to both contribute and freely use the data collected\". \r\n\r\n(Safecast blog, 'About Us' page, Accessed July 30, 2012:  http://blog.safecast.org/about/)",
+  "tasks": "The main tasks are collecting data on radiation across japan (and around the world in the future), educating the general public about the risks of radiation, and advocating for the importance of open data. Participation is constituted through measurement and submitting data as well as the use of already generated data. People who get to participate include people who blog, people who translate blog posts for global consumption, software developers, and engineers. ",
+  "modularity": "The project is organized around: drivers (people based in Japan who have a valid japanese drivers license and are available to drive around the country conducting measurements); bloggers who are volunteers and translators  (people who collect data from the web and also post news about the project in English and Japanese); volunteer techies (people who work on software and hardware of safecast geiger counters). The tasks vary in commitment level, time investment, and expertise. ",
+  "granularity": "Extremely granular, the project is based around gathering small bits of data that only matter within the context of the larger patterns and environmental factors. ",
+  "metrics": "There are no task metrics - there is no recognition or compilation of individual accomplishments or contributions. ",
+  "alliances": "Safecast is connected with different groups and institutions: Tokyo Hackerspace volunteers (for building geiger counters and driving around Japan to collect data); Keio University (WIDE Internet Project) for the construction of network sensors; Creative Commons (via Joi Ito, and Safecast policy on open data); John S. and James L. Knight Foundation (for grant funding); Uncorked Studios (web development company from Portland); Medcom (company that makes radiation monitoring devices).",
+  "clients": "The project is intended to provide data for the general public on radiation levels across Japan. It is also intended to educate people about radiation and prevention of radiation-induced health problems. The project also provides data to corporations, such as Yahoo Japan, that post radiation levels across Japan. University researchers use Safecast data for their research.",
+  "sponsors": "Volunteer-based sponsorship + funding via Kickstarter. The project received donations of equipment and money.\r\n\r\n(Accessed July 30, 2012: http://blog.safecast.org/history/) ",
+  "elites": "Sean Bonner is the principal scientist. The core of the group is formed by a small number of volunteers with strong backgrounds in computer science and the sciences in general.  The entry barrier is high and there is a need for more competent engineers, scientists, and data analysts to work for the project. ",
+  "created_at": "2011-11-03T21:02:07Z",
+  "updated_at": "2013-03-07T09:26:37Z",
+  "summary": "Safecast is a volunteer driven non-profit organization with the goal of creating useful, granular, environmental data for research and educational purposes. Initially focused on radiation levels in Japan, Safecast is now trying to get a radiation baseline for the planet as well as measure other environmental factors such as air quality. All Safecast data is published, free of charge, under a CC0 designation. \r\n\r\nAdditional readings: \r\n\r\nAberer, K. \"Effectively Modeling Data from Large-area Community Sensor Networks,\"ISPN, 2012.\r\n\r\nAldrich, DP.\"'Post-Crisis Japanese Nuclear Policy: From Top-Down Directives to Bottom-Up Activism,\" Asia Pacific Issues, 2012. \r\n\r\nCartier, Sebastian. \"ConDense: Managing Data in Community-driven Mobile Geosensor Networks,\" 2011. \r\n\r\nPlantin, JC. \"'The Map is the Debate': Radiation Webmapping and Public Involvement During the Fukushima Issue,\" September, 2012. ",
+  "birder_credits": "Stacy Wood \r\nLuis Felipe R. Murillo",
+  "tangible_problem": "Yes",
+  "tangible_problem_detail": "Gathering and collection environmental data in order to inform a specific population.",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "An aversion to hierarchy resulting in hierarchy.  See http://www.youtube.com/watch?v=yY-7_uzJL6w",
+    "id": 12,
+    "name": "Cryptohierarchy",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Meritocracy, in the first, most administrative sense, is a system of government or other administration (such as business administration) wherein appointments are made and responsibilities assigned to individuals based upon their \"merits\", namely intelligence, technical skill, credentials, creativity, and education, determined through evaluations or examinations.",
+    "id": 1,
+    "name": "Meritocracy",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Projects that allow participation in science or engineering, such as citizen science, and including medical research",
+    "id": 5,
+    "name": "Science and/or Engineering",
+    "updated_at": "2011-11-29T21:48:40Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2011-10-21T19:47:40Z",
+    "email": "unixjazz@gmail.com",
+    "id": 8,
+    "updated_at": "2013-05-28T02:38:40Z"
+  }
+}

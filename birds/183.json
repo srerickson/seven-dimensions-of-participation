@@ -1,0 +1,70 @@
+{
+  "id": 183,
+  "name": "Library.nu",
+  "thumbnail_100_url": "/system/assets/85/sq100/logo_small.gif",
+  "thumbnail_50_url": "/system/assets/85/sq50/logo_small.gif",
+  "url": "http://library.nu/",
+  "foritself": "Only those who were active contributors were aware of the community involved. Those who merely used the site simply experienced it as a source for academic texts of all sorts.  However, the awareness that a community existed was cultivated by the constant reminder that, in order to be part of it, one has to share as much as one is taking from the website.\r\n\r\nIn 2010, the site used a link to a Simpsons video in which a freemason society is depicted. Library.nu identify itself as a form of secret society from the ebook sharing community.",
+  "brand": "There is no investment in creating a logo and a brand. The website is simple (with a forum-like structure) and the layout resembles the early form of Google search engine. Library.nu is self-defined as a \"knowledge sharing site\".",
+  "fse_name": "Library.nu is about as formal as it gets--just a domain name.  There is no official organization since the site was quasi-legal, facilitating downloads of copyrighted material. ",
+  "fse_owner_founder": "Fidel Nunez (alson known as \"Smiley\") and Irina Ivanova were named in the lawsuit seeking an injunction.  ",
+  "fse_significant_member": "Members of the community were anonymous to outside viewers--but many volunteers participated in maintaining the system and likely would have known who within that community were most active. ",
+  "fse_mission_statement": "There was no FSE and no official mission statement.  ",
+  "op_name": "the OP had no official name-- they were users of library.nu and the associated file locker ifile.it.",
+  "op_vip_founders": "Fidel Nunez (Smiley) and a network of others.\r\nThe hierarchy among users/posters is based on the highest number of contributions and the quality of contributions. ",
+  "op_typical_member": "Internet users and academics. A huge population of graduate students, academics and other scholars, especially in poorer nations around the world.  Based on feedback to \"The Disappearing Virtual Library\" they are overwhelmingly from Latin America, The Middle East, India and Eastern Europe.  Many US and EU graduate students were also active users. \r\n\r\nFrom Alexa Internet Ratings: \r\n\r\n\"While about 13% of this site's visitors are in India, it is also popular in Indonesia. this site's audience tends to be users who browse from school and home; it also appeals more to childless Asians and men earning less than $30,000 who have postgraduate educations. Library.nu's visitors view 14.3 unique pages each day on average\"",
+  "formation": "OP -> X",
+  "history": "Library. nu began as ebooksclub.org which (according to the Wayback Machine) was operating as early as April 2005.  According to their own description: \"EbooksClub, ebook reviews and largest ebook community. Your daily digest of latest ebook reviews. We review ebooks, ebooks and more ebooks. All topics covered from medicine to information technology, from science to literature\". In July of 2007,  the site transitioned to Gigapedia.org/Gigapedia.com.  In 2010 the site changed again to Library.nu, and in Febrary of 2012, a german publishing collective, Börsenverein des Deutschen Buchhandels succeed in shutting down the site and bringing legal action against Nunez. \r\n\r\nThroughout this time, the site was engaged in cat and mouse tactics that preserved the anonymity of contributors and access to various file-lockers where the copies were actually stored. ",
+  "lifespan": "2005-2012.  However, the collection of books and some of the metadata were maintained as torrents, and allowed various other sites to recreate almost completely, the service that Library.nu provided. \r\n\r\n",
+  "resource": "Non-authorized copies of books in electronic formats (pdf, djvu, ebook, mobi, etc.); book reviews, metadata and search functionality.",
+  "availability": "Books were distributed through shared hosts, file-lockers, file-sharing services and bittorrent.  Nearly all were out of copyright and so were not distributed with any explicit licence or restrictions. ",
+  "participation": "Only those closet to the original site operators, such as frequent contributors would have had any say in the goals of the project; casual users of the site might object or complain, but there were no forums or formal feedback mechanisms in public.  IRC channels constituted the main route for participation, and those who were most involved would have had the ear of the site administrators.  Arguably, the publishers had a significant role in goal-setting through their aggressive enforcement of IP law. ",
+  "tasks": "The tasks involved writing reviews and improving metadata, testing links, and adding new books, which implicitly involved scanning new books and acquiring or cracking existing eBooks.   Participants could log into the site when registered, but actually participating required emailing and interacting with the staff through other channels (primarily IRC).",
+  "modularity": "Basic tasks included updating the database, improving the metadata or adding a review of a book.  More complex tasks included adding new books, scanning print or ripping eBooks. A few members were involved in the design and maintenance of the database and interface.",
+  "granularity": "Variable, from simple to complex tasks. ",
+  "metrics": "Metrics were internal to the community.  It's possible the site displayed statistics to those who were involved in updating it, but it is not clear from the outside.",
+  "alliances": "Ebooksclub.org was the primary source of content in Library.nu / Gigapedia. \r\n\r\nGigle.ws (warez hosting site under the motto \"Download Everything\") went down, and the domain was redirected to Library.nu.\r\n\r\niFile.it was the primary hosting site associated with Library.nu during 2011-12, but many other such sites were also used to store the content: Megaupload, Mediafire, Fileserve, rapidshare, etc.",
+  "clients": "",
+  "sponsors": "The site purportedly ran on ad-based revenue from iFile.it, according to the legal injunction.",
+  "elites": "Only those most closely involved in the development of the site, and others like it. ",
+  "created_at": "2012-02-07T20:06:14Z",
+  "updated_at": "2013-05-03T16:29:50Z",
+  "summary": "Library. nu began as ebooksclub.org which (according to the Wayback Machine) was operating as early as April 2005.  According to their own description: \"EbooksClub, ebook reviews and largest ebook community. Your daily digest of latest ebook reviews. We review ebooks, ebooks and more ebooks. All topics covered from medicine to information technology, from science to literature\". In July of 2007,  the site transitioned to Gigapedia.org/Gigapedia.com.  In 2010 the site changed again to Library.nu, and in Febrary of 2012, a german publishing collective, Börsenverein des Deutschen Buchhandels succeed in shutting down the site and bringing legal action against Nunez. \r\n\r\nThe site was globally one of the most popular scholarly book-sharing sites, and was designed as a simple search interface and book review site.  The content was provided through file-lockers and file-sharing sites. \r\n\r\nsee http://www.aljazeera.com/indepth/opinion/2012/02/2012227143813304790.html",
+  "birder_credits": "Luis Felipe R. Murillo, Christopher Kelty",
+  "tangible_problem": "Yes",
+  "tangible_problem_detail": "To make copyright-protected scholarly works available to a global audience using a simple search interface.",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "An aversion to hierarchy resulting in hierarchy.  See http://www.youtube.com/watch?v=yY-7_uzJL6w",
+    "id": 12,
+    "name": "Cryptohierarchy",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Meritocracy, in the first, most administrative sense, is a system of government or other administration (such as business administration) wherein appointments are made and responsibilities assigned to individuals based upon their \"merits\", namely intelligence, technical skill, credentials, creativity, and education, determined through evaluations or examinations.",
+    "id": 1,
+    "name": "Meritocracy",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Discussion Forums, Image Boards, Mailing Lists, Underground communities etc.",
+    "id": 10,
+    "name": "Internet Forum / Mailing List",
+    "updated_at": "2013-05-03T16:30:50Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2011-07-22T19:14:37Z",
+    "email": "ckelty@ucla.edu",
+    "id": 2,
+    "updated_at": "2013-10-22T20:47:03Z"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": 4,
+  "name": "Python",
+  "thumbnail_100_url": "/system/assets/19/sq100/python-logo-master-v3-TM.png",
+  "thumbnail_50_url": "/system/assets/19/sq50/python-logo-master-v3-TM.png",
+  "url": "http://python.org ",
+  "foritself": "Yes. ",
+  "brand": "There is no strong emphasis on aesthetics or graphics, it serves a functional purpose. ",
+  "fse_name": "Python Foundation",
+  "fse_owner_founder": "Guido Van Rossum",
+  "fse_significant_member": "FOSS hackers",
+  "fse_mission_statement": "\"The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers.\r\n\r\nThe Python Software Foundation (PSF) is a non-profit membership organization devoted to advancing open source technology related to the Python programming language. It qualifies under the US Internal Revenue Code as a tax-exempt 501(c)(3) scientific and educational public charity, and conducts its business according to the rules for such organizations.\" (http://www.python.org/psf/mission/) ",
+  "op_name": "Python Language",
+  "op_vip_founders": "There are too many to list, and there aren't necessarily VIPs. ",
+  "op_typical_member": "computer programmers, scientists, FOSS hackers",
+  "formation": "OP -> FSE",
+  "history": "\"Python was created in the early 1990s by Guido van Rossum at Stichting Mathematisch Centrum (CWI, see http://www.cwi.nl/) in the Netherlands as a successor of a language called ABC. Guido remains Python's principal author, although it includes many contributions from others. \r\n\r\nIn 1995, Guido continued his work on Python at the Corporation for National Research Initiatives (CNRI, see http://www.cnri.reston.va.us/) in Reston, Virginia where he released several versions of the software.\r\n\r\nIn May 2000, Guido and the Python core development team moved to BeOpen.com to form the BeOpen PythonLabs team. In October of the same year, the PythonLabs team moved to Digital Creations (now Zope Corporation; see http://www.zope.com/). In 2001, the Python Software Foundation (PSF, see http://www.python.org/psf/) was formed, a non-profit organization created specifically to own Python-related Intellectual Property. Zope Corporation is a sponsoring member of the PSF. Python 2.0 was released in 2000 and Python 3.0 was released in 2008.\r\n\r\nAll Python releases are Open Source (see http://www.opensource.org/ for the Open Source Definition). Historically, most, but not all, Python releases have also been GPL-compatible\"\r\n\r\n('History and License,' Accessed July 31, 2012: http://docs.python.org/py3k/license.html)",
+  "lifespan": "1989/1990 - present, still operational.",
+  "resource": "computer language, programming environment, libraries, documentation",
+  "availability": "Free and open source, copyleft. Historically, most, but not all, Python releases have also been GPL-compatible For a list of the different releases and the licensing, see ('History and License,' Accessed July 31, 2012: http://docs.python.org/py3k/license.html) ",
+  "participation": "The FSE sets and changes the goals. ",
+  "tasks": "There is a clear statement of what the project does - it develops, implements, and provides free software. Participation is constituted in myriad ways and levels of involvement in Python itself or the Python community at large varies greatly . Maintainers, developers and users are all considered members of the Python community. For more information on the various ways to be involved, see ('Participating in the Python Community,' Accessed July 31, 2012: http://wiki.python.org/moin/Community).",
+  "modularity": "The investment level is high, the time and skill sets are both great. ",
+  "granularity": "Not very granular. ",
+  "metrics": "Individual's tasks are not measured per se, the aggregate is measured through its success and the Python community itself judges the merit of different releases and versions. ",
+  "alliances": "ActiveState (founding sponsor)\r\nAdvanced Simulation Technology Inc. (ASTi)\r\nArray BioPharma, Inc.\r\nBizRate.com\r\nCanonical Ltd.\r\nCCP Games\r\ncPacket Networks\r\nEarnMyDegree.com\r\nEnthought, Inc.\r\nExoweb, Ltd.\r\nGoogle\r\nHitMeister Inc.\r\nIronPort Systems\r\nKNMP\r\nLucasfilm\r\nMadison Tyler LLC\r\nMerfin, LLC.\r\nMicrosoft\r\nOpenEye Scientific Software\r\nOpsware, Inc.\r\nO'Reilly & Associates, Inc.\r\nPropertySold.ca\r\nRogue Waves\r\nSEO Moves\r\nStrakt Holdings, Inc.\r\nSun Microsystems\r\nTabblo\r\nZeOmega, LLC.\r\nZope Corporation (founding sponsor)\r\n\r\nPending Sponsor Members\r\nThe following have been recommended for membership by the PSF Board, and are awaiting election at the next Members' Meeting:\r\n\r\nOnline Degree Reviews\r\nUniblue Systems Ltd. \r\nWerbeagentur Berlin \r\nZimbio ",
+  "clients": "Programmers and anyone who would implement free programming language to their benefit - companies, non profits etc. ",
+  "sponsors": "Python is supported through the Python Software Foundation which is made up of a rotating body of members who fund the foundation financially and through other means of support. For a current and updated list of those supporters see: http://www.python.org/psf/members/",
+  "elites": "Founders, members of the Python Software Foundation and prestigious hackers. ",
+  "created_at": null,
+  "updated_at": "2012-07-31T18:30:53Z",
+  "summary": "Python is a high level programming language with an emphasis on code readability. It also provides a large and comprehensive standard library. \r\n\r\n(1) Van Rossum, Guido (20 January 2009). \"A Brief Timeline of Python\". The History of Python.\r\n\r\n\r\n",
+  "birder_credits": "Luis Felipe R. Murillo\r\nStacy Wood ",
+  "tangible_problem": "Yes",
+  "tangible_problem_detail": "Providing a free and open source programming language and fostering community within programmers. ",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Meritocracy, in the first, most administrative sense, is a system of government or other administration (such as business administration) wherein appointments are made and responsibilities assigned to individuals based upon their \"merits\", namely intelligence, technical skill, credentials, creativity, and education, determined through evaluations or examinations.",
+    "id": 1,
+    "name": "Meritocracy",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Meritocracy, in the first, most administrative sense, is a system of government or other administration (such as business administration) wherein appointments are made and responsibilities assigned to individuals based upon their \"merits\", namely intelligence, technical skill, credentials, creativity, and education, determined through evaluations or examinations.",
+    "id": 1,
+    "name": "Meritocracy",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Free and Open Source Software",
+    "id": 1,
+    "name": "FOSS",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Projects that directly interacts with or depends on the ecology of low-level UNIX-based tools and Internet-based services such as UNIX operating systems, C compilers, source code management systems (SCM), POSIX standard components, internet protocols and services.  ",
+    "id": 1,
+    "name": "UNIX + Internet",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2012-04-22T23:44:57Z",
+    "email": "patgarcia83@gmail.com",
+    "id": 24,
+    "updated_at": "2013-07-09T03:38:55Z"
+  }
+}

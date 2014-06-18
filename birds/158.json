@@ -1,0 +1,70 @@
+{
+  "id": 158,
+  "name": "4chan",
+  "thumbnail_100_url": "/system/assets/5/sq100/logo-4chan.png",
+  "thumbnail_50_url": "/system/assets/5/sq50/logo-4chan.png",
+  "url": "http://4chan.org",
+  "foritself": "Yes, it was an obscure Internet picture sharing site -- strongly linked to JPOP and Anime culture. It has gained a level of notoriety through its association with various political organizations that have used 4chan's fluid structure to further their message. Most notably, \"Anonymous\" has used 4chan to publicly further their dispute with the Church of Scientology. ",
+  "brand": "4chan logo derives from the 2-chan logo (futaba channel in Japan, two leaf channel). There is no enforced or overriding aesthetic. The website is basically a set of dynamic html files, poorly structured. The site is organized by different message boards covering specific topics ranging from health and fitness to specific areas of Anime culture. Popular and recent messages are featured at the bottom of the main page, and individual message boards are organized chronologically. \r\n",
+  "fse_name": "Other than the founder/owner, all 4chan staff is anonymous. They are divided by task, function and the ability to exercise control over individual message boards or the entire site. There are however, formal divisions between users. These designated \"administrators,\" \"janitors,\" and \"moderators\" are chosen by Christopher Poole, who himself remained anonymous until the Wall Street Journal revealed his identity in 2008. 1\r\n\r\n(1) Brophy-Warren, Jamin. \"Modest Website is Behind a Bevy of Memes,\" The Wall Street Journal. July 10, 2008. ",
+  "fse_owner_founder": "Christopher \"m00t\" Poole",
+  "fse_significant_member": "Members chosen by Christopher Poole and designated as \"moderators,\" \"janitors,\" and \"administrators.\" It is difficult to gauge significant members, as most of the participants in the message boards remain anonymous. (2)d\r\n\r\n(2) Bernstein, Michael S., Monroy-Hernandez, Andres, Harry, Drew, Andre, Paul, Panovich, Katrina and Vargas, Greg. \"4chan and /b/: An Analysis of Anonymity and Ephemerality in a Large Online Community.\" Proceedings of the Fifth International AAAI Conference on Weblogs and Social Media. ",
+  "fse_mission_statement": "There is no FSE. ",
+  "op_name": "4chan is divided by \"channels\" -- sections with threads for specific topics (science, random, Anime+Manga, Hentai, music, etc.). A user self identifies with one of these channels and posts and comments within the channel. ",
+  "op_vip_founders": "Christopher \"m00t\" Poole",
+  "op_typical_member": "Those interested in any of the specific channels, Anime fans, computer geeks, computer hackers (some politicized, some not.) Again, it is difficult to characterize a typical member by anything other than their interests, as most users remain anonymous. ",
+  "formation": "OP - Christopher Poole was an active member in other similar sites such as The Something Awful before 4chan was launched. 4chan upon its launched grew in popularity through its decentralized structure and loose regulatory practices. ",
+  "history": "4chan opened to the public on October 1st, 2003. (3) Actually, it opened a few days earlier but had no site structure and wasn't using the 4chan domain name, so 10/01/03 (the date of the first news post) is the officially recognized birth date. 4chan was started as a project by moot, a user of a small IRC/DC community known as Raspberry Heaven, which was [then] composed of users from the \"Anime Death Tentacle Rape Whorehouse\" (ADTRW) sub-forum of The Something Awful Forums. The site began as a small image dump for those communities that soon spread like wildfire and garnered enough traffic and popularity to become its own fully fledged community.\r\n\r\n\r\n(3) http://www.4chan.org/news?all#2",
+  "lifespan": "10/1/2003 - present, still thriving.",
+  "resource": "The stated goals of 4chan were to provide a tagboard for English speakers that would allow for image based conversations and community. It's structure allows for anonymous users to use the forum to fulfill a spectrum of goals from political activism to sexual fetishes. ",
+  "availability": "It is provided with no guarantees whatsoever. There are no terms of service, only a webpage with the description of the global and the local rules for posting in the forums. The enforcement of these rules are unclear as users are anonymous and could participate with different IP addresses or with simple subversion. ",
+  "participation": "OP - the goals are fluid and in constant transition. ",
+  "tasks": "There are no specific tasks. Participation is constituted by participation either by posting or commenting, anonymity is highly encouraged. Anyone can participate who has read the terms and conditions. 4chan defines itself as a tagboard and place to share images. ",
+  "modularity": "Engage in discussion and post content (links for pirated content and/or pictures). The level of investment is low. \r\n",
+  "granularity": "No tasks. People post and comment randomly.",
+  "metrics": "There is no measurement of tasks. What is evaluated is how funny a post is, how unusual the content is or how broadly it circulates on and off the site. ",
+  "alliances": "4chan does not have or endorse \"third party\" activities (according to their FAQ)",
+  "clients": "4chan does not collect any demographic data and internal surveys concerning other characteristics have been disputed. (4) Anonymity is highly valued and therefore it is difficult to get any patterns about typical users.\r\n\r\n(4) http://techcrunch.com/2010/12/27/4chan/",
+  "sponsors": "4Chan is a supported via advertisementss from Internet pornography businesses.  They do not have corporate clients. ",
+  "elites": "\"Administrators,\" \"janitors,\" and \"moderators.\" The selection process for these members are not explicit and their identities are anonymous. They have authority to delete content, ban users and moderate conversations and topics. ",
+  "created_at": null,
+  "updated_at": "2012-10-23T01:55:40Z",
+  "summary": "4chan is an English-language imageboard website. Users generally post anonymously, with the most recent posts appearing above the rest. 4chan is split into various boards with their own specific content and guidelines, while registration is not required.\r\n\r\n(http://en.wikipedia.org/wiki/4chan)",
+  "birder_credits": "Luis Felipe R. Murillo\r\nStacy Wood\r\n",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Seriously, It's just one guy.  And maybe some help from some friends.",
+    "id": 11,
+    "name": "Just One Guy.",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Acephalous, loosely networked, intended to devolve all decision making to groups as local (and as small) as possible.   ",
+    "id": 4,
+    "name": "Radical decentralization",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Discussion Forums, Image Boards, Mailing Lists, Underground communities etc.",
+    "id": 10,
+    "name": "Internet Forum / Mailing List",
+    "updated_at": "2013-05-03T16:30:50Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2011-07-22T19:07:49Z",
+    "email": "sr.erickson@gmail.com",
+    "id": 1,
+    "updated_at": "2013-10-31T22:33:51Z"
+  }
+}

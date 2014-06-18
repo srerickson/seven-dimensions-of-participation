@@ -1,0 +1,70 @@
+{
+  "id": 193,
+  "name": "MoveOn.org",
+  "thumbnail_100_url": "/system/assets/141/sq100/moveon_logo.jpg",
+  "thumbnail_50_url": "/system/assets/141/sq50/moveon_logo.jpg",
+  "url": "http://moveon.org/",
+  "foritself": "Yes.",
+  "brand": "The brand utilizes red, white and blue in reference to the American flag. The italicized font implies movement. The organization's web presence and electronic communications invoke this same urgency of movement through dynamic content and text formatting.  The main tagline of MoveOn.org is \"Democracy in Action\". ",
+  "fse_name": "MoveOn.org consists of two separate but related formal entities.\r\n\r\nMoveOn.org Civic Action is a 501(c)(4) nonprofit organization, primarily focusing on education and advocacy.\r\n\r\nMoveOn.org Political Action is a federal political action committee (PAC).\r\n\r\nhttp://www.moveon.org/about.html#about. Accessed 5 September 2012.\r\n\r\n\r\n",
+  "fse_owner_founder": "MoveOn.org Civic Action was started by Joan Blades and Wes Boyd.\r\n\r\nhttp://www.moveon.org/about.html#about. Accessed 5 September 2012.",
+  "fse_significant_member": "Board co-chairs - Joan Blades and Wes Boyd. \r\nChief Operating Officer - Carrie Olson\r\nBoard President - Eli Pariser \r\nExecutive Director - Justin Ruben \r\n\r\nhttp://en.wikipedia.org/wiki/Moveon.org. Accessed 5 September 2012.\r\n\r\n*Sources for this specific fact are not provided on the Wikipedia page.  Details about the organizational structure of the FSE are not provided to visitors of either the PAC or 501(c)4 websites.",
+  "fse_mission_statement": "\"The MoveOn family of organizations gives real Americans a voice in a political process dominated by big money and armies of lobbyists. With over 7 million members across America - from carpenters to stay-at-home moms to business leaders - we work together to realize the progressive promise of our country.\r\n\r\nOur MoveOn family is made up of a couple of different pieces. MoveOn.org Civic Action, a 501(c)(4) nonprofit organization, primarily focuses on education and advocacy. MoveOn.org Political Action, a federal PAC, mobilizes people across the country to fight important battles in Congress and help elect candidates who reflect our member's values. To make sure we reflect those values, we have developed tools for listening to and communicating with members, ensuring that their viewpoints and opinions help guide the issues that we work on. Both entities are entirely funded by small dollar donations from our 7 million members - no corporate contributions, no big checks from CEOs. And our tiny staff ensures that small contributions go a long way.\"\r\n\r\nhttp://www.moveon.org/about.html. Accessed 5 September 2012.",
+  "op_name": "MoveOn.org",
+  "op_vip_founders": "The OP essentially dictates the agenda of the FSE, which executes strategies and campaigns based on the concerns of members. In this sense, Joan Blades and Wes Boyd are the founders of the OP as well as the FSE.",
+  "op_typical_member": "It is unclear that a true organized public, specific to MoveOn.org exists.  Because MoveOn claims to let members dictate its agenda, it appears that most members are United States citizens who are both web savvy and have an above average commitment to center-left and left Democratic Party politics.  The degree to which MoveOn's OP may be distinct from that of the Democratic Party is probably the inclusion of some libertarians and non-partisan leftist activists who are involved in MoveOn campaigns but fall outside of the publics of mainstream political parties.\r\n\r\nAs a matter of policy, the FSE does not release information about its members and contributors.\r\n \"We’re members too, and we treat your privacy as we do our own.\"\r\nhttp://civic.moveon.org/privacy.html. Accessed 5 September 2012.",
+  "formation": "MoveOn actually started in the form of an OP mailing list:\r\n\r\n\"MoveOn started in 1998 as an e-mail group, MoveOn.org, created by software entrepreneurs Joan Blades and Wes Boyd, the married cofounders of Berkeley Systems. They started by passing around a petition asking Congress to \"censure President Clinton and move on,\" as opposed to impeaching him. The petition, passed around by word of mouth, was extremely successful; ultimately, they had half a million signatures.\"  \r\n\r\nAs the organization grew, the amount of people and money involved required the formation of an FSE (PAC). \r\n\r\n-- http://en.wikipedia.org/wiki/Moveon.org. Accessed 5 September 2012.",
+  "history": "\"MoveOn.org Civic Action was started by Joan Blades and Wes Boyd, two Silicon Valley entrepreneurs. Although neither had experience in politics, they shared deep frustration with the partisan warfare in Washington D.C. and the ridiculous waste of our nation's focus at the time of the impeachment mess. On September 18th 1998, they launched an online petition to \"Censure President Clinton and Move On to Pressing Issues Facing the Nation.\" Within days they had hundreds of thousands of individuals signed up, and began looking for ways in which these voices could be heard.\r\n\r\nBy the next month, MoveOn PAC was formed as a political action committee so that like-minded, concerned citizens could influence the outcome of congressional elections, and in turn, the balance of power in Washington, D.C. Now known as MoveOn.org Political Action, we provide individuals an opportunity to gain a greater voice in the political process, and we unite those voices together across the 50 states of our great nation.\"\r\n\r\n-- http://www.moveon.org/about.html. Accessed 5 September 2012.\r\n\r\nA much longer history is available here:\r\nhttp://en.wikipedia.org/wiki/History_of_MoveOn.org\r\n",
+  "lifespan": "The project still exists, and has arguably only grown stronger since its creation in 1998. They state that there are now over 5 million \"members.\"",
+  "resource": "The FSE provides an infrastructure for donating money electronically to campaigns intended to influence United States politics.  Members also suggest and vote on campaigns and strategies.  In a sense, MoveOn.org provides a platform for crowdsourcing and funding political action campaigns.\r\n\r\nIn addition, MoveOn provides updates on campaigns and other political news to its members through an active email list.\r\n",
+  "availability": "This \"resource\" is given away for free in the form of emails, and access to the website. However, the \"resource\" is the ability to donate money, join a cause, and have a limited voice. ",
+  "participation": "The OP nominally sets the agenda for the FSE, but the degree to which this is true is unclear due to the fact that the FSE is not forthcoming with data on precisely how member input and donations influence the agenda setting.  As it is clear that the FSE executes and designs campaigns, it seems most accurate to say that the FSE is primarily responsible for agenda setting.",
+  "tasks": "Tasks include: joining a list-serve, donating, signing a petition, and creating a new petition. In-person activities, facilitated by the PAC, include joining a local council and attending events. ",
+  "modularity": "Most tasks are at the lowest \"click\" level of modularity: signing a petition and joining the email list. \r\n\r\nCreating a petition involves more of a time commitment, and donating to the organization obviously involves the highest financial commitment (though not necessarily the most time). \r\n\r\nThe largest time commitment is through joining a local PAC council. This would involve getting together in person and participating in distinct activities. ",
+  "granularity": "See task modularity. Aside from creating a petition, the tasks are all very simple. Depending on the person, each of these tasks could involve one click--an instant, or an infinite amount of time researching and then passing along information using the resources given. Joining the local, in-person council is the highest level of commitment.",
+  "metrics": "Unclear.  from the point of view of the member, the only clearly definable and measurable task is the donation of money, but even then it is unclear to what degree that donation impacts further activities.",
+  "alliances": "No formal alliances exist, though MoveOn perhaps most famously impacted the election of Barack Obama.  It has also fought for Democratic issues.   In this sense, the Democratic Party is an informal ally.",
+  "clients": "As a PAC, the FSE in theory represents the clients and provides services for them. The \"clients\" are theoretically all of those who are members of the OP and/or who have donated to the FSE. \r\n\r\nHowever, there is simply not a mechanism in place for the clients to \"speak\" easily, and in large numbers, to the FSE. Therefore, the FSE is really making the decisions on their own and assuming that the members agree with these decisions. ",
+  "sponsors": "The members are the project sponsors. As a PAC, MoveOn.org is not allowed to take corporate monies and is not allowed to receive any more than $5,000 per person, per year. Based on their own wording on the website, the fiscal sponsors are the members themselves. \r\n\r\n",
+  "elites": "Politicians who have been supported by MoveOn.org.  The Silicon Valley roots of the founding members also suggest a certain center of gravity regarding access.",
+  "created_at": "2012-05-14T00:42:48Z",
+  "updated_at": "2012-09-04T22:12:23Z",
+  "summary": "MoveOn.org began in 1998 when a married couple circulated a single, political petition. The petition gained so much attention that the two created similar petitions. Since then, and in the advent of the web and social media, the OP has grown to include many resources to educate members about Democrat/progressive notions and activities. \r\n\r\nThe FSE now includes a Political Action Committee (PAC) as well as the continuing Civic Action Committee (CAP). The organization has grown in membership and momentum and now includes the ability to not only join and sign petitions, but to create petitions, donate to the PAC, and join in both long-term and short-term in-person, local events. \r\n\r\nThe organization is hierarchical, and the FSE dictates the nature of the OP. In theory, the FSE represents the desires of the OP, but the organization lacks this kind of bottom-up infrastructure. Therefore, the organization is top-down and OP members' only means to disagree is to leave. \r\n\r\n\r\nScholarly references:\r\nEaton, M. (2010). MANUFACTURING COMMUNITY IN AN ONLINE ACTIVIST ORGANIZATION The rhetoric of MoveOn.org’s e-mails. Information Communication & Society, 13(2), 174–192. doi:10.1080/13691180902890125\r\n\r\nMiddleton, J. A., & Green, D. P. (2008). Do community-based voter mobilization campaigns work even in battleground states? Evaluating the effectiveness of MoveOn’s 2004 outreach campaign. Quarterly Journal of Political Science, 3(1), 63–82. doi:10.1561/100.00007019\r\n\r\nRagas, M. W., & Kiousis, S. (2010). Intermedia Agenda-Setting and Political Activism: MoveOn.org and the 2008 Presidential Election. Mass Communication and Society, 13(5), 560–583. doi:10.1080/15205436.2010.515372\r\n",
+  "birder_credits": "Created by Ashley Sands May 21, 2012. Edited by rncrooks@ucla.edu 5 September 2012.",
+  "tangible_problem": "Yes",
+  "tangible_problem_detail": "The entity exists to influence American politics through collective action and fundraising.",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "An aversion to hierarchy resulting in hierarchy.  See http://www.youtube.com/watch?v=yY-7_uzJL6w",
+    "id": 12,
+    "name": "Cryptohierarchy",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Any form of democratic organization that relies heavily on rules, voting and procedures for decision making and which acts only with the consent of the majority (defined by procedure).  ",
+    "id": 5,
+    "name": "Procedural consensus democracy",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "groups organized for social or political change; independent media organizations; hacktivists; advocates and other coalitions.",
+    "id": 9,
+    "name": "Activist",
+    "updated_at": "2011-10-21T21:24:40Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2012-04-17T03:52:58Z",
+    "email": "rncrooks@ucla.edu",
+    "id": 23,
+    "updated_at": "2013-07-09T15:08:37Z"
+  }
+}

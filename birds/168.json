@@ -1,0 +1,70 @@
+{
+  "id": 168,
+  "name": "Open Street Map",
+  "thumbnail_100_url": "/system/assets/62/sq100/newosmlogo.png",
+  "thumbnail_50_url": "/system/assets/62/sq50/newosmlogo.png",
+  "url": "http://www.openstreetmap.org/",
+  "foritself": "Yes, it is organized in local chapters, with localized supporters / evangelists spreading the word about the project.",
+  "brand": "Open Street Map positions itself as a \"free wiki world map\" with more flexibility than the corporate alternatives. The visual identity uses a clip art-style magnifying glass looking into a generic map to reveal binary code. There is a DIY look in its logo and branding, which eschews the sleek and minimalist styling of corporate design.",
+  "fse_name": "Open Street Map Foundation\r\n\r\nhttp://www.osmfoundation.org/wiki/Main_Page",
+  "fse_owner_founder": "Steve Coast\r\n\r\nhttp://www.guardian.co.uk/technology/2006/may/11/copyright.epublic. Accessed 5 September 2012.",
+  "fse_significant_member": "Officers & Board as of July 2012\r\nChairman – Steve Coast: chairman@osmfoundation.org\r\nSecretary – Henk Hoff: secretary@osmfoundation.org\r\nTreasurer – Oliver Kühn: treasurer@osmfoundation.org\r\n\r\nMikel Maron: mikel@osmfoundation.org\r\nRichard Fairhurst: richard@osmfoundation.org\r\nMatt Amos: matt@osmfoundation.org\r\nDermot McNally: dermot@osmfoundation.org\r\n\r\nhttp://www.osmfoundation.org/wiki/Officers_%26_Board. Accessed 5 September 2012.",
+  "fse_mission_statement": "\"OpenStreetMap is an open initiative to create and provide free map data to anyone who wants them.\"",
+  "op_name": "Open Street Map\r\n\r\nThe OP is distinct from the FSE, but the FSE dictates much of the agenda and its members are heavily involved in the OP.",
+  "op_vip_founders": "The OP Founders and VIPs are also prominent in the FSE.  Each of the working groups that execute OP activities and functions include members of the board of trustees and other founding members.\r\n\r\nhttp://www.osmfoundation.org/wiki/Working_Groups. Accessed 5 September 2012.",
+  "op_typical_member": "There are two tiers of membership in the OP.  Formal membership, which is obtained through monetary contribution to the FSE, entails voting rights in FSE agenda setting and the ability to act in a formal leadership capacity.\r\n\r\nHowever, one needn't obtain formal membership to contribute to Open Street Maps and be a part of the broader OP.\r\n\r\nhttp://www.osmfoundation.org/wiki/Membership. Accessed 5 September 2012.\r\n\r\nTypical members are individuals interested in open data, mobile computing and geography.  Many are peripatetic, judging from the active blog community.",
+  "formation": "OpenStreetMap (OSM) was founded in July 2004 by Steve Coast. In April 2006, the OpenStreetMap Foundation (OSMF) was established.\r\n\r\nhttp://old.opengeodata.org/2004/09/index.html\r\nhttp://en.wikipedia.org/wiki/OpenStreetMap#History\r\nhttp://www.osmfoundation.org/wiki/Memorandum_of_Association\r\nhttp://www.osmfoundation.org/wiki/Articles_of_Association",
+  "history": "OpenStreetMap (OSM) was founded in July 2004 by Steve Coast. In April 2006, the OpenStreetMap Foundation (OSMF) was established. In December 2006, Yahoo confirmed that OpenStreetMap could use its aerial photography as a backdrop for map production.  In April 2007, Automotive Navigation Data (AND) donated a complete road data set for the Netherlands and trunk road data for India and China to the project and by July 2007, when the first OSM international The State of the Map conference was held, there were 9,000 registered users. Sponsors of the event included Google, Yahoo and Multimap. \r\n\r\nIn October 2007, OpenStreetMap completed the import of a US Census TIGER road dataset. In December 2007, Oxford University became the first major organisation to use OpenStreetMap data on their main website.\r\n\r\nIn January 2008, functionality was made available to download map data into a GPS unit for use by cyclists. In February 2008, a series of workshops were held in India. In March, two founders announced that they have received venture capital funding of 2.4M euros for CloudMade (also founded by Steve Coast), a commercial company that will use OpenStreetMap data.\r\n\r\nhttp://en.wikipedia.org/wiki/OpenStreetMap#History. Accessed 5 September 2012.",
+  "lifespan": "2004 - Still exists.  Thriving and expanding.",
+  "resource": "Map data, Hosting, Wiki, Mailing Lists.  These are available to all interested internet users.\r\n\r\nOpen Street Map is first a database of geographic data, available in its entirety.  It is also constituted by a number of ancillary services, including visualization tools (the map itself, for example).\r\n\r\nhttp://wiki.openstreetmap.org/wiki/Using_OpenStreetMap.  Accessed 5 September 2012.",
+  "availability": "Creative Commons -- Atrribution, Same License.\r\n\r\nhttp://www.openstreetmap.org/copyright.  Accessed 5 September 2012.",
+  "participation": "While the foundation is nominally governed through a representative democratic process open to all members, the over-representation of founding members and current trustees and working groups, and the ubiquity of Steve Coast, including the alliance with his for-profit, CloudMade, indicate that the agenda setting comes primarily from the FSE.",
+  "tasks": "The following tasks are carried out by typical members of the OP.\r\n\r\n- collect data using a GPS unit or by other methods.\r\n- upload GPS data.\r\n- edit maps to make changes to OpenStreetMap.\r\n- edit data, add tags and upload changes.\r\n- render maps\r\n\r\nThese tasks may be carried out by anyone.\r\n\r\nhttp://wiki.openstreetmap.org/wiki/Beginners%27_guide.  Accessed 5 September 2012.\r\n\r\nOther, more involved technical tasks are involved.  In addition, involvement in agenda setting through the governance of the foundation entails tasks for formal members.\r\n\r\nIn addition, there is variegated community of forums and mailing lists of a local and international character that users make take part in.",
+  "modularity": "There is no standard amount of investment.  Aside from involvement in foundation governance, most tasks require a small amount of investment to accomplish to a satisfactory degree.  For example, once the small learning curve has been overcome, tasks like editing maps and adding tags can be done very easily and quickly.\r\n\r\n",
+  "granularity": "The tasks in which most members participate are highly granular.  They primarily involve data contribution, meaning the GPS data points constitute the units of contribution.\r\n\r\nMap editing is similarly granular.",
+  "metrics": "The metrics associated with data contribution are GPS data points.  In this sense, the expansion of the database in terms of points and the attendant expansion of the map are the primary metrics.\r\n\r\nFor members participating in governance, votes and time constitute the metrics of participation.",
+  "alliances": "University College London, ByteMark hosting, Quova, eCourier. CloudMade.\r\n\r\nInsofar as governments making data available for use in Open Street Map constitutes alliance, many governments at the state and international level are allies.\r\n\r\nhttp://wiki.openstreetmap.org/wiki/Contributors.  Accessed 5 September 2012.",
+  "clients": "Internet users, Internet-based companies, researchers, crisis/disaster relief projects, geodemographic marketers, urban planners.\r\n\r\nAs the project does not sell data or services, however, it has no clients in a traditional sense.  It is primarily responsive to its members rather than potential customers.",
+  "sponsors": "CloudMade\r\n\r\nhttp://en.wikipedia.org/wiki/OpenStreetMap#History.  Accessed 5 September 2012.\r\nhttp://blog.cloudmade.com/2008/03/17/were-funded.  Accessed 5 September 2012.",
+  "elites": "Steve Coast - founder, charasmatic authority, funder, through CloudMade.\r\n\r\nHowever, as the entity provides free access to its resources, there is only a limited sense in which any elite could have differential access.",
+  "created_at": "2011-11-03T22:34:17Z",
+  "updated_at": "2012-09-04T19:06:44Z",
+  "summary": "Open Street Map is a freely available database of geospatial data populated by users along with an associated suite of services.\r\n\r\nOpenStreetMap (OSM) was founded in July 2004 by Steve Coast. In April 2006, the OpenStreetMap Foundation (OSMF) was established. By July 2007, there were 9,000 registered users.  In December 2007, Oxford University became the first major organization to use OpenStreetMap data on their main website. In March 2008, two founders announced that they had received venture capital funding of 2.4M euros for CloudMade, a commercial company that will use OpenStreetMap data.\r\n\r\nWhile the foundation is nominally governed through a representative democratic process open to all members, the over-representation of founding members and current trustees and working groups, and the ubiquity of Steve Coast, including the alliance with his for-profit, CloudMade, indicate that the agenda setting comes primarily from the FSE.\r\n",
+  "birder_credits": "Edited by rncrooks@ucla.edu. 5 September 2012.",
+  "tangible_problem": "Yes",
+  "tangible_problem_detail": "Become an open alternative to corporate map services",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "An aversion to hierarchy resulting in hierarchy.  See http://www.youtube.com/watch?v=yY-7_uzJL6w",
+    "id": 12,
+    "name": "Cryptohierarchy",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Regionally or Locally specific collectives connected to a global network that gives identity to or sustains the local collectives. ",
+    "id": 10,
+    "name": "Franchise",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Projects that allow participation in science or engineering, such as citizen science, and including medical research",
+    "id": 5,
+    "name": "Science and/or Engineering",
+    "updated_at": "2011-11-29T21:48:40Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Projects that directly interacts with or depends on the ecology of low-level UNIX-based tools and Internet-based services such as UNIX operating systems, C compilers, source code management systems (SCM), POSIX standard components, internet protocols and services.  ",
+    "id": 1,
+    "name": "UNIX + Internet",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2012-04-17T03:52:58Z",
+    "email": "rncrooks@ucla.edu",
+    "id": 23,
+    "updated_at": "2013-07-09T15:08:37Z"
+  }
+}

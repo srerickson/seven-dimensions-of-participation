@@ -1,0 +1,70 @@
+{
+  "id": 233,
+  "name": "Match.com",
+  "thumbnail_100_url": "/system/assets/291/sq100/Match-Logo-Med-Res.jpg",
+  "thumbnail_50_url": "/system/assets/291/sq50/Match-Logo-Med-Res.jpg",
+  "url": "http://www.match.com",
+  "foritself": "No. Match has recently initiated a series of face-to-face group activities for singles, but use of Match.com is purely instrumental. People probably hope to join, mate, and quit rather than continue to pay to participate in the Match community.",
+  "brand": "Match uses bold, bright blues and greens in its logo, a simple rendering of the company's name in a sans-serif font. The site's look is corporate minimalist, the only slightly whimsical touch being a highly stylized male figure of the type used to label restrooms facing a similarly rendered female figure underneath a heart icon. The site's layout uses thumbnails of available users in the same manner that retail sites use pictures of the merchandise on offer.",
+  "fse_name": "Match is currently owned by InterActiveCorp (IAC, NASDAQ: IACI); the company also owns many other web properties, including dating sites OkCupid and Chemistry.com.",
+  "fse_owner_founder": "Gary Kremen founded Match.com in 1993. The site has been sold several times to date: Cendant Corporation bought the site for $7 million in 1997; Ticketmaster Online-CitySearch bought it in 1999. Ticketmaster's spinoff from its parent corporation brought the property under the control of InterActiveCorp.\r\n\r\nO'Brien, C (2003, November 8). \"The prisoner of sex.com.\" Wired. Accessed 14 August 2012 at http://www.wired.com/wired/archive/11.08/sex_com.html.",
+  "fse_significant_member": "Current staff includes:\r\n\r\nGreg Blatt, CEO\r\nSharmistha Dubey, SVP Product Management\r\nMandy Ginsberg, President, North America\r\n\r\nFormer staff includes:\r\n\r\nThomas Enraght-Moony, CEO\r\nGary Kremen, Founder\r\nDeepak Thomas, Director of Mobile\r\nBrian Bowman, VP Product Management\r\n\r\nhttp://www.crunchbase.com/company/match. Accessed 14 August 2012.\r\n\r\n\r\n\r\n",
+  "fse_mission_statement": "\"Our mission is simple: to help singles find the kind of relationship they're looking for. And we think we're pretty good at it. Every month, we hear from hundreds of success couples from all over the world—sharing love stories, sending invitations to weddings and announcing the births of new babies. It's no wonder everyone knows someone who's found love on Match.com!\"\r\n\r\nhttp://www.match.com/help/aboutus.aspx?lid=4. Accessed 14 August 2012.",
+  "op_name": "Match users.",
+  "op_vip_founders": "None.",
+  "op_typical_member": "Match.com is perennially one of the most visited sites on the Web (Alexa ranks it 93rd most popular in the US and 347th worldwide). Match aims to serve singles of a variety of ages, races, countries, sexual orientations, and languages through its main site and various other properties. Visitors to Match are more likely to be 45 and older, female, and college educated relative to the general Internet population.\r\n\r\nhttp://www.alexa.com/siteinfo/match.com#. Accessed 14 August 2012.",
+  "formation": "FSE-> OP.",
+  "history": "Gary Kremen founded Match.com in 1993. The founder purchased a number of domains speculatively in the hopes that they would become more valuable when the Web caught on. Match was purchased from its founder for a relatively small sum and converted into one of the largest dating sites on the web by consistent infusions of capital from more established media companies (including Cendant Corporation, Ticketmaster Online-CitySearch, and InterActiveCorp).\r\n\r\nO'Brien, C. (2003, November 8). \"The prisoner of sex.com.\" Wired. Accessed 14 August 2012 at http://www.wired.com/wired/archive/11.08/sex_com.html. ",
+  "lifespan": "Still exists as of 2012 with approximately 96 million registered users.\r\n\r\nhttp://en.wikipedia.org/wiki/Comparison_of_online_dating_websites. Accessed 14 August 2012.",
+  "resource": "Match.com is a paid dating service. The resource is its database of user profiles, created by the users themselves by uploading text and photos. The site is maintained by the FSE, but all of the content is provided by the OP.",
+  "availability": "Match.com is a subscription service. Very limited access to the site is available free of charge, but to respond to profiles, see all profiles, and use other features, a subscription is required. According to the Terms of Service, Match users give ownership of content published to \"public\" areas of the site to Match.com; using Match.com grants the company an \"irrevocable, perpetual, non-exclusive, fully paid, worldwide license to use, copy, perform, display, reproduce, adapt, modify and distribute such information and content and to prepare derivative works of, or incorporate into other works, such information and content, and to grant and authorize sublicenses of the foregoing.\"\r\n\r\nhttp://www.match.com/registration/membagr.aspx?lid=108. Accessed 14 August 2012.",
+  "participation": "The FSE has total control over the goals of Match.com. Users have no more ability to change the site or its policies than in a traditional business.",
+  "tasks": "The mission statement of the company drives the project. Participants are really customers of the service. People decide to participate by using the site in either its limited free iteration or in its full paid version.",
+  "modularity": "The tasks on the site (setting up profiles, responding to profiles) are relatively simple, but require the payment of a monthly membership fee (approximately $30 per month), as well as a computer, Internet connection, or smartphone.",
+  "granularity": "The tasks on the site (setting up profiles, responding to profiles) are relatively simple. People decide to participate by using the site in either its limited free iteration or in its full paid version.",
+  "metrics": "The tasks on the site (setting up profiles, responding to profiles) are relatively simple. People decide to participate by using the site in either its limited free iteration or in its full paid version.",
+  "alliances": "Match.com recently purchased European online dating company, Meetic, creating \"one clear pan-European leader.\"\r\n\r\nhttp://www.iac.com/Our-Businesses/Match.com. Accessed 14 August 2012.\r\n\r\n\r\nMatch.com has acquired other dating sites including OkCupid (2011),  SinglesNet (2010), and PeopleMedia (2009).\r\n\r\nhttp://www.crunchbase.com/company/match. Accessed 14 August 2012.",
+  "clients": "The project's clients are the user/subscribers.",
+  "sponsors": "Match is currently owned by InterActiveCorp (IAC, NASDAQ: IACI).",
+  "elites": "The project's elites are the employees of the company.",
+  "created_at": "2012-08-07T21:42:14Z",
+  "updated_at": "2012-08-21T06:31:33Z",
+  "summary": "",
+  "birder_credits": "Created by rncrooks@ucla.edu 14 August 2012.",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "Match is a commercial dating site.",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Organized primarily by weak ties (\"friends\") grouped into overlapping networks.",
+    "id": 7,
+    "name": "Overlapping Networks of Weak Ties",
+    "updated_at": "2012-07-12T17:49:00Z"
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Internet-based projects and companies specialized in social networking",
+    "id": 3,
+    "name": "Social Networking",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2012-04-17T03:52:58Z",
+    "email": "rncrooks@ucla.edu",
+    "id": 23,
+    "updated_at": "2013-07-09T15:08:37Z"
+  }
+}

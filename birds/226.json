@@ -1,0 +1,70 @@
+{
+  "id": 226,
+  "name": "Internet Movie Database",
+  "thumbnail_100_url": "/system/assets/272/sq100/imdb_logo.jpg",
+  "thumbnail_50_url": "/system/assets/272/sq50/imdb_logo.jpg",
+  "url": "imbd.com",
+  "foritself": "Yes, as movie fans and industry insiders contributing to a massive, free resource.",
+  "brand": "IMDB's logo is its acronym on a golden nameplate. The site is dedicated to functionality and advertising.",
+  "fse_name": "Amazon.com",
+  "fse_owner_founder": "Jeff Bezos is Amazon.com founder. Col Needham is the original IMDB founder and now an Amazon employee in charge of the project.",
+  "fse_significant_member": "In this context, Col Needham and original developers now on Amazon payroll. Col Needham is the founder and CEO of The Internet Movie Database (IMDb.com). Born and living in the UK, Col has had a lifelong interest in both technology and movies. After starting a computer games software business at the age of 14, he went on to complete a computer science degree at Leeds University before commencing a career in technology research in Bristol, England. IMDb grew out of a personal database of movie information which Col created as a teenager, combined with similar data collected on the Internet in the late 1980s/early 1990s. Col published the first version of IMDb online in October 1990 and co-ordinated IMDb as a worldwide volunteer effort from 1990-1996. IMDb incorporated in January 1996 with the volunteers as shareholders and IMDb became a wholly owned subsidiary of Amazon.com in April 1998. Col continues in his original role to this day, working from an office in Bristol with IMDb staff members in countries around the world.\r\nhttp://www.imdb.com/pressroom/bio\r\n\r\nExpert Editors\r\nKeith Simanton: IMDb's Managing Editor\r\n\r\nKeith Simanton is the Managing Editor of IMDb, the #1 movie website in the world, and a longtime commentator on movies and the arts. Keith has been regularly featured as the “Movie Guy” on Seattle-area radio and TV stations. He is one of the “Oscar Experts” on Goldderby.com and travels to the major film festivals each year including Sundance, Cannes, Toronto, as well as being on the board of the Seattle Film Festival. Keith helped co-found one of the first movie websites, Film.com, and went on to review film for the Seattle Times, Movieline and Amazon.com.\r\n\r\n    Follow Keith on Twitter at IMDbKeith\r\n    Video Highlights Reel Featuring IMDb's Managing Editor, Keith Simanton\r\n\r\n\r\n\r\nMelanie McFarland: IMDb's TV Editor\r\nMelanie McFarland has been IMDb’s TV Editor since 2008, and has served as a member of the Peabody Board, the body responsible for selecting winners for the University of Georgia’s Grady College of Journalism and Mass Communication’s prestigious Peabody awards, from 2005 through 2011. She gained national recognition for her critical insight as the Seattle Post-Intelligencer’s television critic between 2003 and 2008. Before working at the P-I, McFarland wrote about television and popular culture for the Seattle Times and The Oregonian, where she served as a member of the redesign steering committee for the paper’s Arts & Entertainment section in 1996. Her work has appeared in the Seattle Magazine, the Chicago Tribune, Salon.com and Variety. She is a frequent guest on NPR and KUOW. She is a member of the Television Critics Association, and served on the American Film Institute’s Television Awards jury in 2004 and 2005.\r\nhttp://www.imdb.com/pressroom/bioeds",
+  "fse_mission_statement": "To be Earth's most customer-centric company where people can find and discover anything they want to buy online.\r\n\r\nhttp://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-factSheet",
+  "op_name": "IMBD contributors",
+  "op_vip_founders": "N/A",
+  "op_typical_member": "No typical member, though presumably film fans and insiders. The site describes it as 'an international team of movie buffs with an encyclopedic knowledge of trivia and a large assortment of reference works'\r\nhttp://www.imdb.com/help/show_leaf?infosource",
+  "formation": "OP --> FSE",
+  "history": "IMDb began with a usenet posting Needham titled \"Those Eyes\", on the subject of actresses with beautiful eyes. Several others who could access the early internet, with similar interests, responded with additions or different lists of their own. On October 17, 1990, Needham, a professional computer programmer not affiliated with the visual media except by avocations, posted a simple software package to the USENET newsgroup rec.arts.movies, which allowed others of that group to create and search a basic movie and TV database. The original database was built from the lists of credits that Needham and two other readers had begun to publish on the rec.arts.movies group. Other film fans began to participate in the collection of data on the Usenet newsgroup rec.arts.movies.\r\n\r\nOn October 17, 1990, Needham then developed and posted a collection of Unix shell scripts which could be used to search the four lists, and the database that would become the IMDb was born. At the time, it was known as the \"rec.arts.movies movie database\", but by 1993 had been moved out of the usenet group as an independent website underwritten by Needham and his colleagues. Users were invited to contribute data which they may have collected and verified, on a volunteer basis, which greatly increased the amount and types of data to be stored or for which sections needed to be added. As the site thereby grew in content exponentially, and began including full production crews, uncredited performers and other demographic data, Needham's group allowed for some advertising to support ongoing operations of the site, including the hiring some paid full-time data managers for particularly popular sections. All the primary staff came (and still come) from the burgeoning computer industry and/or training schools, not with education or extensive hobby expertise in the visual media, however. In 1998, unable to secure sufficient funding via limited advertising and financial contributions of substance from the data contributors and site users, and unable to raise support from the visual media industries or academia, Needham sold the IMDb to Amazon.com, on condition that its operation would remain in the hands of Needham and his small cadre of managers, who soon were able to move into full-time paid staff positions with the cash influx from Amazon.\r\n\r\nIt moved onto the World Wide Web (a network in its infancy at that time) under the name of Cardiff Internet Movie Database. The database resided on the servers of the computer science department of Cardiff University in the UK. Rob Hartill was the original web interface author. In 1994 the email interface was revised to accept the submission of all information, meaning that people no longer had to email the specific list maintainer with their updates. However, the structure remained that information received on a single film was divided among multiple section managers, the sections being defined and determined by categories of film personnel and the individual filmographies contained therein. Its management also continued to be in the hands of a small contingent of underpaid or volunteer \"section managers\" who were receiving ever-growing quantities of information on films from around the world and across time from contributors of widely varying levels of expertise and informational resources. \r\n\r\nIMDb was launched on October 17, 1990, and in 1998 was acquired by Amazon.com. As of 19 July 2012, IMDb had 2,257,258 films and 4,737,424 personalities in its database.\r\n\r\nHere's how Col Needham describes its history: http://www.imdb.com/help/show_leaf?history\r\n\r\nAlso, for a more detailed timeline: http://www.imdb.com/pressroom/company_timeline/",
+  "lifespan": "1990 on.",
+  "resource": "-a searchable database of more than 100 million data items including more than 2 million movies, TV and entertainment programs and more than 4 million cast and crew members.\r\n\r\n-fan lists\r\n\r\n-IMDb Pro service, a subscription site, as an expanded version offering additional features specifically aimed towards film industry professionals, including the ability to post a Resume, Photos and Demo Reels on the site. \r\n\r\nIMDb also provides showtimes, trailers, critic and user reviews, personalized recommendations, photo galleries, entertainment news, quotes, trivia, box-office data, editorial feature sections and a universal Watchlist",
+  "availability": "From: http://www.imdb.com/help/show_article?conditions\r\n\r\nCopyright\r\n\r\nAll content included on this site, such as text, graphics, logos, button icons, images, audio clips, video clips, digital downloads, data compilations, and software, is the property of IMDb or its content suppliers and protected by United States and international copyright laws. The compilation of all content on this site is the exclusive property of IMDb and protected by U.S. and international copyright laws. All software used on this site is the property of IMDb or its software suppliers and protected by United States and international copyright laws.\r\nTrademarks\r\n\r\nIMDb and STARMETER are registered trademarks, and the IMDb logo, IMDbPRO, MOVIEMETER, and other marks indicated on our site are trademarks of IMDb in the United States and/or other countries. Other IMDb graphics, logos, page headers, button icons, scripts, and service names are trademarks or trade dress of IMDb. IMDb's trademarks and trade dress may not be used in connection with any product or service that is not IMDb's, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits IMDb. All other trademarks not owned by IMDb that appear on this site are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by IMDb.\r\nLicense and Site Access\r\n\r\nIMDb grants you a limited license to access and make personal use of this site and not to download (other than page caching) or modify it, or any portion of it, except with express written consent of IMDb. This site or any portion of this site may not be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any commercial purpose without express written consent of IMDb. This license does not include any resale or commercial use of this site or its contents or any derivative use of this site or its contents.",
+  "participation": "To be the world’s most popular and authoritative source for movie, TV and celebrity content. ",
+  "tasks": "-contribute to database of credits, bios and film descriptions\r\n-create a user lists",
+  "modularity": "Any data posted would count as a completed task.",
+  "granularity": "N/A",
+  "metrics": "Anything posted would be a completed task, so long as it is accurate.",
+  "alliances": "Amazon.com",
+  "clients": "Its viewers/users.",
+  "sponsors": "N/A",
+  "elites": "See FSE VIPs.",
+  "created_at": "2012-08-01T19:20:09Z",
+  "updated_at": "2012-08-01T19:37:19Z",
+  "summary": "IMDb is now the world’s most popular and authoritative source for movie, TV and celebrity content. We offer a searchable database of more than 100 million data items including more than 2 million movies, TV and entertainment programs and more than 4 million cast and crew members. \r\nhttp://www.imdb.com/help/show_leaf?about",
+  "birder_credits": "Morgan Currie",
+  "tangible_problem": "Yes",
+  "tangible_problem_detail": "It could be said that a complete, accurate database of any movie ever made is an overarching goal to be reached.",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": "2011-09-23T19:04:33Z",
+    "description": "Media making from mainstream to remix to participatory/fan culture.",
+    "id": 11,
+    "name": "Culture Industry",
+    "updated_at": "2011-09-23T19:04:33Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2011-10-11T04:09:00Z",
+    "email": "morganecurrie@gmail.com",
+    "id": 7,
+    "updated_at": "2013-07-02T22:12:45Z"
+  }
+}

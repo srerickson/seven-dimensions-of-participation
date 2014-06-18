@@ -1,0 +1,70 @@
+{
+  "id": 176,
+  "name": "Fold It",
+  "thumbnail_100_url": "/system/assets/80/sq100/foldit1.png",
+  "thumbnail_50_url": "/system/assets/80/sq50/foldit1.png",
+  "url": "http://fold.it/portal/",
+  "foritself": "Yes. The game actively seeks its OP, but the OP doesn’t take part in setting goals or tasks.",
+  "brand": "Playful in an almost DIY, craft-oriented way. Fold.it hopes to make something complicated (protein folding) seem fun and interesting, something you can do. \r\n\r\n",
+  "fse_name": "Foldit",
+  "fse_owner_founder": "The game is a collaboration of computer science/game engineers and protein biochemists. It was developed by doctoral student Seth Cooper and postdoctoral researcher Adrien Treuille, both in computer science and engineering, working with Zoran Popovic, a UW associate professor of computer science and engineering; David Baker, a UW professor of biochemistry and Howard Hughes Medical Institute investigator; and David Salesin, a UW professor of computer science and engineering.",
+  "fse_significant_member": "Foldit is developed by Center for Game Science at University of Washington in collaboration with UW Department of Biochemistry.\r\n\r\nGame Concept and Design: \r\nSeth Cooper, Adrien Treuille, Janos Barbero, Zoran Popovi?, David Baker, David Salesin\r\nPrincipal Investigators:\r\nZoran Popovi?, David Baker \r\nGame Creators:\r\nSeth Cooper, Adrien Treuille, Janos Barbero, Joshua Snyder, Daniel Suskin, Philipp Krähenbühl, Kathleen Tuite, Michael Beenen, Alex Cho Snyder, Hao Lü, Lu Sien Tan, Ilya Makedon, Mathias Hällman, Sean Gottschalk, Jeff Flatten, Kefan Xu, Jeff Lowdermilk, Riley Adams, Jeehyung Lee, Ming Yao, Alex Chia, Eric Butler\r\nUser Studies:\r\nKathleen Tuite, Alex Cho Snyder\r\nBiochemistry and Software:\r\nAndrew Leaver-Fay, Chris Carrico, Philip Bradley, Ian Davis, David Kim, Rhiju Das, David Anderson, Yutong Zhao, Sayer Herin, Firas Khatib, and The Baker Lab \r\nSound Design:\r\nBenjamin Bethurum \r\nWeb Design:\r\nFred Aliaga, Amy Durocher, Steve Johnson \r\n\r\nhttp://fold.it/portal/about\r\n",
+  "fse_mission_statement": "Foldit is a revolutionary new computer game enabling you to contribute to important scientific research. \r\nhttp://fold.it/portal/info/science\r\n",
+  "op_name": "No distinct name, just Foldit players. ",
+  "op_vip_founders": "None. ",
+  "op_typical_member": "Scientists, science buffs, gamers. OP members can play the game as individuals, \"soloists\", they can seek to improve on solutions produced by others, \"evolvers,\" or they can work as self-conscious teams, \"groups.\" There are 240,000 registered players, 2,200 were active in one week in January 2012 (http://www.scientificamerican.com/article.cfm?id=victory-for-crowdsourced-biomolecule2 accessed 7/31/12).",
+  "formation": "Foldit started as an FSE and then formed an OP. The FSE was and is barely formal, a collaboration between researchers at UW. However, apparently the inspiration for the Foldit game came from the OP of Rosetta@home users (who couldn't offer feedback for superior folding solutions they could see on their computer screens). (http://en.wikipedia.org/wiki/Foldit accessed 7/31/12)",
+  "history": "Foldit launched on May 8, 2008. It emerged out of an earlier effort called Rosetta@home, a computer program that users can download and that runs protein folding calculations using extra computation power. Fold it emerged out of the earlier Rosetta effort when users realized that they could see superior solutions to the one being processed and visualized by their computers, but there was no way for them to interact with the program. (http://en.wikipedia.org/wiki/Foldit accessed 7/31/12)\r\nFoldit and the solutions produced by users, have been featured in at least seven scientific articles in general science, biochemistry, and game science journals (http://fold.it/portal/info/science#folditpub accessed 7/31/12). Game players have produced solutions that have improved the activity of engineered enzymes (http://www.scientificamerican.com/article.cfm?id=victory-for-crowdsourced-biomolecule2 accessed 7/31/12)/",
+  "lifespan": "Project is ongoing. ",
+  "resource": "Foldit is an experiment in computer programming in the aid of science. The game collects data to find out if humans' pattern-recognition and puzzle-solving abilities make them more efficient than existing computer programs at pattern-folding tasks; the programmers then teach these human strategies to computers to fold proteins faster than before, in a virtuous loop.\r\n\r\nThe game is also a resource providing therapeutic value for real world disease: the folders' task is to build a small protein drug with the right shape and binding properties to target cancer, AIDS, Alzheimer's, antibiotics, and biofuels.. The most promising structures are synthesized and tested in lab.  \r\n\r\nhttp://www.wired.com/medtech/genetics/magazine/17-05/ff_protein?currentPage=all\r\n\r\nFoldit scientists have offered publication credit to gamers. In some cases it has been declined (http://www.seattlepi.com/news/article/Online-gamers-crack-scientific-puzzle-2176747.php  DEAD LINK), in others \"accepted\" (LINK TO 30000 AUTHOR PAPER). ",
+  "availability": "Anyone can play the Foldit game. The FSE team use the data generated to understand protein folding better and to improve computer models of protein folding. ",
+  "participation": "Predicting the structure of a protein that does not have a known structure, based on its amino acid sequence. Another goal is to take human folding strategies and automate these to make protein-prediction software more effective. A final goal is protein design (rather than prediction), an engineering problem, whether to disable a virus or scrub carbon dioxide from the atmosphere. ",
+  "tasks": "To fold proteins. Players design new proteins that could help prevent or treat important diseases. Points are awarded not by how close you're getting to the known solution, but by how much energy would be needed to hold a real-life protein in the shape you've created.\r\n\r\nRules: http://fold.it/portal/info/faq\r\n\r\nOP members also help by producing game tutorials and offering play advice on the wiki (http://foldit.wikia.com/wiki/Foldit_Wiki).",
+  "modularity": "Downloading the game software and playing it. ",
+  "granularity": "individual games, game levels. ",
+  "metrics": "Score is based on how well players optimize three principles of protein folding (tight packing, hiding hydrophobic sites, and minimizing spatial clashes).  Leader boards show top \"evolvers\" and top \"soloists\".  There is a hall of fame and players can upload info to a profile page with detailed information about their scores and level. ",
+  "alliances": "Rosetta@home. Scientists in University of Washington's Center for Game Science, Comp.Sci. and Engineering dept., and Baker Lab (protein biochemistry). CASP (Critical Assessment of Techniques for Protein Structure Prediction, http://predictioncenter.org/), which runs a biennial contest on Foldit (http://fold.it/portal/node/992762).",
+  "clients": "No specific clients. But it serves researchers in the science of protein folding and also computing and game science. ",
+  "sponsors": "UW Center for Game Science, UW Department of Computer Science and Engineering, UW Baker Lab, DARPA, NSF, HHMI, Microsoft, and Adobe\r\n\r\nThe research is funded by the Defense Advanced Research Projects Agency, the Howard Hughes Medical Institute, Microsoft Corp. and Adobe Systems Inc., and through fellowships at Nvidia Corp. and Intel Corp.\r\n",
+  "elites": "The leaders of the scientific project that originated and governs the FSE. See FSE significant members. ",
+  "created_at": "2011-11-30T05:45:38Z",
+  "updated_at": "2012-09-07T20:34:15Z",
+  "summary": "Foldit is a massive, multiplayer game leveraging participants to advance protein science. The game emphasizes emergence and network effect in research, both through large aggregates of people contributing small tasks, and between human-computer research/software design loop. \r\n\r\nFoldit is a competitive computer game enabling participants to contribute to important scientific research by predicting the structure of a protein. Players can also design brand new proteins that could help prevent or treat important diseases. Collected data on humans' pattern-recognition and puzzle-solving abilities can be taught to computers to fold proteins faster than before. http://fold.it/portal/info/science\r\n\r\nAs Boing-boing puts it: Foldit is “a puzzle game that harnesses the power of human putzing to help scientists unravel the mysteries of protein structure… Computer programs could calculate all the possible protein shapes, but it would take far longer than the average researcher's life span. Instead, the University of Washington team that developed Foldit is hoping that human game-players can figure things out faster.”\r\nhttp://www.boingboing.net/2009/05/03/wasting-time-for-a-g.html\r\n",
+  "birder_credits": "Morgan Currie, first draft\r\nAaron Panofsky, revisions (7/31/12)",
+  "tangible_problem": "Yes",
+  "tangible_problem_detail": "Help protein scientists improve the state of their folding modeling software",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Projects that allow participation in science or engineering, such as citizen science, and including medical research",
+    "id": 5,
+    "name": "Science and/or Engineering",
+    "updated_at": "2011-11-29T21:48:40Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Games or persistent worlds that rely on specific software or hardware environments (which may in turn rely on other components and services) and cannot be accessed without that software/hardware.",
+    "id": 4,
+    "name": "Gaming Environments/Platforms",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2011-07-22T19:14:37Z",
+    "email": "ckelty@ucla.edu",
+    "id": 2,
+    "updated_at": "2013-10-22T20:47:03Z"
+  }
+}

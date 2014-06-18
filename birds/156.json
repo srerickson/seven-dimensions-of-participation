@@ -1,0 +1,70 @@
+{
+  "id": 156,
+  "name": "Revision3",
+  "thumbnail_100_url": "/system/assets/30/sq100/Screen%20shot%202011-08-12%20at%205.37.03%20PM.png",
+  "thumbnail_50_url": "/system/assets/30/sq50/Screen%20shot%202011-08-12%20at%205.37.03%20PM.png",
+  "url": "http://revision3.com/",
+  "foritself": "Yes, it is an FSE.",
+  "brand": "Geeky young male.",
+  "fse_name": "Revision3, Recently acquired by Discovery Communications.",
+  "fse_owner_founder": "Jay Adelson, Kevin Rose",
+  "fse_significant_member": "Ryan Vance, Martini Paratore, one other guy I interviewed",
+  "fse_mission_statement": "Revision3 has emerged as the leading special interest video network, and has attracted top Internet video talent, advertisers and distribution partners. Based in San Francisco, the company has 35 employees, led by a strong core team out of Ziff Davis, C/net, Pandora, Yahoo and Digg.\r\n",
+  "op_name": "Audience of passive participants.",
+  "op_vip_founders": "None.",
+  "op_typical_member": "Tech geeky male: 72% 18-34 year olds.",
+  "formation": "FSEs have long courted the tech-geeky male audience, this is but another iteration of an FSE attempting to aggregate an audience around viewing and passive participation.",
+  "history": "The company was founded in Los Angeles, California by Jay Adelson, Kevin Rose and David Prager in April 2005. Revision3 grew out of the cable networks G4 and TechTV and from the collaborations around Digg. Since 2005, Revision3 has developed and canceled shows. They have not be acquired and have not acquired other companies.",
+  "lifespan": "Yes.",
+  "resource": "The FSE provides to the OP entertaining content and a space for the development of affinity communities. It also provides opportunities for the OP to participate and interact with the FSE in rather passive forms.",
+  "availability": "Anyone can send in comments on the videos or attempt to correspond with the hosts.",
+  "participation": "FSE only.",
+  "tasks": "Participation is clearly delineated by the FSE.",
+  "modularity": "Small investment, usually only a comment on a blog. However, amateur video producers do watch and aspire to being picked up for funding by Revision3 and similar companies, so investment can be quite high.",
+  "granularity": "The tasks are not granular.",
+  "metrics": "Tasks are not measured in that way",
+  "alliances": " Revision3 is in partnerships with its producer/employees and historically linked to G4 and TechTV--two cable TV channels.",
+  "clients": "Commercial entities advertise on Revision3.",
+  "sponsors": "Investors include Marc Andreessen (Founder of Netscape) Greylock Partners (behind LinkedIn and Digg), Mark Cuban and others.",
+  "elites": "Good producers. ghjfkhgf",
+  "created_at": null,
+  "updated_at": "2012-08-03T21:42:41Z",
+  "summary": "Rev3 is an online video platform for the production and distribution of semi-pro internet video. Rev3 reveals a story of a semi-extinction and a resurrection. It is important for the investigation of participation because Rev3 was an early attempt at creating an online OP around video. While other platforms (YouTube, Facebook, Blip) each cornered much of this market, Rev3 was being purchased by Discovery Communications, the non-fiction television conglomerate. This acquisition in 2012, like the acquisition of Next New Networks by YouTube, begins to expose how convergence of internet and television platforms proceeds along political economic vectors. This historicity paired with the history of Current and YouTube begin to show how the political potentials of internet video participation relates to the economic histories of these networks.",
+  "birder_credits": "Adam Fish\r\n\r\nInterview data exists for Rev3 from Ryan Vance, Martini Paratore, Jay Adelson and others. This information has not been incorporated into the database. ",
+  "tangible_problem": "",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "An unorganized mass whose only relation to each other is a mutual relationship to a producer. ",
+    "id": 9,
+    "name": "Consumer Market",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "user contributed news, video, etc.",
+    "id": 6,
+    "name": "Citizen Journalism",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Any of various projects those primary ecology is moving visual media.",
+    "id": 6,
+    "name": "Television and Internet Video",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2011-10-07T16:00:54Z",
+    "email": "rawbird@gmail.com",
+    "id": 6,
+    "updated_at": "2012-11-16T19:52:09Z"
+  }
+}

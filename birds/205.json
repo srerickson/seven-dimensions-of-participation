@@ -1,0 +1,70 @@
+{
+  "id": 205,
+  "name": "OkCupid",
+  "thumbnail_100_url": "/system/assets/202/sq100/okclogo.png",
+  "thumbnail_50_url": "/system/assets/202/sq50/okclogo.png",
+  "url": "http://www.okcupid.com",
+  "foritself": "Yes, it is self-aware.",
+  "brand": "\"We use math to get you dates.\" Smart, fun, young-ish in attitude, unseriously serious about what they are doing, innovative, a little bit alternative.",
+  "fse_name": "Humor Rainbow, Inc. (Business entity.)",
+  "fse_owner_founder": "Co-founders include Chris Coyne, Max Krohn, Sam Yagan, Christian Rudder (these guys also gained notoriety as the founders of Spark Notes.)  As of February 2011, it is owned by InterActive Corp and is a part of their match division. ",
+  "fse_significant_member": "See the above list of founders. \r\nSignificant members also include:\r\nEli Gwynn, software engineer\r\nTom Quisel, chief technology officer\r\nMeghan Beresford, creative strategist\r\nDaniel Andres, chief product officer\r\nMike Maxim, head of infrastructure\r\nMorley Zhi, developer\r\nTom Jacques, head of site quality\r\nAndrew Fiorillo, designer and developer\r\nAlex Dumitriu, head of operations\r\nDavid Koh, software engineer\r\nJennifer Cruz, media designer\r\nCourty Stanton, product designer\r\nChris Aurelio, systems administrator\r\nSean Patrick Henry, developer\r\nMike Nahas, senior software engineer\r\nTill Varoquaux, software engineer \r\nAnson Wang, software engineer\r\nSidney San Martin, software engineer\r\nRay Sohn, developer\r\nNick Saretzky, mobile developer\r\nMatt Miller, mobile developer\r\n",
+  "fse_mission_statement": "None",
+  "op_name": "Not named. OkCupid users.",
+  "op_vip_founders": "N/A ",
+  "op_typical_member": "The OP typical member is not prescriptive, OkCupid gained notoriety early in its existence for its openness to different sexual identities. Demographic information concerning users of OkCupid is constantly evolving, the most up to date numbers can be found through Quantcast. It is also interesting to note the now defunct OkTrends, which was the official blog of OkCupid and used the data collected through preferences, information about how people behave within the OkCupid context, as well as data gleaned from quizzes and general demographics to discuss trends and patterns found in the OkCupid community.\r\n\r\n(http://www.quantcast.com/okcupid.com)\r\n(http://blog.okcupid.com/)",
+  "formation": "FSE --> OP. Founded as an FSE in 2003.",
+  "history": "OkCupid is a spinoff of a website popular in the late 90s called The Spark (not related to Spark Network, a company operating dating sites for demographic niche markets), which had features similar to those at the root of OkCupid, i.e. its personality matching system based on comparing answers to entertaining questions. After its founding in 2003, OkCupid grew steadily and was bought by Match.com in 2011, and presently operates as a subsidiary. The major change that came with the sale to InterActiveCorp (IAC) was the introduction of the A-list feature which requires a monthly fee. For a company that was previously vocally opposed to sites that required payment before the sale, the A-list feature was a drastic transition. \r\n\r\n(Rudder, Christian (2010-04-07). \"Why You Should Never Pay For Online Dating « OkTrends\". waybackmachine.org)",
+  "lifespan": "The project has been growing steadily. Founded in 2003, purchased by Match.com in 2011.",
+  "resource": "The resource is an online dating system provided by the FSE to the OP, and in which the OP participates to generate the matching system.",
+  "availability": "Participation is open to everyone at no cost. As mentioned previously, the A-list feature, introduced in 2011, requires a monthly subscription fee. ",
+  "participation": "FSE sets the goals of the project, but there is room for participants in the setting to modify their own goals within parameters set by the system and the terms of use. One aspect of goal setting is articulating what you are using the site for and what you want, this is entirely up to the user. ",
+  "tasks": "Tasks include creating profiles to describe oneself, creating questions that form the basis of the matching algorithm, answering user questions, creating user-generated tests, taking those tests, writing messages to people, chatting with people, writing journal entries, reading and commenting on other people's journal entries, rating people, \"saving\" people (so that the action is either visible or invisible to the person in question), and participation in moderation of content that is flagged for violation of the terms of service.",
+  "modularity": "Low level of investment. ",
+  "granularity": "Highly granular.",
+  "metrics": "Tasks are discrete, but most are not counted. There is a count shown to users of how many questions a user has answered. Users can see how many questions they have created.",
+  "alliances": "InterActiveCorp (IAC), Match.com\r\n",
+  "clients": "Users/members",
+  "sponsors": "OkCupid is supported by advertising revenue and money received through A-list memberships. ",
+  "elites": "Staff members have regulatory authority. The corporate body that owns OkCupid also serves to some extent in terms of charismatic authority in terms of setting the tone and agenda for branding. ",
+  "created_at": "2012-05-21T23:50:49Z",
+  "updated_at": "2012-07-31T18:42:09Z",
+  "summary": "OkCupid is an online dating website with a smart and entertaining feel, based on an innovative system for matching users with each other. This system requires user participation. Users create questions or other users to answer that are intended to provide useful information to help people judge whether other users they might be interested are a match for them. Users have created thousands of questions. Answering questions created by users is a fun time-waster, making it easy to answer enough questions for the system to be effective in comparing users to each other based on their answers to those questions. Questions have the feeling of being more \"real\" than what one comes across on more establishment-type dating websites, as a result of the participation of users in generating them. Other opportunities for participation contribute to giving the website the feeling of a social network website (although an actual social-networking feature of the site was discontinued a few years ago). \r\n\r\n ",
+  "birder_credits": "Rory Litwin\r\nStacy Wood\r\n",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "An unorganized mass whose only relation to each other is a mutual relationship to a producer. ",
+    "id": 9,
+    "name": "Consumer Market",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Internet-based projects and companies specialized in social networking",
+    "id": 3,
+    "name": "Social Networking",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2012-04-22T23:44:57Z",
+    "email": "patgarcia83@gmail.com",
+    "id": 24,
+    "updated_at": "2013-07-09T03:38:55Z"
+  }
+}

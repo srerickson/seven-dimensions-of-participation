@@ -1,0 +1,70 @@
+{
+  "id": 3,
+  "name": "Apache",
+  "thumbnail_100_url": "/system/assets/2/sq100/feather-small.gif",
+  "thumbnail_50_url": "/system/assets/2/sq50/feather-small.gif",
+  "url": "http://apache.org",
+  "foritself": "Yes, the project has managed to create a community of developers, contributors, sponsors, and companies. It also created an incubator for new projects, under the umbrella of the Apache Software Foundation (providing legal, managerial, and technical support for new Open Source projects).",
+  "brand": "The Apache logo is a multi-colored feather. According to the FAQ in the Apache project website, the name Apache was chosen out of respect to the Native American tribe Apache (Inde) and its superior skills in warfare and strategy. The Apache Software Foundation has requirements for project branding and has created guidelines that define how Apache projects should refer to trademarks and display their brand. Overall, the aesthetics of projects include plain text, simple html documents without elaborated graphics.\r\n\r\n('Apache Project Branding Requirements' Accessed July 26, 2012: http://www.apache.org/foundation/marks/pmcs.html, http://en.wikipedia.org/wiki/Apache_HTTP_Server) ",
+  "fse_name": "Apache Software Foundation (ASF)",
+  "fse_owner_founder": "According to the ASF \"How Apache Came to Be\" section, the following 8 people were the core members of the Apache Group:\r\n\r\nBrian Behlendorf\r\nRoy T. Fielding\r\nRob Hartill\r\nDavid Robinson\r\nCliff Skolnick\r\nRandy Terbush\r\nRobert S. Thau\r\nAndrew Wilson\r\n\r\n(Accessed July 26, 2012: http://httpd.apache.org/ABOUT_APACHE.html)",
+  "fse_significant_member": "The following people have been listed as significant contributors to the beginnings of the ASF: \r\n\r\nShane Curcuru\r\nSam Ruby \r\nMark Cox\r\nLars Eilebrecht\r\nEric Hagberg\r\nFrank Peters\r\nNicolas Pioch\r\n\r\n(Accessed July 26, 2012: http://httpd.apache.org/ABOUT_APACHE.html)\r\n\r\nFurthermore, a list of the current officers and board of directors can be found on the 'Foundation Project' page. \r\n\r\n(Accessed July 26, 2012: http://www.apache.org/foundation/) ",
+  "fse_mission_statement": "\"To provide high quality, open source software for the public good at no cost, and to showcase our meritocratic and community driven method of building sustainable software projects\".\r\n\r\n(Accessed July 26, 2012: http://www.apache.org/foundation/records/minutes/2011/board_minutes_2011_11_07.txt)",
+  "op_name": "Apache HTTP Server Project is the name of the organized public. The members of the OP are part of a \"collaborative software development effort aimed at creating a robust, commercial-grade, featureful, and freely-available source code implementation of an HTTP (Web) server. The project is jointly managed by a group of volunteers located around the world, using the Internet and the Web to communicate, plan, and develop the server and its related documentation. This project is part of the Apache Software Foundation.\"\r\n\r\n(Accessed July 26, 2012: http://httpd.apache.org/ABOUT_APACHE.html)",
+  "op_vip_founders": "The following people are members of the Project Management Committee (PMC): \r\n\r\nRoss Gardler\r\nLuciano Resende\r\nSantiago Gala\r\nBertrand Delacretaz\r\nTed Dunning\r\nNoirin Shirley\r\n\r\nThis group of volunteers are responsible for managing the Apache HTTP Server Project. This includes deciding what is distributed as products of the Apache HTTP Server Project, maintaining the Project's shared resources, speaking on behalf of the Project, resolving license disputes regarding Apache products, nominating new PMC members or committers, and establishing these guidelines.\r\n\r\nMembership in the Apache PMC is by invitation only and must be approved by consensus of the active Apache PMC members.\r\n\r\n(Accessed July 26, 2012: http://community.apache.org/comdevboardresolution.html, http://httpd.apache.org/dev/guidelines.html)",
+  "op_typical_member": "FOSS hackers, network/system administrators",
+  "formation": "OP -> FSE",
+  "history": "\"The history of the Apache Software Foundation is linked to the Apache HTTP Server, development beginning in 1994. A group of eight developers started working on enhancing the NCSA HTTPd daemon. They came to be known as the Apache Group. On March 25, 1999, the Apache Software Foundation was formed. The first official meeting of the Apache Software Foundation was held on April 13, 1999, and by general consent that the initial membership list of the Apache Software Foundation, would be: Brian Behlendorf, Ken Coar, Mark Cox, Lars Eilebrecht, Ralf S. Engelschall, Roy T. Fielding, Dean Gaudet, Ben Hyde, Jim Jagielski, Alexei Kosut, Martin Kraemer, Ben Laurie, Doug MacEachern, Aram Mirzadeh, Sameer Parekh, Cliff Skolnick, Marc Slemko, William (Bill) Stoddard, Paul Sutton, Randy Terbush and Dirk-Willem van Gulik. After a series of additional meetings to elect board members and resolve other legal matters regarding incorporation, the effective incorporation date of the Apache Software Foundation was set to June 1, 1999.\"\r\n\r\nThe Apache HTTP Server (\"httpd\") project continues to go strong and Apache httpd is the most popular web server on the Internet since April 1996. The project celebrated its 17th birthday on February 2012.\r\n\r\n(Accessed July 26, 2012: http://en.wikipedia.org/wiki/Apache_Software_Foundation, http://httpd.apache.org/)\r\n\r\n",
+  "lifespan": "The FSE and OP still exist and are doing very well. The organization is experiencing growing modularity into several \"child\" projects under the guidance of the Apache Incubator branch of the ASF.",
+  "resource": "The resources provided include software, documentation, legal orientation, and project hosting.",
+  "availability": "The software is licensed under Apache License, a free software license authored by the Apache Software Foundation (ASF). \r\n\r\n(Accessed July 26, 2012: http://www.apache.org/licenses/, http://en.wikipedia.org/wiki/Apache_License)",
+  "participation": "The FSE lists the goals in the following manner: \"The Apache Software Foundation provides organizational, legal, and financial support for a broad range of open source software projects. The Foundation provides an established framework for intellectual property and financial contributions that simultaneously limits the potential legal exposure for the contributors. Through a collaborative and meritocratic development process, Apache projects deliver enterprise-grade, freely available software products that attract large communities of users. The pragmatic Apache License makes it easy for all users, commercial and individual, to deploy Apache products.\"\r\n\r\n(Accessed July 26, 2012: http://incubator.apache.org/)",
+  "tasks": "Participants of the Apache HTTP Server (\"httpd\") project can undertake several tasks, including coding, documenting, fixing bugs, and organizing face-to-face meetings.",
+  "modularity": "The level of investment varies due to the volunteers' positions within the project. \r\n\r\nThere are three levels of volunteer commitment: Project Management Committee (PMC) members, Committers, and Developers.\r\n\r\nAt the highest level of investment are the volunteers who belong to the Project Management Committee (PMC). Members of the PMC are responsible for managing the Apache HTTP Server Project. Next, are the volunteers who fall into the category of Committers. This group of volunteers are responsible for the technical aspects of the Apache HTTP Server Project. This group has write access to the appropriate source repositories and these volunteers may cast binding votes on any technical discussion. Membership as a Committer is by invitation only and must be approved by consensus of the active Apache PMC members. Finally, all of the volunteers who are contributing time, code, documentation, or resources to the Apache Project are considered Developers.\r\n",
+  "granularity": "The larger tasks are completed by the PMC. They decide what is distributed as products of the Apache HTTP Server Project, maintain the project's shared resources, speak on behalf of the project, resolve license disputes regarding Apache products, nominate new PMC members or committers, and establish guidelines.\r\n\r\nThe smaller, yet foundational, tasks are completed by the Developers who contribute time, code, documentation, or resources.",
+  "metrics": "Since the organization is a meritocracy, volunteers receive credit for the number of tasks they complete. According to the guidelines, \"A developer that makes sustained, welcome contributions to the project for over six months is usually invited to become a Committer, though the exact timing of such invitations depends on many factors.\" (Accessed July 27, 2012: http://httpd.apache.org/dev/guidelines.html)\r\n",
+  "alliances": "ASF explicitly states that the organization is made up of \"individuals\" and not companies. However, they admit that volunteers wear several \"hats\" and are often employees of corporations. Yet, the ASF makes clear that the organization does not form an alliance with the companies who employ the volunteers. \r\n\r\n\"All of the ASF including the board, the other officers, the committers, and the members, are participating as individuals. That is one strength of the ASF, affiliations do not cloud the personal contributions.\r\n\r\nUnless they specifically state otherwise, whatever they post on any mailing list is done as themselves. It is the individual point-of-view, wearing their personal hat and not as a mouthpiece for whatever company happens to be signing their paychecks right now, and not even as a director of the ASF.\"\r\n\r\n(Accessed July 27, 2012: http://www.apache.org/foundation/how-it-works.html#hats)\r\n",
+  "clients": "Project clients include network administrators, software developers, software companies, computer network services companies, corporations, users big and small.",
+  "sponsors": "Yahoo\r\nMicrosoft\r\nGoogle\r\nHP\r\nSun\r\nAMD\r\nFacebook\r\nHorton Works\r\nIBM\r\nBasis\r\nCloudera\r\nMatt Mullenweg\r\nSpring Source\r\nAirPlus International\r\nBlueNog\r\nDigital Primates\r\nFuseSource\r\nIntuit\r\nJoost\r\nLiip AG SA Ltd.\r\nLucid Imagination\r\nTalend\r\nTwo Sigma Investments.\r\nWANdisco\r\n\r\nFor a complete list of project sponsors, see: http://www.apache.org/foundation/thanks.html (Accessed July 27, 2012).",
+  "elites": "The Officers, Board Members, PMC Chairs, and the 8 foundational members of the Apache Software Foundation have legitimate authority based on their positions within the organization. \r\n\r\nSee 'The Foundation structure' (Accessed July 27, 2012: http://www.apache.org/foundation/how-it-works.html#structure)",
+  "created_at": null,
+  "updated_at": "2013-03-07T09:27:30Z",
+  "summary": "Apache Software Foundation (ASF) is the FSE behind the Apache HTTP Server Project. The ASF serves as a supporting entity for the Apache Incubator that hosts several projects and is responsible for recruiting and designing new projects. Contributors to these projects are clustered in the North-America and Western Europe. ASF has its own set of licenses and hundred of contributors and staff members working to provide support for open source projects.\r\n\r\nThe management of the Foundation is overseen by a board of directors , who are elected by the ASF membership on an annual basis according to the corporation's bylaws. The board appoints a set of officers to manage the day-to-day operations of the Foundation and oversee the ASF projects. Each project is managed by a self-selected team of technical experts who are active contributors to the project, according to whatever guidelines for collaborative development are best suited for the project. ",
+  "birder_credits": "Luis Felipe R. Murillo\r\nPat Garcia ",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Meritocracy, in the first, most administrative sense, is a system of government or other administration (such as business administration) wherein appointments are made and responsibilities assigned to individuals based upon their \"merits\", namely intelligence, technical skill, credentials, creativity, and education, determined through evaluations or examinations.",
+    "id": 1,
+    "name": "Meritocracy",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Meritocracy, in the first, most administrative sense, is a system of government or other administration (such as business administration) wherein appointments are made and responsibilities assigned to individuals based upon their \"merits\", namely intelligence, technical skill, credentials, creativity, and education, determined through evaluations or examinations.",
+    "id": 1,
+    "name": "Meritocracy",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Free and Open Source Software",
+    "id": 1,
+    "name": "FOSS",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Projects that directly interacts with or depends on the ecology of low-level UNIX-based tools and Internet-based services such as UNIX operating systems, C compilers, source code management systems (SCM), POSIX standard components, internet protocols and services.  ",
+    "id": 1,
+    "name": "UNIX + Internet",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2011-10-21T19:47:40Z",
+    "email": "unixjazz@gmail.com",
+    "id": 8,
+    "updated_at": "2013-05-28T02:38:40Z"
+  }
+}

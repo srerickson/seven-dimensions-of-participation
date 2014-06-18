@@ -1,0 +1,70 @@
+{
+  "id": 157,
+  "name": "CNN's iReport",
+  "thumbnail_100_url": "/system/assets/54/sq100/CNN%20iReport.gif",
+  "thumbnail_50_url": "/system/assets/54/sq50/CNN%20iReport.gif",
+  "url": "http://www.cnn.com/",
+  "foritself": "Yes, it is an FSE.",
+  "brand": "Authoritative, responsible, educational, global leader in television and video journalism--yet increasingly responsive to audience interactivity.",
+  "fse_name": "Time Warner Company owns Turner Broadcasting Company which owns CNN.",
+  "fse_owner_founder": "Ted Turner",
+  "fse_significant_member": "Ted Turner, Eric Kuhn, Adam Naide, Lila King",
+  "fse_mission_statement": "\"The Worldwide Leader in News\"\r\n\"CNN = Politics\"\r\n\"The Best Political Team on Television\"\r\n\"CNN = Money\"\r\n\"Go Beyond Borders\"\r\n\r\niREport: Welcome to iReport, where people take part in the news with CNN. Your voice, together with other iReporters, helps shape how and what CNN covers every day.\r\n\r\nSo you know: iReport is the way people like you report the news. The stories in this section are not edited, fact-checked or screened before they post. Only ones marked 'CNN iReport' have been vetted by CNN.",
+  "op_name": "audience, iReporters",
+  "op_vip_founders": "none",
+  "op_typical_member": "The OP consists of technologically savvy, journalist aspirational, TV-fame curious video producers.",
+  "formation": "CNN is an FSE formed entity. ",
+  "history": "The Cable News Network was launched at 5:00 p.m. EST on Sunday June 1, 1980. After an introduction by Ted Turner, the husband and wife team of David Walker and Lois Hart anchored the first newscast.[8] Burt Reinhardt, the then executive vice president of CNN, hired most of CNN's first 200 employees, including the network's first news anchor, Bernard Shaw.[9]\r\nSince its debut, CNN has expanded its reach to a number of cable and satellite television companies, several web sites, specialized closed-circuit channels (such as CNN Airport Network), and a radio network. The company has 36 bureaus (10 domestic, 26 international), more than 900 affiliated local stations, and several regional and foreign-language networks around the world. The channel's success made a bona-fide mogul of founder Ted Turner and set the stage for the Time Warner conglomerate's eventual acquisition of Turner Broadcasting.\r\nA companion channel, CNN2, was launched on January 1, 1982 and featured a continuous 24-hour cycle of 30-minute news broadcasts. A year later, it changed its name to \"CNN Headline News\", and eventually it was simply called \"Headline News\". (In 2005, Headline News would break from its original format with the addition of Headline Prime, a prime-time programming block that features news commentary; and in 2008 the channel changed its name again, to \"HLN\".)\r\n\r\n",
+  "lifespan": "Yes it still exists and is not endangered. CNN competes with other global news entities and CNN's iReport does as well.",
+  "resource": "The FSE provides a video hosting platform, a community, a brand, and a possibility of television broadcast.",
+  "availability": "There are some restrictions regarding uploading copyrighted material but otherwise the resource of the video platform is available to all who can record and upload video. However the structure of a meritocracy then limits who can gain access to the television audience.",
+  "participation": "Only the FSE can change the goals.",
+  "tasks": "Yes, tasks are clearly defined.  Tasks are clearly defined. The OP uploads videos, the FSE hosts the video.",
+  "modularity": "The OP must videotape and upload videos.",
+  "granularity": "The tasks are not granular. A video is a complete entity.",
+  "metrics": "A task is the uploading of a video.",
+  "alliances": "The FSE has no specific partnerships outside of CNN except with perhaps other Time Warner companies of which CNN is included. Alliances might be with corporate advertisers on CNN.",
+  "clients": "Two clients are served by this FSE, the OP video producers and various commercial entities which the connect to the video producers. ",
+  "sponsors": "Time Warner Cable.",
+  "elites": "As my months long attempt to secure access revealed, CNN is a relatively immobile fortress, most likely hierarchically organized and difficult to change from the inside for middle managers within the FSE. Change likely comes from the top. Otherwise, the top iReport journalists likely have the attention of the FSE but it is likely only superficial and cosmetic.",
+  "created_at": null,
+  "updated_at": "2012-09-05T21:41:26Z",
+  "summary": "CNN's iReport represents an attempt by CNN to acquire and incentivize amateur video production for their television programming. What is unique about iReport is that while it is an endeavor by a for-profit corporation, it is not necessarily about \"cornering an emergent market.\" My informants (Fitzgerald at Current) have told me that iReport is successful for the reasons Current was not, it focused on creating a lateral community of producers (within the OP) instead of a vertical relationship (FSE-OP) that Current attempted. Thus, a political economic critique is not an entirely plausible argument for the existence of CNN's iReport.  (Please see my blog post on such an argument http://recursivepublic.net/2011/05/cooperation-with-the-corporation-a-review in response to Kperogi, Farooq A. 2011. Cooperation with the corporation? CNN and the hegemonic cooptation of citizen journalism through iReport.com, New Media & Society, 13: 314-329 http://nms.sagepub.com/cgi/content/abstract/13/2/314)",
+  "birder_credits": "Adam Fish\r\n\r\nInterview data collected but not incorporated from CNN employees: Eric Kuhn, Adam Naide.",
+  "tangible_problem": "",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Meritocracy, in the first, most administrative sense, is a system of government or other administration (such as business administration) wherein appointments are made and responsibilities assigned to individuals based upon their \"merits\", namely intelligence, technical skill, credentials, creativity, and education, determined through evaluations or examinations.",
+    "id": 1,
+    "name": "Meritocracy",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "user contributed news, video, etc.",
+    "id": 6,
+    "name": "Citizen Journalism",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Any of various projects those primary ecology is moving visual media.",
+    "id": 6,
+    "name": "Television and Internet Video",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2011-07-22T19:07:49Z",
+    "email": "sr.erickson@gmail.com",
+    "id": 1,
+    "updated_at": "2013-10-31T22:33:51Z"
+  }
+}

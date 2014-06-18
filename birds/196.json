@@ -1,0 +1,70 @@
+{
+  "id": 196,
+  "name": "BOINC",
+  "thumbnail_100_url": "/system/assets/144/sq100/www_logo.gif",
+  "thumbnail_50_url": "/system/assets/144/sq50/www_logo.gif",
+  "url": "http://boinc.berkeley.edu/",
+  "foritself": "Yes. ",
+  "brand": "The Berkeley Open Infrastructure for Network Computing is affiliated with the University of California, Berekely, and the brand benefits from the association. ",
+  "fse_name": "BOINC",
+  "fse_owner_founder": "Dr. David P. Anderson: project director, architect, and developer.\r\nRom Walton: developer. \r\nCharlie Fenton: developer. ",
+  "fse_significant_member": "",
+  "fse_mission_statement": "\"Use the idle time on your computer (Windows, Mac, or Linux) to cure diseases, study global warming, discover pulsars, and do many other types of scientific research. It's safe, secure, and easy.\" (https://boinc.berkeley.edu/ [2012-5-21]).",
+  "op_name": "OP does not have a specific name. ",
+  "op_vip_founders": "There is a long list of Volunteer Developers. Volunteers also use BOINC in the alpha testing phase. A list of the month's top testers can be found along with the list of Volunteer Developers here: http://boinc.berkeley.edu/trac/wiki/ProjectPeople",
+  "op_typical_member": "A user who wishes to contribute to the development of scientific knowledge through the maximization of computational resources. There are users who attempt to gain the most credit for contributed computer power, but they are not the average user. Public resource computing raises potential risks and issues that BOINC has attempted to subvert, \"Most participants are individuals who own Windows, Macintosh and Linux PCs, connected to the Internet by telephone or cable modems or DSL, and often behind network-address trans- lators (NATs) or firewalls. The computers are frequently turned off or disconnected from the Internet. Participants are not computer experts, and participate in a project only if they are interested in it and receive ”incentives” such as credit and screensaver graphics. Projects have no control over participants, and cannot prevent malicious behavior.\" (1) ",
+  "formation": "BOINC is an updated version of SETI@home, which used networked computers to process information related to the Search for Extraterrestrial Intelligence, a project based at UC Berkeley's Space Sciences Laboratory. BOINC allows users to choose which projects to devote their computer's excess CPU and GPU power to, which is different from the original SETI@home volunteer grid computing project. Essentially this difference comes down to personally owned resources versus institutionally supported resources, the OP in this case transitions to one that is motivated by interest and small incentives. ",
+  "history": "SETI@home was launched on May 17, 1999, and was replaced by BOINC in April 2002. ",
+  "lifespan": "BOINC continues to be a valuable platform and resource for volunteer computing projects. ",
+  "resource": "BOINC provides a volunteer computing platform to projects - usually non-profit - who require large amounts of computational power but who cannot afford the technology. Volunteers can choose which projects to devote their computer's power to. In this instance, the resource is distributed among the stakeholders involved. Researchers benefit from an increased volume of computer power to assist in research, participants benefit from the accumulation of \"credit\" within the BOINC economy. Both of these are facilitated through the FSE which also benefits from software development and collaboration.",
+  "availability": "BOINC software is free to download and is compatible with Mac OS X, Microsoft Windows, GNU/Linux, and FreeBSD. ",
+  "participation": "The goal of BOINC is to aid various technological and scientific investigations by providing a network of computers devoted to solving complex problems and calculations. The service aims to contribute to the production of scientific knowledge. \r\nBecause BOINC operates on different distinct projects, each of these is regulated by a discrete set of rules set by the researchers. In a sense this results in one level of the OP engaging in goal setting. Participants that loan their computer's power have no agenda in goal setting. The FSE is engaged in a different way with goal setting, through software development and infrastructural support as well as building in new and improved affordances for evolving demands. \r\n",
+  "tasks": "There are dual levels of participation, from the management side of the project as well as the volunteer side. Each of these levels have different tasks and are defined according to the specific project. Participation is defined in nebulous terms due to this relativity. ",
+  "modularity": "This varies due to the various levels of engagement. ",
+  "granularity": "Again, this varies, as some volunteers only really will deal with one small aspect (or no aspects) of a project and some will be designing and implementing projects from start to finish.",
+  "metrics": "Credits are awarded to users for contributing computer power to the solution of problems. Some early users manipulated weaknesses within the SETI@home platform to receive more credit than they deserved, but BOINC is a more secure program. The credits granted do not seem to carry much weight within the larger BOINC community, however, as they do not lead to the advancement of users in rank or other benefits. ",
+  "alliances": "BOINC was developed by a team at Space Sciences Laboratory at the University of Berkeley. It is also support through grants from the National Science Foundation. ",
+  "clients": "A wide range of public institutions from around the world, primarily universities, but some private endeavors as well. A full list of current projects can be seen here: http://boinc.berkeley.edu/projects.php\r\n",
+  "sponsors": "The National Science Foundation (awards SCI/0221529, SCI/0438443, SCI/0721124, PHY/0555655, and OCI-0721124). ",
+  "elites": "Dr. David P. Anderson\r\n    Project director, architect, and developer.\r\nRom Walton\r\n    Developer\r\nCharlie Fenton\r\n\r\n",
+  "created_at": "2012-05-15T20:20:59Z",
+  "updated_at": "2012-07-11T23:33:29Z",
+  "summary": "BOINC is a volunteer-based grid computing project that allows users to contribute to the furthering and development of scientific knowledge through the use of their computers' idle processing power. Originally developed by the Space Sciences Laboratory at the University of California, Berkeley to aid the Search for Extraterrestrial Intelligence (SETI) project, BOINC now allows users to choose which project they wish to support with their computer power. \r\n\r\nThe project operates within a larger participatory turn within scientific discourse, one that pays attention both to the democratization of science as well as its function within a larger knowledge market. The shift of support for scientific investigation away from governmental or public funding structures towards a larger, less expert group has its advantages and disadvantages. \r\n\r\n(1) Anderson, D.P.; , \"BOINC: a system for public-resource computing and storage,\" Grid Computing, 2004. Proceedings. Fifth IEEE/ACM International Workshop on , vol., no., pp. 4- 10, 8 Nov. 2004\r\n\r\nAdditional readings:\r\n\r\n\r\n\r\nAnderson, David; , \"Public Computing: Reconnecting People to Science,\" Conference on Shared Knowledge and the Web, 2003. \r\n\r\nEstrada, Trilce, Taufer, Michela and Anderson, David; , \"Performance Prediction and Analysis of BOINC Projects: An Empirical Study with EmBOINC,\" Journal of Grid Computer, vol, 7 pp. 537-554, 1 Dec. 2009. \r\n\r\nHolohan, Ann, Garg, Anurag; , \"Collaboration Online: The Example of Distributed Computing,\" Journal of Computer Mediated Collaboration, vol 10, issue 4, July 2005. \r\n\r\n",
+  "birder_credits": "Stacy Wood\r\n",
+  "tangible_problem": "Yes",
+  "tangible_problem_detail": "To provide more access to the scant resource of computer power for scientific research or other research problems.",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Projects that allow participation in science or engineering, such as citizen science, and including medical research",
+    "id": 5,
+    "name": "Science and/or Engineering",
+    "updated_at": "2011-11-29T21:48:40Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Any of various projects that depend on an Application Programming Interface (open or not) to allow for the existence of the service (e.g. Google Maps, Facebook's Graph API).",
+    "id": 3,
+    "name": "API/Application Specific",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2012-04-09T16:35:57Z",
+    "email": "stacyewood@gmail.com",
+    "id": 14,
+    "updated_at": "2012-11-02T17:02:53Z"
+  }
+}

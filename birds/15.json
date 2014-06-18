@@ -1,0 +1,70 @@
+{
+  "id": 15,
+  "name": "LibreOffice",
+  "thumbnail_100_url": "/system/assets/87/sq100/libreoffice_logo.jpeg",
+  "thumbnail_50_url": "/system/assets/87/sq50/libreoffice_logo.jpeg",
+  "url": "http://www.libreoffice.org/",
+  "foritself": "It does promote a strong sense of community by describing and promoting ways to participate in the project. This new orientation for the enrollment of potential contributors is a new development, given that the development and management of the project was done by corporations in the recent past (Sun Microsystems and Oracle).\r\n\r\n",
+  "brand": "The logo was created around the idea of Libre Software, a common denomination for Free Software outside the US, which was adopted to avoid the ambiguity of the term Free (as in gratuity) vis-a-vis Free (as in Freedom). The logo also signals the affiliation of the project with its supporting foundation.",
+  "fse_name": "Freies Office Deutschland e.V. -- aka \"The Document Foundation\".",
+  "fse_owner_founder": "André Schnabel\r\nCaolán McNamara\r\nCharles-H. Schulz\r\nFlorian Effenberger\r\nSophie Gautier \r\nItalo Vignoli\r\nOlivier Hallot\r\nThorsten Behrens\r\nChristoph Noack\r\nClaudio Filho\r\nCor Nouws\r\nDavide Dozza\r\nLeif Lyngby Lodahl\r\nMichael Meeks\r\nPeter Pöml\r\nJacqueline Rahemipour\r\nDaniel Stoni\r\nJesús Corrius\r\nJan Holešovský\r\nRene Engelhard\r\nThomas Krumbein\r\nDavid Emmerich Jourdain",
+  "fse_significant_member": "Advisory Board:\r\nGoogle\r\nFSF\r\nRed Hat\r\nSUSE\r\n\r\nIndividual Members:\r\n\r\nAndré Schnabel \r\nCaolán McNamara \r\nCharles-H. Schulz \r\nFlorian Effenberger \r\nSophie Gautier \r\nItalo Vignoli \r\nOlivier Hallot \r\nThorsten Behrens \r\nChristoph Noack \r\nCor Nouws \r\nLeif Lyngby Lodahl \r\nMichael Meeks \r\nJacqueline Rahemipour \r\nJesús Corrius \r\nJan Holešovský \r\nRene Engelhard \r\nThomas Krumbein \r\nDavid Emmerich Jourdain \r\nFridrich Strba \r\nVolker Merschmann \r\nJean-Baptiste Faure \r\nKlaus-Jürgen Weghorn \r\nYifan Jiang \r\nBjörn Michaelsen \r\nLior Kaplan \r\nSverrisson Sveinn í Felli \r\nAndreas Mantke \r\nPeter Frandsen \r\nZhang Xiaofei \r\nNoel Power \r\nMuthu Subramanian \r\nBernhard Rosenkraenzer \r\nKalman Kemenczy \r\nIrmhild Rogalla \r\nFranc Pavel \r\nVajna Miklos \r\nDanishka Navin \r\nPaulo Lima \r\nChristian Lohmaier \r\nCédric Bosdonnat \r\nAntanas Budri?nas \r\nJesper Laugesen \r\nKohei Yoshida \r\nSimon Phipps \r\nMichael Schinagl \r\nVu Hung Nguyen \r\nThomas Hackert \r\nAlbino Biasutti Neto \r\nFabian Rodriguez \r\nKlaibson Natal Ribeiro Borges \r\nBernhard Dippold \r\nPierre-André Jacquod \r\nGuy Voets \r\nKatarina Machalkova \r\nCarlos Moreira \r\nAndras Timar \r\nVarun Mittal \r\nFlorian Reisinger \r\nNorbert Thiebaud \r\nRobert Nagy \r\nFriedrich Strohmaier \r\nWolfgang Pechlaner \r\nAnton Meixome \r\nYasunori Endo \r\nEliane Domingos \r\nAbe Takeshi \r\nPetr Mladek \r\nDavid Nelson \r\nNoelson Duarte \r\nChristian Kühl \r\nKonstantinos Mousafiris \r\nMarc Paré \r\nKálmán Szalai \r\nArjuna Rao Chavala \r\nGustavo Pacheco \r\nDrew Jensen \r\nHarri Pitkänen \r\nJean Hollis Weber \r\nErich Christian \r\nJørgen Madsen \r\nEjnar Zacho Rath \r\nThomas Arnhold \r\nDavid Tardon \r\nPhan Tam \r\nHeinz Simoneit \r\nMariusz Fik \r\nLuiz Carlos de Oliveira \r\nMarie-Jo KOPP CASTINEL \r\nMartin Bayer \r\nChristophe CAZIN \r\nUwe Richter \r\nGerald Geib \r\nRobert Einsle \r\nLeo Moons \r\nManuel Schneider \r\nSigrid Carrera \r\nVitorio Furusho \r\nMarkus Mohrhard \r\nJochen Schiffers \r\nVolker Heggemann \r\nLászló Németh \r\nRenata Marques \r\nMiguel Bouzada \r\nTristão Clóvis \r\nRegina Henschel \r\nLuc Castermans \r\nJoão Fernando Costa Júnior \r\nSebastian Spaeth \r\nJoseph Powers \r\nRob Snelders \r\nRafael Angel Dominguez \r\nFrançois Tigeot \r\nAlbert Thuswaldner \r\nAlexander Werner \r\nGoran Rakic \r\nChristina Roßmanith \r\nRomeo Mlinar \r\nHelio Jose Santiago Ferreira \r\nJomar Silva \r\nMichael Natterer \r\nChristian Dywan \r\nStuart Swales \r\nAndrea Pescetti \r\nMorten Juhl-Johansen Zölde-Fejér \r\nLaurent Godard \r\nEilidh McAdam \r\nStephan Bergmann \r\nLuboš Lu?ák \r\nFaulí Tarazona Xisco \r\nJean-Yves ROYER \r\nKnut Olav Bøhmer \r\nLoic Dachary \r\nVersini Arnaud \r\nRathke Eike \r\nMarc-André Laverdière \r\nKevin Hunter \r\nFa Conti \r\nJesse Adelman \r\nRui Ogawa \r\nRaul Pacheco da Silva \r\nTollef Fog Heen \r\nPeter Szakal \r\nLionel Elie Mamane \r\nIvan Timofeev \r\nOlav Dahlum \r\nPeter Foley ",
+  "fse_mission_statement": "\"The Document Foundation has the mission of facilitating evolution of the LibreOffice Community into a new, open, independent, and meritocratic organization. An independent foundation properly reflects the values of our contributors, users, and supporters, allowing a more effective, efficient, and transparent community. TDF will protect past investments by building on the achievements of the first decade with OpenOffice.org, will encourage wide participation within the community and will coordinate activities across the community.\"\r\n\r\nsource: http://www.documentfoundation.org/foundation/history/",
+  "op_name": "LibreOffice",
+  "op_vip_founders": "Same as the FSE",
+  "op_typical_member": "users/translators, software developers working for companies, software engineers.",
+  "formation": "FSE -> OP",
+  "history": "The german company StarDivision created a office suite for the UNIX platform. The office suite was bought by Sun Microsystems in 1999, and renamed OpenOffice. Due to strong control of the contributions to the codebase, a group of OpenOffice developers created a fork called Go-ooo.\r\n\r\nIn 2010, Oracle bought Sun Microsystems. The Document Foundation was founded in order to create an alternative to OpenOffice, based on the Go-ooo fork. The biggest fear was that Oracle would stop supporting OpenOffice. The Document Foundation also wanted to open to contribution by Free and Open Source developers from community projects, who had allegedly their patches and contributions rejected by Sun Microsystems (which target the corporate market for the OpenOffice suite). \r\n",
+  "lifespan": "From a proprietary office suite to a community-led project and association for the promotion of open document standards: Startoffice -> OpenOffice -> Libreoffice (still alive).\r\n",
+  "resource": "Software and Documentation",
+  "availability": "In OpenOffice: Public Document License for documentation and LGPL for code\r\n\r\nIn LibreOffice: dual-licensed with Mozilla Public License and LGPLv3",
+  "participation": "As stated in the \"Next Decade Manifesto\":\r\n\r\n\"WE COMMIT OURSELVES: to eliminate the digital divide in society by giving everyone access to office productivity tools free of charge to enable them to participate as full citizens in the 21st century; the ownership of office productivity tools by monopoly suppliers which imposes a de-facto tax on global electronic free speech and penalises the economically disadvantaged; to support the preservation of mother tongues by encouraging all peoples to translate, document, support, and promote our office productivity tools in their mother tongue; the creeping domination of computer desktops by a single language forcing people to learn a foreign language before they can express themselves electronically; to allow users of office productivity software to retain the intellectual property in the documents they create by use of open document formats and open standards; to an open and transparent peer-reviewed software development process where technical excellence is valued\".\r\n\r\nhttp://www.documentfoundation.org/pdf/tdf_manifesto.pdf",
+  "tasks": "Tasks are divided as follows: \r\n\r\n- Develop code, bug-fixing, and submitting patches.\r\n- Do quality assurance [QA]\r\n- Produce documentation\r\n- Do localization\r\n- Do user experience [UX] and visual design    \r\n- Do marketing: attend FOSS events as part of an official Foundation Team. \r\n- Do Web infrastructure administration and development\r\n- Create extensions and templates\r\n- Be an active community member, sign-up for our support mailing list, and help out other users with their questions and problems\r\n- Donate money to finance the project\r\n",
+  "modularity": "",
+  "granularity": "",
+  "metrics": "Contributions are measured by the number of commits to the codebase of LibreOffice. Other measures of successful participation include the unspecified notion of \"active participation\" in mailing-lists and Free Software events.",
+  "alliances": "Suse\r\nCanonical\r\nGoogle\r\nNovell\r\nRed Hat\r\nFree Software Foundation\r\nSoftware in Public Interest (SPI), representative in the US",
+  "clients": "end-users, companies, governments, software programmers; examples of companies include: redoffice (Chinese fork of OpenOffice), IBM Lotus Symphony (OpenOffice fork by IBM).",
+  "sponsors": "Sun Microsystems / Oracle; Document Foundation; Donations from companies and individuals.",
+  "elites": "Founders of the Document Foundation and long-time contributors of OpenOffice can be considered elite members, as they get to define the future of the project and the rules for membership and participation in the development process.",
+  "created_at": null,
+  "updated_at": "2012-03-05T22:45:29Z",
+  "summary": "OpenOffice / LibreOffice became one of the most important projects for the Free Software community in which it bridges the gap between development communities and computer users by providing an easy-to-use, complete suite of office applications. \r\n\r\nOpenOffice / LibreOffice describes a distinct trajectory of most FOSS projects: it started from a FSE and became a very active OP, whereas most FOSS projects only constitute FSE when they manage to attract active contributors and increase and size (creating problems for the coordination and management of the project).\r\n\r\n",
+  "birder_credits": "",
+  "tangible_problem": null,
+  "tangible_problem_detail": null,
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Meritocracy, in the first, most administrative sense, is a system of government or other administration (such as business administration) wherein appointments are made and responsibilities assigned to individuals based upon their \"merits\", namely intelligence, technical skill, credentials, creativity, and education, determined through evaluations or examinations.",
+    "id": 1,
+    "name": "Meritocracy",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Meritocracy, in the first, most administrative sense, is a system of government or other administration (such as business administration) wherein appointments are made and responsibilities assigned to individuals based upon their \"merits\", namely intelligence, technical skill, credentials, creativity, and education, determined through evaluations or examinations.",
+    "id": 1,
+    "name": "Meritocracy",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Free and Open Source Software",
+    "id": 1,
+    "name": "FOSS",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Projects that directly interacts with or depends on the ecology of low-level UNIX-based tools and Internet-based services such as UNIX operating systems, C compilers, source code management systems (SCM), POSIX standard components, internet protocols and services.  ",
+    "id": 1,
+    "name": "UNIX + Internet",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2011-10-21T19:47:40Z",
+    "email": "unixjazz@gmail.com",
+    "id": 8,
+    "updated_at": "2013-05-28T02:38:40Z"
+  }
+}

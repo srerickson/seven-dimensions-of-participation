@@ -1,0 +1,70 @@
+{
+  "id": 1,
+  "name": "Dyne.org",
+  "thumbnail_100_url": "/system/assets/14/sq100/dyne.png",
+  "thumbnail_50_url": "/system/assets/14/sq50/dyne.png",
+  "url": "http://www.dyne.org",
+  "foritself": "yes, it is aware of itself as a collective of hackers and artists.",
+  "brand": "hacker, electronic disturbance, artsy type.",
+  "fse_name": "they refuse crystallization of the project into a Formal Social Enterprise (FSE).",
+  "fse_owner_founder": "there is no FSE",
+  "fse_significant_member": "hackers, activists, journalists, artists",
+  "fse_mission_statement": "OP goals: \r\n\r\n\"Promote the idea and practice of open source knowledge sharing within civil society; to open the participation to on-line and on-site communities, leveraging the democratic and horizontal access to technology, lowering the economical requisites to its accessibility; to foster employment of FOSS in artistic creation: exploring new forms of expression and interaction, disseminating new languages that can be freely adopted and re-elaborated by everyone, insuring the long term conservation of digital artworks; being software a socially relevant media it should not be invented and maintained only on the basis of its merchantability\".",
+  "op_name": "Dyne.org",
+  "op_vip_founders": "Dennis Rojo Jaromil\r\nTatiana de la O",
+  "op_typical_member": "multimedia artists, journalists, activists, and FOSS hackers",
+  "formation": "It was and still is an OP.",
+  "history": "It started as a project centered around a Linux distro dedicated for Multimedia: Dynebolic. Then, it evolved into a set of applications for FOSS multimedia and V-Jaying. \r\n\r\nNow Dyne.org operates as a \"hub\" connecting different groups geographically dispersed -- from free radio to internet radios, to software development groups, to artists and independent journalists.",
+  "lifespan": "still active",
+  "resource": "Software, Documentation, and Support. Participation in Protests and Demonstrations.",
+  "availability": "Copyleft",
+  "participation": "OP",
+  "tasks": "Yes, develop free software for artists and activists",
+  "modularity": "computer programming, hacking, debugging, packaging, documenting, participating in meetings online and offline and social protests.",
+  "granularity": "VERIFY.",
+  "metrics": "measured by software release (versions).",
+  "alliances": "other hackivist groups in Europe, such as G.I.S.S. TV",
+  "clients": "FOSS users, programmers, multimedia artists, hacktivists",
+  "sponsors": "no sponsors",
+  "elites": "Dennis Jaromil - founder, his authority is based on technical + \"political\" prestige.",
+  "created_at": null,
+  "updated_at": "2012-03-19T21:13:17Z",
+  "summary": "",
+  "birder_credits": "Luis Felipe R. Murillo",
+  "tangible_problem": null,
+  "tangible_problem_detail": null,
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Acephalous, loosely networked, intended to devolve all decision making to groups as local (and as small) as possible.   ",
+    "id": 4,
+    "name": "Radical decentralization",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Meritocracy, in the first, most administrative sense, is a system of government or other administration (such as business administration) wherein appointments are made and responsibilities assigned to individuals based upon their \"merits\", namely intelligence, technical skill, credentials, creativity, and education, determined through evaluations or examinations.",
+    "id": 1,
+    "name": "Meritocracy",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Free and Open Source Software",
+    "id": 1,
+    "name": "FOSS",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Projects that directly interacts with or depends on the ecology of low-level UNIX-based tools and Internet-based services such as UNIX operating systems, C compilers, source code management systems (SCM), POSIX standard components, internet protocols and services.  ",
+    "id": 1,
+    "name": "UNIX + Internet",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2011-10-21T19:47:40Z",
+    "email": "unixjazz@gmail.com",
+    "id": 8,
+    "updated_at": "2013-05-28T02:38:40Z"
+  }
+}

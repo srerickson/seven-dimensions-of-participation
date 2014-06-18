@@ -1,0 +1,70 @@
+{
+  "id": 223,
+  "name": "Quirky",
+  "thumbnail_100_url": "/system/assets/263/sq100/28-logo-quirky_main.jpeg",
+  "thumbnail_50_url": "/system/assets/263/sq50/28-logo-quirky_main.jpeg",
+  "url": "http://www.quirky.com",
+  "foritself": "Because participants can participate in various stages of the design of a product, they are generally aware of being part of a community of people interested in the process, the competition and the outcomes facilitated by Quirky",
+  "brand": "Quirky positions itself as a participation-driven design enterprise. It emphasizes crowd and community-based design processe as well as synergy with cutting-edge manufacturing technology (3D printing) through the web. The logo is a minimalist letter Q in white with a purple square.  The Q is reminiscent of  a dialogue ballon, which represents the participation (talking about ideas) with the design aspect. ",
+  "fse_name": "Quirky Incorporated",
+  "fse_owner_founder": "Ben Kaufman (CEO) (2012)",
+  "fse_significant_member": "Ben Kaufman (CEO), John Lott (CFO and COO), Bill Lee (CRO), Michael Lacy (Head Architect).  Other current employees listed at http://www.quirky.com/about/team.",
+  "fse_mission_statement": "Quirky describes what it does as \"social product development\".  The mission changes as the company does, but emphasizes aspects of collaboration, involvement and design.  \"The easiest way to bring your ideas to life.\"  At one point the corporation solicited mission statement ideas on their forum: http://www.quirky.com/forums/topic/1737",
+  "op_name": "The Quirky community; sometimes referred to as inventors and influencers. ",
+  "op_vip_founders": "Influencers are featured on the community section of the site.  Certain members like Jake Zien (a RISD undergrad, inventor of the Pivot Power adjustable powerstrip) have been profiled in videos or appear regularly in press releases. Each Influencer is shown along with statistics on how many projects they have influenced and how much money they have made.  As of 7/2012 Jake Zien made the most money ($112,000) and Michael Cavada worked on the most products (1193).  ",
+  "op_typical_member": "Aspiring industrial designers, home inventors, people frustrated with poorly designed consumer products. ",
+  "formation": "FSE->OP",
+  "history": "Quirky was founded in 2009 by Ben Kaufman, designer and entrepreneur with previous experience at a design firm called Mophie, focused on designing iPhone cases.  After the sale of Mophie he decided to start Quirky as a crowdsourced design firm.  The company has grown fast and gathered a great deal of attention in the ensuing three years (as the Press page attests: http://www.quirky.com/about/press.  Over time they have elaborated the design process, streamlined it and introduce many different social media and community-oriented features, adding members via facebook and other sources.  As of 7/2012, Quirky products are sold in Bed Bath and Beyond, Target, Toys R Us, Ace Hardware, The Container Store, Office Max, Barnes and Noble, Amazon, Safeway, Thinkgeek, Frontgate and MicroCenter. ",
+  "lifespan": "Still going strong in 2012. ",
+  "resource": "Initial inventor ideas, suggestions from community members, and a \"design process\" that brings ideas for products to market.      More distantly, the resource is \"royalties from products sold\"",
+  "availability": "Successful products are manufactured and sold through Quirky.com and other retail channels. \r\n\r\nRoyalties are distributed to \"influencers\" Quirky gives about 35% of the direct (quirky.com) revenue and 10% of indirect (other retailers) revenue back to the people who participated in the design process. \r\n\r\nIntellectual property rights are transfered to Quirky.  From the FAQ July 2012 (http://www.quirky.com/about/ip): \r\n\r\n\"By submitting your idea to Quirky, you grant a license in all IP in the submission to Quirky and the Quirky community of users to consider and comment on your submission within the Quirky platform. If Quirky accepts your submission for further development and possibly eventual commercialization, you assign ownership in all IP in the submission to Quirky.\r\nIf your submission is not accepted by Quirky for further development you may withdraw it from the Quirky platform. If Quirky accepts your submission for further development but does not commercialize a resulting product, subject to certain conditions detailed in the quirky.com Terms of Use, you may acquire the IP in your submission from Quirky.\r\n\r\nIn order to successfully develop and commercialize a product, Quirky must devote significant resources and accept exposure to a multitude of legal risks. Quirky cannot sustain this level of investment and risk taking without having the ability to control the exploitation of IP embodied in its products. In return for ownership of IP in a commercialized product, Quirky pays the contributing user a perpetual royalty commensurate with the degree of contribution. Quirky does not negotiate this arrangement with its community of users.\"\r\n\r\nAll aspects of the design process are labeled \"influence\" and community members receive credit for \"successful\" influence on a product. ",
+  "participation": "FSE members are primarily responsible for goal setting and governance of Quirky.  They choose what products to fund and manufacture, how to market them, and where to sell them.  However, the goals of each product/invention can be determined by the community, and indeed, each \"winning\" suggestion is attributed to a particular person, and that also determines any share in the royalties they may have.  \r\n\r\nIn addition, there are extensive forums where periodically members of the community might say something supportive or critical about the direction of the company.  But the forums are not apparently designed to allow community members to influence the FSE.",
+  "tasks": "Participation can take several forms.  First, submitting an idea (which costs $10, as a way to keep submissions serious) involves filling out a form and answering specific questions regarding the characteristics of an idea, its purpose and viability.  Second, influencing an idea takes place when people vote on existing submissions and offer input during the process of innovation.  The \"Quirky Process\" includes \"ideation, sales, naming, research, tagline, design, logo\" and influence at each stage is awarded by the FSE. \r\n\r\nRegistration on the site is required.\r\n",
+  "modularity": "All tasks are forms of either submitting an idea or evaluating and voting on one.  Submitting ideas is the more difficult in that it requires working out various aspects of an idea.  Evaluating one is easier, the expectation of work level is that each task requires creative thinking either to formulate an idea or to critique a proposed one. ",
+  "granularity": "Tasks are modularized according to the process--ideation, sales, naming, research, tagline, design, logo.  The process takes place as the FSE design team updates and refines and idea and the community gives feedback on the product. ",
+  "metrics": "The main metrics include number of projects, amount of influence excersised and royalties earned.  Community members profile pages display these numbers, but there is no central \"leaderboard\" as of July 2012. ",
+  "alliances": "Sundance film channel is producing a reality series about inventors who pitch products to Quirky.  Six episodes have been produced so far.\r\n\r\nQuirky also partnered with \"Moneyball\" the movie to sponsor a design contest in which a bicycle was designed and manufactured. \r\n\r\nhttp://www.sundancechannel.com/quirky/\r\n\r\nA number of entertainment media execs are \"advisors\" to the company.  http://www.quirky.com/about/team/board",
+  "clients": "",
+  "sponsors": "Venture Capital firm RRE ventures (James D. Robinson co-founder and managing partner is also on Quirky's board of directors) provided $6M in venture funding in Aug 2012.  Together with Norwest Ventures (Josh Goldman is on the board of director) they also provided 16M in August 2011.\r\n\r\n\r\n\r\n",
+  "elites": "John Maeda, Artist and President of RISD, pioneer in electronic media and digital art is on the board of directors\r\n",
+  "created_at": "2012-07-23T20:42:18Z",
+  "updated_at": "2012-07-23T22:16:48Z",
+  "summary": "Quirky is a \"social product development\" firm that takes ideas pitched by community members, lets them vote on them, and then picks one per week to develop into a product.  The firm has an in house design team that does most of the work from design and engineering to marketing, sales and production, but every step of the way the present those ideas to the community for feedback and new ideas.  Anyone can pitch and idea, though there is a $10 submission fee, charged in order to ensure that submissions are not frivolous.  \r\n\r\nMembers of the community in turn can earn \"influence\" over a product which accumulates on their profile page.  If the product achieves enough initial sales, it goes into production and the community members who invented or influenced it receive a share of the revenue.  Jake Zien, for instance, who is regularly featured, invented a reconfigurable power strip which was brought to market, and he earned over $100K in royalties. \r\n\r\nProducts are sold through Quirky, and at many major retailers.  As the founder puts it in different interviews, even if someone who submits an idea does not get the product made, they get a huge amount of feedback and criticism on the virtues and faults of their ideas.  In return, the company makes what they think are the best products possible with the help of many people. ",
+  "birder_credits": "Luis F. Alvarez-Leon, Christopher Kelty",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "OP framed as user-producers and collaborators",
+    "id": 13,
+    "name": "Produsers",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Projects that enable participation in making, remaking or learning how to make things, often for sale.",
+    "id": 8,
+    "name": "Craft, DIY, Consumer goods",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2011-07-22T19:14:37Z",
+    "email": "ckelty@ucla.edu",
+    "id": 2,
+    "updated_at": "2013-10-22T20:47:03Z"
+  }
+}

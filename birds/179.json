@@ -1,0 +1,70 @@
+{
+  "id": 179,
+  "name": "Free Press",
+  "thumbnail_100_url": "/system/assets/82/sq100/free-press-logo.jpeg",
+  "thumbnail_50_url": "/system/assets/82/sq50/free-press-logo.jpeg",
+  "url": "http://www.freepress.net/",
+  "foritself": "Not really.  Free Press appears not to be interested in creating a community of activists per se; certainly not through the website or social media, in any other form than by mass-emailing people who sign up. ",
+  "brand": "Free Press is a national, nonpartisan, nonprofit organization working to reform the media. Through education, organizing and advocacy, we promote diverse and independent media ownership, strong public media, and universal access to communications. \r\n",
+  "fse_name": "Free Press",
+  "fse_owner_founder": "Jon Nichols, Bob McChesney, Tim Wu, Tim Karr, Josh Silver",
+  "fse_significant_member": "Josh Stearns, Craig Aaron, Josh Levy",
+  "fse_mission_statement": "Media play a huge role in our lives. TV, radio, the Internet, movies, books and newspapers inform and influence our ideas, opinions, values and beliefs. They shape our understanding of the world and give us the information we need to hold our leaders accountable. But our media system is failing.\r\n\r\nThis failure isn't natural. For far too long, corrupt media policy has been made behind closed doors in the public's name but without our informed consent. If we want better media, we need better media policies. If we want better policies, we must engage more people in policy debates and demand better media.\r\n\r\nThat's why Free Press was created. We're working to make media reform a bona fide political issue in America. Powerful telecommunications, cable and broadcasting companies have plenty of lobbyists to do their bidding. We're making sure the public has a seat at the table, and we're building a movement to make sure the media serve the public interest.\r\n\r\nFree Press believes that media reform is crucial not just for creating better news and entertainment, but to advancing every issue you care about. A vibrant, diverse and independent media is the cornerstone of a healthy democracy.",
+  "op_name": "the public of activists",
+  "op_vip_founders": "none",
+  "op_typical_member": "young white male, digitally media literate, legally mindful, politically aware\r\n",
+  "formation": "Josh Silver cold called Bob McChesney, Silver was a public for McChesney's books, and they joined forces forming the FSE.",
+  "history": "It was founded in 2002 by media scholar Robert W. McChesney, The Nation contributor John Nichols, and Josh Silver, current CEO of the Democracy Fund, a foundation challenging the influence of corporations over government policymaking. Craig Aaron is Free Press' current president and CEO. Its board chair is former National Organization for Women head Kim Gandy. (from Wikipedia)\r\n\r\n\r\nFree Press organizes The National Conference for Media Reform, or NCMR. \"The National Conference for Media Reform is the biggest and best conference devoted to media, technology and democracy.\" Its \"purpose is to strategize, network, share skills, swap information and inspire during three days of workshops, panels, caucuses, keynote speeches, meetings and parties.\" [10] The fifth NCMR conference was held on April 8-10, 2011, at the Seaport World Trade Center in Boston, Massachusetts. Activists, policymakers, media makers, educators and journalists attended the conference. There were roughly 300 speakers and performers and an estimated 2,500 people in attendance. Previous conferences were held in Madison, Wis. (2003), St. Louis (2005), Memphis, Tenn. (2007), and Minneapolis (2008).[11]\r\n",
+  "lifespan": "Yes, existing and flourishing.",
+  "resource": "FP provides coverage, lobbying, and resources for political action to those aware or not of infringements on free press and open media.",
+  "availability": "The resource is available to anyone with an internet connection.",
+  "participation": "Only the FSE participates in goal selection. But, like any organization, the OP can write to or talk with FP personnel and propose options.",
+  "tasks": "FP tasks its OP to lobby Congress to keep the internet and the press open and free.",
+  "modularity": "Small but not anonymizable, FP needs individuals to be themselves as citizens, sign petitions, protest, etc.",
+  "granularity": "It is not.",
+  "metrics": "The FSE measures the level of involvement in their campaigns.",
+  "alliances": "FP keeps a Media Reform Organization Directory that extensively lists the local and national partners. http://www.freepress.net/resources/org_directory",
+  "clients": "The client is OP consisting of progressive America.",
+  "sponsors": "FP publishes its donor list in its annual report. Open Society, Ford, Rockefeller, Woodcock, etc. http://www.freepress.net/files/ar2010_11-29-11_1.pdf",
+  "elites": "None, clear definition of FSE and OP.",
+  "created_at": "2011-12-13T18:03:47Z",
+  "updated_at": "2012-08-03T21:51:57Z",
+  "summary": "Free Press works to connect would-be progressive media reform activists to the information and people to make their concerns count. They are a platform for media justice activism. As such, Free Press is important as it is an FSE that actively uses the internet to \"defend\" network neutrality and other progressive media causes. To do this, Free Press partners with other FSEs in creating cross-OP social movements. Their work on internet freedom in particular reveals an excellent example of reflexive OP-engineering. ",
+  "birder_credits": "Adam Fish\r\n\r\nInterview data with Jon Nichols, Josh Stearns not incorporated into this database. ",
+  "tangible_problem": "",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "An organization with one leader or decision maker whose authority rests on the consent of the governed and/or his/her charisma.  Other forms of organization may supplement it (hierarchy, meritocracacy,or consensus amongst the staff or participants) but the leader's authority is final and effective.",
+    "id": 3,
+    "name": "Charismatic Leadership/Benevelont Dictatorship",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Organized primarily by weak ties (\"friends\") grouped into overlapping networks.",
+    "id": 7,
+    "name": "Overlapping Networks of Weak Ties",
+    "updated_at": "2012-07-12T17:49:00Z"
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "groups organized for social or political change; independent media organizations; hacktivists; advocates and other coalitions.",
+    "id": 9,
+    "name": "Activist",
+    "updated_at": "2011-10-21T21:24:40Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2011-10-07T16:00:54Z",
+    "email": "rawbird@gmail.com",
+    "id": 6,
+    "updated_at": "2012-11-16T19:52:09Z"
+  }
+}

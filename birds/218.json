@@ -1,0 +1,70 @@
+{
+  "id": 218,
+  "name": "FreeRice",
+  "thumbnail_100_url": "/system/assets/219/sq100/logo.jpg",
+  "thumbnail_50_url": "/system/assets/219/sq50/logo.jpg",
+  "url": "Freerice.com",
+  "foritself": "Yes, participants win grains of rice and post their winnings in the brag space. They can also connect with their friends on Facebook and Twitter. ",
+  "brand": "“FreeRice is a non-profit website run by the United Nations World Food Programme. \r\n\r\nFreeRice has two goals:\r\n•\tProvide education to everyone for free.\r\n•\tHelp end world hunger by providing rice to hungry people for free.\r\nThis is made possible by the generosity of the sponsors who advertise on this site. Whether you are CEO of a large corporation or a street child in a poor country, improving your education can improve your life. It is a great investment in yourself. Perhaps even greater is the investment your donated rice makes in hungry human beings, enabling them to function and be productive. Somewhere in the world, a person is eating rice that you helped provide.” (From the Freerice website)\r\n",
+  "fse_name": "United Nations World Food Programme (www.wfp.org) ",
+  "fse_owner_founder": "“The WFP was first established in 1961 after the 1960 Food and Agricultural Organization (FAO) Conference when George McGovern, director of the US Food for Peace Programmes proposed establishing a multilateral food aid programme. WFP was formally established in 1963 by the FAO and the United Nations General Assembly on a three-year experimental basis. In 1965, the programme was extended to a continuing basis.” (Wikipedia) ",
+  "fse_significant_member": "In 2008, the Kingdom of Saudi Arabia gave the World Food Programme a contribution of $500M to establish its WFP Innovations Fund. (from the WFP site)",
+  "fse_mission_statement": "http://www.wfp.org/about/mission-statement\r\n",
+  "op_name": "Freerice.com\r\n",
+  "op_vip_founders": "Founder - John Breen - Senior Systems Analyst at Albert Einstein Healthcare Network\r\nVIPS - Curtis ‘50 Cent’ Jackson, Drew Barrymore\r\n",
+  "op_typical_member": "Computer based office and cubicle workers with Internet access and sufficient autonomy to spend time on the site; students, especially those studying for the SAT and GRE exams; older persons, especially retired folks. Workplace and church  ‘teams’.\r\n",
+  "formation": "Freerice is a product of the United Nations World Food Program launched on October 7, 2007. \r\n\r\nProliferation/evolution of the species looks like this: http://wayback.archive.org/web/20080601000000*/http://freerice.com\r\n",
+  "history": "“Freerice is a free online game and learning tool, that allows players to raise rice to fight world hunger while learning through educational, multiple-choice games. For every question the user answers correctly, 10 grains of rice are donated to the World Food Programme. The available subjects include English vocabulary (the original subject with which the game launched), multiplication tables, pre-algebra, chemical symbols (basic or intermediate), English grammar, SAT, basic foreign language vocabulary for English speakers (French, German, Italian, and Spanish), human anatomy, geography (flags of the world, world capitals, country identification and world landmarks), the identification of famous artwork, and literature (classic and popular books). As you answer questions, your total score is displayed as a mound of rice and the amount grains.\r\nThe website went live on October 7, 2007 with 830 grains of rice donated on its first day. The second word in its name was originally capitalized as \"FreeRice.\"\r\nOn 20 November 2007, the WFP launched a campaign to \"feed a child for Thanksgiving,\" encouraging internet users \"to take time out from traditionally the busiest online shopping period of the year and help the hungry by playing phenomenally successful web-based vocab game, FreeRice.\"[1]\r\nFor a brief while, the amount of rice donated per correct answer was increased to 20 grains, though this was reduced to 10 grains of rice per answer within a few months.\r\nIn March 2009 the FreeRice website was donated to the UN World Food Programme.\r\nIn September 2010, the UN World Food Program launched a new version of the game with social networking, groups, rankings and achievements. As part of the launch, the site dropped the second capitalization in its name, going from \"FreeRice\" to \"Freerice.\"\r\nIn 2011, Freerice launched new language versions of the website in Spanish, French, Italian, Chinese and Korean, allowing users to play the popular game across a number of subjects in their own language for the first time. Freerice China is currently offline, as the World Food Programme has ended its contract with the partner responsible for building and maintaining it.” (Wikipedia)\r\n",
+  "lifespan": "2007 – present",
+  "resource": "Freerice participants play the various games on the site and as they solve problems grains of rice are contributed by corporate sponsors to feed the hungry. Those participants who register and log on can register their scores. Unregistered participants may view other players’ scores broken down by category (e.g., English vocabulary, Paintings, SAT questions, etc.). These posts include email contact information making social engagement between and amongst participants possible. ",
+  "availability": "The resource is free and open to anyone who visits the site. One need not register to play. However, registration allows a visitor to post scores. Visitors can see various types of data (scores, trends, etc.) but this information is ultimately the property of the OP and the FSE.",
+  "participation": "Participants (OP) do not set goals, but can make suggestions through the Contact page ‘How to Help’ section. FSE goals are set through the corporate hierarchy.",
+  "tasks": "Playing the verbal acuity game (or its variants) to earn rice, joining the community of participants, participating in forums (Facebook, Twitter, etc.).",
+  "modularity": "Engagement with the primary task of the project (answering multiple choice vocabulary questions) is easy. Increasing (or decreasing) levels of difficulty are programmed into the site and are automatically presented based on performance: if you answer a question correctly, the next one is harder, and so on. The reverse is true as well. Participants may also select degrees of difficulty, and there are many choices.",
+  "granularity": "As small as answering one question, as large as the Saudi sponsorship of the 500 million dollar contribution to the FSE mentioned above. ",
+  "metrics": "Tasks are measured each time a question is answered. Correct questions gain the player/participant 10 grains of rice. Rice is not taken away for wrong answers. ",
+  "alliances": "Freerice shares a genetic alliance with other social computing sites developed and supported by Typhon (http://www.typhon.com/en/)\r\n",
+  "clients": "On one side, the visitors to the site who mobilize the resources to feed the hungry are clients. The project also acts on behalf of the United Nations World Food Programme, which acts on behalf of starving individuals in impoverished communities around the globe, who are also clients of the project.",
+  "sponsors": "The United Nations World Food Programme is the corporate sponsor and funder for the project.",
+  "elites": "‘Sandy’ Berger\r\nRobert Dole\r\nGeorge McGovern\r\n",
+  "created_at": "2012-05-25T16:53:34Z",
+  "updated_at": "2012-05-25T16:53:34Z",
+  "summary": "Freerice is a free online game and learning tool that allows players to raise rice to fight world hunger while learning through educational, multiple-choice games. For every question the user answers correctly, 10 grains of rice are donated to the World Food Programme. Purchase of the rice and its delivery to those in need is provided by site sponsors in exchange for advertising. \r\n\r\nThe site is participatory on several levels. First, it lures visitors into a gaming state in which visitors self test their vocabulary and compare results with other participants. The competition structure is vertically integrated into the site: one can post (brag) about results (e.g. show off plumage), flock with others to form a ‘competition group’ (e.g., Buddhists Against World Hunger, Green Bay Brains, etc.) thus aligning the participation with other similar species devoted to supporting social causes (e.g., AIDs, Breast Cancer, etc.). Participants can also read corporate blog postings and contribute. The site also invites visitors to click out to links – such as to the corporate sponsor (World Food Program) to participate (donate) directly. Tabs invite visitors to become further involved by making suggestions, linking to Twitter or Facebook.  ",
+  "birder_credits": "Credits indicated above.",
+  "tangible_problem": null,
+  "tangible_problem_detail": null,
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": "2011-11-30T05:22:31Z",
+    "description": "Focused on volunteerism, fundraising, or cause-related participation",
+    "id": 13,
+    "name": "Social Entrepreneurialism",
+    "updated_at": "2011-11-30T05:22:31Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Games or persistent worlds that rely on specific software or hardware environments (which may in turn rely on other components and services) and cannot be accessed without that software/hardware.",
+    "id": 4,
+    "name": "Gaming Environments/Platforms",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2012-04-09T03:53:35Z",
+    "email": "mark.roosa@pepperdine.edu",
+    "id": 13,
+    "updated_at": "2012-05-29T20:47:45Z"
+  }
+}

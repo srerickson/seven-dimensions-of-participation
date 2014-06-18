@@ -1,0 +1,70 @@
+{
+  "id": 43,
+  "name": "Patients Like Me",
+  "thumbnail_100_url": "/system/assets/31/sq100/PatientsLikeMe-logo.png",
+  "thumbnail_50_url": "/system/assets/31/sq50/PatientsLikeMe-logo.png",
+  "url": "http://www.patientslikeme.com/",
+  "foritself": "Definitely.  The project is designed to create new communities of co-suffering patients through the aggregation of data.  There are two different \"communities\" however: one is the community of patients, segmented by disease, medication, treatment regime, symptoms; the other is the community of potential researchers and \"trusted healthcare partners\" interested in the aggregated data that results from the actions of the individuals. ",
+  "brand": "Patients Like Me is branded as a social network site for patients.  It is (and has over the years) become remarkably similar to facebook in its look, logo and functionality.  The site is facebook blue (a lighter shade) and has a heavy focus on finding other patients like you, so all the language and functionality is designed to encourage \"like me\" actions. ",
+  "fse_name": "PatientsLikeMe.com",
+  "fse_owner_founder": "James and Ben Heywood and Jeff Cole, all engineers at MIT. Investors of the project include CommerceNet, Omidyar, Collaborative Seed and Growth, Invus, LP.",
+  "fse_significant_member": "The company includes a number of MDs whose expertise is related to the areas they seek to develop.",
+  "fse_mission_statement": "PatientsLikeMe is committed to putting patients first. We do this by providing a better, more effective way for you to share your real-world health experiences in order to help yourself, other patients like you and organizations that focus on your conditions.\r\nhttp://www.patientslikeme.com/about",
+  "op_name": "Patients identify (or are identified) primarily by the disease name, like MS, ALS or Anxiety Disorder. More research would be necessary to discover to what extent the OP members interact primarily through the site and to what extent they use other tools.  ",
+  "op_vip_founders": "Members can be sorted by \"helpful comments\" or by \"forum posts\" or by \"profile views.\"",
+  "op_typical_member": "Patients and caretakers",
+  "formation": "A clear case of the FSE being founded first and the community being grown by their efforts.  As an early example of the use of such a site to generate an OP in medical issues, it succeeded by virtue of being one of the first to constitute an OP.",
+  "history": "'PatientsLikeMe was co-founded in 2004 by three MIT engineers: brothers Benjamin and James Heywood and longtime friend Jeff Cole. Five years earlier, their brother and friend Stephen Heywood was diagnosed with ALS (Lou Gehrig’s disease) at the age of 29. The Heywood family soon began searching the world over for ideas that would extend and improve Stephen’s life. Inspired by Stephen’s experiences, the co-founders and team conceptualized and built a health data-sharing platform that we believe can transform the way patients manage their own conditions, change the way industry conducts research and improve patient care.'\r\nhttp://www.patientslikeme.com/about\r\n\r\nPatientsLikeMe launched its first online community for ALS patients in 2006. From there, the company began adding communities for other life-changing conditions, including multiple sclerosis (MS), Parkinson's disease, fibromyalgia, HIV, chronic fatigue syndrome, mood disorders, epilepsy, organ transplantation, progressive supranuclear palsy, multiple system atrophy, and Devic's disease (neuromyelitis optica). By October 2009, the number of registered users had grown to more than 45,000.\r\n\r\nIn April 2011, the company expanded its scope and opened its doors to any patient with any condition. By June 2011, PatientsLikeMe had hit a new milestone of 100,000 members. Today the website covers more than 1,200 health conditions, with new members joining daily from the US and other countries around the world. Of note are the more than 4,500 ALS members, who have helped make PatientsLikeMe’s flagship community the largest online population of ALS patients in the world.\r\n\r\nsources:\r\nhttp://en.wikipedia.org/wiki/PatientsLikeMe\r\nhttp://blog.patientslikeme.com/2011/04/11/patientslikeme-calls-all-patients-with-any-condition-to-join/\r\nhttp://blog.patientslikeme.com/2011/05/20/raise-your-awareness-of-als-lou-gehrig%E2%80%99s-disease/",
+  "lifespan": "Still going as of Summer 2011. ~110,000 members",
+  "resource": "The site's primary resource is data - in particular data about patients' experience with particular diseases.  Patients can learn from each other about symptoms, treatment, outcomes, devices, and so on.  Aggregate data is sold to \"trusted healthcare partners.\"\r\nhttp://www.patientslikeme.com/help/faq/Corporate#m_money",
+  "availability": "From the website FAQ: \r\n\r\n\"We take the information patients like you share about your experience with the disease and sell it to our partners (i.e., companies that are developing or selling products to patients). These products may include drugs, devices, equipment, insurance, and medical services.  Except for the restricted personal information you entered when registering for the site, you should expect that every piece of information you submit (even if it is not currently displayed) may be shared with our partners and any member of PatientsLikeMe, including other patients.  We do not rent, sell or share personally identifiable information for marketing purposes or without explicit consent. Because we believe in transparency, we tell our members exactly what we do and do not do with their data. \r\n\r\nBy selling this data and engaging our partners in conversations about patient needs, we're helping them better understand the real world medical value of their products so they can improve them. We are also helping companies accelerate the development of new solutions for patients.\r\n\r\nPatientsLikeMe is a for-profit company (with a not-just-for-profit attitude).  Every partnership we develop must bring us closer to aligning patient and industry interests. Our end goal is improved patient care and quality of life.\"\r\n\r\nhttp://www.patientslikeme.com/help/faq/Corporate\r\n\r\nAlso:\r\n\"The Member Area includes community areas, such as forums and member areas, where members may post messages, images, and other content (“User Submissions”). If you are a member, you (or the author) owns the copyright in the messages, images, and other content you post in the Member Area, but by posting such content within User Submissions to the Member Area you grant PatientsLikeMe and our affiliates the right to use, copy, display, perform, distribute, translate, edit, and create derivative works of your User Submissions, subject to the terms of the Privacy Policy.\"\r\n\r\nhttp://www.patientslikeme.com/about/user_agreement",
+  "participation": "For the OP - the patients - the goal is to manage health conditions and learn about treatments by sharing their experience and health information with others. Sharing as much data as possible is a definite goal. For the FSE, the goal is to provide a platform for sharing health data, to change the way industry conducts research, and to improve patient care. Another less explicit goal is for-profit gain, by sharing health data with companies.\r\n\r\nSee http://www.patientslikeme.com/about",
+  "tasks": "Tasks would mostly entail starting and maintaining a profile that shares condition and treatment information.",
+  "modularity": "Starting a profile would be the lowest investment. Keeping it always up-to-date would be a more robust investment.",
+  "granularity": "N/A",
+  "metrics": "The only metric is the 'star system': \"Profile stars indicate how much health information you are sharing. The more you share, the more you can understand about your own experience with your condition and the more you are helping others to learn. \"\r\nhttp://www.patientslikeme.com/help/faq/My%20Profile",
+  "alliances": "ALS Therapy Development Institute (ALSTDI), the world’s first non-profit biotechnology company, founded by Patientslikeme founder Jamie Heywood.\r\nhttp://en.wikipedia.org/wiki/PatientsLikeMe",
+  "clients": "Healthcare partners include: 23andMe, Avanir, Novartis, UCB.com, University of Wisconsin, Penn State, and many foundations such as ALS, MS Society, and Myelin Reparir Foundation.\r\n\r\nTo date, the company has shared patient data with researchers including Oxford University, the Robert Packard Center for ALS Research at Johns Hopkins University, King’s College London, The Pew Internet & American Life Project, the University of Wisconsin and Palo Alto University.\r\nhttp://en.wikipedia.org/wiki/PatientsLikeMe\r\n\r\nhttp://www.patientslikeme.com/about/partners/",
+  "sponsors": "N/A",
+  "elites": "Research & Development Director Paul Wicks and founders Benjamin Heywood, Jamie Heywood and Jeff Cole. ",
+  "created_at": null,
+  "updated_at": "2012-07-05T19:23:31Z",
+  "summary": "PatientsLikeMe is a data-driven social networking health site that allows members to share their condition, treatment, and symptom information in order to monitor their health over time and learn from real-world outcomes. A for-profit company, it aggregates and packages patients' Information and sells this data to third parties, both for public and private research. ",
+  "birder_credits": "",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Projects that allow participation in science or engineering, such as citizen science, and including medical research",
+    "id": 5,
+    "name": "Science and/or Engineering",
+    "updated_at": "2011-11-29T21:48:40Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2011-10-11T04:09:00Z",
+    "email": "morganecurrie@gmail.com",
+    "id": 7,
+    "updated_at": "2013-07-02T22:12:45Z"
+  }
+}

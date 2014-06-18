@@ -1,0 +1,70 @@
+{
+  "id": 9,
+  "name": "Linux",
+  "thumbnail_100_url": "/system/assets/52/sq100/gnulinux.png",
+  "thumbnail_50_url": "/system/assets/52/sq50/gnulinux.png",
+  "url": "http://kernel.org/",
+  "foritself": "Yes, and well aware of its importance. Linux quickly became a template for other Free and Open Source projects and developed a very committed community of contributors and users.  The awareness is felt strongly by anyone who participates in the mailing lists, and weakly by those who download, install, or help imporve linux in other ways ",
+  "brand": "Linux is the most recognizable open source project in the world.  The mascot is a friendly penguin named Tux, created by Larry Ewing.  Because linux comes in many different distributions, there are a lot of ways in which it can be branded.  There is also a controversy about whether it should be called Linux or GNU/Linux, because most Linux operating systems make extensive use of GNU software. Most often, Linux refers to an operating system, but the narrow use would refer only to the Linux kernel, which is the core of the operating system. http://en.wikipedia.org/wiki/Tux\r\n\r\nLinus Torvalds owns the trademark to the penguin, but allows free use of it, hence there are thousands of variations on Tux.  Many linux distributions are also branded separately, and often do not use the penguin as a symbol. ",
+  "fse_name": "The Linux Foundaion\r\n",
+  "fse_owner_founder": "\"Jim Zemlin is the Executive Director and was chosen to lead the Linux Foundation due to his deep Linux and open source software experience and industry relationships.\r\n\r\nThe management team includes:\r\n\r\nJim Zemlin, Executive Director\r\n\r\nhttp://www.linuxfoundation.org/about/staff\r\n\r\nOther members (2011)\r\nDan Kohn, Chief Operating Officer & Member Outreach\r\nAmanda McPherson, Vice President of Marketing and Developer Programs\r\nMike Woster, Director of Business Development\r\nTheodore Ts'o, Fellow and Chief Technology Officer\r\nTakashi Kunai, Director of Linux Foundation Japan\r\n",
+  "fse_significant_member": "Theodore Ts'o was one of the earliest and most committed contributors to Linux.",
+  "fse_mission_statement": "The Linux Foundation's mission is to promote, protect and standardize the Linux platform to fuel its growth around the world. The Linux Foundation marshals the resources of the Linux ecosystem to provide much needed services that are not easily offered by a single community member, entity or company. It uses a shared resources strategy â€“ much as open source developers do â€“ to collaborate on platform development while enhancing the Linux market for everyone: end users, the community, developers and industry..\r\n\r\n\"The Linux Foundation promotes, protects and advances Linux by marshaling the resources of its members and the open source development community to ensure Linux remains free and technically advanced.\"\r\nfrom http://www.linuxfoundation.org/about/faq (visited 2012)",
+  "op_name": "Linux (kernel)",
+  "op_vip_founders": "Linus Torvalds, influential, active computer developers\r\nAlan Cox,\r\nTed Ts'o\r\n\r\nmany others.",
+  "op_typical_member": "computer scientists, hackers and software programmers, especially those with an interest in operating systems or low-level infrastructure of operating systems (like kernels and device drives).  ",
+  "formation": "OP -> FSE",
+  "history": "Since its inception in 1991, Linux has grown to become a force in computing, powering everything from the New York Stock Exchange to mobile phones to supercomputers to consumer devices. The Linux Foundation is the nonprofit consortium dedicated to fostering the growth of Linux. Founded in 2007, the Linux Foundation sponsors the work of Linux creator Linus Torvalds and is supported by leading technology companies and developers from around the world. The Linux Foundation promotes, protects and advances Linux by marshaling the resources of its members and the open source development community to ensure Linux remains free and technically advanced.",
+  "lifespan": "Yes, still exists and it is doing well.",
+  "resource": "software (OS kernel)",
+  "availability": "Copyleft (GPL 2.0)",
+  "participation": "Goals are very clearly open to negotiation by all active developers on the mailing list and involved in the community via other distributions and hardware platforms, through conferences and so on.  The hierarchy of most influential is fluid and open, but primarily meritocratic in form.  \r\n\r\nThe Linux Foundation, by contrast, is designed in order to give majore contributors and users a special forum to negotiate and discuss the goals and direction of the kernel.  It has no special control over that direction, but functions as a particularly powerful interest in the debates. ",
+  "tasks": "Yes, tasks are consensually defined and distributed according with the interests or expertise of the active collaborators in the project.  Any individual or corporate developer can define their own task, extend the operating system or refine it-- though not all refinements will be included in the official release. ",
+  "modularity": "Tasks can range from relatively simple to complex: installing and testing the kernel, bug hunting and fixing, writing extensions, refactoring code, writing documentation, forking or branching for redesign etc.",
+  "granularity": "Task granularity is not fine: every task requires some level of sustained attention and work, to say nothing of expertise and experience gained either through experience or education.",
+  "metrics": "Contributors are well aware of who has the most \"commits\"-- meaning the developers whose proposed changes are incorporated into the official release.  There are lots of other usage and benchmarking statistics but \"number of commits\", and increasingly even a single accepted commit, can stand as a mark of high reputation",
+  "alliances": "The Kernel OP has no alliances per se.  The Linux Foundation however exists to create alliances with the major software firms, OS developers, hardware manufacturers etc.",
+  "clients": "Linux is a general purpose OS so it is not designed for any client in particular-- anyone may, however, customize a version of it on behalf of a paying customer. ",
+  "sponsors": "The Linux Foundation runs on member fees, donations, and T-shirt sales.  There is no direct revenue that accrues to the Kernel itself-- rather it provides a platform on which others can attempt to build businesses. ",
+  "elites": "The most active engineers and developers in IT companies currently have the most influence.  In an earlier era the most influential were members of the \"hacker community\" like Torvalds, Stallman, and other charismatic figures.  Certain academics have also had special influence. ",
+  "created_at": null,
+  "updated_at": "2012-08-23T16:50:25Z",
+  "summary": "Linux is the de facto canonical example of an open source/free software project.  It is on operating system kernel created in 1991 by Linus Torvalds and developed for 20 years by him and thousands of volunteers from around the world.  It has grown in complexity and flexibility and is now routinely used by the largest and most successful companies in the world (Amazon and Google being current preeminent examples).   Contribution to the kernel happens primarily via the lkml.org mailing lists, where developers discuss and debate both the tasks and the goals of the OS.  In the mid 2000s, the Linux Foundation was created to manage the organizational aspects such as running conferences, communicating with corporate users and providing a public face to the developer community.  The wider Linux ecology consists of three overlapping communities: 1) those who work on the core technology--the linux kernel; 2) those who provide distributions based on the kernel and 3) the linux foundation.\r\n",
+  "birder_credits": "Christopher M. Kelty",
+  "tangible_problem": "Yes",
+  "tangible_problem_detail": "to provide a free (as in speech) replacement to the UNIX operating system. ",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "An organization with one leader or decision maker whose authority rests on the consent of the governed and/or his/her charisma.  Other forms of organization may supplement it (hierarchy, meritocracacy,or consensus amongst the staff or participants) but the leader's authority is final and effective.",
+    "id": 3,
+    "name": "Charismatic Leadership/Benevelont Dictatorship",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Free and Open Source Software",
+    "id": 1,
+    "name": "FOSS",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Projects that directly interacts with or depends on the ecology of low-level UNIX-based tools and Internet-based services such as UNIX operating systems, C compilers, source code management systems (SCM), POSIX standard components, internet protocols and services.  ",
+    "id": 1,
+    "name": "UNIX + Internet",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2011-07-22T19:14:37Z",
+    "email": "ckelty@ucla.edu",
+    "id": 2,
+    "updated_at": "2013-10-22T20:47:03Z"
+  }
+}

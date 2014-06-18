@@ -1,0 +1,70 @@
+{
+  "id": 236,
+  "name": "LiveJournal",
+  "thumbnail_100_url": "/system/assets/292/sq100/livejournal_logo.jpg",
+  "thumbnail_50_url": "/system/assets/292/sq50/livejournal_logo.jpg",
+  "url": "http://www.livejournal.com/",
+  "foritself": "Yes. LiveJournal is a blogging tool, a social network, and a free and open source software platform. ",
+  "brand": "LiveJournal (written \"LiveJournal\" in company promotional materials) uses a relatively understated logo made of white text on a blue field or the reverse, depending on the background of the page. The single lowercase letter evokes the late 90s trend of adding the prefix i- to products and services. The logo also incorporates a drawing of a pencil to evoke older modes of journal keeping. LiveJournal's main site itself is busy, with a number of columns and widgets for popular items, retail activity, and advertising. Individual LiveJournal users can apply skins and themes to their blogs for different looks.",
+  "fse_name": "LiveJournal Inc. is a company formed specifically  to manage this property; it is wholly owned and operated by SUP Media, an international media conglomerate.",
+  "fse_owner_founder": "Although LiveJournal has been sold many times, the platform was originally developed by Brad Fitzpatrick and started as something of a hobby.",
+  "fse_significant_member": "Anjelika Petrochenko, General Manager, North America\r\nBen Neff, Web Designer \r\nBrenden Delzer, Editor, ONTD (Oh No They Didn't)\r\nDavid Newhall II, Director of Systems Operations\r\nKurt Hurtado, Senior Software Engineer\r\nAndreas Echavez, Senior Systems Administrator\r\nJeremy Falling , Senior Network Administrator\r\nMatthew Helm, Systems Administrator\r\nMark Ferrell, Director of Community Care\r\nCarrie Stevens, Technical Support Manager\r\nArie Greer, Accounts Manager\r\nStella Gayevskaya, Customer Service Representative\r\nAnne Zell, Customer Service Representative\r\nTom Byron, Director of Content and Communication\r\n",
+  "fse_mission_statement": "\"LiveJournal is a community publishing platform, willfully blurring the lines between blogging and social networking. Since 1999 LiveJournal has been home to a wide array of creative individuals looking to share common interests, meet new friends, and express themselves.\"\r\n\r\nAdditionally, LiveJournal lists self-expression, diversity, creativity, community, and privacy as its core values.\r\n\r\nhttp://www.livejournalinc.com/aboutus.php. Accessed 24 August 2012.",
+  "op_name": "LiveJournal. Individual users are also known by their usernames, the name of their blog, or another alias.",
+  "op_vip_founders": "Brad Fitzpatrick started LiveJournal as a hobby. Wikipedia maintains a list of famous and notable users, including Billy Corgan, Warren Ellis, and Garry Kasparov.\r\n\r\nThe most popular community on LiveJournal is the celebrity gossip site OhNoTheyDidnt (http://ohnotheydidnt.livejournal.com/).\r\n\r\nhttp://en.wikipedia.org/wiki/List_of_LiveJournal_users. Accessed 25 August 2012.",
+  "op_typical_member": "Because the site has millions of users, the typical member is difficult to describe. LiveJournal is a combination blogging platform and social network. The site publishes statistics on its users; as of 30 August 2012, LiveJournal reported 38,416,593 accounts, 1,617,619 of which are \"active in some way.\" The site's users came overwhelmingly from the age group 18- 40 and were 43.9% male and 56.1% female (with a large number of undeclared users). The top three countries of origin for users are the United States, the Russian Federation, and the United Kingdom.\r\n\r\nhttp://www.livejournal.com/stats.bml. Accessed 25 August 2012.",
+  "formation": "OP->FSE.",
+  "history": "LiveJournal.com, a FOSS project, a blogging platform, and an online community built around personal journals, was started by Brad Fitzpatrick in April of 1999 as a hobby. The platform became popular, won two Webby awards, and attracted more users. Fitzpatrick formed a company called Danga Interactive to manage development of the platform.  On March 24, 2001, Fitzpatrick released the LiveJournal server code to the public in order to crowdsource future development. In January 2005, blogging software company Six Apart purchased LiveJournal from Fitzpatrick and his company, although the founder stayed on in a consulting and advisory capacity for some time. In December 2007, Russian Internet company SUP purchased LiveJournal and established LiveJournal Inc. to run it. \r\n\r\nThe platform did not keep pace with the popularity of competing blogging suites such as WordPress, Blogger, or Tumblr. On January 6, 2009, LiveJournal released a statement announcing the move of many of LiveJournal Inc.'s departments and functions from San Francisco to Russia. Although the site and the sites maintained by users remain active, the company seems to be focused on developing LiveJournal in Russia and India.\r\n\r\nhttp://www.livejournalinc.com/aboutus.php. Accessed 24 August 2012.",
+  "lifespan": "The project is still active as of 2012, with particularly strong growth in Russia.",
+  "resource": "The main resource created is the blogging platform itself, to which users supply content. The server software was originally developed by founder Brad Fitzpatrick, although he released the code to the public in order to solicit collaboration from the user community. The server software that makes LiveJournal was then developed as a FOSS software project under a GPL license. Other sites use the LiveJournal codebase to run similar journal-based communities. The vast majority of users (OP) simply use the platform provided by the FSE without any participation in developing or maintaining the codebase. Each corporate regime has instituted its own End User Agreement when LiveJournal has been sold, resulting in numerous controversies among LiveJournal users over the ownership of their blogs, limits on free speech, and the future  of the community. LiveJournal Inc. sells access to its service in the form of various tiers of free and paid accounts.",
+  "availability": "LiveJournal Inc. provides access to the service via tiers of free or paid accounts, but reserves the right to edit, delete, or disable user accounts at any time for any reason. They also reserve the right to advertise anywhere on the site or associated sites. They do not claim ownership of the content of the journals on the platform they provide, however. The content of blogs and legal responsibility for that content rests with individual users.",
+  "participation": "Goal setting by LiveJournal Inc. occurs as a business management process within the FSE. The company also maintains a LiveJournal community for users to suggest software features.\r\n\r\nhttp://suggestions.livejournal.com/profile. Accessed 30 August 2012.",
+  "tasks": "User tasks relate to using the service, e.g., creating an account, posting an entry, commenting on another user's entry. \r\n\r\nSoftware development takes place within LiveJournal Inc. via paid and volunteer developers. LiveJournal's software development increasingly relies on professional developers, although several initiatives in the past sought greater community contribution. A number of development forks have resulted form changes in company policy or groups of users choosing to develop the software independently.  In 2003, LiveJournal instituted a program to pay volunteers for the development of highly desired features, but this program was discontinued. Changes to the codebase must be approved by moderators who are employees of the company. ",
+  "modularity": "Using the service requires little investment beyond a computer and an internet connection. \r\n\r\nContributing to the codebase requires expertise and time. Changes to the codebase must be approved by moderators who are employees of the company. ",
+  "granularity": "User tasks relate to using the service, e.g., creating an account, posting an entry, commenting on another user's entry. \r\n\r\nSoftware development takes place within LiveJournal Inc. via paid and volunteer developers. Changes to the codebase must be approved by moderators who are employees of the company. ",
+  "metrics": "User tasks relate to using the service, e.g., creating an account, posting an entry, commenting on another user's entry. \r\n\r\nSoftware development takes place within LiveJournal Inc. via paid and volunteer developers. Changes to the codebase must be approved by moderators who are employees of the company. ",
+  "alliances": "LiveJournal Inc. is owned by Russian media company SUP Media. SUP also owns Championat.com, Gazeta.ru, Quto.ru, and Redigo.ru\r\n",
+  "clients": "LiveJournal provides services to it users in the form of a blog platform.",
+  "sponsors": "LiveJournal draws revenue from paid subscribers and advertisers.",
+  "elites": "LiveJournal Inc. employees and employees of theparent company make all the business decisons for LiveJournal. Individual users make decisions about the content of their blogs. Company policies enacted by the FSE are binding and applciable to all memebrs of the OP.",
+  "created_at": "2012-08-10T22:12:48Z",
+  "updated_at": "2012-09-02T04:39:15Z",
+  "summary": "LiveJournal.com is a FOSS project, a blogging platform, and an online community built around personal journals. LiveJournal Inc. owns the LiveJournal platform; Russian company SUP Media owns LiveJournal Inc. The LiveJournal project has been purchased several times and has been focused on expanding in Russia, India, and Singapore as its popularity in the United States failed to keep track with its competitors such as WordPress, Tumblr, or Blogger. On January 6, 2009, LiveJournal released a statement announcing layoffs and the transfer of many of LiveJournal Inc.'s departments and functions from San Francisco to Russia. LiveJournal is particularly prominent in the Russian Federation, where it remains an important, uncensored media channel.\r\n\r\nThe history of LiveJournal's software development is unclear from company materials, although it began as a pet project. The founder released the code to the public in 2001 and a community dedicated to developing the server software that runs the platform is still active as of 2012. In 2003, the company that then owned LiveJournal started and then dismantled a program to pay volunteers to develop desired features. A number of other sites used the LiveJournal codebase to spawn similar platforms, often composed of disgruntled LiveJournal users or developers. the professional staff of LiveJournal Inc. effectively controls software development.\r\n \r\nhttp://www.nytimes.com/2011/04/09/world/europe/09moscow.html. Accessed 30 August 2012.",
+  "birder_credits": "Created by rncrooks@ucla.edu 25 August 2012.",
+  "tangible_problem": "Yes",
+  "tangible_problem_detail": "Part of the LiveJournal community exists to create and maintain the software the runs the platform, although most users of the service do not participate in this manner.",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Organized primarily by weak ties (\"friends\") grouped into overlapping networks.",
+    "id": 7,
+    "name": "Overlapping Networks of Weak Ties",
+    "updated_at": "2012-07-12T17:49:00Z"
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Discussion Forums, Image Boards, Mailing Lists, Underground communities etc.",
+    "id": 10,
+    "name": "Internet Forum / Mailing List",
+    "updated_at": "2013-05-03T16:30:50Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2012-04-17T03:52:58Z",
+    "email": "rncrooks@ucla.edu",
+    "id": 23,
+    "updated_at": "2013-07-09T15:08:37Z"
+  }
+}

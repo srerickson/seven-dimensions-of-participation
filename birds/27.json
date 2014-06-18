@@ -1,0 +1,70 @@
+{
+  "id": 27,
+  "name": "All For Good",
+  "thumbnail_100_url": "/system/assets/33/sq100/allforgood.png",
+  "thumbnail_50_url": "/system/assets/33/sq50/allforgood.png",
+  "url": "http://www.allforgood.org/",
+  "foritself": "Yes, the organization promotes a sense of belonging to a larger network of volunteer organizations and a community that is interested in \"doing good.\"",
+  "brand": "All for Good is branded as the “Craigslist” of volunteer listings. ",
+  "fse_name": "All for Good is governed by Our Good Works, a nonprofit organization that was formed by some of the people who initiated the project and who support the product’s growth.  ",
+  "fse_owner_founder": "Jonathan Greenblatt, Director of the Office of Social Innovation & Civic Participation for the Obama administration, founded All for Good with the help of volunteers from Google, Aha! Ink, Craigslist Foundation, EchoDitto, FanFeedr, UCLA, and YouTube. The FSE is currently owned by the Points of Light Institute.",
+  "fse_significant_member": "All for Good Team Members: \r\nDan Stryker, Director\r\nAdam Sah, Software Architect\r\nMark Bernstein, President\r\nMichael Thompson, Director, engineering\r\n(Accessed July 30, 2012: http://www.allforgood.org/team)\r\n\r\n\r\nOur Good Works Board of Directors: \r\nDavid Eisner, chairman and CEO, National Constitution Center \r\nJonathan Greenblatt, founder and former president, All for Good \r\nAmi Dar, founder and CEO, Idealist\r\nArianna Huffington, founder and editor-in-chief, Huffington Post\r\nBill Strathmann, CEO, Network for Good\r\nChris DiBona, director of open source, Google\r\nCraig Newmark, founder, craigslist\r\nDarell Hammond, founder and CEO, KaBOOM!\r\nDavid Cohen, executive vice president, Comcast\r\nJonah Seiger, founder and managing director, Communications Media\r\nMichelle Nunn, CEO, Points of Light Institute\r\nPaul Schmitz, CEO, Public Allies\r\nReid Hoffman, founder and executive chairman, LinkedIn\r\nRandy Zuckerberg, vice president, Facebook\r\nSusan Nesbitt, deputy director, Craigslist Foundation\r\nTy Ahmad-Taylor, founder and CEO, FanFeedr\r\n\r\n(All for Good Google Wiki code, Accessed July, 30, 2012: http://code.google.com/p/allforgood/source/browse/branches/release_2_0.transitional/frontend/pages/team.html?r=639)",
+  "fse_mission_statement": "\"All for Good's mission is to facilitate volunteerism and community service.\"\r\n(Accessed July 30, 2012: http://www.allforgood.org/about)",
+  "op_name": "The organized public is made up of volunteers and non-profit organizations that use the All for Good service to find or post volunteer opportunities. ",
+  "op_vip_founders": "All for Good relies on established volunteer networks for volunteer opportunity listings and contacts. The organization sought out a coalition of organizations who agreed to post their service opportunities on All for Good. The initial data providers include the following non-profit and grassroots organizations:  1-800-volunteer.org, 1Sky, AARP, American Solutions for Winning the Future, American Red Cross, City of New York, The Corporation for National and Community Service, craigslist, Girl Scouts of the USA, Habitat for Humanity, HandsOn Network and Points of Light Institute, Idealist, MeetUp, Mentor, Network for Good, Organizing for America, ServeNet.org, Sierra Club, TechMission, The Extraordinaries, Truist, United Jewish Communities, United Way, Volunteer2 and Youth Service America. ",
+  "op_typical_member": "Volunteers,  non-profit and grassroots organizations.",
+  "formation": "FSE --> OP. Formed as an FSE, a registered non-profit that solicited volunteer agencies (the OPs) to share data.",
+  "history": "\"The idea of All for Good was conceived in December 2008. It was directly inspired by the call of President Obama to engage more Americans in service, the social media achievements of his campaign, and the online musings of Internet pioneer Craig Newmark. The promoters, such as Greenblatt, shared this concept with leading thinkers in the nonprofit sector and service community, many of whom immediately offered to contribute to this effort. \r\nAfter visiting and promoting the idea in Silicon Valley, a team of engineers and product manager at Google grew passionate about this vision. They agreed to collaborate with us on this vision and lend 20 percent time to build an application. Others quickly signed up, including Craig Newmark himself and leadership from the Craigslist Foundation who offered to provide assistance for our volunteer team. Soon, an all-volunteer team was formed, including representatives from Google, Aha! Ink, Craigslist Foundation, EchoDitto, FanFeedr, UCLA, and YouTube. \r\nAll for Good debuted at the 2009 National Conference of Service and Volunteering held at the Moscone Center in San Francisco, CA. The launch also announced the formation of Our Good Works, a non-profit organization that manages All for Good and provides its board of directors. In October 2011, Points of Light Institute acquired All for Good.\"\r\n\r\n(Accessed July 30, 2012: http://www.allforgood.org/about)",
+  "lifespan": "2008 to present.",
+  "resource": "The main resource offered by All for Good is a search engine powered by the largest database of volunteer opportunities on the Internet. The search engine helps people connect with service activities in their communities. There is also a search API targeted towards organizations that wish to use the system to power volunteer opportunity search directly within their own websites and gadgets. The API and widgets enable the service opportunities to “travel” to places of interest for potential volunteers.\r\n\r\nAll for Good is also an open-source product, which means users can contribute to, grow and innovate All for Good. Users can submit suggestions for how to improve All for Good or add features. The free API allows third-party app design. (Accessed July 30, 2012: http://www.allforgood.org/apps)\r\n\r\nEach month there are over 150,000 listings in the system representing over a million volunteer opportunities making All for Good one of the largest databases of its kind. \r\n(Accessed July 30, 2012: http://www.allforgood.org/faq)",
+  "availability": "All For Good searches are free to all users and it is free to post projecs to All For Good as well. Commercial entities wanting to use All For Good's database for non-public commercial ventures may be subject to a fee for its use. (Accessed July 30, 2012: http://www.allforgood.org/faq)",
+  "participation": "The main goal set by the FSE is to connect service opportunities from local and national organizations to potential volunteers.",
+  "tasks": "The tasks for the different members of the OP are clearly defined. The main task for non-profit organizations is to promote volunteer opportunities by posting projects to All For Good's database. The main task for volunteers is to search through the database for a volunteer opportunity. In terms of the mission of the FSE, a volunteer participates by using the database to search for service opportunities; however, it could be argued that \"full\" participation occurs when a volunteer commits a service action with the information they gathered from the database. ",
+  "modularity": "The level of investment required to complete tasks varies. Participation can require little investment for tasks such as searching the database and posting volunteer listings to All for Good. Other tasks such as using the open API to build an app would require a higher level of investment and technical skills.",
+  "granularity": "Tasks can range from small, such as customizing searches and posting opportunities, to bigger and multi-step tasks, such as developing using the open source platform.  ",
+  "metrics": "The success of the FSE is measured by the amount of volunteer postings listed in the database and the amount of site traffic (which presumably corresponds to the amount of database users).  ",
+  "alliances": "All for Good has many partnerships with other non-profit organizations. A few of the organizations include the HandsOn Network, Points of Light Institute, AmeriCorps,United Way Worldwide (Live United), White House, Blue Star Families, American Red Cross, Service Nation, The Corporation for National and Community Service, MissionServe, Waiting for Superman, AARP, and the Home 4 The Holidays program with IAMS. \r\n\r\nA longer list of partnerships can be accessed at the organization's 'partners' page. (Accessed July 30, 2012: http://www.allforgood.org/partners).\r\n\r\n",
+  "clients": "The services are provided for potential volunteers and organizations seeking volunteers. ",
+  "sponsors": "Google, Craigslist Foundation, Gap, P&G and Target.\r\n\r\nA longer list of sponsors can be accessed at the organization's 'partners' page. (Accessed July 30, 2012: http://www.allforgood.org/partners).",
+  "elites": "The people who have special forms of access to the FSE are mainly the members of the Board of Directors (listed above under FSE Significant Members). These people are either founders of influential online service providers, such as Craigslist, or employees of tech giants, such as Google. \r\n\r\n(Accessed July 30, 2012: http://techcrunch.com/2009/06/15/google-other-tech-heavyweights-back-volunteer-community-service-all-for-good/)",
+  "created_at": null,
+  "updated_at": "2012-07-30T19:42:09Z",
+  "summary": "All for Good is one of the largest search engines in the world devoted to volunteerism and community service in the United States and Canada. The search engine was directly inspired by the call of President Obama to engage more Americans in service, the social media achievements of his campaign, and the online musings of Internet pioneer Craig Newmark. The database relies on the postings of partner volunteer organizations (termed \"data providers\" by the FSE), such as the HandsOn Network, to provide service opportunity listings for potential volunteers. All for Good has received the support of tech giants, such as Google and the Craigslist Foundation, as well as support from corporations, such as Target and P&G. ",
+  "birder_credits": "Morgan Currie\r\nAdam Fish\r\nPat Garcia \r\n\r\nInterview with Jonathan Greenblatt. Data not incorporated into this database. ",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": "2011-11-30T05:22:31Z",
+    "description": "Focused on volunteerism, fundraising, or cause-related participation",
+    "id": 13,
+    "name": "Social Entrepreneurialism",
+    "updated_at": "2011-11-30T05:22:31Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2012-04-22T23:44:57Z",
+    "email": "patgarcia83@gmail.com",
+    "id": 24,
+    "updated_at": "2013-07-09T03:38:55Z"
+  }
+}

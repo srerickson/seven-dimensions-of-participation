@@ -1,0 +1,70 @@
+{
+  "id": 211,
+  "name": "Mukurtu ",
+  "thumbnail_100_url": "/system/assets/211/sq100/MukurtuFinalLogo.jpg",
+  "thumbnail_50_url": "/system/assets/211/sq50/MukurtuFinalLogo.jpg",
+  "url": "http://www.mukurtu.org/",
+  "foritself": "It is self-aware, the project necessitates the awareness of all participants as it is constructed using particular cultural protocols recognized, sanctioned and determined by the user group. ",
+  "brand": "Mukurtu is an open access content management system providing for the implementation of cultural protocols to determine fine-grained levels of access to digital heritage materials based on cultural needs. ",
+  "fse_name": "Mukurtu CMS ",
+  "fse_owner_founder": "Project Director - Kimberly Christen\r\nDevelopment Director - Michael Ashley ",
+  "fse_significant_member": "Project Director, Development Director, Advisers, liaisons from partnering institutions and grant managers from funding sources. ",
+  "fse_mission_statement": "Over the last 15 years Indigenous communities have been at the forefront (yet marginalized) in the debates over and creation of digital technologies as tools for both the preservation and production of cultural materials and knowledge. Mukurtu is a content management tool and digital archive that addresses these needs by providing an open source, freely available, international standards-based tool driven by the specific concerns and content management needs of Indigenous communities including: cultural protocol-based access to content, granular levels of system control, multiple and flexible licensing terms and flexible templates to meet diverse linguistic and cultural systems. \r\n\r\n(http://digitalreturn.wsu.edu/presentation/mukurtu-an-indigenous-archive-tool/)",
+  "op_name": "This varies, Mukurtu as a tool is implemented by individual communities that are organized and identified differently. ",
+  "op_vip_founders": "Included in the first round of development testing for the Mukurtu project were:\r\nPueblo of Zuni, Zuni Public Library\r\nCitizen Potawatomi Nation Cultural Heritage Center\r\nYakama Nation Library\r\nWarumungu, Nyinkka Nyunyu Art and Culture Centre\r\n\r\n(http://www.mukurtu.org/community.html)\r\n",
+  "op_typical_member": "Indigenous communities, specifically through their cultural heritage institutions or entities.",
+  "formation": "The FSE was created in response to the needs of indigenous populations that were not being served by traditional archival concepts or tools. Specifically, the project was born from the needs of the Warumungu Aboriginal community who wanted a system to archive and organize their digital cultural materials in line with their cultural protocols. The project leaders collaborated to develop a user-friendly and culturally relevant system embedded with Warumungu social and cultural protocols.",
+  "history": "The first version was created in 2007 with the Mukurtu Wumpurrarni-kari Archive. It implemented cultural protocol based access management and collective tags, individual profile based content delivery system, single and batch upload, one click print from display page, user-generated content groupings for individual items and the ability to burn a cd directly from the browser. \r\n\r\nIn 2009 the system was updated to include much more robust administration pages. These allowed Tribal administrators to update, add, edit metadata fields, categories, sub categories, tribal knowledge and tribal user profiles. This version also included user profile access parameters including: scholar, private donor and affiliated members. In addition, the cultural protocol based access and upload parameters were expanded in order to include multiple tribes. The 2009 version also included audio and video comment sections, universal search across all categories and fields in the database, enlarged/zoom image view for all content, multi-page document upload, view and metadata management. \r\n\r\n\r\nThe 2011 version became what is essentially a full service content management system. The cultural protocols are linked to content, providing granular access levels to content in the archive, multiple licensing options are provided for including specific traditional knowledge licenses for individual content or collections, easy-to-use dashboard controls and panel views to guide both administrators and users, module manager in order to enable or disable a variety of frontend features and backend functions, such as image previews and advanced user administration. This version also allowed for batch import media in order to add pictures, movies, pdfs, office documents and associated metadata in bulk. In this form there is powerful users, groups and roles management. A group is able to use preconfigured compositions or easily modify to suit their needs. \r\n\r\nA new version will be released Summer 2012. \r\n\r\n(http://www.mukurtu.org/about.html)",
+  "lifespan": "The project began in 2007 and is still on-going and healthy. \r\n",
+  "resource": "The resource provided is a open source content manager built to accommodate indigenous knowledge structures and cultural protocols. It is provided to distinct and self organized OPs that do not necessarily have a relationship to one another. ",
+  "availability": "The test version is available to anyone who asks for it, it is open source and free. (http://www.mukurtu.org/get-mukurtu.html)\r\n",
+  "participation": "There are two levels of participation in operation with respect the FSE and OP level. The goals remain static, but the resource (content management system) is analyzed in communities through each test phase. All users are encouraged to provide feedback and newer versions are created to meet the criticisms and pitfalls of earlier versions. The FSE that manages the platform itself creates newer version in response to OP needs and feedback. \r\n\r\nOnce implemented by the individual OPs that use Mukurtu, the levels of participation and the protocols surrounding goal and agenda setting are site specific. \r\n",
+  "tasks": "There are myriad ways that Mukurtu outlines levels of participation for different stakeholders. The Mukurtu community is broadly defined as being made up of two groups: a dynamic group of people actively engaging with the Mukurtu software tool suite to produce a robust development environment and people using Mukurtu to manage their cultural heritage materials, develop relationships with other collecting institutions and preserve their traditional knowledge. \r\n\r\nAs a community user during the active testing phase Mukurtu asks those community users to test successive iterations of Mukurtu, provide feedback to developers and suggest changes and additional features. \r\n\r\nForums will be created in the 2012 version to enable users and developers to interact, discuss and share ideas as well as ask questions, propose solutions and engage with specific topics defining user needs, modules and new features. \r\n\r\nUsers are also encouraged to develop plugins, design themes or update current themes, test and document new modules and plugins as they are in development and suggest new design and development avenues. \r\n\r\nBeyond assisting Mukurtu in its active testing phase, tasks assigned within each individual community will again be according to their specific cultural protocols. ",
+  "modularity": "Participation in the development of Mukurtu is fairly intensive. It requires an investment both of time and intellectual energy to provide for rich dialogue. There is obviously a difference in scale between participating on the technological level and providing feedback, but even providing feedback requires implementing the platform and navigating it thoroughly enough to point out the wyas in which it needs to improve. ",
+  "granularity": "Since each participant and community member is participating on the basis of their own needs and interactions with the system, they are always completing the tasks at hand at a somewhat granular level. Both in the developer sense and the feedback sense, parts are being constructed and criticized but always in service to the whole. ",
+  "metrics": "Tasks are measured qualitatively.",
+  "alliances": "Mukurtu is allied with many institutions and people in order to bring the project off of the ground. \r\n\r\nPartners (Those active in the development, research, production, dissemination and sustainability of the tool): \r\nCenter for Digital Archaeology\r\nUniversity of California Berkeley\r\nCivicActions\r\nCenter for Transformative Scholarship\r\nUniversity of Southern California\r\nSmallbean Inc.\r\nCitizen Archivist Project\r\nWorld Intellectual Property Organization - Traditional Creativity, Cultural Expressions, and Cultural Heritage Section\r\n\r\nAdvisers (Individuals who provide practical assistance regarding the development and application of the tool across multiple and diverse stakeholder groups):\r\nRobert Leopold, Director, Consortium for World Cultures, Smithsonian Institutions\r\nJennifer O'Neal, Head Archivist, National Museum of the American Indian, Cultural Resource Center, Smithsonian Institutions\r\nWendy Seltzer, Fellow, Princeton Center for Information Technology Policy and Berkman Center for Internet and Society at Harvard\r\nMichael Taft, Head of the Archive of Folk Culture, Library of Congress, American Folklife Center\r\nNicholas Tripcevich, Research Associate and Laboratory Manager, Archaeological Research Faciity, University of California Berkeley\r\n\r\n(http://www.mukurtu.org/community.html)\r\n",
+  "clients": "Indigenous communities.",
+  "sponsors": "Sponsors (Institutions that provide funding, infrastructure and other capital needs for the ongoing development and sustainability of the project. Mukurtu is made possible in part by grants from these institutions):\r\nThe U.S. Institute for Museum and Library Services\r\nNational Endowment for the Humanities, Office of Digital Humanities\r\nWashington State University Foundation\r\n\r\n(http://www.mukurtu.org/community.html)\r\n",
+  "elites": "Advisers listed above as well as both the Developing Director and the Project Director.",
+  "created_at": "2012-05-22T17:22:38Z",
+  "updated_at": "2012-07-12T18:50:41Z",
+  "summary": "Mukurtu CMS is an open access content management system specifically designed to cater to the needs of indigenous communities whose cultural protocols are not honored by traditional archival practice and theoretical foundations. It is in its active testing phase and through partnerships with individuals, institutions and four indigenous communities it is manifesting new versions in order to meet the needs of multiple communities, providing the flexibility and ease for the creation of culturally specific heritage repositories. \r\n\r\nWhat is most interesting about this bird as an exploration into the concept of participation is its multiple levels and definitions of participation. In the development of the tool itself, participation is vital and open. Once the tool is developed, it will be implemented specifically to limit or at least define the level of participation allowed for members of the community as well as those outside of the community. Levels of access to certain materials will be limited to some based on cultural protocols. ",
+  "birder_credits": "Stacy Wood\r\nPat Garcia ",
+  "tangible_problem": "Yes",
+  "tangible_problem_detail": "It began specifically with the aim of building the Mukurtu Wumpurrarni-kari Archive. It has sense moved on to providing indigenous communities the ability to organize, manage and share digital cultural materials in line with their cultural protocols.",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Any form of democratic organization that relies heavily on rules, voting and procedures for decision making and which acts only with the consent of the majority (defined by procedure).  ",
+    "id": 5,
+    "name": "Procedural consensus democracy",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "OP framed as user-producers and collaborators",
+    "id": 13,
+    "name": "Produsers",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "groups organized for social or political change; independent media organizations; hacktivists; advocates and other coalitions.",
+    "id": 9,
+    "name": "Activist",
+    "updated_at": "2011-10-21T21:24:40Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2012-04-22T23:44:57Z",
+    "email": "patgarcia83@gmail.com",
+    "id": 24,
+    "updated_at": "2013-07-09T03:38:55Z"
+  }
+}

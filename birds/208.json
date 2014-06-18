@@ -1,0 +1,70 @@
+{
+  "id": 208,
+  "name": "Dreamwidth",
+  "thumbnail_100_url": "/system/assets/205/sq100/dw_logo.png",
+  "thumbnail_50_url": "/system/assets/205/sq50/dw_logo.png",
+  "url": "http://www.dreamwidth.org",
+  "foritself": "The project is very much self aware.  The goal of Dreamwidth is to create a platform that lets its user community create content and organize its own communities.\r\n\r\n\r\n\r\n",
+  "brand": "The brand is very abstract with no meaning that jumps out at the average user.  The swirling letter 'd' and the flowing text hints at the inherent malleability of the platform.  It's what the users make of it.",
+  "fse_name": "Dreamwidth Studios LLC",
+  "fse_owner_founder": "Denise Paolucci and Mark Smith",
+  "fse_significant_member": "Afuna, who appears to be DW's sole fulltime employee.  DW is basically run out of Denise Paolucci's apartment.",
+  "fse_mission_statement": "Their guiding values and principles statement is quite long.  Rather than print it up here, maybe it's better to simply provide a link the community principles; http://www.dreamwidth.org/legal/principles.",
+  "op_name": "The organized public is simply called Dreamwidth.  This is name of the site and the community.  It's distinct from the company that runs the site, Dreamwidth Studios LLC.\r\n\r\nThere are really two communities here.  The Open Source development community for Dreamwidth is a bureaucratic hierarchy while the community of users is a network of overlapping weak ties.",
+  "op_vip_founders": "Audra Johnson(Info Architect), Andrea Nall(developer), Pau Amma(documentation creator), Ricky Buchanan(blogger/writer).  More can be found in the dw_support community.",
+  "op_typical_member": "The typical member is a developer or volunteer who helps document features and aspects of the system as well as mediate disputes, announce events and otherwise disseminate information.",
+  "formation": "ounded on 6/11/2008 by Denise Paolucci and Mark Smith.  These two were longtime programmers at Livejournal who had become disillusioned by the corporate transformation of the Livejournal project.  They took a code fork from the open source Livejournal source code and used as the basis a new social networking site. ",
+  "history": " Dreamwidth has been in beta, test, version for most of its history at this point.  At its founding in 2008, Dreamwidth was an invite only service in which invite codes were issued to a select group of testers.  As the code stabilized, these testers were give the ability to issue invite codes themselves and the site's community expanded.  In 2009, Dreamwidth began to offer paid accounts.  Prior to that, Dreamwidth was funded through voluntary contributions.  This service was in a best test state until 2010.  Dreamwidth currently offers free accounts to those who wish to try out the service, but expects most users to upgrade to paid accounts.  From its inception to the current, Dreamwidth has attracted many writers of fan fiction through its promise of open and transparent management.  The site was founded in the wake of controversial actions by Livejournal which resulted in purges of journals deemed to contain pornographic content.  Many writers relocated to Dreamwidth in 2008 and 2009.",
+  "lifespan": "The Dreamwidth community remains small but active.  The project shows no signs of weakening.  It appears to be in a steady state at present.",
+  "resource": " Dreamwitdh provides a blogging and social network platform.",
+  "availability": "he service comes in four levels:  Free which provides basic service.  Paid which which provides additional features.  The Premium level provides a richer feature set still and the Seed Accounts are reserved for developers who have made significant contributions to Dreamwidth code.  This level allows account owners to issuer invite codes.  The terms of service are, for the most part, a basic legal agreement which indemnifies Dreamwidth against liability and places that liability on the owner of the content uploaded to the site.  The exception to that are the sections which state that users may not upload material that is considered illegal in the US and provides Dreamwidth the right to enforce copyright under the Digital Millenium Copyright Act.",
+  "participation": "The company that owns Dreamwidth is largely responsible for setting goals and deciding the direction of the community although it does operate with a great deal of feedback from users and includes developers in the decision making process.",
+  "tasks": "The tasks are separated into coding, documentation and support projects.  Specific projects are organized around new features, testing and bugs.  ",
+  "modularity": "The tasks require a fair amount of programming skill, though the development community does have a sort of coding college which trains up volunteers wishing to use the development project to hone their skills.  The time commitment to the tasks varies by project.",
+  "granularity": "The  granularity depends on the nature of the project.  Projects are written up with a detailed scope statement that describes what the project entails, which systems it affects and how long it will take to develop.",
+  "metrics": "Dreamwidth requires its developers check in periodically on the progress of their projects.  From there, developers must thoroughly test their work.  The project is completed only when the Dreamwidth staff has reviewed the project and conducted their own tests.",
+  "alliances": " As a coding project, Dreamwidth appears to stand alone.  As a platform for expression, Dreamwidth hosts a great many communities dedicated to creative expression, activism or hobby interests.",
+  "clients": "Dreamwidth serves those who want a open platform for blogging and writing.",
+  "sponsors": "The project has no sponsors.  It is effectively self supporting.",
+  "elites": "The two elites are the two founders, Denise Paolucci and Mark Smith.  The organization that runs the project is quite small.  ",
+  "created_at": "2012-05-22T00:59:48Z",
+  "updated_at": "2012-05-22T00:59:48Z",
+  "summary": "Dreamwidth provides a platform for blogging and social networking, operating under principles of openness and transparency.  The platform itself is Open Source software made available to the public for similar projects.  The Dreamwidth blogging site is run as a limited liability company operating under the name Dreamwidth Studios, LLC.  The software is developed and maintained an open source project.  \r\n\tThe site was founded by longtime volunteers from another blogging platform and community, Livejournal.  Livejournal itself started out as an Open Source project and the Dreamwidth platform derives from the Livejournal code base. Livejournal was first acquired by Six Apart LLC and was later sold to SUP Media Inc, a Russian media conglomerate.  Around the same time, polices around Livejournal policies addressing pornography and illegal content created a great deal of discontent in the community.  These policies led to controversial account purges.  Meanwhile, Livejournal turned towards ads as way of generating revenue, further alienating the community.  This prompted Denise Paolucci and Mark Smith to create a blogging community that combined the features of Livejournal with governance that stressed openness and transparency.  The site refuses to use ads to generate revenue and relies on paid accounts and voluntary contributions.  \r\n\tSince its founding, the site has grown, but remains a relatively small community.  Dreamwidth, with its open principles and hands off approach towards the content generated by its users provides an welcoming environment for writers of fan fiction.  For this reason, it has become a haven for such writers and is a popular site for reads of this kind of fiction.  \r\n\tDreamwidth contains two main components.  They do connect, but they are both fairly independent.  Dreamwidhth is an Open Source development project.  This development project may be considered the Organized Public for Dreamwidth the blogging and social networking site.  The development project runs under fairly democratic principles.  Meanwhile, the site itself is owned and operated by Dreamwidth Studios.  This Dreamwidth runs as a something of benevolent dictatorship, led by Denise Paolucci. Thus far, Paolucci and the other founders have taken pains to make decisions in an open and inclusive manner.  However, there is no mechanism of governance that directly includes the users and communities that call the site home.\r\n",
+  "birder_credits": "Tony Castelletto",
+  "tangible_problem": null,
+  "tangible_problem_detail": null,
+  "fse_org_style": {
+    "created_at": null,
+    "description": "An organization with one leader or decision maker whose authority rests on the consent of the governed and/or his/her charisma.  Other forms of organization may supplement it (hierarchy, meritocracacy,or consensus amongst the staff or participants) but the leader's authority is final and effective.",
+    "id": 3,
+    "name": "Charismatic Leadership/Benevelont Dictatorship",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Internet-based projects and companies specialized in social networking",
+    "id": 3,
+    "name": "Social Networking",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2012-04-09T01:01:14Z",
+    "email": "dagoski@ucla.edu",
+    "id": 11,
+    "updated_at": "2012-06-06T17:58:38Z"
+  }
+}

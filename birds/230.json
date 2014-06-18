@@ -1,0 +1,70 @@
+{
+  "id": 230,
+  "name": "Instagram",
+  "thumbnail_100_url": "/system/assets/290/sq100/Instagram-logo.png",
+  "thumbnail_50_url": "/system/assets/290/sq50/Instagram-logo.png",
+  "url": "http://instagram.com/",
+  "foritself": "Yes, the OP is self aware. It actively promotes a sense of belonging, in a sense, as you can see and share the photos of those in your community. ",
+  "brand": "The brand and visual identity is integral to Instagram's success and corporate identity. The logo evokes a vintage camera, the filters provided to alter a persons pictures are imitations of different styles that come from using different types of cameras. The brand and the company itself operates on a fusion of nostalgia and new technologies. Specifically the styles are referencing Polaroid and Instamatic cameras. ",
+  "fse_name": "As of April 2012, Facebook has acquired Instagram. Previously it was Instagram. ",
+  "fse_owner_founder": "Since Facebook is already included in the Birds of the Internet database, this section will focus on Instagram's structure pre-Facebook. \r\n\r\nThe founders of Instagram are Kevin Systrom and Michel \"Mike\" Krieger. ",
+  "fse_significant_member": "Josh Riedel, who joined the company as Community Manager in 2010 and Shayne Sweeney, engineer and Jessica Zollman as a Community Evangelist. ",
+  "fse_mission_statement": "While not a formal mission statement, Instagram describes itself and its motives as \"Instagram is a fun and quirky way to share your life with friends through a series of pictures. Snap a photo with your mobile phone, then choose a filter to transform the image into a memory to keep around forever. We're building Instagram to allow you to experience moments in your friends' lives through pictures as they happen. We imagine a world more connected through photos.\"",
+  "op_name": "No name ",
+  "op_vip_founders": "N/A",
+  "op_typical_member": "Instagram does not release public data, as of January 2012. As of April 2012, they have 40 million users. ",
+  "formation": "FSE -- OP ",
+  "history": "Development of Instagram started in 2010 with Kevin Systrom and Michel Krieger. They decided to focus a pre-existing project, Burbn, on mobile photography. After a seed funding initiative that included Baseline Ventures and Andreessen Horowitz, Instagram launched in the App Store for Apple on October 6, 2010. They hired staff in order to expand, added hashtags so that users have the ability to find photos and people through collated photos.  In 2011, Instagram went through another series of funding which included alliances with Benchmark Capital, Jack Dorsey, Chris Sacca, Adam D'Angelo. At that time, Instagram was valued at 25 million dollars. Instagram for Android was released on April 3, 2012. After its release, which far exceeded expectations in terms of downloads, Instagram raised 50 million dollars from venture capitalists and was now valued at 500 million dollars. Many imitative products have been produced, such as InstaPhoto, LensBoost and Photo Studio. \r\n\r\nOn April 12, 2012, Facebook acquired Instagram for approximately 1 billion dollars in both cash and stock. ",
+  "lifespan": "2010 - present",
+  "resource": "The resource provided is an app, a platform for sharing photos taken on mobile devices. It also allows for framing the photo with various filters, changing the look and feel of the photos. it allows for creating hashtags which collates like photos and themes. The resource is provided to the OP. ",
+  "availability": "Instagram is free and available on Apple and Android products. As of now it is not available on Blackberry products and there are no plans to make it so. ",
+  "participation": "The FSE participates in setting and changing the goals. ",
+  "tasks": "There is a clear statement of what the project does and tasks are clearly defined. Participation is constituted as taking, sharing, commenting and liking photos. You know based on your interactions on Instagram whether or not and to what extent you are participating. Anyone with the free and downloaded app can participate. ",
+  "modularity": "The level of investment necessary to participate is very low. ",
+  "granularity": "Not granular",
+  "metrics": "You can see how many photos each member has posted, as well as the number of followers they have and how many people they are following. In this sense the tasks are measured in these metrics. ",
+  "alliances": "As of April of 2012, it was acquired by Facebook, this is really the only alliance. ",
+  "clients": "The project clients are the users. ",
+  "sponsors": "Kevin Systrom, Mike Krieger, the other employees, Andreessen-Horowitz, Baseline Ventures, Benchmark Capital, Adam D'Angelo, Jack Dorsey, Chris Sacca, Sequoia Capital, Thrive Capital, Greylock Partners, Facebook.",
+  "elites": "Instagram still only maintains thirteen employees, including the original founders. ",
+  "created_at": "2012-08-07T21:41:27Z",
+  "updated_at": "2012-08-19T01:36:59Z",
+  "summary": "",
+  "birder_credits": "",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "An aversion to hierarchy resulting in hierarchy.  See http://www.youtube.com/watch?v=yY-7_uzJL6w",
+    "id": 12,
+    "name": "Cryptohierarchy",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Internet-based projects and companies specialized in social networking",
+    "id": 3,
+    "name": "Social Networking",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Any of various projects that depend on an Application Programming Interface (open or not) to allow for the existence of the service (e.g. Google Maps, Facebook's Graph API).",
+    "id": 3,
+    "name": "API/Application Specific",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2012-04-09T16:35:57Z",
+    "email": "stacyewood@gmail.com",
+    "id": 14,
+    "updated_at": "2012-11-02T17:02:53Z"
+  }
+}

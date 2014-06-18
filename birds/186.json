@@ -1,0 +1,70 @@
+{
+  "id": 186,
+  "name": "Kiva",
+  "thumbnail_100_url": "/system/assets/121/sq100/kivaloans1.jpg",
+  "thumbnail_50_url": "/system/assets/121/sq50/kivaloans1.jpg",
+  "url": "http://www.kiva.org/",
+  "foritself": "Yes. Kiva encourages community, using personal accounts of its borrowers and field partners to encourage lending. There are also Lending Teams, self-organized groups where members connect with each other and rally around shared lending goals - these include Kiva Christians, Team Europe, Team Canada, LGBT, and \"Atheists, Agnostics, Skeptics, and Freethinkers.\"",
+  "brand": "A bay-area non-profit that uses web-based microfinance for poverty alleviation and women's economic empowerment. Kiva's innovation was to pair an online donation system with social networking, providing profiles for borrowers, lenders, and field partners (local microfinance institutions). Kiva's logo uses green and leaf-shaped letters to evoke themes of growth, nature, ecology, sustainability, and environmental consciousness.",
+  "fse_name": "Kiva",
+  "fse_owner_founder": "Matt Flannery and Jessica Jackley\r\n\r\nhttp://www.kiva.org/about/team/advisors. Accessed 5 September 2012.\r\nhttp://media.kiva.org/INNOV0201_flannery_kiva.pdf",
+  "fse_significant_member": "Premal Shah, President\r\n\r\nBoard of Directors\r\nPremal Shah\r\nJulie Hanna | Chair of the Board, Kiva\r\nReid Hoffman | Co-Founder and Executive Chairman, LinkedIn\r\nAmy Klement | VP Investments, Omidyar Network\r\nAlex Edelstein | CEO, CloudCrowd\r\nGeoff Davis | Former CEO, Unitus\r\n\r\nAdvisory Board\r\n\r\nDave McClure | Founder, Paypal Developer Network\r\nDoug Michelman | Global Head of Corporate Relations, Visa\r\nJessica Jackley | Co-Founder, Kiva\r\nJohn Hiler | CEO and Co-Founder, Xanga.com\r\nKen Howery | Founders Fund, PayPal Co-founder\r\nKiran Jain | Attorney, Bingham McCutchen LLP\r\nPhu Hoang\r\nScott Smith | Attorney, Hanson Bridgett Marcus Vlahos Rudy LLP\r\nSundeep Ahuja | Co-founder, RichRelevance\r\n\r\nhttp://www.kiva.org/about/team/advisors",
+  "fse_mission_statement": "\"We are a non-profit organization with a mission to connect people through lending to alleviate poverty. Leveraging the internet and a worldwide network of microfinance institutions, Kiva lets individuals lend as little as $25 to help create opportunity around the world.\"\r\n\r\nhttp://www.kiva.org/about. Accessed 5 September 2012.\r\n",
+  "op_name": "Kiva",
+  "op_vip_founders": "Because members of the OP participate by selecting projects or individuals to lend money to, there is not a strong organized element to the public.",
+  "op_typical_member": "Kiva's OP is its donors, typically people from wealthy countries - Western Europe, Australia, Canada, the US. \r\n\r\n",
+  "formation": "Kiva has always been a non-profit FSE building up an impressive number of OPs over the years. Today is has over a million users.\r\n\r\nhttp://www.kiva.org/about/stats. Accessed 5 September 2012.",
+  "history": "Kiva began as a direct microfinance loan site in 2005.\r\n\r\nIn 2009 it began partnering with microlending field banks they deemed \"Field Partners\" to facilitate the loan process.\r\n\r\nFor a timeline of events, see http://www.kiva.org/about/history",
+  "lifespan": "Still active as of 2012.",
+  "resource": "The resource for the OP is a platform for more engaged philanthropy. Kiva provides a personal connection - donors are able to see photos of individual lenders and receive updates on the projects they fund.  Investors log on to Kiva, view profiles of low-income entrepreneurs and make payments via PayPal to the recipient of their choice. While some of the loans accrue interest, most are simply paid back over the next year. A person can join in with other donors to give a $500, 18-month loan to a farmer in Cambodia to buy more pigs, and get email reports of the monthly repayments, which often provide details of the borrower's progress.",
+  "availability": "Anyone can donate. \r\n\r\nKiva also has an extensive privacy policy: http://www.kiva.org/legal/privacy\r\n\r\n\"When you create an account on the site, Kiva collects basic information through the registration process – your name, email address and also tracks information on donations.\"\r\n\r\n ",
+  "participation": "Goals, set in Kiva's mission statement, are to get lenders the loan they need by connecting with donors around the world. OPs are likely not directly involved in Kiva's goal settings.",
+  "tasks": "Investors log on to Kiva and make a donation via PayPal to the recipient of their choice. \r\n\r\nThere are also interactive features on the website for writing comments (on a Kiva blog, message board or volunteer forum). Lenders can also make updates and provide personal details on their lender page. You can also volunteer as an editor and translator for at least two hours per week editing, translating, and reviewing loan profiles for the Kiva website.",
+  "modularity": "Lowest level of involvement would be donating $25. Higher levels of investment would be to join a Lending Team or volunteer as a translator or editor.",
+  "granularity": "As granular as making a Paypal donation.",
+  "metrics": "Tasks aren't so much measured - each donation would be a completed task.",
+  "alliances": "The more than 100 Kiva field partners,  Microfinance Institutions (MFI)  around the world that disburse the funds and works with the borrower on timely repayment.  Facebook, which they link to, and Paypal, which is the service that transfers the money. Oprah Winfrey and Bill Clinton are a big advocates.\r\n\r\nhttp://media.kiva.org/INNOV-SKOLL-2009_flannery.pdf",
+  "clients": "The clients would be the recipients of the loans. \r\n\r\nNote: Kiva's lenders can't charge interest on their loans, and Kiva doesn't charge interest to the MFIs. But the MFIs do charge their developing-world borrowers.\r\nhttp://www.forbes.com/2008/06/03/kiva-microfinance-uganda-ent-fin-cx_0603whartonkiva.html. Accessed 5 September 2012.",
+  "sponsors": "Draper Richards Foundation awarded $300,000. $1,015,000 Skoll Award for Social Entrepreneurship from the Skoll Foundation. Other funders: The W.K. Kellogg Foundation, $1 million grant through Sam's Club Giving Made Simple campaign.",
+  "elites": "See the Board of Directors for an idea.  Silicon Valley elites.",
+  "created_at": "2012-02-24T17:36:02Z",
+  "updated_at": "2012-09-04T21:33:40Z",
+  "summary": "A bay-area non-profit that uses web-based microfinance for poverty alleviation and women's economic empowerment. Kiva's innovation was to pair an online donation system with social networking, providing profiles for borrowers, lenders, and field partners (local microfinance institutions). Lenders given as little as $25 and can track donation amounts and repayment online, link up with other lenders to the same individual or project, and can use images, maps, and personal information to know more about the borrower. Kiva enables a form of alternative economics, in the vein of lending cooperatives and credit unions.\r\n\r\nKiva's website blends social networking with microfinance to enable  micro loans to individual borrowers. The non-profit originally helped entrepreneurs in the developing world but expanded in the past few years to loan to students and small businesses in the US. \r\n\r\nKiva \"tries to marry the discipline of markets with the charitable spirit of old-style foreign aid.\"\r\n\r\n http://www.forbes.com/2008/06/03/kiva-microfinance-uganda-ent-fin-cx_0603whartonkiva.html. Accessed 5 September 2012.\r\n\r\n",
+  "birder_credits": "Morgan Currie\r\n\r\nAll uncredited information comes from Kiva.org.\r\n\r\nEdited by rncrooks@ucla.edu 5 September 2012.",
+  "tangible_problem": "Yes",
+  "tangible_problem_detail": "Provide loans",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "An unorganized mass whose only relation to each other is a mutual relationship to a producer. ",
+    "id": 9,
+    "name": "Consumer Market",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": "2011-11-30T05:22:31Z",
+    "description": "Focused on volunteerism, fundraising, or cause-related participation",
+    "id": 13,
+    "name": "Social Entrepreneurialism",
+    "updated_at": "2011-11-30T05:22:31Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2012-04-17T03:52:58Z",
+    "email": "rncrooks@ucla.edu",
+    "id": 23,
+    "updated_at": "2013-07-09T15:08:37Z"
+  }
+}

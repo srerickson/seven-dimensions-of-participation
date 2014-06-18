@@ -1,0 +1,70 @@
+{
+  "id": 204,
+  "name": "Quantified Self",
+  "thumbnail_100_url": "/system/assets/242/sq100/quanitified_self_logo.jpg",
+  "thumbnail_50_url": "/system/assets/242/sq50/quanitified_self_logo.jpg",
+  "url": "http://quantifiedself.com",
+  "foritself": "Yes. Quantified Self describes itself as a movement. It's Twitter feed describes QS as \"a collaboration of users and toolmakers who share an interest in self knowledge through self-tracking.\"",
+  "brand": "The main visual convention of Quantified Self branding is the use of dots to form chunky capital letters. This pronounced pointillism in the construction of the two letters that form the bulk of the logo illustrates the idea of creating larger pictures from discrete units. Other than this conceit, the bulk of Quantified Self's branding is fairly corporate: white backgrounds, various shades of blue, and the occasional orange highlight.",
+  "fse_name": "Quantified Self Labs, incorporated in California. This business entity was registered with the California Secretary of State as QUANTIFIED SELF LABS LLC, Entity Number # 201123910004 on 08/01/2011 by Gary Wolf.\r\n\r\nhttp://kepler.sos.ca.gov",
+  "fse_owner_founder": "Founders: Kevin Kelly, Gary Wolf\r\n\r\nhttp://quantifiedself.com/about-qs-labs/",
+  "fse_significant_member": "Director: Alex(andra) Carmichael\r\nCommunity Organizer: Ernesto Ramirez\r\nSponsorship Facilitator: Robert Lynde\r\nAdviser: Davis Masten\r\nFrequent Contributor: Rajiv Mehta \r\n\r\nhttp://quantifiedself.com/about-qs-labs/\r\n",
+  "fse_mission_statement": "\"Quantified Self Labs is a California LLC formed to support the Quantified Self community. We do this by using minimal resources to help participants around the world share their self tracking projects and learn from what others are doing.\"\r\n\r\nhttp://quantifiedself.com/about-qs-labs/",
+  "op_name": "Quantified Self (often abbreviated as \"QS\"). In addition to posting informational articles, links, presentations, and tutorials, the main blog promotes an annual conference and local face-to-face meetings whenever community members in a particular city want to have one.",
+  "op_vip_founders": "Same as FSE, Kevin Kelly and Gary Wolf.",
+  "op_typical_member": "Adherents call themselves Quantified Selfers. Educated, urban male, most often with some direct relation to the IT industry on the West Coast of the United States. Kevin Kelly's involvement allows the movement to attract Quantified Selfers from the Wired Magazine crowd. However, the OP is becoming more global and presumably more economically and ethnically diverse.  There are now meetings held in urban centers throughout Europe and East Asia.\r\n\r\n",
+  "formation": "The OP precedes the formation of the FSE.  Quantified Self Labs was founded in 2011 to support the expanding community of participants in the OP and, likely, to provide a mechanism for controlling the brand as it grows.  However, even as the FSE emerged from the OP, the founding members of the FSE and OP are one and the same.  In this particular case it is difficult to disentangle the OP and FSE in terms of identifying a driving force behind the movement, other than the evangelism of Kevin Kelly and Gary Wolf.\r\n\r\nThe structure of the OP has not changed drastically since its inception.  It still utilizes meetup.com for the scheduling of in-person meetings at a local level and uses the QS web presence as the hub of online collaboration and communication.",
+  "history": "The first blog entry formally associated with the Quantified Self web presence appeared in 2007 (http://quantifiedself.com/2007/page/3/). Co-founder Gary Wolf articulated the intellectual impulses behind what would become Quantified Self in his personal blog in the same year.  He cites the availability of cheap and user-friendly technology for the possibility of new advances in all aspects of personal health and offers a motto for the nascent movement: “Self-knowledge through numbers.”\r\n\r\nhttp://aether.com/quantifiedself\r\n\r\nSince its founding, QS has expanded quickly.  Small casual group meetings are held globally and the first of three international conferences was held in 2011 in Mountain View California.  The third is scheduled for September 2012.  The FSE estimates that there are 50 semi-autonomous active QS groups globally.\r\n\r\nhttp://quantifiedself.com/conference/Palo-Alto-2012/",
+  "lifespan": "Born 2007, incorporated in 2011, and growing steadily.",
+  "resource": "Quantified Self provides a meeting point for any party interested in self-tracking.  Online forums allow participants to exchange questions and ideas, as well as showcase projects.  In person meetups allow for community-building, sharing of expertise and demonstrations of hacks and projects. Formal conferences offer the same, as well as a connection to the IT industry.\r\n\r\nPut more simply, the sharing of expertise through a centralized meeting space is the resource QS provides.  As with the discussion of ontogeny, it is difficult to disentangle what resources the FSE provides/receives from those that the OP provides/receives.",
+  "availability": "Show and Tell Videos are hosted by Vimeo and, as such are subject to Vimeo's terms of service.\r\n\r\nNone of the information or other resources present in the forums or the website are sold or subject to specific licensing agreements.\r\n\r\nThe QS forum is governed by a set of rules which basically formalize etiquette for posting questions to forums: use English, stay on topic, use evidence, re-post older information if useful, \"Attack the problem, not the person.\"\r\n\r\nhttp://forum.quantifiedself.com/announcement-forum-tips-and-rules",
+  "participation": "The FSE has more power to set agendas due to its control of the QS website, which is the central communication hub of the movement.  The FSE is also responsible for the organization the large scale international conferences.\r\n\r\nOn the other hand, large amounts of flexibility and self-determination are present at the local level, where small groups may proceed without oversight from the FSE.  Undoubtedly the involvement and activity of these groups shapes the FSE's actions due to the fact that these groups are responsible for providing the website's content via the sharing of forum posts and videos.\r\n\r\nIn theory, QS could track any data of any individual for the purpose of self improvement. In practice, the resources provided or linked to on the website are generally focused on physical fitness and move improvement. It also relies on a kind of collective support for these improvement projects. ",
+  "tasks": "Anyone can participate in theory.  Specific tasks and goals are set at the local group level, but all instances of participation involve, at the least, registration with a local meetup group, active or passive involvement with the QS website, and at least a passive involvement in self-tracking.\r\n\r\nThe formal tasks of QS are the implementation of programs of self-tracking.  What constitutes a completed project depends on the project, but the understanding is that a project is complete when it is presented as such at a show and tell session.",
+  "modularity": "Variable. In general, self-tracking involves some facility with electronic equipment, the use of software, and some means to analyze or visualize collected data.",
+  "granularity": "Variable.  Greater degrees of granularity, generally, are privileged with regard to the data produced by self-tracking projects.",
+  "metrics": "Variable.  However, the larger and more specific the data set that is derived from a self-tracking project, the more complete or successful it is.",
+  "alliances": "Other consumer health groups, especially 23andMe, PatientsLikeMe, Microsoft Health Vault and similar communities.\r\n\r\nThe following are listed as \"friends of QS\"\r\n\r\nBiocurious http://biocurious.org\r\nG51 http://g51studio.com\r\nTonic Self Care http://www.tonicselfcare.com/QS\r\nCalit2 http://calit2.net\r\n\r\nhttp://quantifiedself.com/about/",
+  "clients": "None. The FSE exists to coordinate the activities of the OP using \"minimal resources.\" Participation costs are conceivably paid by participants and little direct benefit appears to accumulate to the FSE at present. QS videos created by users endorse particular products, but the ethos of the OP is DIY. The Quantified Self site itself lists and reviews of self-monitoring products and services at a variety of prices. ",
+  "sponsors": "Formal economic sponsorship is provided by Autodesk, Intel and Scanadu, in addition to any revenues produced by Quantified Self Labs (through sales of tickets to conferences, for example).\r\n\r\nQuantified Self's Guide to Self-Tracking, which lists and reviews a variety of third-party apps, services, and products, is co-sponsored by The Robert Wood Johnson Foundation, The Institute for the Future, Cure Together, and Personal Informatics.\r\n\r\nhttp://quantifiedself.com/guide/",
+  "elites": "Kevin Kelly and Gary Wolf, the founders of the website, have access to media and control the FSE. \r\n\r\nAny OP member with status in the IT industry could also conceivably translate this status to greater authority within the OP.",
+  "created_at": "2012-05-21T16:56:54Z",
+  "updated_at": "2013-09-04T17:56:44Z",
+  "summary": "Quantified Self is both an organized business enterprise aimed at promoting self-monitoring and data visualization (Quantified Self Labs) and a loosely organized web of adherents who participate in these data collection activities (QS).\r\n\r\nThe idea for the movement was articulated by Kevin Kelly and Gary Wolf in works that emphasized using data collection regimes to promote self-knowledge and improved health outcomes. Quantified Self's website provides an entry point for any party interested in self-tracking.  Online forums allow participants to exchange questions and ideas, as well as showcase projects.  In-person meetups allow for community-building, sharing of expertise and demonstrations of hacks and projects. Formal conferences offer the same, as well as a connection to the IT industry. Quantified Self encourages autonomy in its satellite chapters by allowing them to self-organize local meetups in addition to a central, sponsored meeting annually.\r\n\r\nQS accepts no venture funding; Quantified Self Labs runs as de facto non-profit, although it is not legally licensed as such. Quantified Self's Guide to Self-Tracking, which lists and reviews a variety of third-party apps, services, and products, is co-sponsored by The Robert Wood Johnson Foundation, The Institute for the Future, Cure Together, and Personal Informatics.\r\n\r\nReferences:\r\n\r\nSinger, E. (2011). \"The measured life.\" Technology Review. MIT. http://www.technologyreview.com/featured-story/424390/the-measured-life/\r\n\r\nVan der Vlist, Fernando N. (2012) \"Distributed Narratives Extracting Design Methods from Nonlinear Narrative Formations.' Thesis submitted to department of Graphic Design at the Willem de Kooning Academy, School of Media & Design at the Rotterdam University of Applied Science, in partial fulfilment of the requirements for the degree of Bachelor of Design (BDes).\r\n\r\nWolf, G. (2010). The quantified Self. TED. http://www.ted.com/talks/gary_wolf_the_quantified_self.html\r\n",
+  "birder_credits": "Revised by Roderic Crooks and Stacy Wood, July 2012.",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "An organization with one leader or decision maker whose authority rests on the consent of the governed and/or his/her charisma.  Other forms of organization may supplement it (hierarchy, meritocracacy,or consensus amongst the staff or participants) but the leader's authority is final and effective.",
+    "id": 3,
+    "name": "Charismatic Leadership/Benevelont Dictatorship",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Regionally or Locally specific collectives connected to a global network that gives identity to or sustains the local collectives. ",
+    "id": 10,
+    "name": "Franchise",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Projects that allow participation in science or engineering, such as citizen science, and including medical research",
+    "id": 5,
+    "name": "Science and/or Engineering",
+    "updated_at": "2011-11-29T21:48:40Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2011-07-22T19:14:37Z",
+    "email": "ckelty@ucla.edu",
+    "id": 2,
+    "updated_at": "2013-10-22T20:47:03Z"
+  }
+}

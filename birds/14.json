@@ -1,0 +1,70 @@
+{
+  "id": 14,
+  "name": "MySQL",
+  "thumbnail_100_url": "/system/assets/117/sq100/mysql.png",
+  "thumbnail_50_url": "/system/assets/117/sq50/mysql.png",
+  "url": "http://www.mysql.com/",
+  "foritself": "MySQL is self-aware and widely promotes its product using a dual licensing (GPL and a commercial license) model. \r\n\r\n",
+  "brand": "T he logo features a dolphin that has been officially named \"Sakila.\" The name of the MySQL Dolphin was chosen from a huge list of names suggested by users in the “Name the Dolphin” contest. The word \"My\" is blue and the acronym \"SQL\" is orange. The organization positions itself as \"the world's most popular open source database.\" \r\n(http://www.mysql.com/why-mysql/)",
+  "fse_name": "The name of the legally recognized entity is MySQL AB. ",
+  "fse_owner_founder": "The FSE was co-founded by Michael \"Monty\" Widenius, David Axmark, and Allan Larsson.",
+  "fse_significant_member": "Mårten Mickos was elected CEO at age 38 and remained CEO until 2009. Other signifcant FSE members include early MySQL entrepreneurs Larry Stefonic, and Bertrand Matthelie.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+  "fse_mission_statement": "\"Our mission is to make superior data management available and affordable for all.\" (http://www.alfresco.com/partners/mysql) ",
+  "op_name": "The OP is an active, worldwide community of open source developers who work with MySQL Community Edition. Other users of MySQL include commercial customers; however, the development of the database can be mainly attributed to open source developers working with MySQL Community Edition.",
+  "op_vip_founders": "The organized public are open source developers who contribute code to the MySQL project. They interact through mailing lists, MySQL Forge Wiki, and Launchpad. Launchpad lists the top three contributors  by username) as the following people: \r\n\r\nMagnus Blåudd \r\njimmy-yang\r\nLaurynas Biveinis\r\n\r\nFor a complete list of the top contributors, visit the Launchpad MySQL community site (https://launchpad.net/mysql-server/+topcontributors).\r\n\r\nFor more information on how the organized public contributes to the project, visit Oracle's contribution site (http://forge.mysql.com/wiki/Contributing_Code).",
+  "op_typical_member": "Typical members of the organized public include database architects, software engineers, and software programmers. ",
+  "formation": "FSE -> OP",
+  "history": "The original development of MySQL began in 1994 by Michael Widenius and David Axmark. The first internal release was made on May 23, 1995. The MySQL AB was founded in 1995 by Michael Widenius, David Axmark, and Allan Larsson. The company quickly became one of the most profitable and successful software companies and FOSS projects due to the inclusion of MySQL in the LAMP software bundle (Linux, Apache, MySQL, and PHP) that powered the web 2.0 boom of the early 2000's. On January 16, 2008, MySQL AB announced that it had agreed to be acquired by Sun Microsystems for approximately $1 billion. On January 27, 2010, Oracle acquired Sun Microsystems, making Oracle the current owner of MySQL.  \r\n\r\n(http://en.wikipedia.org/wiki/MySQL)\r\n\r\n\r\n\r\n",
+  "lifespan": "MySQL is currently owned by Oracle and supported by an active, world-wide community of open source developers.  However, disagreements with Sun Microsystems caused Michael Widenius (Monty),  David Axmark, and Mårten Mickos to leave the company and start new projects. \r\n",
+  "resource": "The main resource provided by MySQL is an open source relational database management system (RDBMS) that runs as a server providing multi-user access to a number of databases. In addition to the software, MySQL offers support, training and consulting services.\r\n\r\n(http://www.mysql.com/why-mysql/)",
+  "availability": "MySQL is dual-licensed.\r\n\r\n\"MySQL AB makes MySQL available under the GPL at no charge, but sells it under other more traditional licenses to clients who do not find the GPL to be ideal for their purposes, such as inclusion of MySQL AB technology in a closed source product.\" (http://en.wikipedia.org/wiki/MySQL_AB)\r\n\r\n",
+  "participation": "The goals are set by both the FSE and OP. ",
+  "tasks": "Open source developers can contribute in the following ways:\r\n\r\n    By Contributing Code (e.g. patches for bug fixes or implementing new features)\r\n    By Writing quality bug reports\r\n    By Suggesting Features\r\n    By commenting on WorkLog tasks\r\n    By Supporting the Community Testing and Benchmarking activities\r\n    By Writing a Usability Report on your experiences with a product or feature \r\n\r\n(http://forge.mysql.com/wiki/Contributing)",
+  "modularity": "Contributing code, writing bug reports, suggesting features, commenting on WorkLog tasks, and writing usability reports all require technical expertise. However, those with limited technical expertise can contribute in the mailing lists or forums or by blogging about MySQL ",
+  "granularity": "Peripheral contribution is allowed for volunteers. The power to commit code and make decisions about the upstream version of MySQL is done by the company, MySQL AB. ",
+  "metrics": "The main metric for participation in the project is a measurement of how many tasks a person has contributed to the project. A listing of the top contributors is listed on the LaunchPad site and is measured in \"karma.\"  ",
+  "alliances": "MySQL has alliances with Dell, HP, IBM, Microsoft, Red Hat, and Zend.\r\n",
+  "clients": "The main project clients include general computer users, database and system administrators, and companies.",
+  "sponsors": "Owners have included MySQL AB, Sun Microsystems, and Oracle. Sponsors have included Benchmark Capital, Intel Capital, Red Hat, SAP Ventures, Index Ventures, Institutional Venture Partners and, Presidio STX. (http://www.crunchbase.com/company/mysql)\r\n",
+  "elites": "Any of the following key people would have special forms of access to the entity based on either their current or past involvement with the project: \r\n\r\nMårten Mickos, CEO\r\nDennis Wolf CFO and EVP\r\nMark C. Burton, EVP Sales\r\nZack Urlocker, EVP Products\r\nKaj Arnö, VP Open Source Community Relations\r\nUlf Sandberg, SVP Worldwide Services\r\nClint Smith, VP General Counsel\r\nLarry Stefonic, SVP Asia Pacific\r\nKevin Harvey, Chairman\r\nAllan Larsson\r\n\r\n(http://en.wikipedia.org/wiki/MySQL_AB)",
+  "created_at": null,
+  "updated_at": "2012-07-11T23:47:06Z",
+  "summary": "MySQL is a open source relational database management system (RDBMS) that was developed and distributed by MySQL AB in 1995. The company was co-founded by Michael \"Monty\" Widenius, David Axmark, and Allan Larsson. MySQL has been extremely popular due to its inclusion in the LAMP software bundle. Clients can choose to use the GPL or copyrighted versions of the database. MySQL has been acquired twice since it's creation: first by Sun Microsystems in 2008, and second by Oracle who acquired Sun Microsystems in 2010. \r\n\r\nThis case raises interesting questions about how the nature of FOSS projects changes when they are acquired by corporations, such as Oracle. The case can also be used to discuss how dual-licensing hurts or helps FOSS projects.  \r\n\r\n",
+  "birder_credits": "Pat Garcia \r\nLuis Felipe R. Murillo",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "OP framed as user-producers and collaborators",
+    "id": 13,
+    "name": "Produsers",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Free and Open Source Software",
+    "id": 1,
+    "name": "FOSS",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Projects that directly interacts with or depends on the ecology of low-level UNIX-based tools and Internet-based services such as UNIX operating systems, C compilers, source code management systems (SCM), POSIX standard components, internet protocols and services.  ",
+    "id": 1,
+    "name": "UNIX + Internet",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2012-04-22T23:44:57Z",
+    "email": "patgarcia83@gmail.com",
+    "id": 24,
+    "updated_at": "2013-07-09T03:38:55Z"
+  }
+}

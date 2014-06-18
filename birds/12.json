@@ -1,0 +1,70 @@
+{
+  "id": 12,
+  "name": "Debian",
+  "thumbnail_100_url": "/system/assets/11/sq100/openlogo-100.png",
+  "thumbnail_50_url": "/system/assets/11/sq50/openlogo-100.png",
+  "url": "http://www.debian.org/",
+  "foritself": "Yes. It is self-aware as an entity and promotes a sense of belonging by maintaining active channels of communication (mailing lists, IRC server with servers dedicated to several aspects of the system, as well as a yearly international conference \"Debconf\", generally sponsored for debian active developers around the world). It has very distinct ways of selecting participants (debian new maintainer process) and promoting membership (by active sponsoring of new developers). Clear distinction between contributors (free software packagers) and developers (debuggers and people responsible for the quality of the packages that are included in the system) is maintained. \r\n\r\nAnother distinctive feature of Debian is a clear process of governance and coordination of the development work: they hold elections for the selection of their \"leader\". They abide to a Social Contract (which specifies the nature of the project and what is to be expected from it) and a Free Software Definition (which serves as a guideline on what to include and exclude from the distribution).",
+  "brand": "The red spiral represents Debian GNU/Linux. It is widely used and recognized as the primary symbol for Debian (and it can be found in T-shirts, stickers, project page, icons for the desktop systems, etc.).\r\n\r\nThe spiral logo comes in two versions: open logo and official-use logo. The former is open of free usage, and the latter is protected against misuse of the Debian brand. \r\n\r\n (Accessed September 7, 2012: http://www.debian.org/logos/#official-use)\r\n\r\n",
+  "fse_name": "Software in Public Interest",
+  "fse_owner_founder": "Bruce Perens (founder), Bdale Garbee",
+  "fse_significant_member": "Bdale Garbee (from HP, responsible for the linkages of HP Open Source Labs with Free Software projects such as Debian, among others such as Gnash). \r\n\r\n",
+  "fse_mission_statement": "\"SPI is a non-profit organization which was founded to help organizations develop and distribute open hardware and software. We encourage programmers to use any license that allows for the free modification, redistribution and use of software, and hardware developers to distribute documentation that will allow device drivers to be written for their product.\" \r\n\r\n(http://www.spi-inc.org/about/)",
+  "op_name": "Debian GNU/Linux or just Debian",
+  "op_vip_founders": "Ian Murdock founded Debian GNU/Linux in 1993 (while he was a computer science undergrad at Purdue University). For 1994-95, the project was sponsored by Free Software Foundation. ",
+  "op_typical_member": "Free Software developers and users, network administrators, and Free Software advocates.",
+  "formation": "Debian GNU/Linux started as an OP -- a tightly knit group of Free Software developers and later created SPI (software in public interest). It grew with sponsorship by Formal Social Enterprises (such as FSF, HP, and employees from Pixar), as well as with strong community voluntary work and support.\r\n\r\nIt is considered one of the oldest community-based distributions, in contrast to other older distributions that are either FSE-based (Red Hat) or distributions that do not share the same community building ethic such as Slackware (which had only one active developer, Patrick Volkering).",
+  "history": "Ian Murdock founded Debian GNU/Linux in 1993 (while he was a computer science undergrad at Purdue University). For 1994-95, the project was sponsored by Free Software Foundation. \r\n\r\nIn 1996, Bruce Perens became the leader of Debian and laid the foundations for project: started Software in Public Interest (an FSE to sponsor Debian), created the Debian Free Software Guidelines, Debian Social Contract and the Open Hardware Project.\r\n\r\nDebconf (a tool for package management) was created in 1996 and became the most sophisticated package systems, increasing the popularity of Debian enormously. \r\n\r\nBruce Perens left the project in 1998. \r\n\r\nIn 2000 the project made many changes to both release management and archive management. July 2002 saw the release of version 3.0. \r\n 3.1 was released in 2005 and has almost twice the amount of software included in previous releases. \r\nIn 2006 Mozilla software was rebranded in Debian due to disputes over branding and copyright. \r\nDebian 4.0 was released in 2007 with Debian 5.0 arriving in 2009 and the current version 6.0 was released in February of 2011. \r\n \r\n(Accessed September 7, 2012: http://en.wikipedia.org/wiki/Debian#1993.E2.80.931998)\r\n\r\n",
+  "lifespan": "The project started in 1993 and it is still active. It is one of the biggest and largest (in size and number of developers, which are counted in the other of thousands) Free Software projects and served as a platform for several other products and distributions (such as Ubuntu, Knoppix, among several others).",
+  "resource": "software, documentation, online community-based support",
+  "availability": "Provides Free Software (according to the Debian Free Software Guidelines) and means for the installation of non-Free Software (available in the non-free Debian software repositories).",
+  "participation": "Create a universal, free software operating system.",
+  "tasks": "Debian has several teams which take the responsibility of working on several aspects of the project: software packaging, bug tracking, network administration, publicity and artwork, and more formal roles such as leader and participant of the NGO Software in Public Interest (which was founded to support Debian and other Free Software projects).\r\n",
+  "modularity": "This varies depending on the task the volunteer chooses. At the beginning stages of participation, new participants are encouraged to engaged in a range of tasks including website maintenance and translation. After devoting some time to familiarizing oneself with the guidelines, expectations and general community ethics of Debian, one can apply to become either a Debian Maintainer (DM) or a Debian Developer (DD). \r\nDebian Maintainer (DM): The first step in which you can upload your own packages to the Debian archive yourself.\r\nDebian Developer (DD): The traditional full membership role in Debian. A DD can upload any package and can participate in Debian elections. Before applying as DD, you should have been a DM for about six months.\r\n\r\nThe task modularity then is relative. \r\n",
+  "granularity": "The tasks are relatively granular, as they are all pieces of a greater whole project. ",
+  "metrics": "Although there are no specific metrics, Debian has extremely well developed and maintained expectations for their members including specifically outlined goals and duties. The Developer's manual is available on their website. \r\n \r\n(http://www.debian.org/doc/manuals/developers-reference/) ",
+  "alliances": "Sponsored by Free Software Foundation, received donations from HP, had legal counseling from Software Freedom Law Center.",
+  "clients": "computer users, companies",
+  "sponsors": "Debian partners are defined as: organizations and companies that provide monetary assistance, equipment and other services that assist Debian in their development and maintenance. \r\n\r\nPartners that are recognized as members of the partners program are: HP, Thomas Krenn, Trustsec, Credativ, Skolelinux, Genesi, Eaton, Simtec, Loongson, Open Source Press, No Starch Press, Service Partners, Linux Central, RapidSwitch, The Oregon State University Open Source Lab, Telegraaf Media ICT, man-da.de, Bytemark Hosting, 1&1, dg-i, and Mythic Beasts. \r\n \r\n(http://www.debian.org/partners/)",
+  "elites": "Debian controls the formation of elites by enforcing an attitude of cordiality and respect with the motto: \"There is no cabal\", or the acronym TINC. Although, decisions, processes and impasses are generally solved by more experienced and active members of the project.\r\n\r\nHenry Edward Hardy, 1993. The Usenet System, ITCA Teleconferencing Yearbook 1993, ITCA Research Committee, International Teleconferencing Association, Washington, DC. pp 140–151, esp. subheading \"The Great Renaming\" and \"The Breaking of the Backbone Cartel\" ",
+  "created_at": null,
+  "updated_at": "2012-09-07T19:29:48Z",
+  "summary": "Debian GNU/Linux aims to build a universal Free Software operating system. Its development method involves the work of a large group of voluntary (international) developers.\r\n\r\nAdditional Readings: \r\n\r\nGarcia, Juan Mateos, Steinmueller, W. Edward, \"The Institutions of Open Source Software: Examining the Debian Community,\" Vol. 20, Issue 4 pp 333-334, Dec. 2008. \r\n\r\nKrafft, Martin F. The Debian System: Concepts and Techniques. No Starch Press: San Francisco, 2005. \r\n\r\nRobles, Jesus. M. Gonzalez-Barahona, Michlmayr, Martin, \"Evolution of Volunteer participation in Libre Software Projects: Evidence from Debian,\" Proceedings of the First International Conference on Open Source Systems Genova, 11th-15th July 2005. ",
+  "birder_credits": "Luis Felipe R. Murillo\r\nStacy Wood\r\n",
+  "tangible_problem": "Yes",
+  "tangible_problem_detail": "Debian GNU/Linux aims to build a universal Free Software operating system. ",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Any form of democratic organization that relies heavily on rules, voting and procedures for decision making and which acts only with the consent of the majority (defined by procedure).  ",
+    "id": 5,
+    "name": "Procedural consensus democracy",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Any form of democratic organization that relies heavily on rules, voting and procedures for decision making and which acts only with the consent of the majority (defined by procedure).  ",
+    "id": 5,
+    "name": "Procedural consensus democracy",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Free and Open Source Software",
+    "id": 1,
+    "name": "FOSS",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2012-04-22T23:44:57Z",
+    "email": "patgarcia83@gmail.com",
+    "id": 24,
+    "updated_at": "2013-07-09T03:38:55Z"
+  }
+}

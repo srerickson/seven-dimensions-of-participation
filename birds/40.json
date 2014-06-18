@@ -1,0 +1,70 @@
+{
+  "id": 40,
+  "name": "SNPedia",
+  "thumbnail_100_url": "/system/assets/257/sq100/snpedia_logo.gif",
+  "thumbnail_50_url": "/system/assets/257/sq50/snpedia_logo.gif",
+  "url": "http://www.snpedia.com/index.php/SNPedia",
+  "foritself": "Yes. SNPedia actively asks people to participate by checking their own genetic information against it and by updating gene variant entries with new scientific information. It also allows users to make public their genetic information and/or the annotations which link variants to estimates of effects (based on the published literature)",
+  "brand": "Branding is pretty minimal. Basic Wikipedia wiki website format; distinctiveness from the fairly generic logo. Functionalist look, no effort to make the website appealing through design. ",
+  "fse_name": "SNPedia. SNPedia and Promethease are \"wholly owned products\" of River Road Bio which was founded by Cariaso and Lennon.",
+  "fse_owner_founder": "Michael Cariaso (geneticist) and Greg Lennon (computer programmer)\r\nCaraiso seems to be the biggest user and updater of the site (judging by the list of recent changes, viewed 7/18/2012). The FSE style seems to be aspiring to be a produser organization, but it may be closer to \"just one guy\" or a \"benevolent dictatorship\" because Caraiso seems to be the main user.\r\n",
+  "fse_significant_member": "Unknown beyond Caraiso and Lennon.",
+  "fse_mission_statement": "Not a formal mission statement but, the front page of the site says; \"SNPedia is a wiki investigating human genetics. We share information about the effects of variations in DNA, citing peer-reviewed scientific publications. It is used by Promethease to analyze and help explain your DNA.\"",
+  "op_name": "SNPedia",
+  "op_vip_founders": "Same as the FSE. SNPedia has been cited in at least 14 scientific articles (http://www.snpedia.com/index.php/SNPedia:FAQ viewed 7/18/12). ",
+  "op_typical_member": "Personal genomics/DIY enthusiasts. People who not only want to know about their genomes, but also don't want to leave it to the 23andMes of the world to explain it to them. The hope is that OP members will actively engage in research by contributing information about their own phenotypic characteristics. \r\n\r\nAs of December 2010, there were 55 users of SNPedia who had made their genomes public according to Caraiso's response to a UK social scientist's inquiry. Apparently most users don't add their genetic information or otherwise contribute to the wiki but rather use it and the Promethease program just to inform their own genetic data. There are a handful of people that do contribute actively (http://www.snpedia.com/index.php/Talk:Genomes, accessed 7/17/12). \r\n\r\nAs of July 30, 2012, there were 105 users who had shared their genomes. The current roster is at: http://snpedia.com/index.php/Genomes",
+  "formation": "SNPedia was put online in 2006. Promethease, the software to connect genetic data to SNPedia seems to have been first developed in January 2008 (when it's first mentioned on the SNPedia wiki). At some point Caraiso and Lennon founded River Road Bio, LLC; this may have been in July 2011 (the date when page mentioning it on SNPedia wiki was added). This could be taken as the actual founding of the FSE; River Road Bio is mentioned as the corporate entity that owns SNPedia and Promethease in the conflict of interest statement in Caraiso and Lennon 2011 (attached). \r\n\r\n",
+  "history": "So SNPedia was founded by \"just one guy\", and became a resource that an emerging OP could use. The corporate FSE was founded later, and seems to have had very little impact but exists to assert future ownership claims. \r\n\r\nIn 2008 Caraiso using Prometheus won a contest sponsored by 23andMe to determine as much information about a person as possible just from her genome (http://spittoon.23andme.com/23andme-and-you/and-the-winner-is/ accessed 7/30/2012)",
+  "lifespan": "Ongoing; seems to be healthy. Question of whether the founding of the holding corporation, River Road Bio (in mid-2011), suggests a shift in strategy to commodify or close the thus far open resource. ",
+  "resource": "Online wiki taking published scientific reports of genetic associations to medical, forensic, phenotypic, and ancestry characteristics and linking them to user provided SNP data via the program Promethease. Promethease is free, but the $2 version cuts runtime from 4 hours to 10 minutes and allows extra reports. Also users can browse genetic information posted by other users and can contribute to Wiki discussions of genetic annotations. ",
+  "availability": "The wiki and Promethease program are currently free and open. A $2 fee gives a faster, more detailed version of the Promethease software. Users have to provide their own genetic data to get full use of the resource. There is no requirement that users make their data public to use the resource. ",
+  "participation": "The goals of SNPedia seem to have been set at its founding: Primarily, providing a resource so individuals can analyze genomic data to get personalized genetic profiles. This goal is set by the FSE, namely Caraiso and Lennon. These goals don't seem to have changed since the wiki's inception. ",
+  "tasks": "One set of tasks is combing the scientific literature for correlations between SNPs and phenotypes and entering them into the wiki. These tasks are conducted by people and also various Bots (which scans online sources like PubMed and Online Mendelian Inheritance in Man (OMIM)). Many of the tasks, including maintenance and cleanup of the wiki are performed by Caraiso.\r\nAnother set of tasks is developing the Promethease software. Lennon seems to handle this.\r\nThe basic task for users is to employ the software and the wiki to analyze one's own genetic data. This open to anyone who has genetic data.  ",
+  "modularity": "Participating in building the wiki seems to require some technical knowledge. But instructions are provided at http://www.snpedia.com/index.php/New_editors \r\nUsing the resource only requires that you have genetic data. This must ordinarily be purchased from a personalized genetics company; not difficult but a bit expensive (from $300 to $95000 currently depending on the level of resolution). There are step by step instructions for using the software and interpreting the reports at http://snpedia.blogspot.com/2011/11/using-promethease.html . ",
+  "granularity": "There are few tasks. Running the software to analyze one's genetic data. Making contributions to the wiki. Most tasks, which are expansive and time consuming, are done by the FSE founders Caraiso (curating wiki) and Lennon (developing software). ",
+  "metrics": "There are no metrics. Though the number of people who contribute their genetic information to the wiki could be one measure. ",
+  "alliances": "River Road Bio, a company founded by Caraiso and Lennon. It owns SNPedia and Promethease (source Caraiso and Lennon 2011). 23andMe which awarded Caraiso a victory in it's personalized genetics contest (http://spittoon.23andme.com/23andme-and-you/and-the-winner-is/ accessed 7/30/2012). Other allies could be the scientists who have used SNPedia in their research (http://www.snpedia.com/index.php/SNPedia:FAQ#SNPedia_Citings accessed 7/30/2012), or the personal genomics companies that provide the data users use in SNPedia (http://www.snpedia.com/index.php/Testing accessed 7/30/2012). But these alliances seem to be informal. ",
+  "clients": "DIY gene geeks who want more freedom to explore genetic information than made available by personalized genetics companies. Backend for Promethease and BioLims for BioTeam consulting company (Chris?)",
+  "sponsors": "None.",
+  "elites": "None other than FSE founders Caraiso and Lennon.",
+  "created_at": null,
+  "updated_at": "2012-07-31T17:40:53Z",
+  "summary": "SNPedia is a wiki that allows users to connect their DNA information (from the raw data from personalized genetics sites) to information from published genetic studies (of DNA variants associated with medical, forensic, phenotypic, and ancestry findings). SNPedia is presented in a semantic web format; information on each page about particular genetic variations including, as available, their official NIH name, their form, their population distribution, and published associations with traits. The associated computer program called Promethease links genetic information to SNPedia to create personal genetics reports. The resource allows users to combine the data they purchase from different personalized genomics sites (which assay different sites on the genome) and accessing a wide array of published research, rather than proprietary collections of sources. Users can share the annotations of their genetic information on the SNPedia site. \r\nSNPedia was founded by Michael Cariaso (geneticist) and Promethease was written by Greg Lennon (computer programmer). They, and Bots, do the bulk of the work to keep SNPedia going. They have founded a company River Road Bio, LLC which seems to have few current activities but is poised to allow commercial applications. Currently SNPedia and Promethease are free and open resources for DIY genetics enthusiasts with their own SNP data. \r\n  \r\n",
+  "birder_credits": "Aaron Panofsky",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "OP framed as user-producers and collaborators",
+    "id": 13,
+    "name": "Produsers",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "OP framed as user-producers and collaborators",
+    "id": 13,
+    "name": "Produsers",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Projects that allow participation in science or engineering, such as citizen science, and including medical research",
+    "id": 5,
+    "name": "Science and/or Engineering",
+    "updated_at": "2011-11-29T21:48:40Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Wiki-powered website for community organizing, documentation and related projects",
+    "id": 7,
+    "name": "Wiki",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2011-08-15T17:03:33Z",
+    "email": "apanofsky@ucla.edu",
+    "id": 4,
+    "updated_at": "2013-09-10T17:02:13Z"
+  }
+}

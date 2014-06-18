@@ -1,0 +1,70 @@
+{
+  "id": 192,
+  "name": "Riseup",
+  "thumbnail_100_url": "/system/assets/140/sq100/riseup-yellow.gif",
+  "thumbnail_50_url": "/system/assets/140/sq50/riseup-yellow.gif",
+  "url": "https://www.riseup.net",
+  "foritself": "Yes. The Riseup Collective encourages participation through the use of their services. Some of these services, like mailing lists, are likely to help foster communities that are already in place. That said, there is no overtly public community surrounding Riseup (with the exception of the collective itself), partially because the objective of the project is to maintain the anonymity of its users. ",
+  "brand": "The site's branding features the heavy use of birds, either in flight in the page header or in various images corresponding to collective members in the \"about us\" section.\r\n\r\nThe logo itself uses a hand in place of the dot on the \"i\", with the typeface having the appearance of being hand-drawn. This is in keeping with the site's professional but somewhat DIY aesthetic. \r\n\r\nThe icon of a half-red, half-black star is indicative of the political inclinations of the collective that runs the project. The black portion of the star symbolizes anarchism while the red symbolizes communism, and the equal bisection of the two colours represents the co-existence of anarchist and socialist ideals within the anarcho-syndicalist movement. This is almost identical to the icon used by libcom.org, but tilted to the left instead of the right. \r\n(Source: http://en.wikipedia.org/wiki/Anarchist_symbolism#Bisected_flags_and_stars)\r\n",
+  "fse_name": "Riseup Networks",
+  "fse_owner_founder": "The collective has 12 anonymous members who use bird names for handles: Arara, Blue-footed Booby, Catbird, Cedar Waxwing, Gadfly Petrel, Greater Roadrunner, Feral Rock Pigeon, Rook, Snow Owl, Starling, Sun Bird, and Tufted Puffin. ",
+  "fse_significant_member": "All members are anonymous.\r\nDevin Theriot-Orr has acted as spokesperson.",
+  "fse_mission_statement": "\"Riseup provides online communication tools for people and groups working on liberatory social change. We are a project to create democratic alternatives and practice self-determination by controlling our own secure means of communications.\" (Source: https://www.riseup.net)",
+  "op_name": "Varies depending on who is using their services.",
+  "op_vip_founders": "Varies depending on who is using their services.",
+  "op_typical_member": "Users of Riseup services include members of leftist groups engaged in online organizing. Individuals may sign up for email accounts for any reason, although they would theoretically be bound by the  site's explicit Social Contract to use Riseup services for politically appropriate purposes.",
+  "formation": "The Riseup Collective was founded in 1999.",
+  "history": "They have most recently added VPN, Chat and etherpad (these services are currently under active development). \r\n\r\nRiseup-affiliated servers were seized by the FBI in April of 2012 in conjunction with an investigation into anonymous bomb threats routed through a privacy-enhancing software called Mixmaster. \r\n\r\nhttps://help.riseup.net/en/seizure-2012-april",
+  "lifespan": "The project is alive and growing. ",
+  "resource": "Riseup Networks services currently include email, email list hosting, website hosting, domain registration, colocation, and other services common to OSPs (Online Service Providers). They are actively developing VPN, chat, and etherpad services.\r\n\r\nThese resources are provided to the OP by the FSE for free. The project runs on donations from the OP.",
+  "availability": "All of Riseup's services are available for free, but there is a request process. For new mail accounts, users can either be immediately approved by receiving invite codes from other users or they can directly submit a request to be approved by the FSE (Source: https://user.riseup.net/forms/new_user/first). \r\n\r\nUpon submitting the request, users must agree to Riseup's \"Social Contract\", wherein the user agrees not to use Riseup's services to advocate for the support of capitalism, domination, or hierarchy; the idea that class oppression supersedes race or gender oppression; a vanguard strategy for revolution; or population control (Source: https://help.riseup.net/en/social-contract)\r\n\r\nThe terms of service disallows most commercial activity or harassment, places ownership of and responsibility for the content of what is stored on its servers  with the creators themselves, and reserves the right of Riseup Networks to terminate service at any time or for any reason.\r\n\r\n(Source: https://user.riseup.net/forms/new_user/policy)\r\n",
+  "participation": "The Riseup Collective determines its own goals with informal input from the OP. According to Riseup's statement of purpose, \"Our purpose is to aid in the creation of a free society, a world with freedom from want and freedom of expression, a world without oppression or hierarchy, where power is shared equally. We do this by providing communication and computer resources to allies engaged in struggles against capitalism and other forms of oppression.\" Riseup is active in the following projects, all of which are presumably selected by all or some of the 12 leaders: alternative infrastructure for secure email, movement mailing lists, the Tech Collective Incubation Project, Seattle Community Colocation Project, supporting TOR, googlesharing, VPN services, and Software Libre.\r\n\r\nThe OP's goals are varied, but typically related to political organizing around a particular issue, and as repeatedly stated, the goals must have a unified focus on anti-capitalist actions as well as working towards a free and open society. \r\n\r\nhttps://help.riseup.net/en/projects",
+  "tasks": "Users send each other emails on Riseup listservs, use their own personal email accounts, and/or chat with each other. These tasks are presumably all conducted with some kind of radical political activity (either online or offline) in mind. \r\n\r\nSome users also contribute to the maintenance of the FSE through donations.",
+  "modularity": "Signing up for an email account or starting up a listserv requires roughly half an hour of spare time to set up. There are varying degrees of investment afterwards, depending on one's commitment to using that particular email or participation in that listserv.",
+  "granularity": "Granularity is variable depending on the actions undertaken by a given user, managing a listserv, for example, or simply using a riseup.net email account. Tasks are largely determined by users in the OP themselves and are not reported to the FSE.",
+  "metrics": "The outcomes of actions planned through Riseup Networks are not tracked by any central entity within Riseup. ",
+  "alliances": "Riseup is an anonymous tech collective. They host listservs for hundreds of leftist activist groups of varying size all across the globe. Riseup's only financial dealings are accepting donations from users to keep its servers running.",
+  "clients": "Riseup offers its service for free to any political group that shares its anti-capitalist goals.",
+  "sponsors": "Users contribute to the project through donations.",
+  "elites": "The idea of 'elites' seems to be against the egalitarian ethos behind the project, so all members who follow the project's principles are treated equally. The 12 anonymous founders/ agents within Riseup have greater power than any average user, but appear to share authority equally.",
+  "created_at": "2012-05-12T00:03:44Z",
+  "updated_at": "2012-07-31T02:43:48Z",
+  "summary": "Riseup is a leftist tech collective that functions as a service provider for political groups. The site offers secure communication for political organizations engaged in various forms of organizing by providing email, listservs, and chat. Riseup seeks to encourage and support leftist political activity by subverting the corporate control of Internet service.\r\n\r\nRiseup is directed by a team of 12 anonymous individuals who form a kind of council. These 12 perform all the technical duties associated with the site and create all the policies by which users are bound. Riseup claims to advance leftist political causes by providing other groups the means to organize and communicate without fear of corporate or government surveillance. They retain as little information about their users as possible and encourage users to maintain the highest degree of anonymity possible. In return for these services, including email, users are expected to use the service for activities that are not inconsistent with leftist political causes. Riseup servers were sized by the FBI in April of 2012 in connection with bomb threats. The group's press release in response to the sieizure pointed out that such heavy-handed tactics do little to identify criminals and interfered with the lawful activities of \"academics, artists, historians, feminist groups, gay rights groups, community centers, documentation and software archives and free speech groups.\"\r\n\r\nRiseup's main affiliations are with the groups and individuals that use its services. It's website claims it is the largest host of mailing lists outside of public universities, supporting over 14,000 mailing lists and over four million subscribers. The groups and individuals involved have assented to using Riseup's services in ways that compliment the collective's 11 explicit \"Political Principles.\" Any group or individual may be denied service at any time for violating these principles, which advocate for a free society in terms of democracy, equality, diversity, security, creativity, self-determination, interdependence, justice, peace, ecology, and economy.\r\n\r\n\r\nMurphy, K. (2012). \"How to muddy your tracks on the Internet.\" The New York Times. http://www.nytimes.com/2012/05/03/technology/personaltech/how-to-muddy-your-tracks-on-the-internet.html\r\n\r\nhttps://help.riseup.net/en/politics\r\n\r\nRiseup.net also has a research arm of their collective, Riseuplabs.org. Essentially, Riseuplabs.org is a nonprofit 501c3 organization that seeks to develop and maintain free and open source software built specifically with social justice motivations in mind. The broader goal is a free and open society. ",
+  "birder_credits": "Andrew Newton\r\nRevised by Roderic Crooks, June 2012\r\nRevised by Stacy Wood, July 2012",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Any form of democratic organization that relies heavily on rules, voting and procedures for decision making and which acts only with the consent of the majority (defined by procedure).  ",
+    "id": 5,
+    "name": "Procedural consensus democracy",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Organized primarily by weak ties (\"friends\") grouped into overlapping networks.",
+    "id": 7,
+    "name": "Overlapping Networks of Weak Ties",
+    "updated_at": "2012-07-12T17:49:00Z"
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "groups organized for social or political change; independent media organizations; hacktivists; advocates and other coalitions.",
+    "id": 9,
+    "name": "Activist",
+    "updated_at": "2011-10-21T21:24:40Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2012-04-09T16:35:57Z",
+    "email": "stacyewood@gmail.com",
+    "id": 14,
+    "updated_at": "2012-11-02T17:02:53Z"
+  }
+}

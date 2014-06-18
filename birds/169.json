@@ -1,0 +1,70 @@
+{
+  "id": 169,
+  "name": "DocumentCloud",
+  "thumbnail_100_url": "/system/assets/63/sq100/documentcloud.png",
+  "thumbnail_50_url": "/system/assets/63/sq50/documentcloud.png",
+  "url": "http://www.documentcloud.org",
+  "foritself": "Yes. The project is touted as a practical tool for reporters and a way to improve journalistic integrity by allowing readers to assess a story's source material. \r\n\r\nThey also release much of their software projects as open source: http://www.documentcloud.org/opensource. Accessed 30 August 2012.",
+  "brand": "DocumentCloud positions itself as \"a card catalogue for primary source documents,\" as a searchable, interactive repository of primary source documents. (http://www.documentcloud.org/faq). It also functions as a tool for document-based investigative reporting; reporters can annotate and analyze source material, while airing out newsrooms by building public paper trails.  \r\n\r\nDocument types include court filings, hearing transcripts, testimony, legislation, reports, memos, meeting minutes, and correspondence. They range from spurious expense reports filed by local authorities in Long Island, New York to hundreds of pages of correspondence released by the Financial Crisis Inquiry Commission. \r\n\r\nhttp://blog.documentcloud.org/blog/2011/06/new-home-at-ire/. Accesed 30 August 2012.\r\n\r\n\r\n",
+  "fse_name": "DocumentCloud is now a part of Investigative Reporters and Editors, a non-profit founded in the 70s as a resource for investigative reporters.\r\n\r\n",
+  "fse_owner_founder": "Aron Pilhofer, editor of Interactive News at The New York Times. \r\n\r\nEric Umansky, a senior editor at ProPublica, where he oversees daily reporting.  \r\n\r\n ",
+  "fse_significant_member": "Jeremy Ashkenas, Lead Developer 2009-2011 but still volunteering while at New York Times.\r\n\r\nAmanda Hickman, former Program Director 2009-2011, now a part of its advisory group.\r\n\r\nTed Han, current Lead Project Manager.\r\n\r\nLauren Grandestaff, director of IRE's Resource Center, provides support to DocumentCloud users.  \r\n\r\n",
+  "fse_mission_statement": "\"DocumentCloud is a catalog of primary source documents and a tool for annotating, organizing and publishing them on the web. Documents are contributed by journalists, researchers and archivists. We're helping reporters get more out of documents and helping newsrooms make their online presence more engaging.\"\r\n\r\nhttp://www.documentcloud.org/about. Accessed 30 August 2012.\r\n\r\n",
+  "op_name": "DocumentCloud. DOcumentCloud users.",
+  "op_vip_founders": "The project's proposers: Eric Umansky, senior editor at ProPublica and Aron Pilhofer, the New York Times newsroom interactive technologies editor. Amanda Hickman got it off the ground during its first two years, as program director and now an adviser, and Jeremy Ashkenas was its Lead Developer, programming most of its software.",
+  "op_typical_member": "DocumentCloud accounts are for reporters and not open to individuals. Organizations with access include newsroom, research institutes or policy think tanks. Independent news bloggers and reporters are eligible as well.\r\n\r\nFor a list of all organizations using DocumentCloud:\r\n\r\nhttp://www.documentcloud.org/contributors. Accessed 30 August 2012.",
+  "formation": "Originated as an incorporated non-profit in 2009 that has now been absorbed into an older non-profit for institutional stability. These organizations reach out to newsrooms to educate reporters on DocumentCloud's functionalities.  ",
+  "history": "DocumentCloud was conceptualized by editors at ProPublica and The New York Times and received support from a grant from the Knight News Challenge. Its first years saw the development of its website and key software projects to allow interaction with documents that .PDF technology does not afford, such as annotation tools, OCR, and entity extraction engines. Successful software projects include Backbone and Underscore.  It became a project of Investigative Reporters and Editors in June of 2011. \r\n\r\n(see personal interview)\r\n\r\n",
+  "lifespan": "2009 to present.",
+  "resource": "DocumentCloud provides a repository and software allowing reporters to interact with digital copies of primary documents in ways that a pdf would not. Through its repository, journalists can annotate content, create lists of people and places named in it, plot the dates it contains on a timeline, link to specific pages and phrases within the document, and embed docs in websites. Users can search documents by date, topic, person and location, zoom in on the timeline, and link to reporter's annotations. The site also links to OpenCalais, an index that gives access to and reveals relationships between people, places and organizations mentioned in the docs.\r\n\r\nIn contrast to Scribd (which also allows for user annotations) DocumentCloud is open source and an environment specific to investigative reporting.\r\n\r\nAccording to lead project manager Ted Han:\r\n\r\n\"As Propublica was getting started, they were figuring out the new landscape. The New York Times had done a project publishing archival documents of Hilary Clinton's schedule while a first lady, and this was a good start. People knew they needed a better way to publish documents and bring them to readers. OCR in documents is a meaningful tool, and entity extraction engines can yield substantial reporting. We knew there was demand to give a better entry to a document for readers.\" (personal interview)\r\n\r\nThe site has an open API, and continues to release its software as open source\r\n\r\nOpen source projects the site has developed:\r\n\r\nBackbone.js\r\nA JavaScript library that helps you structure your client-side code with Models, Collections, and Views.  \r\n\r\nNY Times' Document Viewer\r\nWe collaborate with the New York Times on their HTML5 document viewer, a key component of DocumentCloud.\r\n\r\nDocsplit\r\nA command-line utility and Ruby library that converts documents into PDFs and breaks them apart into images and text.\r\n\r\nJammit\r\nAn asset packaging plugin for Rails, which we use to help the DocumentCloud interface load as fast as possible.\r\n\r\nUnderscore.js\r\nOur most widely-used project: a library of functional programming helpers for JavaScript that fit in nicely alongside jQuery.\r\n\r\nCloudCrowd\r\nA parallel processing system that we use to farm out PDF conversion across a number of servers on EC2.\r\n\r\nPixel Ping\r\nA lightweight pixel-tracking server that we use to keep tabs on embedded documents, and send traffic to contributing organizations.\r\n\r\nVisualSearch.js\r\nA rich search box with built-in autcompletion for faceted search queries.\r\n",
+  "availability": "Accounts are only available to active journalists. Says Amanda Hickman, former project director, 'You have to be part of newsroom, reporting with primary source documents and with a reporting practice. We have users who aren't structurally part of an organization such as newsrooms; we have bloggers. We've been trying to find ways to keep it a meaningful tool and repository, but also want reporters outside of newsrooms to use it. It's a user criteria.' (personal interview)\r\n\r\nHowever future adjustments to the site will allow readers to interact with content by commenting and annotating.\r\n\r\nThe Document archive is publicly available, and the API is available at http://www.documentcloud.org/help/api.\r\n\r\nThe API has restrictions for entities or people who are not participants, though reasons for this are not clarified. It can't be used commercially or recreated in entirety. DocumentCloud must be cited if used as a source of data. http://www.documentcloud.org/help/api. Accessed 30 August 2012.",
+  "participation": "The main goal seems to aim for transparent and effective journalism by building a catalog of source documents. Their mission is seen in relation to aiding investigative reporting to create paper trails and to show readers how they analyze documents. Says project leader Ted Han: \"The importance of DocumentCloud as a relevant tool for journalists is key to IRE's mission in training journalists to be more effective.\" (personal interview)\r\n\r\nThe project also promotes a document-based journalism that can hold organizations and governments accountable, similar in ideals to movements for open data.",
+  "tasks": "The most basic task would be uploading a document. Other tasks include linking to and annotating docs using notes and navigation and correcting poor OCR. A more complex task would be developing DocumentCloud's multiple open source projects.",
+  "modularity": "Uploading a document seems to be the minimal amount of effort. Once uploaded, the document becomes more powerful if keywords and proper nouns are annotated, if certain passages are singled out, if dates are marked to build timelines, and if it is linked to other documents in the system.",
+  "granularity": "Tasks can be as small as linking two documents together or linking from a blog post to a document on DocumentCloud's site. The largest project could be developing code for the open source software projects.",
+  "metrics": "Uploading a document could be considered a complete task, but once uploaded the document becomes \"living,\" since others can create more complex use of it.",
+  "alliances": "DocumentCloud originated from the combined forces of reporters at the New York Times and Propublica. It merged in 2011 with Investigative Reporters and Editors, 'a nonprofit grassroots organization committed to fostering excellence in investigative journalism and based at the University of Missouri in Columbia, Mo.\r\nhttp://www.ire.org/\r\n\r\nAnother affiliation is with Amazon, which is providing hosting services.\r\n\r\n(for more on alliances see personal interview)",
+  "clients": "Professional reporters can post content, though the document database is available for public consumption.",
+  "sponsors": "Knights News Challenge gave a two-year grant of $719,500\r\n\r\nhttp://knightfoundation.org/",
+  "elites": "You could consider the news organizations who can actually post documents to the site as elites whose privileges don't extend to \"citizen journalists\" or ordinary users .",
+  "created_at": "2011-11-04T14:50:27Z",
+  "updated_at": "2012-09-04T21:14:21Z",
+  "summary": "DocumentCloud is a web-based platform for journalists to upload primary source documents, and to analyze, annotate, and publish them to the web so they can show readers what they're talking about, rather than telling them. \r\n\r\nSays Amanda Hickman: \"There are a lot of tools people can use to publish a pdf. But in terms of annotating them, really linking deeply within them to specific agents and passages, no. If you're a reporter showing readers a document and want to point them to a specific passage, this is what you need.\"\r\n\r\nDocumentCloud's unique value is in opening the archive to expose editorial processes behind stories. Says Hickman, \"Traditionally in newsrooms evidence was filed in a filing cabinet and into a box, then put down into the basement. Traditionally the source docs published in DocumentCloud were not published. We're not stepping in and saying there's no need for lasting archives or paper documents. We're saying they need to be part of the record. We're about making more public archivally than was before.\" (personal interview).\r\n\r\nParticipation in DocumentCloud depends on professional status and its resource are not open to a general audience. ",
+  "birder_credits": "Edited by rncrooks@ucla.edu 5 September 2012.",
+  "tangible_problem": "Yes",
+  "tangible_problem_detail": "Provide automated document analysis and open document sharing.",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "OP framed as user-producers and collaborators",
+    "id": 13,
+    "name": "Produsers",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "user contributed news, video, etc.",
+    "id": 6,
+    "name": "Citizen Journalism",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2012-04-17T03:52:58Z",
+    "email": "rncrooks@ucla.edu",
+    "id": 23,
+    "updated_at": "2013-07-09T15:08:37Z"
+  }
+}

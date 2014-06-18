@@ -1,0 +1,70 @@
+{
+  "id": 228,
+  "name": "Figshare",
+  "thumbnail_100_url": "/system/assets/275/sq100/figsharelogo.png",
+  "thumbnail_50_url": "/system/assets/275/sq50/figsharelogo.png",
+  "url": "http://figshare.com",
+  "foritself": "Yes, the OP has a sense of belonging to a scientific community that values the open sharing of data. ",
+  "brand": "The logo is simple and clean. It consists of a colorful spiral positioned next to a completely lowercase spelling of the organization's name. The organization's name is always spelled using lowercase letters which is significant and symbolic of how the organization positions itself as a \"new\" type of FSE. The New York Times has noted the use of lowercase logos among startups and young companies: \"Bold, block capital letters are out. Their replacements are mostly or entirely lower case, softening the stern voice of corporate authority to something more like an informal chat.\" \r\n\r\n('Warmer, Fuzzier: The Refreshed Logo,' accessed July 17, 2012: http://www.nytimes.com/2009/05/31/weekinreview/31marsh.html)",
+  "fse_name": "figshare, \"portfolio company\" of Digital Science ",
+  "fse_owner_founder": " Mark Hahnel. ",
+  "fse_significant_member": "According to Digital Science, figshare's sponsor, the organization was founded and is currently run by Mark Hahnel. He is listed as the only team member on the Digital Science figshare profile. However, it seems that employees of Digital Science provide development support for the project.\r\n\r\n(accessed August 17, 2012: http://www.digital-science.com/people/departments/figshare)",
+  "fse_mission_statement": "The mission of figshare is to \"allow scientists to access and share the information from anywhere in the world with minimal friction.\"\r\n\r\n('FAQs,' accessed August 17, 2012: http://figshare.com/faqs)",
+  "op_name": "The OP does not have an official name. The users of figshare are often referred to as \"researchers\" and \"scientists\" by the FSE. ",
+  "op_vip_founders": "The contributions of researchers are measured by how much data has been uploaded, how many times the data has been viewed, and how times the data has been cited. According to these measurements, the top researchers on figshare include: \r\n\r\nSteven Roberts\r\nDon Cooper\r\nBlaise Li \r\nJason Colditz\r\n",
+  "op_typical_member": "Typical members include researchers, academics, scientists, and PhD students.",
+  "formation": "FSE --> OP",
+  "history": "The project, founded and run by Mark Hahnel, was first launched in January 2011 and relaunched in January 2012 following support from Digital Science, a new division of Macmillan Publishers. Since its partnership with Digital Science, the organization continues to grow and add new features, including an API and desktop uploader. ",
+  "lifespan": "The project still exists and has become more popular through its partnership with Digital Science in 2012. ",
+  "resource": "figshare serves as a platform for storing, publishing, and browsing research data. Users can store 1 GB of private data, upload an unlimited amount of public and open data, and browse through all data sets made publicly available by other users. ",
+  "availability": "Anyone with a registered account can upload data and keep it private or make it publicly available. \r\n\r\nAll figures, media, poster, papers and multiple file uploads (filesets) are published under a CC-BY license.\r\n\r\nAll datasets are published under CC0.",
+  "participation": "The goal of providing open access to research data was set by the founder Mark Hahnel. The users of figshare contribute to the goal by publicly sharing research data, including null results. ",
+  "tasks": "Members of the OP can publish, cite, browse, and share data on the figshare platform. ",
+  "modularity": "The figshare platforms boasts that it \"allows researchers to publish all of their research outputs in seconds in an easily citable, sharable and discoverable manner.\" Thus, the task of publishing data is easily accomplished. Citing, browsing, and sharing (through social media or email) data is equally as easy, usually requiring a few clicks. \r\n\r\n(Accessed September 4, 2012: http://figshare.com/about)",
+  "granularity": "The smallest task on figshare is browsing data since the platform does not require you to sign up for an account to simply browse. The largest task is publishing data, which requires you to sign up for an account and enter your research outputs. ",
+  "metrics": "Each researcher's profile has cumulative metrics for the views, cites and uploads. According to the FSE, \"figshare also gives the researchers the credit for their research. By adding metrics to the public uploads, and putting the cumulative metrics of a researcher’s uploads on their profile, users can see the true impact and reach of the hard work they put in.\"\r\n\r\n(Accessed August 17, 2012: http://blogs.plos.org/mfenner/2012/02/16/figshare-interview-with-mark-hahnel/)",
+  "alliances": "figshare has alliances with other organizations that promote open data, such as Zooniverse and PLoS. ",
+  "clients": "figshare provides services for researchers and academics, regardless of country or institutional affiliation. Notable clients include researchers from Yale, John Hopkins, Stanford, Cambridge, Imperial College - London, UCLA, Harvard, and The University of Chicago. ",
+  "sponsors": "figshare is sponsored by Digital Science, a Macmillan Publishers company. However, the organization clearly states that figshare is an \"independent body\": \"Digital Science’s relationship with figshare represents the first of its kind in the company’s history: a community- based, open science project that will retain its autonomy whilst receiving support from the division.\"\r\n\r\n('FAQs', accessed August 17, 2012: http://figshare.com/faqs)",
+  "elites": "The founder Mark Hahnel has legitimate authority over the organization. He receives funding and personnel support from Digital Science; although, Digital Science claims that figshare retains its \"autonomy.\"",
+  "created_at": "2012-08-07T21:22:51Z",
+  "updated_at": "2013-10-31T20:23:24Z",
+  "summary": "figshare is a cloud-based platform for storing, browsing, and publishing open datasets, including negative results and unpublished figures. The data is provided under a Creative Commons License for re-use. The figshare repository caters to all research domains. figshare was created by Mark Hahnel in 2011 and the site was re-launched in 2012 after Hahnel received support from Digital Science. ",
+  "birder_credits": "Pat Garcia ",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "An organization with one leader or decision maker whose authority rests on the consent of the governed and/or his/her charisma.  Other forms of organization may supplement it (hierarchy, meritocracacy,or consensus amongst the staff or participants) but the leader's authority is final and effective.",
+    "id": 3,
+    "name": "Charismatic Leadership/Benevelont Dictatorship",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "OP framed as user-producers and collaborators",
+    "id": 13,
+    "name": "Produsers",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Projects that allow participation in science or engineering, such as citizen science, and including medical research",
+    "id": 5,
+    "name": "Science and/or Engineering",
+    "updated_at": "2011-11-29T21:48:40Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2011-07-22T19:07:49Z",
+    "email": "sr.erickson@gmail.com",
+    "id": 1,
+    "updated_at": "2013-10-31T22:33:51Z"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": 25,
+  "name": "Second Life",
+  "thumbnail_100_url": "/system/assets/29/sq100/Screen%20shot%202011-08-12%20at%202.47.06%20PM.png",
+  "thumbnail_50_url": "/system/assets/29/sq50/Screen%20shot%202011-08-12%20at%202.47.06%20PM.png",
+  "url": "http://secondlife.com",
+  "foritself": "Being in world is all about joining communities and finding an alternative social network of people accessible primarily through second life.  It is a highly subjective experience, however, one that is navigated from a first-person (rather than a god's eye) perspective, and so many aspects of the community will be visible only to the designers within linden labs, and not the denizens of Second Life.  ",
+  "brand": "Second Life sells itself as a lifestyle.  The logo is hand with an eye (?) in it, with a vaguely New Mexico/New Age/Burning Man feel to it.  The aesthetic is CGI, necessarily, but the branding leans heavily on creativity, individuality, self-making and fun. ",
+  "fse_name": "Linden Lab",
+  "fse_owner_founder": "Linden Lab was founded in 1999 by Philip Rosedale in San Francisco. ",
+  "fse_significant_member": "Management\r\n\r\nRod Humble | CEO\r\nBob Komin | COO and CFO\r\nJeff Petersen | VP of Engineering\r\nLisa Berry | General Counsel\r\n\r\nBoard of Directors\r\n\r\nPhilip Rosedale | Founder\r\nMitch Kapor | Kapor Enterprises, Inc.\r\nJed Smith | Managing Partner, Catamount Ventures\r\nBill Gurley | Partner, Benchmark Capital \r\nDana L. Evan | Strategic Finance and Operations Executive\r\nWill Wright | CEO, Stupid Fun Club\r\n\r\n(Mitch Kapor was the creator of Lotus Will Wright is the creator of Sim City)\r\n\r\nhttp://lindenlab.com/about/management (visited Jul 12, 2012)",
+  "fse_mission_statement": "The \"Tao of Linden\" has been a core feature of the company from the start.\r\n\"These principles include working together, showing initiative, making day-by-day progress, being transparent and open, and having fun along the way.\"\r\n\r\nSee more at http://lindenlab.com/careers/culture (Visited Jult 12, 2012)\r\nAlso, Thomas Malaby <em>Making Virtual Worlds</em> contains an earlier version of the Tao of Linden (135ff).",
+  "op_name": "Second Life",
+  "op_vip_founders": "Second Life began as a game, and the only users were internal to the company.  The first resident was \"Stellar Sunshine\" in 2002 and the first public beta was in October 2002.  It was officially released in 2003.  \r\n\r\nhttp://wiki.secondlife.com/wiki/History_of_Second_Life (visited July 12 2012)",
+  "op_typical_member": "People looking for entertaining virtual worlds, especially alternatives to (violent) games.  Presumably a much wider class of computer users than the typical gamer.  ",
+  "formation": "A clear case of FSE --> OP.  \r\n\r\nLinden Lab existed first, as Philip Rosedale's attempt to create a virtual world.  As the world was revised, it eventually  became Second Life, as more and more users began to interact with it and to make it emerge as an object distinct from the intentions of the designers. ",
+  "history": "",
+  "lifespan": "Second Life is still going strong.  It has declined a bit in terms of the attention originally paid to it, but still has hundreds of thousands of active residents.  ",
+  "resource": "Entertainment is the primary resource, created through the interactions and energy of the participants.  Tangible resources include land, linden dollars, structures and every conceivable object and experience, for sale just as in the real world.  At the base of the construction system are \"prims\" out of which any interactive object can be constructed by a user and sold.  \r\n\r\nLinden Dollars represent the primary mode of revenue for Linden Lab and are sold in exchange for real currency as well as earned in game. ",
+  "availability": "Objects created in Second Life are owned by their creators (under a CC-by license) and may be sold or given away.  They are not much use outside of Second Life, however, except insofar as they lend reputation or credibility to an individual.\r\n\r\nLinden Dollars may be spent in game or exchanged for real currency.  There is an official exchange (LindeX) and several third party exchanges that range from trusted to underground/quasi-legal. ",
+  "participation": "There are no goals in second life, which is the goal.  It is a persistent world with no particular end-point or in-game goal other than the accumulation of goods, money and acquaintances.  \r\n\r\nThe structure of possibility in the game, however, is ruled by decisions made at Linden Lab-- whose designers and programmers have ultimate say over what the persistent world can and cannot do.  This process is conducted in dialogue with users and in response to their needs, but is not open to direct input or contestation by users.  See Malaby <em>Making Virtual Worlds</em>  2008 for a description of various attempts to structure the in game experience and the responses of users.",
+  "tasks": "In game tasks consist primarily of making new objects, spaces or buildings, interacting with other denizens.  Users might make and sell costumes, jewelry etc, or run a night-club or and educational space... etc. ",
+  "modularity": "Tasks are modular only in terms of the creation of digital objects built from prims; there is no limit to the amount of time one can spend perfecting particular tasks.",
+  "granularity": "Tasks are not granular, they can take as little or as much time as a user wants to invest.  ",
+  "metrics": "There are no metrics per se; however digital objects are clearly visible to other users.  Users can compare with each other, in qualitative terms, the extent of their experience or skill in making.  Accumulation of land or linden dollars are also measures of one's investment in the game. Linden Lab does not privilege any particular users based on any of these skills, however. ",
+  "alliances": "Over the years, Second Life has been home to a large number of corporations, non-profits and organizations in some form or another.  At its peak there were many organizations holding meetings or setting up virtual shop there.  Linden lab has an API that facilitates use by third parties for some aspects of its functioning (e.g. identity verification).",
+  "clients": "Anybody can be a client by setting up shop within Second Life, but Linden Labs does not designe the world with particular clients in mind. ",
+  "sponsors": "",
+  "elites": "Philip Rosedale",
+  "created_at": null,
+  "updated_at": "2012-08-23T16:35:06Z",
+  "summary": "Seocnd Life is a persistent world created by Linden Lab, a corporation headquartered in San Francisco.  It was one of the earliest and most popular persistent worlds, starting in 2003 and still going as of 2012.  Second Life's popularity peaked in 2005-2008 and users of the sites have remained steady since then.  The company, Linden Lab, is a clear case of a Silicon Valley style start-up which values an alternative, participatory, fun work-culture, headed by visionary and guru Philip Rosedale.  Second Life itself is an endlessly reconfigurable space organized around the work that users put into buying land, building things and making digital objects.  Early on, Second Life decided to grant IP rights to the users who make such things, and have facilitated a robust system of exchange using the in-world currency, Linden Dollars. ",
+  "birder_credits": "Christopher M. Kelty",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Any form of democratic organization that relies heavily on rules, voting and procedures for decision making and which acts only with the consent of the majority (defined by procedure).  ",
+    "id": 5,
+    "name": "Procedural consensus democracy",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Organized primarily by weak ties (\"friends\") grouped into overlapping networks.",
+    "id": 7,
+    "name": "Overlapping Networks of Weak Ties",
+    "updated_at": "2012-07-12T17:49:00Z"
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "online games, role-playing games, persistent virtual worlds etc.",
+    "id": 7,
+    "name": "Games/Persistent Worlds",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Games or persistent worlds that rely on specific software or hardware environments (which may in turn rely on other components and services) and cannot be accessed without that software/hardware.",
+    "id": 4,
+    "name": "Gaming Environments/Platforms",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2011-07-22T19:14:37Z",
+    "email": "ckelty@ucla.edu",
+    "id": 2,
+    "updated_at": "2013-10-22T20:47:03Z"
+  }
+}

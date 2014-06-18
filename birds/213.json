@@ -1,0 +1,70 @@
+{
+  "id": 213,
+  "name": "Bakespace",
+  "thumbnail_100_url": "/system/assets/214/sq100/bakespace_logo.gif",
+  "thumbnail_50_url": "/system/assets/214/sq50/bakespace_logo.gif",
+  "url": "www.bakespace.com",
+  "foritself": "Yes. BakeSpace is a commercial venture, but it plays up its independent nature, a DIY ethos, and the various community forums and recipe sharing tools on its site.",
+  "brand": "BakeSpace plays up its independent, DIY ethos. It bills itself as being created by and for people who enjoy cooking, baking and hanging out in the kitchen. The site's logo is a stylized cupcake, a nod to the founder's interest in baking and a tie-in to a previous cupcake-themed venture.  \r\n\r\n\"BakeSpace.com is niche: the pink graphics and girly layout is targeted directly at stay at home moms.\"\r\n\r\nRiley, D. (2007). \"BakeSpace.com: MySpace for people who like cooking.\" TechCrunch. Accessed 17 July 2012 at http://techcrunch.com/2007/07/02/bakespacecom-myspace-for-people-who-like-cooking/.",
+  "fse_name": "BAKESPACE, INC.\r\nEntity Number:\tC3014192\r\n\r\nRegistered with California Secretary of State in 2007.\r\n\r\nhttp://kepler.sos.ca.gov. Accessed 17 July 2012.",
+  "fse_owner_founder": "Babette Pepaj, Founder and CEO.",
+  "fse_significant_member": "Babette Pepaj. CrunchBase reports three other employees, but they are not listed on the site.\r\n\r\nhttp://www.crunchbase.com/company/bakespace. Accessed 17 July 2012.\r\n\r\n",
+  "fse_mission_statement": "\"BakeSpace.com is the grassroots online community where you can share recipes, build new friendships, learn from other home chefs and express your passion for all things food-related.\"\r\n\r\nhttp://www.bakespace.com/forums/. Accessed 17 July 2012.\r\n",
+  "op_name": "None specifically mentioned. BakeSpace materials refer to the OP as \"members.\"",
+  "op_vip_founders": "None. The founder of the FSE is herself active in forums, but no individual VIPs have emerged.",
+  "op_typical_member": "Cooks. Food enthusiasts. DIY crowd. BakeSpace members are more likely to be female, visit the site from home, and be between the ages of 25 and 45 than the general Internet population.\r\n\r\nhttp://www.alexa.com/siteinfo/bakespace.com. Accessed 17 July 2012.",
+  "formation": "FSE -> OP. Bakespace was founded as a commercial venture in 2006 by Babette Pepaj.",
+  "history": "Bakespace was founded in 2006 by Babette Pepaj. The site's primary innovation was to emphasize forums for discussion and recipe sharing. The site was funded by Pepaj and her friends and family. It received favorable media reports for being a niche social network site and was a Webby Honoree in 2007 and 2008 in the Social Networking category. \r\n\r\n\r\n",
+  "lifespan": "Founded in 2006, still exists.",
+  "resource": "A forum for sharing recipes.",
+  "availability": "The Terms of Service claims all content submitted by users as the property of the company that provides the service.",
+  "participation": "The goals of BakeSpace is to make money for its founder by providing a food-themed social network site. The goals are entirely set by the FSE, which is largely a platform for the founder and CEO.",
+  "tasks": "Tasks explicitly defined by the site and implicitly constrained by the design of the site are as follows:\r\n\r\n•Find, post and swap recipes\r\n\r\n•Build, publish and market your own digital cookbook (online and as an iPad app) using the Cookbook Cafe publishing platform\r\n\r\n•Become/find a kitchen mentor\r\n\r\n•Get inspired and connect with other home cooks from around the world.\r\n\r\nhttp://www.bakespace.com/loginjoin/faq/. Accessed 17 July 2012.\r\n",
+  "modularity": "Investment level is low to view, edit, or share a recipe. Creating a cookbook through the provided tools is more time-consuming, but requires little technical knowledge.",
+  "granularity": "User tasks are explicitly and implicitly limited by the site's functionality to a set of audience behaviors (view, share, edit, comment). ",
+  "metrics": "User tasks are explicitly and implicitly limited by the site's functionality to a set of audience behaviors (view, share, edit, comment).",
+  "alliances": "BakeSpace partners with makers of cooking supplies such KitchenAid, McCormick, and Sara Lee. It also partners with media and entertainment companies such as Kodak, Universal Studios, Fox Searchlight and ABC for promotional activities.",
+  "clients": "BakeSpace provides a forum for its community of users and a market for its partners and advertisers.",
+  "sponsors": "The site was funded by Babette Pepaj and friends and family.",
+  "elites": "Babette Pepaj runs the operation.",
+  "created_at": "2012-05-22T18:16:03Z",
+  "updated_at": "2013-10-31T21:01:17Z",
+  "summary": "BakeSpace is a recipe-themed social network site founded by Babette Pepaj in 2006. \r\n\r\nBakeSpace has garnered media attention because of its independent funding, a DIY ethos, and the various community forums and recipe sharing tools on its site. The site also allows members to create custom cookbooks from templates delivered via the BakeSpace iOS app. Although BakeSpace claims to be a community, the site's design and functionality limits users to an audience role. Users can post, like, share and undertake other tasks common to Web 2.0 sites, but the role of the community, its purpose, and its wider goals are largely determined by the site's founder and CEO.\r\nIt has won seven Webbys since 2007, and has been recognized by Twistiup, IACP and GIT Catalyst. \r\n\r\n",
+  "birder_credits": "Dalena Hunter.\r\nEdited by rncrooks@ucla.edu 17 July 2012.\r\nEdited by Stacy Wood, July 2012. ",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Organized primarily by weak ties (\"friends\") grouped into overlapping networks.",
+    "id": 7,
+    "name": "Overlapping Networks of Weak Ties",
+    "updated_at": "2012-07-12T17:49:00Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Projects that enable participation in making, remaking or learning how to make things, often for sale.",
+    "id": 8,
+    "name": "Craft, DIY, Consumer goods",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2011-07-22T19:07:49Z",
+    "email": "sr.erickson@gmail.com",
+    "id": 1,
+    "updated_at": "2013-10-31T22:33:51Z"
+  }
+}

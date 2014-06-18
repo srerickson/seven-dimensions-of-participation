@@ -1,0 +1,70 @@
+{
+  "id": 48,
+  "name": "CouchSurfing",
+  "thumbnail_100_url": "/system/assets/262/sq100/couch_surfing_logo.jpg",
+  "thumbnail_50_url": "/system/assets/262/sq50/couch_surfing_logo.jpg",
+  "url": "http://www.couchsurfing.org",
+  "foritself": "It is aware of itself as both an FSE and an OP. The OP of CouchSurfing worldwide further subdivides into local communities, for instance \"Long Beach CS Community\" or \"Porto Alegre CS Community.\" ",
+  "brand": "Logo of a couch and a globe. The site mixes generic vacation-related images (such as beaches) with photos of actual users and events. In general, the site's branding aims for a hybrid corporate and personalized look via a blue and orange color scheme, liberal use of user images, and occasional cartoons or animations.\r\n\r\nCouchsurf: \"To sleep at someone elses' home (esp. on the individual's couch) for an indefinite period of time.\"\r\n\r\nhttp://www.urbandictionary.com/define.php?term=couchsurf. Accessed 15 July 2012.",
+  "fse_name": "CouchSurfing International, Inc., a B corporation based in San Francisco. ",
+  "fse_owner_founder": "Casey Fenton (Computer Science, Internet entrepreneur), Daniel Hoffer (Harvard tech consultant, BA in philosophy), Sebastien Le Tuan (software design, Cognitive Sciences at Berkeley), Leonardo Bassani da Silveira (web graphics design).\r\n\r\nTony Espinoza, CEO.",
+  "fse_significant_member": "Two investment fund figures were added to the Board of Directors in 2011:\r\nMatt Cohler of Benchmark Capital \r\nTodor Tashev of Omidyar Network.",
+  "fse_mission_statement": "\"With millions of members in over 230 countries and territories around the world, CouchSurfing is blazing the trail towards a better, friendlier world where people who are different from one another can find their similarities. We are a community, and we are a movement. If you believe that all types of people can share fun, trust, and friendship, then you belong here.\"\r\n\r\nhttp://www.couchsurfing.org/about.html. Accessed 15 July 2012.",
+  "op_name": "The term \"CS Community\" is used for the global instances of the OP. ",
+  "op_vip_founders": "The project was founded by FSE members. ",
+  "op_typical_member": "Former couchsurfers or travel enthusiasts. CS operates in every country on earth. \"The average age of members is twenty-eight, with more than a third between the ages of eighteen and twenty-four (seven hundred and ninety-three members are between eighty and eighty-nine).\"\r\n\r\nMarx, P. (2012). You’re welcome: Couch-surfing the globe. The New Yorker. Accessed 15 July 2012 at http://www.newyorker.com/reporting/2012/04/16/120416fa_fact_marx#ixzz20ts0xw6c.\r\n",
+  "formation": "FSE -> OP.",
+  "history": "Founder Nick Fenton got the idea for a web portal dedicated to couchsurfing in 1999, after he emailed 1,500 students in Iceland asking for a free place to stay and received 50 offers of accommodation. He developed the code over several years and eventually he and the other co-founders launched a public site in 2004. A catastrophic data loss in 2006 threatened to permanently scuttle the project, but CS Cooperatives (temporary working groups) sprang up to recode the site and users recreated their profiles. CouchSurfing's FSE has undergone several changes: originally a non-profit corporation, CouchSurfing was refused 501(c)(3) status by the IRS. In 2011, the company became \"a socially responsible B Corporation\" and took on venture capital.\r\n\r\nhttp://www.couchsurfing.org/about.html. Accessed 15 July 2012.",
+  "lifespan": "It exists and is getting more popular, attracting media attention and venture capital. ",
+  "resource": "Web-based system for profile creation, communication and social networking. It offers a \"couch locator\" based on Google Maps API to search for members of the community who are willing to host couchsurfers. CouchSurfing's Terms of Use define the resource as a \"venue.\"\r\n\r\nhttp://www.couchsurfing.org/terms.html. Accessed 15 July 2012.",
+  "availability": "Web-service based. The Terms of Use grants CouchSurfing \"a perpetual, worldwide, non-exclusive, royalty-free license to use, reproduce, display, perform, adapt, modify, distribute, have distributed and promote\" any content submitted to the site in perpetuity.\r\n\r\nAll material on our Site are protected by rights of publicity, copyright, trademarks, service marks, patents, trade secrets or other proprietary rights and laws, as may be applicable. Except as expressly authorized by us, you may not sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works from such material. Notwithstanding the foregoing, you may use such material in the course of your normal, personal, non-commercial use of our Services.\r\n\r\n7.2 Your Use of Our Intellectual Property. You may not systematically retrieve data or other content from our Site to create or compile, directly or indirectly, in single or multiple downloads, a collection, compilation, database, directory or the like, whether by manual methods, through the use of \"bots\" or otherwise. You may not use of any of our trademarks as metatags on other websites, written materials or otherwise. You may not display any portion of our Site in a frame (or any content from our Site through in-line links) without our prior written consent, which may be requested by contacting us at info@couchsurfing.org. You may, however, establish ordinary links to the homepage of our Site without our written permission.\r\n\r\n\r\nhttp://www.couchsurfing.org/terms.html. Accessed 15 July 2012.",
+  "participation": "CouchSurfing International Inc. is a socially responsible B (benefit) corporation. It is legally obligated to pursue its mission of increasing understanding through travel, but it is also obligated to create a profit. CouchSurfers have goals involving travel, but in cases of conflict (as in the decision to transform the FSE from non-profit corporation to B corporation), the FSE has final say.",
+  "tasks": "Tasks within the CS community are not formally measured. What is measured includes age, location, donations, number of friendships, positive experience reports, network traffic, nationalities, languages. The FSE runs as a traditional business but is obligated to pursue its social mission as well.\r\n",
+  "modularity": "Little investment is required to use the site, but more investment is required to actually complete a trip. The website is meant to facilitate communication among fellow travelers, so tasks would involve posting a profile, communicating with hosts or travelers, hosting, visiting, or meeting other CS enthusiasts for local meet-ups or activities. ",
+  "granularity": "Tasks vary by user. The website is meant to facilitate communication among fellow travelers, so tasks would involve posting a profile, communicating with hosts or travelers, hosting, visiting, or meeting other CS enthusiasts for local meet-ups or activities. ",
+  "metrics": "Tasks are not measured. What is measured is age, location, donation amount, number of friendships, positive experience reports, network traffic, nationalities, languages.  Personally, CS users consider themselves successful when they host utilize others hospitality. ",
+  "alliances": "Landay & Leblang is a law firm that has helped CouchSurfing by handling matters in the U.S. and overseas. ",
+  "clients": "International travelers, backpackers, locals interested in hosting.",
+  "sponsors": "Donations from members of the OP. CouchSurfing has also taken venture capital from Benchmark and from Omidyar Network.",
+  "elites": "Ambassadors are active members who help engage and activate their local CS communities by meeting new members, organizing events, serving as model hosts and surfers, and providing information about their cities and regions to surfers. They have limited access to the FSE. Staff members (paid workers) have privileged access to the functioning of the FSE.",
+  "created_at": null,
+  "updated_at": "2012-09-03T21:03:14Z",
+  "summary": "Founded in 2003, CouchSurfing.org (CS) aims to connect travelers with hosts; the website allows people willing to host guests for free in their homes to communicate with travelers looking for free places to stay via profiles, ads, and messages. It bills itself as a social network for travelers. The site has a large user base: some three million users in thousands of cities have coordinated to produce in an estimated 5.1 million connections. CS operates in every country on earth and in Antarctica.\r\n\r\nFounder Nick Fenton got the idea for a web portal dedicated to couchsurfing in 1999, after he emailed 1,500 students in Iceland asking for a free place to stay and received 50 offers of accommodation. He developed the code over several years and eventually he and the other co-founders opened the site to the public in 2004. A catastrophic data loss in 2006 threatened to permanently scuttle the project, but CS Cooperatives (temporary working groups) sprang up to recode the site and users recreated their profiles. CouchSurfing's FSE has undergone several changes: originally a non-profit corporation, CouchSurfing was refused 501(c)(3) status by the IRS. In 2011, the company became \"a socially responsible B Corporation.\"\r\n\r\nCouchSurfing is a for-profit, benefit corporation, having transformed itself from a non-profit and raised $7.6 million in venture funding from Benchmark and from Omidyar Network, a venture capital group associated with high-profile tech concerns. A vocal faction of CS regulars resistant to the change have engaged the company’s founder and executives in debate on the site’s forums and in coordinated social media campaigns. This smaller, more active group within the larger entity might be significant in terms of participation, particularly since this participation aims to preserve the preexisting norms in terms of the profit-orientation and culture of CS and represents something of an antagonism between the organized public and the formal social enterprise.\r\n\r\nJohnson, B. (2011, September 1). After going for-profit, CouchSurfing faces user revolt. GigaOM. Retrieved April 24, 2012, from http://gigaom.com/2011/09/01/after-going-for-profit-couchsurfing-faces-user-revolt/\r\n\r\nMarx, P. (2012). You’re welcome: Couch-surfing the globe. The New Yorker. Accessed 15 July 2012 at http://www.newyorker.com/reporting/2012/04/16/120416fa_fact_marx#ixzz20ts0xw6c.\r\n\r\nPerloth, N. (2011, August 4). Non-profit CouchSurfing raises millions in funding. Forbes. Retrieved from http://www.forbes.com/sites/nicoleperlroth/2011/08/24/non-profit-couchsurfing-raises-millions-in-funding/",
+  "birder_credits": "Luis Felipe R. Murillo.\r\nEdited by rncrooks@ucla.edu 15 July 2012.\r\nEdited by Stacy Wood, July 2012. ",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "CouchSurfing is a venue for fellow travelers to communicate and make visiting arrangements.",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Internet-based projects and companies specialized in social networking",
+    "id": 3,
+    "name": "Social Networking",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2011-10-11T04:09:00Z",
+    "email": "morganecurrie@gmail.com",
+    "id": 7,
+    "updated_at": "2013-07-02T22:12:45Z"
+  }
+}

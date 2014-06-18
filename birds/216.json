@@ -1,0 +1,70 @@
+{
+  "id": 216,
+  "name": "Reciprocal Research Network",
+  "thumbnail_100_url": "/system/assets/217/sq100/rrn_logo_150x150-7f9a84f42c509ae2f55801f935eb853a.png",
+  "thumbnail_50_url": "/system/assets/217/sq50/rrn_logo_150x150-7f9a84f42c509ae2f55801f935eb853a.png",
+  "url": "http://www.rrnpilot.org/",
+  "foritself": "Yes",
+  "brand": "The Reciprocal Research Network's brand is reflected in its name. The reciprocity, purported here, is between indigenous peoples of the Pacific Northwest (the First Nations) and the museums which have collected cultural materials from the region. In recent years museums have responded to post-colonial critiques by working to engage with indigenous communities on a more equal footing. As Rowley et al. (2010) write, \"RRN represents a paradigm shift in the way research into cultural heritage is conducted, whereby community members become one of the drivers of research as well as active participants.\" Reciprocity, here, is meant to express that political project. \r\n\r\nIn-keeping with these politics, RRN is designed to be friendly and easy-to-use; the interface does not require specialized knowledge in museum informatics.\r\n\r\nIn addition, the design features ample use of iconography from the Northwest Coast.  The logo was designed by two RRN interns (Terry and William) and the website explains the meaning of the logo this way:  \"Terry suggested design elements based on traditional navigation and creation themes: messengers would travel by canoe to bring news to communities and invite them to gatherings; salmon, a symbol of renewal, navigate through streams and oceans, guided by the stars. These ideas allude to the RRN’s goal of facilitating community renewal and knowledge by navigating through the Internet and museum collection management systems. William, the artist, added his ideas: raven brought the moon, sun, fire, tides and salmon to his people.\" \r\n\r\n",
+  "fse_name": "The Reciprocal Research Network\r\n\r\n            -- or --\r\n\r\nMuseum of Anthropology at the University of British Columbia (MOA). \r\n",
+  "fse_owner_founder": "The Reciprocal Research Networks's Steering Committee.\r\n\r\n\r\nFormally, RRN began in 2006 with signing of a project charter between the University of British Columbia's Museum of Anthropology (MOA) and three First Nations communities. \r\n\r\nAs of May 2012, the steering committee consists of: \r\n\r\n    Musqueam representative: Leona M. Sparrow \r\n    U’mista representative: Andrea Sanborn\r\n    Stó:l? representative: David Schaepe\r\n    MOA representative: Susan Rowley\r\n",
+  "fse_significant_member": "Aside from the steering committee, other important members of the FSE are the software developers who created and continue to maintain the RRN.  \r\n\r\n",
+  "fse_mission_statement": "The RRN seeks to \"support collaborative, socially responsible, and interdisciplinary research across local, national, and international borders.\"\r\n\r\n\"The RRN is an online tool to facilitate reciprocal and collaborative research about cultural heritage from the Northwest Coast of British Columbia. The RRN enables communities, cultural institutions and researchers to work together. Members can build their own projects, collaborate on shared projects, upload files, hold discussions, research museum projects, and create social networks. For both communities and museums, the RRN is groundbreaking in facilitating communication and fostering lasting relationships between originating communities and institutions around the world.\"\r\n\r\n---- \r\nhttp://www.rrnpilot.org/pages/about\r\n",
+  "op_name": "RRN Users.",
+  "op_vip_founders": "Tribal Leaders/Museum Curators",
+  "op_typical_member": "Native Americans, Anthropologists, Archaeologist, Museum Curators, and other people who are interested in cultural materials from indigenous peoples of the Pacific Northwest. ",
+  "formation": "OP -> FSE",
+  "history": "The RRN grew out of the University of British Columbia Museum of Anthropology's \"A Partnership of Peoples\" project, which lasted from 2005 to 2010. The goal of that project was to foster greater collaboration between the museum and the \"source communities\" from which museum holdings originated. The RRN was developed as a component of the \"A Partership of Peoples\" initiative, with the specific goal of using the web to create virtual collaboration spaces. \r\n\r\n\r\n\r\n",
+  "lifespan": "Still going.",
+  "resource": "Information about cultural materials of Pacific Northwest indigenous groups (First Nations). \r\n",
+  "availability": "Some of the item records in the RRN database are viewable by the public, but some are restricted - you need to create an RRN account. While getting an RRN account is not an automatic process (you must fill out a form explaining who you are and why you interested in the RRN) I had no trouble getting an account to conduct this research.",
+  "participation": "For the most part, the goals are set within the FSE, however within RRN it is possible to set up exclusive projects, membership to which are controlled by the project creators.",
+  "tasks": "The tasks are clearly defined:\r\n\r\nSearch the database for items\r\n\"Ask a Question\" about an item \r\n\"Share Knowledge\" about an item.\r\n\r\nCreate Projects - a way for groups of users to organize and discuss specific sets of record items privately. \r\n\r\nParticipate in Projects \r\n\r\nLanguage Translations\r\n\r\nSend Messages ",
+  "modularity": "The level of investment is diverse. It's easy to do searches and send messages, but really RRN is looking to draw upon the expertise of native communities to build projects, foster discussion, and provide their perspectives on the collection. ",
+  "granularity": "The granularity of the tasks ranges quite a bit. ",
+  "metrics": "",
+  "alliances": "Participating Institutions:\r\n\r\nMuseum of Anthropology (University of British Columbia), Brooklyn Museum, Burke Museum of Natural History & Culture (University of Washington), McCord Museum of Canadian History, Museum of Archaeology and Anthropology (University of Cambridge), National Museum of Natural History (U.S.), Nova Scotia Museum, Pitt Rivers Museum, Sto:lo Research & Resource Management Centre\r\n\r\n",
+  "clients": "Clients are the site's general audience, but the project specifically reaches out to indigenous communities through Community Liaisons, who are tasked to participate in usability testing, support, and to provide feedback to the RRN development team.\r\nhttp://www.rrnpilot.org/pages/about#whos_involved",
+  "sponsors": "N/A",
+  "elites": "N/A",
+  "created_at": "2012-05-24T21:42:53Z",
+  "updated_at": "2012-07-24T05:45:28Z",
+  "summary": "The Reciprocal Research Network is a research community organized around an online system co-developed by the University of British Columbia's Museum of Anthropology (MOA) and members of indigenous communities of the Pacific Northwest (the First Nations). The project aims to foster greater cooperation and communication between the people of the First Nations and cultural institutions holding materials from the Pacific Northwest. Users of the RRN can browse the collections of the nine participating institutions, viewing images and museum records associated with individual cultural objects. In addition, as stated on the RRN’s ‘about’ page, “members can build their own projects, collaborate on shared projects, upload files, hold discussions, research museum projects, and create social networks”. \r\n\r\nFor the purposes of this discussion, perhaps RRN’s most important feature is the affordance to augment, or propose corrections, to the object records in the database. The website provides an interface to “share knowledge” through which, it is hoped, museum records will be augmented with community perspectives. The project’s leader, Sue Rowley, writes that: \"RRN represents a paradigm shift in the way research into cultural heritage is conducted, whereby community members become one of the drivers of research as well as active participants” (Rowley, et al. 2010, n.p.). \r\n\r\nThe Reciprocal Research Network is characterized by it's founders this way:   \r\n\r\n\"The RRN creates an on-line research community, allowing geographically dispersed users to collaborate while studying cultural objects held in institutions around the world. Museums and other cultural institutions are contributing their data to the RRN in order to facilitate this research. Diverse user groups, including indigenous communities, share their own perspectives and knowledge with the people and institutions that make up the RRN community.\" \r\n(Rowley et al., 2010).\r\n\r\n\r\n\r\n--------------\r\nRowley, S. et al., Building an On-Line Research Community: The Reciprocal Research Network. In J. Trant and D. Bearman (eds). Museums and the Web 2010: Proceedings. Toronto: Archives & Museum Informatics. Published March 31, 2010. Consulted May 25, 2012. http://www.archimuse.com/mw2010/papers/rowley/rowley.html\r\n\r\n",
+  "birder_credits": "Seth Erickson",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Any form of democratic organization that relies heavily on rules, voting and procedures for decision making and which acts only with the consent of the majority (defined by procedure).  ",
+    "id": 5,
+    "name": "Procedural consensus democracy",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Educational platforms and projects based on the Internet",
+    "id": 4,
+    "name": "Education",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2011-10-11T04:09:00Z",
+    "email": "morganecurrie@gmail.com",
+    "id": 7,
+    "updated_at": "2013-07-02T22:12:45Z"
+  }
+}

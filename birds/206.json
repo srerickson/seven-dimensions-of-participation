@@ -1,0 +1,70 @@
+{
+  "id": 206,
+  "name": "Meetup.com",
+  "thumbnail_100_url": "/system/assets/203/sq100/meetuplogo.png",
+  "thumbnail_50_url": "/system/assets/203/sq50/meetuplogo.png",
+  "url": "http://meetup.com",
+  "foritself": "It is self-aware",
+  "brand": "Friendly, social, innovative",
+  "fse_name": "Meetup",
+  "fse_owner_founder": "Staff and Board of Directors are on the \"about\" page with photos and bios. Some are described as co-founders. Scott Heiferman is CEO and Director. Brendan McGovern is CFO and Chief Administrative Officer. Greg Whalin is CTO. The Board of Directors includes Brad Burnham (Union Square Ventures), Esther Dyson (EDventures), Scott Heiferman (a Meetup.com co-founder), Andreas Stavropoulos (a VC firm called Draper Fisher Jurvetson), and Todor Tashev (Omidyar Network, an investment firm). ",
+  "fse_significant_member": "About page lists \"fellows\" and an \"advisory board,\" both consisting of notable people. The Fellows include Douglas Atkin, Senator Bill Bradley, Pierre Omidyar (founder of ebay), and psychologist Richard Rowe. The Advisory Board consists of Jim Cashel, Steven Johnson, Kenneth Lerer, Robert Putnam, Ira Rosen, Richard Rowe, Douglas Rushkoff, Andrew Shapiro, Clay Shirky, Brian Sroub, and Jeffrey Stewart.",
+  "fse_mission_statement": "\"Meetup's mission is to revitalize local community and help people around the world self-organize. Meetup believes that people can change their personal world, or the whole world, by organizing themselves into groups that are powerful enough to make a difference.\"",
+  "op_name": "No single name for the OP, however, the groups that are created on meetup.com are often named using the first person plural, e.g. \"Los Angeles Film Enthusiasts.\" These groups could individually be considered organized publics organized by the project.",
+  "op_vip_founders": "",
+  "op_typical_member": "There is no typical member",
+  "formation": "From FSE to OP",
+  "history": "Started as a smaller version of what it presently is. The company was founded in 2002 by Scott Heiferman (CEO), Peter Kamali (former CTO), and Matt Meeker (a former VP).",
+  "lifespan": "Presently growing.",
+  "resource": "The resources provided are a facility to create real-world groups for people to join based on geographic location and interest in the activities of the group. Most users do not create groups but join groups that other users have created based on their interests.",
+  "availability": "Free for anyone to join and to join groups. Starting a group costs money. Terms of service regulate behavior to a certain extent.",
+  "participation": "The FSE creates the goals of the project as a whole, but creators of groups create the goals of those groups, within the parameters of the terms of service.",
+  "tasks": "Tasks can include creating a group, joining a group, describing oneself in one's profile, and attending real-world activities of the groups.",
+  "modularity": "Joining groups is trivially easy. Creating a group is also relatively easy, and can be done in a few minutes.",
+  "granularity": "Creating a group or joining a group are granular tasks. However, participating in a group over time, or maintaining a group and creating activities for that group could be seen as tasks that are ongoing.",
+  "metrics": "The site tells users how many members a group has and how many group members are planning to attend a given event for the group.",
+  "alliances": "Not clear. There is an API.",
+  "clients": "Investors include eBay, Omidyar Network, Draper Fisher Jurvetson, Esther Dyson, and Allen & Company.",
+  "sponsors": "Not clear. There is a board of directors.",
+  "elites": "Creators of groups have a somewhat greater level of access in terms of communication with group members. Staff at the FSE are an elite in terms of their ability to intervene in the activities of the OP to an extent.",
+  "created_at": "2012-05-22T00:11:38Z",
+  "updated_at": "2012-05-28T23:16:27Z",
+  "summary": "Meetup is a highly developed, well-established project that facilitates real-world activities among people with shared interests in their own local geographic areas. Activities range from political discussion to hobbies to sports to dating to book discussion groups to spiritually oriented activities, and many other types of interests, with very few limitations on what those may be. ",
+  "birder_credits": "rlitwin@gmail.com",
+  "tangible_problem": null,
+  "tangible_problem_detail": null,
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "An unorganized mass whose only relation to each other is a mutual relationship to a producer. ",
+    "id": 9,
+    "name": "Consumer Market",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Internet-based projects and companies specialized in social networking",
+    "id": 3,
+    "name": "Social Networking",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2012-04-10T20:15:26Z",
+    "email": "rlitwin@gmail.com",
+    "id": 19,
+    "updated_at": "2012-06-12T22:02:49Z"
+  }
+}

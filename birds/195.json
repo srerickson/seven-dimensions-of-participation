@@ -1,0 +1,70 @@
+{
+  "id": 195,
+  "name": "Bitcoin",
+  "thumbnail_100_url": "/system/assets/143/sq100/200px-Bitcoin_logo.png",
+  "thumbnail_50_url": "/system/assets/143/sq50/200px-Bitcoin_logo.png",
+  "url": "http://bitcoin.org/",
+  "foritself": "Yes. ",
+  "brand": "The bitcoin logo is a \"B\" intersected by two vertical lines, linking it to popular representations of the US Mint's money bags. The dollar sign ($), which has its roots in the sign of the peso, has been adopted by various nations who use a dollar or peso as their currency. ",
+  "fse_name": "Bitcoin\r\n\r\nThe software is a community-driven, open source project, released under the MIT license.\r\n\r\nHowever, a very strong argument can be made that no FSE exists.\r\n\r\n",
+  "fse_owner_founder": "Satoshi Nakamoto (alias) initiated bitcoin in January 2009. His identity is unknown.\r\n\r\nhttp://www.newyorker.com/reporting/2011/10/10/111010fa_fact_davis. Accessed 5 September 2012.",
+  "fse_significant_member": "Highly involved developers other than Satoshi Nakamoto include:\r\n\r\nGavin Andresen - gavinandresen@gmail.com (PGP)\r\nPieter Wuille - pieter.wuille@gmail.com (PGP)\r\nNils Schneider - nils.schneider@gmail.com (PGP)\r\nJeff Garzik - jgarzik@exmulti.com (PGP)\r\nWladimir J. van der Laan - laanwj@gmail.com (PGP)\r\nGregory Maxwell - gmaxwell@gmail.com (PGP)\r\n\r\nhttp://bitcoin.org. Accessed 5 September 2012.",
+  "fse_mission_statement": "According to its website, \"Bitcoin is an experimental new digital currency that enables instant payments to anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network.\"\r\n\r\nSee also http://www.bitcoin.org. Accessed 5 September 2012.\r\n\r\n\"Bitcoin: A Peer-to-Peer Electronic Cash System\r\n\r\nAbstract:\r\n\r\nA purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without the burdens of going through a financial institution. Digital signatures provide part of the solution, but the main benefits are lost if a trusted party is still required to prevent double-spending.  We propose a solution to the double-spending problem using a peer-to-peer network.  The network timestamps transactions by hashing them into an ongoing chain of hash-based proof-of-work, forming a record that cannot be changed without redoing the proof-of-work.  The longest chain not only serves as proof of the sequence of events witnessed, but proof that it came from the largest pool of CPU power.  As long as honest nodes control the most CPU power on the network, they can generate the longest chain and outpace any attackers.  The network itself requires minimal structure.  Messages are broadcasted on a best effort basis, and nodes can leave and rejoin the network at will, accepting the longest proof-of-work chain as proof of what happened while they were gone.  \"\r\n\r\n\r\nFull paper at: http://www.bitcoin.org/bitcoin.pdf. Accessed 5 September 2012.\r\n\r\n\r\n",
+  "op_name": "Bitcoin",
+  "op_vip_founders": "Same as FSE",
+  "op_typical_member": "Libertarian; Internet cosmopolitanist; paranoid; dealer / consumer of illicit goods / services; anonymous donors.",
+  "formation": "Satoshi Nakamoto released the first bitcoin client in January, 2009, in part as a response to the economic collapse of 2008. The cryptocurrency functions as an alternative to national currencies, which are controlled by central banks and political forces. Bitcoin, in theory, is an apolitical, mathematically rational currency that is produced slowly via the process of 'mining,' and will reach its currency ceiling of 21 million sometime before 2020. ",
+  "history": "Satoshi Nakamoto released a short essay, \"Bitcoin: A Peer-to-Peer Electronic Cash System,\" onto The Cryptography Mailing List in October 2008, then released the first Bitcoin client and genesis block in January 2009. Since then, bitcoin has survived hacking attempts, large swings in currency value, and thefts from various online exchanges, and remains a viable method for sending money electronically to individuals or organizations who wish to remain anonymous. ",
+  "lifespan": "January 2009 - ongoing. ",
+  "resource": "Bitcoin provides an alternative monetary marketplace for those who wish to have their financial interactions remain anonymous, speculators, or people who prefer to not use national currencies for political or economic reasons. ",
+  "availability": "Bitcoin is available to anyone willing to purchase it through one of the various exchanges or purchasing services. To transfer or access bitcoin holdings, a computer with a bitcoin client installed is required. ",
+  "participation": "Bitcoin aims to offer a stable, mathematically rational alternative to the national currencies that are vulnerable to devaluation, inflation, or political maneuvering. Because there is a gradual process of bitcoin development, and a limit on the amount of bitcoin (BTC) there can be in the world, the community developed around the currency believes it solves the irrational behavior of global currency turbulence. \r\n\r\n",
+  "tasks": "Bitcoin miners produce bitcoins through devoting computers to the calculation of increasingly difficult algorithms. The more computer power devoted to the solution of these algorithms, the more difficult the algorithms become, which makes devoted mining less lucrative. ",
+  "modularity": "Exchanges like Mt. Gox, the biggest bitcoin exchange, buy and sell bitcoin and charge a fee for transactions. ",
+  "granularity": "N.A.",
+  "metrics": "N.A.",
+  "alliances": "Mt. Gox.com; CryptoXChange.com",
+  "clients": "A large, largely anonymous community of users, miners, and enthusiasts. ",
+  "sponsors": "None",
+  "elites": "None",
+  "created_at": "2012-05-15T20:15:03Z",
+  "updated_at": "2012-09-04T18:43:34Z",
+  "summary": "Bitcoin is a crypto-currency that was developed and released by Satoshi Nakamoto, of whom almost nothing is known, in 2008-9. \r\n\r\nThe currency aims to offer an alternative to national currencies by providing a secure, mathematically rigorous and encrypted money form. A large and enthusiastic community has grown around the currency and its software, which is open source and released under the MIT license. Early popular reactions to bitcoin were wary of its uses for criminal activities, citing the fact that a website, Silk Road Marketplace (only accessible through a TOR anonymizer), was offering drugs online for bitcoin. More recently (2012-05-09), an FBI intelligence report on the ability of bitcoin to fund illicit behavior appeared online, leaked by a law enforcement agency to which the report had been distributed. \r\n\r\nQuestions about how participation functions in bitcoin relate directly to how we consider participation in larger economies. What are the ideological implications of our currency choices, and what choices are available to us? Is the use of alternative currencies a viable mode of resistance to national and global economic structures? How can the discourse around bitcoin be read as a reaction to the increased uncertainty around political regulation of economic structures?",
+  "birder_credits": "Created by wartenbe@ucla.edu.\r\nEdited by rncrooks@ucla.edu, 5 September 2012.",
+  "tangible_problem": "Yes",
+  "tangible_problem_detail": "Develop a decentralized currency (and economy) that is open and public.",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Acephalous, loosely networked, intended to devolve all decision making to groups as local (and as small) as possible.   ",
+    "id": 4,
+    "name": "Radical decentralization",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Acephalous, loosely networked, intended to devolve all decision making to groups as local (and as small) as possible.   ",
+    "id": 4,
+    "name": "Radical decentralization",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Free and Open Source Software",
+    "id": 1,
+    "name": "FOSS",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Projects that directly interacts with or depends on the ecology of low-level UNIX-based tools and Internet-based services such as UNIX operating systems, C compilers, source code management systems (SCM), POSIX standard components, internet protocols and services.  ",
+    "id": 1,
+    "name": "UNIX + Internet",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2012-04-17T03:52:58Z",
+    "email": "rncrooks@ucla.edu",
+    "id": 23,
+    "updated_at": "2013-07-09T15:08:37Z"
+  }
+}

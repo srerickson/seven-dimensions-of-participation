@@ -1,0 +1,70 @@
+{
+  "id": 31,
+  "name": "Facebook",
+  "thumbnail_100_url": "/system/assets/23/sq100/Screen%20shot%202011-08-12%20at%201.47.24%20PM.png",
+  "thumbnail_50_url": "/system/assets/23/sq50/Screen%20shot%202011-08-12%20at%201.47.24%20PM.png",
+  "url": "",
+  "foritself": "",
+  "brand": "Ubiquty.  Mark Zuckerberg wearing his hoodie.",
+  "fse_name": "Facebook Inc.",
+  "fse_owner_founder": "Mark Zuckerberg, Eduardo Savarin, Dustin Moskowitz, Sean Parker",
+  "fse_significant_member": "Winkelvoss Twins (beneficiaries of the settlement)",
+  "fse_mission_statement": "Facebook's mission is to give people the power to share and make the world more open and connected. ",
+  "op_name": "Facebook",
+  "op_vip_founders": "",
+  "op_typical_member": "Facebook has no typical member on account its size.  ",
+  "formation": "FSE -> OP",
+  "history": "",
+  "lifespan": "",
+  "resource": "for users...\r\n\r\nfor facebook....\r\n\r\nfor clients...",
+  "availability": "",
+  "participation": "",
+  "tasks": "",
+  "modularity": "",
+  "granularity": "",
+  "metrics": "",
+  "alliances": "",
+  "clients": "friends",
+  "sponsors": "",
+  "elites": "",
+  "created_at": null,
+  "updated_at": "2012-05-15T23:34:49Z",
+  "summary": "",
+  "birder_credits": "Christopher Kelty, ",
+  "tangible_problem": null,
+  "tangible_problem_detail": null,
+  "fse_org_style": {
+    "created_at": null,
+    "description": "An aversion to hierarchy resulting in hierarchy.  See http://www.youtube.com/watch?v=yY-7_uzJL6w",
+    "id": 12,
+    "name": "Cryptohierarchy",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Internet-based projects and companies specialized in social networking",
+    "id": 3,
+    "name": "Social Networking",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2011-07-22T19:14:37Z",
+    "email": "ckelty@ucla.edu",
+    "id": 2,
+    "updated_at": "2013-10-22T20:47:03Z"
+  }
+}

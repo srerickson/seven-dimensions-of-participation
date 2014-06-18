@@ -1,0 +1,70 @@
+{
+  "id": 229,
+  "name": "Foursquare",
+  "thumbnail_100_url": "/system/assets/276/sq100/foursquare_logo.png",
+  "thumbnail_50_url": "/system/assets/276/sq50/foursquare_logo.png",
+  "url": "https://foursquare.com/",
+  "foritself": "Yes. In a sense, awareness of  community and local places is what Foursquare offers. Foursquare encourages users to think of the service as a game, so participation here connotes play and leisure. Like other social networks, people who are friends offline interact with each other within the space of the app, but the app does afford the opportunity to interact with previously unknown people. Participants have no say in the FSE's goals, the setting of tasks, or the disposition of data created, nor do they gain any educational dividend.",
+  "brand": "Foursquare's logo uses white and off-white sans-serif type, outlined in blue over a blue field.  Company materials always use lower case to refer to the company. The logo is relatively traditional and typical of corporate graphic design. The site also uses cartoon-like illustrations that are more colorful for its badges, virtual medals that reward users for a particular set or quantity of check-ins. The badges and the copy for the site tend to be playful and present the app as a game. Foursquare's website also contain a kind of style guide that dictates \"check-in\" as a noun and \"check in\" as a verb.",
+  "fse_name": "Foursquare Labs, Inc. is the corporate entity that owns and runs Foursquare.",
+  "fse_owner_founder": "The service was created in 2009 by Dennis Crowley and Naveen Selvadurai.",
+  "fse_significant_member": "Dennis Crowley, Co-founder and CEO.\r\n\r\nNaveen Selvadurai, Co-founder.\r\n\r\nEvan Cohen, General Manager.\r\n\r\nAlex Rainert, Head of Product.\r\n\r\nHarry Heymann, Head of Engineering.\r\n\r\nTim Vetter, Head of Mobile Engineering. ",
+  "fse_mission_statement": "\"foursquare is a free app that helps you and your friends make the most of where you are. When you're out and about, use foursquare to share and save the places you visit. And, when you're looking for inspiration for what to do next, we'll give you personalized recommendations and deals based on where you, your friends, and people with your tastes have been.\"\r\n\r\nhttps://foursquare.com/about/. Accessed 14 August 2012.",
+  "op_name": "Foursquare users. As Foursquare is a mobile app of the social network genre, the user base constitutes the OP. ",
+  "op_vip_founders": "Nate Bonilla-Warford, an optometrist from Florida founded Foursquare Day, a grassroots,  cross-promotional event to be held on 4/16.\r\n\r\nPlaces added to the Foursquare database have a designated Mayor, awarded for frequency of check-ins. Users vie for the title by checking in most frequently.\r\n\r\nFoursquare's operators also designates frequent users as \"SuperUsers\" and give them special abilities to edit the venues stored in Foursquare's databases. \r\n\r\nhttp://aboutfoursquare.com/faq-what-is-a-superuser/. Accessed 14 August 2012.",
+  "op_typical_member": "Foursquare has 20 million users and is available in nearly a dozen languages. OP members have a smartphone and voluntarily download the app. Visitors to foursquare's website are more likely to be 18 - 34, female, and college educated than the Internet as a whole, but these statistics do not necessarily reflect use of the mobile app, the primary platform for foursquare.\r\n\r\nhttp://www.alexa.com/siteinfo/foursquare.com. Accessed 14 August 2012.",
+  "formation": "FSE--> OP. Foursquare is a commercial venture that seeks to capture market share. ",
+  "history": "Foursquare is a New York-based start-up that promotes an eponymous smartphone app, which is essentially a geo-referenced, crowdsourced database of places. Foursquare was founded in 2009 by Dennis Crowley and Naveen Selvadurai. The two previously created an SMS-based social network called Dodgeball, which was acquired by Google in 2005 and subsequently deactivated.  Foursquare allows users to check in to places that have been identified in Foursquare's databases, such as restaurants, bars, public parks, or any other user-added location.  The system records the user's check-in data, capturing the geographic and temporal coordinates via the phone's location-aware capabilities. Foursquare presents itself as a game: users share locations with friends, collect accomplishments called badges for a particular variety or quantity of check-ins, and share location data via other social networks. \r\n\r\nAccording to Crowley, since 2009 the company has collected more than two billion pieces of data about its 20 million users. Despite initial enthusiasm and media attention, the company has yet to generate any income. As of 2012, the company changed direction, hoping to leverage its store of data to become a recommendation and review hub or to provide access to its locations database to other apps and services. Many of Foursquare’s early competitors, including Loopt, Gowalla, Whrrl, Brightkite and Hot Potato have stopped operating, leaving Foursquare in an advantageous, if not lucrative, position.\r\n\r\nWortham, J. (2009, October 18). \"Face-to-face socializing starts with a mobile post.\" The New York Times. Accessed 1 August 2012 at http://www.nytimes.com/2009/10/19/technology/internet/19foursquare.html.\r\n\r\nWortham, J. (2012, June 7). \"Rather than share your location, Foursquare wants to suggest one.\" The New York Times. Accessed 1 August 2012 at http://www.nytimes.com/2012/06/07/technology/in-app-overhaul-foursquare-shifts-focus-to-recommendations.html?smid=pl-share.\r\n",
+  "lifespan": "Still exists as of 2012, with a slightly altered business strategy.",
+  "resource": "Foursquare captures location data from users to profile users' movements and habits over time and thereby assemble a giant database of places and knowledge of how and when people use them.  Users check in to a particular location which has been added to Foursquare's system: these places are generally venues for some kind of social activity, such as a bar, gym, school, or any other private or public location. Users can add places that have not previously been catalogued. The data collected are the property of Foursquare Labs. The app and the ability to check in are provided for free to users (OP) by Foursquare Labs (FSE).",
+  "availability": "The app is provided to users free of charge, but the Terms of Service specify that data generated by users belong to Foursquare. Foursquare grants access its databases via an API.",
+  "participation": "Only the FSE sets goals for Foursquare. ",
+  "tasks": "Tasks for the company as a whole are set, acted on, and evaluated using business management techniques. Users can perform tasks within the app, such as checking in, earning badges, or accepting friend requests, but the nature of these tasks is entirely up to the FSE.",
+  "modularity": "Tasks are set, acted on, and evaluated within the FSE through the use of business management techniques. Users can perform tasks within the app, such as checking in, earning badges, or accepting friend requests, assuming that the user has a smartphone and the ability to download and install the app.",
+  "granularity": "Tasks are set, acted on, and evaluated within the FSE through the use of business management techniques. Users can perform tasks within the app, such as checking in, earning badges, or accepting friend requests, but the tasks are not evaluated by users.",
+  "metrics": "Tasks are set, acted on, and evaluated within the FSE through the use of business management techniques. Users can perform tasks within the app, such as checking in, earning badges, or accepting friend requests, but the tasks are not evaluated by users.",
+  "alliances": "Foursquare is the successor of another mobile service created by co-founders Dennis Crowley and Naveen Selvadurai. The two previously created Dodgeball, which was acquired by Google in 2005 and deactivated in 2009. In March of 2012, Foursquare announced plans to switch Foursquare's native map application from Google Maps to OpenStreetMaps.\r\n\r\nFoursquare uses the iPhone, Symbian, Android, webOS, Windows Phone 7, Bada and BlackBerry, and Playstation Vita platforms.\r\n\r\nFoursquare offers coupons to users who check in near participating merchants. Foursquare has also partnered with Zagat, Bravo, Conde Nast, The New York Times, MTV, and American Express to offer users badges, promotions, discounts, and sales. ",
+  "clients": "Other apps utilize Foursquare's API, including Instagram, Thrillist, Localmind, Foodspotting, American Express, Tasti D-Lite, Quora, TBS, and Locamoda.\r\n\r\nhttps://developer.foursquare.com/appsshowcase/. Accessed 14 August 2012.",
+  "sponsors": "Foursquare is funded by funded by Union Square Ventures, O'Reilly AlphaTech Ventures, Andreessen Horowitz, Spark Capital and\" a handful of angel investors.\"\r\n\r\nhttps://foursquare.com/about/. Accessed 14 August 2012.",
+  "elites": "Foursquare's public face is co-founder Dennis Crowley, who is frequently written about by New York Times reporter Jenna Wortheim.",
+  "created_at": "2012-08-07T21:40:48Z",
+  "updated_at": "2012-08-20T03:07:44Z",
+  "summary": "Foursquare is a mobile app that combines elements of a game, a social network, and a city guide. Foursquare was founded in 2009 by Dennis Crowley and Naveen Selvadurai. The two previously created an SMS-based social network called Dodgeball, which was acquired by Google in 2005 and subsequently deactivated. \r\n\r\nFoursquare captures location data from users to profile their movements and habits over time and thereby assemble a giant database of places and knowledge of how and when people use them.  Foursquare presents itself as a game: users share locations with friends, collect accomplishments ('badges') for a particular variety or quantity of check-ins, and share location data via other social networks.  \r\n\r\nUsers check in to a particular location which has been added to Foursquare's system: these places are generally venues for some kind of social activity, such as a bar, gym, school, or any other private or public location. Users can add places that have not previously been catalogued, thereby increasing the size of Foursquare's database. The data collected are the property of Foursquare Labs; the app and the ability to check in are provided for free to users (OP) by Foursquare Labs (FSE). According to Crowley, since 2009 the company has collected more than two billion pieces of data about its 20 million users. \r\n\r\nDespite initial enthusiasm and media attention, the company has yet to generate any income. Foursquare has attracted significant venture capital and formed high-profile partnerships with many companies. As of 2012, the company changed direction, hoping to leverage its store of data to become a recommendation and review hub or to provide access to its locations database to other apps and services. Many of Foursquare’s early competitors, including Loopt, Gowalla, Whrrl, Brightkite and Hot Potato have stopped operating, leaving Foursquare as a leader in this market.\r\n\r\nWortham, J. (2009, October 18). \"Face-to-face socializing starts with a mobile post.\" The New York Times. Accessed 1 August 2012 at http://www.nytimes.com/2009/10/19/technology/internet/19foursquare.html.\r\n\r\nWortham, J. (2012, June 7). \"Rather than share your location, Foursquare wants to suggest one.\" The New York Times. Accessed 1 August 2012 at http://www.nytimes.com/2012/06/07/technology/in-app-overhaul-foursquare-shifts-focus-to-recommendations.html?smid=pl-share.\r\n",
+  "birder_credits": "Created by rncrooks@ucla.edu 14 August 2012.",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "Foursquare is a mobile app that combines elements of a game, a social network, and a city guide.",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Organized primarily by weak ties (\"friends\") grouped into overlapping networks.",
+    "id": 7,
+    "name": "Overlapping Networks of Weak Ties",
+    "updated_at": "2012-07-12T17:49:00Z"
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Internet-based projects and companies specialized in social networking",
+    "id": 3,
+    "name": "Social Networking",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": "2012-05-15T22:46:57Z",
+    "description": "Operates primarily as a stand-alone application on a suitable mobile device (phone, tablet. May be downloaded via an app store.",
+    "id": 10,
+    "name": "Mobile",
+    "updated_at": "2012-05-15T22:46:57Z"
+  },
+  "updated_by": {
+    "created_at": "2012-04-17T03:52:58Z",
+    "email": "rncrooks@ucla.edu",
+    "id": 23,
+    "updated_at": "2013-07-09T15:08:37Z"
+  }
+}

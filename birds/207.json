@@ -1,0 +1,70 @@
+{
+  "id": 207,
+  "name": "Ourproject.org",
+  "thumbnail_100_url": "/system/assets/204/sq100/logo.png",
+  "thumbnail_50_url": "/system/assets/204/sq50/logo.png",
+  "url": "http://ourproject.org/",
+  "foritself": "Yes - it falls squarely in the spirit of other FOSS projects that emphasize community, sharing ideas, cooperation through copyleft licenses.",
+  "brand": "Minimal branding or consideration for design on the site. Functionality is more central. No advertising is allowed on the site.",
+  "fse_name": "There is no FSE, intentionally.",
+  "fse_owner_founder": "N/A",
+  "fse_significant_member": "N/A",
+  "fse_mission_statement": "\"Free Software and Free Knowledge for a Free Society\" - this mission statement is short but there is a more detailed and extended \"Manifesto\" for ourproject.org. This manifesto can be found at : https://ourproject.org/docman/view.php/1/19/file19.html\r\n\r\n",
+  "op_name": "ourproject.org",
+  "op_vip_founders": "founder Vicente J. Ruiz Jurado",
+  "op_typical_member": "Software developers, artists, environmentalists and labor and human rights activists, sustainable design advocates. It has presence especially in Spain, Latin America and China, according to Alexa.com http://www.alexa.com/siteinfo/ourproject.org\r\n\r\nAccording to Wikipedia: OurProject projects have mainly been carried out by social movements, university-supported groups,[5][10] some free software related projects,[11] cooperatives,[12] artist collectives,[13] activist groups,[14] informal groups[15] and non-profits.[16]\r\nhttp://en.wikipedia.org/wiki/Ourproject.org\r\n\r\nCurrently:\r\nHosted Projects: 1,104\r\nRegistered Users: 3,623\r\nhttp://ourproject.org/",
+  "formation": "OP --> x",
+  "history": "Vicente J. Ruiz Jurado wrote the project's manifesto v. 0.1 on 6th June, 2002. Th second version, with contributions of Alberto Aldave, Jose Pablo Ferrándiz and Lola, was written 20th June, 2002.\r\nOthers have rewritten prior versions until one solidified in its current state, version 4.0 written in August 2003 by David Arroyo, Vicente J. Ruiz Jurado and Vladimir di Fiore.\r\nhttp://ourproject.org/docman/view.php/1/19/file19.html\r\n\r\nAccording to Wikipedia, today relevant projects that are using Ourproject infrastructure include:\r\n\r\nthe Critical Mass movement pages reference for the Hispanic movement[22][23][23][24]\r\nThe Spanish cooperative for Organic farming \"Bajo el Asfalto está la Huerta\", reference in the Food sovereignty movement[25][26][27][28]\r\nthe Kune project, a federated collaborative social network[29][30]\r\nthe main Free Software association of Argentina[31][32]\r\nThe community website of the Ubuntu Spanish community [33]\r\nthe internal work group of the P2P Foundation.[34]\r\n\r\nDuring 2011, it has attracted interest by the new wave of protesting social movements in several areas:\r\n\r\nIt has hosted several projects related to the Arab Spring movements from Lebanon,[35] Palestine[36][37] and Syria.[38][39]\r\nThe social movement of 2011 Spanish protests repeatedly used its services.[40][41][42][43][44]\r\nThe American Occupy movement is recommending its use in its howto [45] and it recently began being used.[46][47]\r\n",
+  "lifespan": "2002 - today",
+  "resource": "Ourproject.org hosts collaborative work for Free Projects of any theme (not only free software) together with social projects, with the objective of sharing all types of knowledge under free/libre licenses. A requirement is that projects make the license clearly visible attaching it to every piece of your work.  \r\n\r\nHosting services include:\r\nMailing list\r\nSurveys\r\nForums\r\nTask management\r\nSCM (CVS, SVN)\r\nNews service\r\nDocumentation management\r\nFTP\r\nRegistring\r\nFile publication system\r\nStats\r\nWiki\r\nWeb hosting & subdomain\r\nMySQL database\r\nFull backups\r\nE-mail Alias \r\nhttp://ourproject.org/moin/Ourproject_FAQ#Free_Projects",
+  "availability": "All projects must make use of the licenses listed below. All of the members of the community agree to allow anybody to run, copy, distribute, study and modify their programs; in other words, everybody is allowed to improve the original software.\r\n\r\nCreative-Commons, Attribution-ShareAlike\r\nFree Art License\r\nGNU Free Documentation License\r\nGNU General Public License (GPL)\r\nLibre Designs General Public License (LDGPL)\r\nOpen Publication License, Version 1.0\r\nThe Design Science License\r\nArtistic License\r\nBSD License\r\n\r\nCreative-Commons, Attribution-NonCommercial-ShareAlike\r\nGNU Lesser General Public License\r\nMozilla Public License 1.1\r\nPublic Domain\r\n\r\nNo license: only for Initiatives encouraging Free Knowledge (without contents): This option is for organizations which share our goals, but who do not need to use our services to publish any work. For instance, Solar, a Free Software organization from Argentina, use this pseudo-license. They mainly use our mailing lists, and other tools. \r\nhttp://ourproject.org/moin/Ourproject_FAQ#Free_Projects",
+  "participation": "\"The idea behind the ourproject.org initiative is for it to be a tool which encourages the cooperative work effort of all types of people from every part of the world, promoting the coming together of people and the exchange of ideas and solutions to problems, with the condition that the results of the projects will remain freely accessible to whoever may find them useful, within this tool...\r\nThe ourproject.org initiative tries to translate this philosophy to other fields and subjects of life.\"\r\nhttp://ourproject.org/docman/view.php/1/19/file19.html\r\n\r\nThe goals are stated and as a member you can have access to a list of all people involved in goal setting. Participation is open to anyone who is interested. The agenda activist and anti corporate. ",
+  "tasks": "A primary task is to initiate a project by uploading documents. Other users can jump in and participate after asking the project's administrator. Participants can also take part in wikis and mailing lists devoted to projects.\r\n\r\ntasks fall under a few different roles - some of these are vague:\r\n\r\nRole Name: Short description of the field in which he/she collaborates.\r\n\r\nProject Admin: the project administrators have all the rights over a project, even adding/removing other collaborators.\r\n\r\nTask Manager: The different rights for managing this ourproject tool.\r\n\r\nForum: The different rights for managing this ourproject tool (none by default). Moderators can remove messages from the forum\r\n\r\nDocument Manager: The different rights for managing this ourproject tool (none by default). Editors can update/edit/delete documents of the project. \r\n\r\nFor software projects there are these roles as well:\r\nRegistry Admin\r\nRelease Technician\r\nCVS Commit\r\n\r\nhttp://ourproject.org/moin/Ourproject_FAQ#Free_Projects",
+  "modularity": "The modularity surely depends on the project. There doesn't seem to be pressure to do more or less than a person wants to. Projects vary greatly, some have concrete goals and would as a result have concrete tasks that would require investment and also commitment. Some projects do not have the same kind of tangible or concrete goals and are more akin to forums an other cultural online communities. ",
+  "granularity": "Again, this would depend on the project. ",
+  "metrics": "Many of these are ongoing projects, many have fallen by the wayside. A completed task would be a fully executed contribution on any level of granularity. Projects, as open source, aren't so much completed as brought to maturity, where they can always evolve and be refined. Additionally, many of the goals of individual projects are activist in nature and tend to focus on transition and change rather than a completion point.",
+  "alliances": "ourproject.org is an initiative of Comunes Collective a non-profit collective dedicated to facilitating the use of free/libre web tools and resources to collectives and activists alike, with the hopes of encouraging the Commons.\r\nhttp://comunes.org/en/\r\n\r\nAlso:\r\n\r\nAfter 9 years of existence, Ourproject has developed partnership with several organizations:\r\n\r\nGRASIA (Group of Software Agents, Engineering & Applications)[49]: Research group of Universidad Complutense de Madrid, it is offering joint grants to students and providing hardware resources.[50]\r\n\r\nAmerican University of Science and Technology (Beirut): offering students the chance of collaborating with Ourproject receiving trainings in administration, or framing their senior project and Master theses in this environment.\r\n\r\nIEPALA Foundation[51] : It has joined Ourproject, together with other free software initiatives, to build a common Data Center.[52]\r\n\r\nXsto.info: Free software cooperative[53] that has been providing technical infrastructure to Ourproject without charge, and recently joined the mentioned collective Data Center.\r\nhttp://en.wikipedia.org/wiki/Ourproject.org\r\n",
+  "clients": "Clients include participants or anyone wanting to repurpose project ideas or code, provided they use free licenses.",
+  "sponsors": "The site only gets a handful of small, individual donations - the most being $300. \r\nhttp://ourproject.org/op/donate.php",
+  "elites": "N/A",
+  "created_at": "2012-05-22T00:41:57Z",
+  "updated_at": "2012-07-31T18:34:25Z",
+  "summary": "Headquartered in Madrid, ourproject.org sees Free Software as an ethic or philosophy that emphasizes sharing and cooperation over personal gain, and it seeks to export this ethic to applications beyond software, to environmental or labor concerns and human rights. \"The motivational factor in life is not work or money, but the passion and the desire for something to be, from a social point of view, beneficial\"\r\nhttp://ourproject.org/docman/view.php/1/19/file19.html\r\n\r\nFrom Wikipedia:\r\n\"OurProject.org (OP) is a web-based collaborative free content repository. It acts as a central location for the construction and maintenance of social/cultural/artistic projects, providing web space and tools, and focusing in free knowledge[1] [2] . It claims to extend the ideas and methodology of free software[3] to social areas and free culture in general.[4][5] Since September 2009, Ourproject is under the Comunes Association umbrella.[6]\"\r\n\r\nAdditional readings: \r\nRoxana, Elizabeth. \"Creative Commons: A Convergence Model Between the Ideal of Commons and the Possibility of Creation in Contemporary Times, Opposed to Copyright Infringements,\" Social Shaping of Digital Publishing, A.A. Baptista (Eds.) IOS Press, 2012.",
+  "birder_credits": "Morgan Currie\r\nStacy Wood\r\n",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Acephalous, loosely networked, intended to devolve all decision making to groups as local (and as small) as possible.   ",
+    "id": 4,
+    "name": "Radical decentralization",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Acephalous, loosely networked, intended to devolve all decision making to groups as local (and as small) as possible.   ",
+    "id": 4,
+    "name": "Radical decentralization",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Free and Open Source Software",
+    "id": 1,
+    "name": "FOSS",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Projects that directly interacts with or depends on the ecology of low-level UNIX-based tools and Internet-based services such as UNIX operating systems, C compilers, source code management systems (SCM), POSIX standard components, internet protocols and services.  ",
+    "id": 1,
+    "name": "UNIX + Internet",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2012-04-22T23:44:57Z",
+    "email": "patgarcia83@gmail.com",
+    "id": 24,
+    "updated_at": "2013-07-09T03:38:55Z"
+  }
+}

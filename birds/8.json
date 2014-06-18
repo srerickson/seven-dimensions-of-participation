@@ -1,0 +1,70 @@
+{
+  "id": 8,
+  "name": "OLPC (One Laptop per Child)",
+  "thumbnail_100_url": "/system/assets/76/sq100/olpc_logo.png",
+  "thumbnail_50_url": "/system/assets/76/sq50/olpc_logo.png",
+  "url": "http://one.laptop.org",
+  "foritself": "Yes, it promotes the expansion of itself in the form of localized OPs.",
+  "brand": "The logo was constructed with basic, colorful thick strokes as to remind the viewer of child drawings.",
+  "fse_name": "One Laptop per Child, a Delaware-based, non-profit organization created by faculty members from the MIT Media Lab.\r\n\r\nAlso associated with the organization are Miami-based One Laptop per Child Association (OLPCA) and the Cambridge-based OLPC Foundation (OLPCF), which were both set up to oversee and support the project.",
+  "fse_owner_founder": "The founder of OLPC is Nicholas Negroponte.",
+  "fse_significant_member": "Chairman - Nicholas Negroponte\r\nVice President of Global Advocacy - Matt Keller\r\nOLPC Association Chairman and Chief Executive Officer - Rodrigo Arboleda Halaby\r\n\r\nFor a complete list of FSE significant members, including the Board of Directors, visit (http://one.laptop.org/about/people).\r\n\r\n",
+  "fse_mission_statement": "\"OLPC's mission is to empower the world's poorest children through education. We aim to provide each child with a rugged, low-cost, low-power, connected laptop.\"\r\n\r\n(http://one.laptop.org/about/mission)",
+  "op_name": "The organized public does not have a specific name and the project has several organized publics since it is an international project. ",
+  "op_vip_founders": "There are no OP founders or VIPs since the project was created as an FSE and has been strongly run with a top-down approach. ",
+  "op_typical_member": "Members of the organized public include over 2 million children and teachers in 42 countries that have received XO laptops, the ministries of education that purchase and distribute the laptops nationally, and various state governments. ",
+  "formation": "FSE -> OP",
+  "history": "In 2002, Negroponte went to a small Cambodian village and gave 20 children laptops with internet connections. He noted how \"the children and their families quickly innovate multiple uses for the machines and easily teach themselves to navigate the Internet.\" Meanwhile, Papert convinces Governor Angus King of Maine that \"one-to-one is the only meaningful ratio for deploying computers to school children.\" As a result, 42,000 laptops were distributed state-wide to seventh-graders.\r\n\r\nIn early 2005, drawing from his previous success with distributing laptops to children in developing nations, Negroponte conceived the initial idea of the $100 laptop. He presented the idea at the World Economic Forum where it was extremely well received. John Markoff of the The New York Times called Negroponte the \"Johnny Appleseed of the digital era.\"\r\n\r\nNegroponte gained a lot of momentum as his idea was quickly backed by large corporate partners such as AMD, News Corp., Google, Red Hat, Quanta Computers, and Nortel. Additionally, by the end of the year, Negroponte had spoken to over 50 countries and already had several early adopters. These include President Olusegun Obasanjo of Nigeria who committed to one million units.\r\n\r\nThe first beta test of the laptop, B1-Test, was released at the end of 2006. Three more beta versions were quickly churned out over the year until the final production of the XO 1 system was ready in late 2007.\r\n\r\nThe XO-1.5 entered mass production in 2009, and saw some minor design upgrades in 2010. Key differences from the original XO-1: the new model has 1GB of RAM, 4GB of Flash storage (upgradable to 32GB). It has a more responsive keyboard and touchpad, and offers the option of membrane or traditional keyboards. It charges 25% faster and suspends more efficiently, extending the effective battery life. \r\n\r\nThere have been updates to the XO-1.5 model (known as the XO-1.75). The XO-1.75 moved to the lowest power chip the organization could find that improved on the 1.5's performance: Marvell's Sheeva ARM chip. This cut the CPU power needs in half, making it easier and cheaper than ever to power XOs from solar cells or alternative power generators.\r\n\r\nThe XO-3 is a tablet scheduled for production in Q4 of 2012, to complement the XO-1 series.\r\n\r\n(http://graphics.stanford.edu/~edluong/olpc/history/olpc_history.htm)\r\n(http://one.laptop.org/about/specs#1.75-specs)\r\n",
+  "lifespan": "The OLPC project still exists and is being implemented by different government agencies and educational institutions in developing countries.",
+  "resource": "The resource provided by OLPC are low-cost laptops that function on an open source development platform (however a limited amount of laptops have been shipped with a modified version of the Microsoft Windows operating system).",
+  "availability": "The laptops are available to local, state, and national governments, educational institutions, and non-profits in developing countries. The laptops are sold and distributed to these buyers for approximately $209 (USD).  ",
+  "participation": "The goals are mainly set by the FSE, especially Negroponte who currently oversees development of future software and hardware, including the ARM-based OLPC XO-1.75 laptop and the OLPC XO-3 tablet. However, other OPs have input, including the international relief organizations that work with the project, such as the United Nations Development Programme. There is very little participation for the teachers and students who use the laptops. ",
+  "tasks": "Yes, the main task of the project is to distribute low-cost laptops and help local schools to adopt and adapt the machine to their needs.",
+  "modularity": "The task requires a high-level of investment because it requires specialized skills in software and hardware design and knowledge of international relief protocols and politics. ",
+  "granularity": "Most of the tasks are large and high-level. For example, participants can help design hardware and software, identify international contractors and distributors, and perform other modes of international outreach. ",
+  "metrics": "The organization does not provide information on how tasks are measured. Generally, the success of the program can be measured by the amount of laptops that are distributed to developing countries since the goal is to provide one laptop per child. ",
+  "alliances": "The project is supported by Pentagram, Underwriters Laboratories, United Nations Development Programme, Citigroup, Foley Hoag, Fuse Project, Greenberg Traurig, and Nurun. (http://one.laptop.org/about/people)",
+  "clients": "The project provides low-cost laptops for elementary school students in developing countries. ",
+  "sponsors": "The project was originally funded by member organizations such as AMD, Chi Mei, eBay, Google, Marvell, News Corporation, Nortel, Red Hat, SES Astra, and Quanta. (http://one.laptop.org/about/people)",
+  "elites": "Nicholas Negroponte, Matt Keller, and  Rodrigo Arboleda Halaby have legitimate authority based on their positions within the structure of the organization. The United Nations Development Programme has political authority based on its role as one of the largest international relief organizations. ",
+  "created_at": null,
+  "updated_at": "2012-07-11T17:17:39Z",
+  "summary": "One Laptop per Child (OLPC) is an organization founded by Nicholas Negroponte, MIT Media Lab, aimed at providing low-cost laptops to elementary school children in developing countries. The project began in 2005 when Negroponte presented his one-to-one laptop idea at the World Economic Forum. The project was well-received and found backing with major technology and financial organizations, such as AMD, Google, and Red Hat. The project continues to exist; however, sales have decreased.\r\n\r\nThe organization has received criticism for its \"digital utopianism.\" For example, according to Wikipedia, \"the OLPC project has been criticized for allegedly adopting a \"one-shot\" deployment approach with little or no technical support or teacher training, and for neglecting pilot programs and formal assessment of outcomes in favor of quick deployment. Some authors attribute this unconventional approach to the OLPC promoters' alleged focus on constructivist education and 'digital utopianism'.\" \r\n \r\nFurthermore, \"at The World Summit on the Information Society held by the United Nations in Tunisia from November 16–18, 2005, several African officials, most notably Marthe Dansokho of Cameroon and Mohammed Diop of Mali, voiced suspicions towards the motives of the OLPC project and claimed that the project was using an overly U.S. mindset that presented solutions not applicable to specifically African problems. Dansokho said the project demonstrated misplaced priorities, stating that clean water and schools were more important for African women, who, he stated, would not have time to use the computers to research new crops to grow.\"\r\n\r\n(http://en.wikipedia.org/wiki/One_laptop_per_child)",
+  "birder_credits": "Pat Garcia \r\nChris Kelty\r\n",
+  "tangible_problem": "Yes",
+  "tangible_problem_detail": "Providing children in developing countries with a low-cost laptop",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Meritocracy, in the first, most administrative sense, is a system of government or other administration (such as business administration) wherein appointments are made and responsibilities assigned to individuals based upon their \"merits\", namely intelligence, technical skill, credentials, creativity, and education, determined through evaluations or examinations.",
+    "id": 1,
+    "name": "Meritocracy",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Regionally or Locally specific collectives connected to a global network that gives identity to or sustains the local collectives. ",
+    "id": 10,
+    "name": "Franchise",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Educational platforms and projects based on the Internet",
+    "id": 4,
+    "name": "Education",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Any of various projects that depend on an Application Programming Interface (open or not) to allow for the existence of the service (e.g. Google Maps, Facebook's Graph API).",
+    "id": 3,
+    "name": "API/Application Specific",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2012-04-22T23:44:57Z",
+    "email": "patgarcia83@gmail.com",
+    "id": 24,
+    "updated_at": "2013-07-09T03:38:55Z"
+  }
+}

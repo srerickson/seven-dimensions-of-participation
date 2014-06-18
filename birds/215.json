@@ -1,0 +1,70 @@
+{
+  "id": 215,
+  "name": "BookCrossing.com ",
+  "thumbnail_100_url": "/system/assets/216/sq100/book-crossing.jpg",
+  "thumbnail_50_url": "/system/assets/216/sq50/book-crossing.jpg",
+  "url": "http://www.bookcrossing.com/",
+  "foritself": "Yes. The OP actively promotes a sense of belonging through international conventions, internet forums, and public testimonials. ",
+  "brand": "The BookCrossing logo consists of a pedestrian crossing sign that shows a book caricature crossing the street. BookCrossing is dedicated to making the larger world a venue for the free exchange of books. It thrives on the idea that world can be a “library” without walls or borders. \r\n\r\n(Accessed July 26, 2012: http://www.bookcrossing.com/)",
+  "fse_name": "BookCrossing",
+  "fse_owner_founder": "Ron Hornbaker (Co-Founder) \r\n\r\n(Accessed July 26, 2012: http://www.bookcrossing.com/management)",
+  "fse_significant_member": "Bruce Pedersen (Co-Founder, CEO); Heather Mehra-Pedersen (Co-Founder & Director of Finance); Matt Brass (Sr. Software Engineer)\r\n\r\n(Accessed July 26, 2012: http://www.bookcrossing.com/management)",
+  "fse_mission_statement": "BookCrossing’s mission is “to connect people through books.”\r\n\r\n(Accessed July 26, 2012: http://www.bookcrossing.com/about)",
+  "op_name": "The members of the OP are referred to as \"BookCrossers.\"",
+  "op_vip_founders": "Chris Priest (username \"countofmonte\") is listed as the top member for book registrations and book releases. He is from Derbyshire, England and has received press attention for his commitment to sharing books through BookCrossing. (See 'Couple's book hobby crosses the globe.' Accessed July 26, 2012: http://www.thisisderbyshire.co.uk/Couple-s-book-hobby-crosses-globe/story-11573984-detail/story.html)\r\n\r\nOther members who are considered \"VIPs\" due to their active participation can be found on the BookCrossing leader boards. (Accessed July 26, 2012: http://www.bookcrossing.com/memberstats/leaderboard)\r\n\r\nProminent bookplate artists include Marygrace Antkowski, Ann Dominic, and Aime Sacrez.\t",
+  "op_typical_member": "Readers, bibliophiles, librarians, educators",
+  "formation": "FSE --> OP",
+  "history": "BookCrossing was launched in April 21, 2001. Co-founder, Ron Hornbaker initially conceived of the idea for the site as way to track the life of a book as it passed through the hands of different readers.  Bruce and Heather Pedersen subsequently helped Hornbaker establish and promote the site.  The site quickly grew in popularity as communities of BookCrossers began networking. Drop off sites called \"crossing zones\" were set up by participants to allow community members to leave or pick up registered books.  The site has grown from having 113,000 members in 2003 to over 1,000,000 members in 2012. Similarly, the collection of registered books in its tracking database is over 8.5 million. BookCrossing communities have formed special regional and theme based groups, and they also hold annual BookCrossing conventions. Through the combined efforts of the FSE and the OP, BookCrossing has since emerged as global phenomenon. As a practice, it is most popular in the United States, followed by Germany  and the United Kingdom, but it has also reached beyond the conventional borders of the Western world.  According to Foo Xiao Xuan from ChannelNewsAsia [Singapore News], by 2007 the country of Singapore supported BookCrossing activity within its infrastructure.  Xuan’s article notes there are “more than 2,000 official hotspots around Singapore, including SMRT taxis and food outlets such as Café Galilee and Café Cartel.” Although there has been some criticism expressed by detractors, its generally positive reception is evidenced by the expansion of its popularity as a recently emergent social practice.   \r\n\r\n(Accessed July 26, 2012: http://en.wikipedia.org/wiki/BookCrossing, http://www.bookcrossing.com/about, http://www.channelnewsasia.com/stories/singaporelocalnews/print/285965/1/.html)",
+  "lifespan": "From 2001 to present. Both the FSE and the OP are thriving.  ",
+  "resource": "BookCrossing provides book tracking capabilities for its organized public, namely, readers who wish to participate in the global exchange of books. This includes the sale and distribution of tracking products and supplies which include bookplates that can be purchased from the site’s supply store.",
+  "availability": "Anyone can register to use BookCrossing in order to participate in the exchange of books. The books are to be exchanged, either in direct or random exchanges, for free.",
+  "participation": "The main goals of the FSE involve maintaining profitability (selling supplies and advertising space) while concomitantly serving its OP. Serving its OP in this case would entail the facilitation of the tracking and exchange processes involved with the system of exchange developed by the FSE insofar as its mission is to “connect people through books”. Members of the OP, as individual contributors to the FSE, maintain a variety of personal goals which can range from gaining popularity with BookCrosser communities via the quantity and frequency of registered items, to the forging of quality relationships with other BookCrossers.  ",
+  "tasks": "Tasks include the process known as BookCrossing, which has been described simply as ‘the act of registering and leaving a book at a drop zone to be picked-up and read by another.’ Registration of books occurs through member profiles. Unique item-level registration can be identified using specialized bookplates which can be designed by users. Other users can “hunt“ for registered items at their local drop zones, and then they can later comment on found and read items.  ",
+  "modularity": "The majority of the tasks require little investment. For example, registering a book can be done in a matter of seconds through the online registration system. ",
+  "granularity": "Most tasks can be quickly accomplished, such as registering, tracking, reading, and commenting. Other tasks, such as community organizing in the form of  local group meetings and/or convention organization, are larger-scale and require more investment and planning. ",
+  "metrics": "Tasks are measured using following profile stats as metrics:  Number of books registered in the last four weeks and for all time, books released in the wild, controlled releases, releases caught, controlled releases caught, books found, tell-a-friend referrals, new member referrals and forum posts. \r\n\r\n(Accessed July 26, 2012: http://www.bookcrossing.com/memberstats/leaderboard)",
+  "alliances": "BookCrossing lists BetterWorld, an online used bookstore that donates to international literacy initiatives, as a partner. \r\n\r\nAlso, the following companies are listed as \"affiliates\":\r\n\r\nAbeBooks\r\nAmazon.com\r\nAmazon.ca\r\nAmazon.co.uk\r\nAmazon.de\r\nAmazon.it\r\nAmazon.fr\r\nBarnes & Noble\r\nBetterWorldBooks\r\nBol.com\r\nBook Depository\r\nCasa del Libro\r\nChapters\r\nPowells Books\r\nPaypal.com (donations)\r\n\r\n(Accessed July 26, 2012: http://www.bookcrossing.com/buy, http://www.betterworldbooks.com/)",
+  "clients": "The main clients are readers and BookCrosser groups.",
+  "sponsors": "Advertisers include Abe Books, Amazon, and the BookDepository.com.",
+  "elites": "The three co-founders (Bruce Pedersen, Heather Mehra-Pedersen, and Ron Hornbaker) have legitmate authority based on their bureaucratic positions within the organization. Additionally, based on the multiple business associations, Amazon seems to have a special form of access to the organization.",
+  "created_at": "2012-05-23T16:18:38Z",
+  "updated_at": "2012-07-27T00:35:18Z",
+  "summary": "BookCrossing intends to make the “whole world a library.” As an FSE, it was developed and launched in 2001.\r\n\r\nThe FSE was started by Ron Hornbaker, and further developed Bruce and Heather Mehra-Pedersen and Matt Brass. It’s mission has been to “connect people through books.” It’s OP has steadily grown in membership and complexity as corresponding user networks have formed around shared regions and/or themes. Annual conventions have sinced formed around OP practices and are still being organized. The FSE has generally received support from book lovers, independent authors, educators, and librarians, mostly affiliated with its OP. However, the FSE has also received some criticism from prominent literary and publication industry figures. There have been certain authors and publishers like British author Jessica Adams and managing director of the publisher of Harper Press, Caroline Martin, who have expressed anxieties about the potential for BookCrossing to cut into to the revenues of authors and used booksellers alike. In 2005, Martin ‘compared BookCrossing to previous illegal file sharing services like Napster.’ OP members have since countered such criticisms by insisting that the process of BookCrossing only promotes reading and authorship practices in a contemporary multi-media environment , and hence, does more harm than good for the publication industry.  \r\n\r\nThe OP has developed around so called “Book Crossing” practices. This includes ‘the act of registering and leaving a book at a drop zone to be picked-up and read by another.’  Members gain status among different user-oriented OP groups by increasing their activity stats in number of ways that can include the registration and release of bibliographic items, commenting on books and BookCrossing in various forums, designing registration bookplates, etc. The most active members have registered and released books in the tens of thousands. The total amount of registered items has exceeded eight million. The growth of the OP has further attracted advertising revenue from major booksellers such as Amazon and Abe books which is directed towards the continued development of the FSE.\r\n\r\n(Accessed July 26, 2012: http://en.wikipedia.org/wiki/BookCrossing)\r\n\r\nOther Sources:\r\n\r\nShows group distribution http://bookcrossing.meetup.com/\r\n\r\nBKX on Twitter http://twitter.com/#!/bookcrossing\r\n\r\nBKX Flashmob on http://www.flickr.com/photos/mojosmom/7094088061/in/pool-\r\n1930996@N20/\r\n\r\nBKX Reading groups http://groups.yahoo.com/group/BookCrossing_Reading_Group/\r\n\r\nGorman, Michael. 2005. Our own selves: more meditations for librarians. Chicago: American Library Association. On Google Books. http://books.google.com/books?id=MT7gl38MYj0C&pg=PT19&dq=bookcrossing&hl=en&sa=X&ei=ff6xT-6KC4aMiAKY2_ijBA&ved=0CF4Q6AEwCA#v=onepage&q=bookcrossing&f=false\r\n\r\nMcNamara, Paul. “Net Buzz”. Network World Apr 22, 2002. On Google Books. http://books.google.com/books?id=TBkEAAAAMBAJ&pg=PT73&dq=bookcrossing&hl=en&sa=X&ei=ff6xT-6KC4aMiAKY2_ijBA&ved=0CGMQ6AEwCQ#v=onepage&q=bookcrossing&f=false\r\n\r\nWeber, Steve. 2007. Plug your book!: online book marketing for authors : book publicity through social networking. Falls Church, VA: Weber Books.On Google Books. http://books.google.com/books?id=a1YN6_KnswoC&pg=PA163&dq=bookcrossing&hl=en&sa=X&ei=ff6xT-6KC4aMiAKY2_ijBA&ved=0CDgQ6AEwAQ#v=onepage&q=bookcrossing&f=false\r\nhttp://www.readingbus.co.uk/FitLike/BookCrossing.php",
+  "birder_credits": "Jesse R. Erickson\r\nPat Garcia ",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Educational platforms and projects based on the Internet",
+    "id": 4,
+    "name": "Education",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2012-04-22T23:44:57Z",
+    "email": "patgarcia83@gmail.com",
+    "id": 24,
+    "updated_at": "2013-07-09T03:38:55Z"
+  }
+}

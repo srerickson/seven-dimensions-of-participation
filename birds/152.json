@@ -1,0 +1,70 @@
+{
+  "id": 152,
+  "name": "Free Speech TV",
+  "thumbnail_100_url": "/system/assets/34/sq100/l_5495a1d6b6434ec5be58d565aa0090c3.jpg",
+  "thumbnail_50_url": "/system/assets/34/sq50/l_5495a1d6b6434ec5be58d565aa0090c3.jpg",
+  "url": "http://www.freespeech.org/",
+  "foritself": "Yes, it is an FSE.",
+  "brand": "Progressive, politically engaged.",
+  "fse_name": "Free Speech TV ",
+  "fse_owner_founder": "Jon Stout, Jon Schwartz",
+  "fse_significant_member": "Executive Director: Don Rojas General Manager/Co-Founder: Jon Stout Development Director: Giselle Diaz Campagna Program Director: Eric Galatas Business Manager: Gail Gonzalez Operations Manager: Nathanael Reeder",
+  "fse_mission_statement": "\"Your progressive and independent TV and multimedia company.\"",
+  "op_name": "The audience, but increasingly, as nonprofits do, they have been framing the OP as participants and contributors.",
+  "op_vip_founders": "none",
+  "op_typical_member": "white educated liberal American, sometimes not educated though, because FSTV is on a satellite network, oftentimes, satellites only reach rural areas, so FSTV will get calls of support from the rural, conservative, and uneducated America",
+  "formation": "Consumers and producers of progressive media have existed since at least the countercultural sixties, but in this case, the FSE of FSTV has aggregated an audience around its content.",
+  "history": "Free Speech TV started as a cable television show in 1989. From 1995 to 2000, Free Speech TV distributed its programming each week via videotape to 50 cable channels around the United States. Free Speech today is a multi-platform news source available on Dish Network (Channel 9415) and DIRECTV (Channel 348), and online. Today, FSTV is undergoing a rebranding around 'participatory television' partially as a result of engagements with social media and internet video broadcasting opportunities. ",
+  "lifespan": "Yes. Such markers of success (total income, staff numbers) fluctuate from season to season but FSTV has just emerged relatively healthy from a difficult period (circa 2008) of low donations and a threat of collapse. It competes with other news stations, and one in particular, Link TV, the other progressive nonprofit TV network. Also the threats and possibilities of gaining or negating satellite carriage looms.",
+  "resource": "The resources are both material support in the form of donations, social support in the form of OP promoting the FSE. The FSE and the OP are linked by a shared political vision marked by activism. When activism is produced in a dialogue between the FSE and the OP both apparently win.",
+  "availability": "The resource is very available, FSTV livestreams its content online along with all other news related content. ",
+  "participation": "Despite a language signifying audience participation, the FSE, in accordance with its board, have the single responsibility of changing the goals. ",
+  "tasks": "FSTV makes clear, during pledge drive, and throughout its broadcast that it requires audience economic and social support to exist. Participation means giving money, volunteering, promoting through social media, and political activism surrounding the issues raised in the programming.",
+  "modularity": "The investment in task performance can be large or small depending on the economic or temporal donation one gives.",
+  "granularity": "Donations can be small or large, social media promotion can be as easy as sending along links to ones network, to large scale volunteering.",
+  "metrics": "The completion of tasks is noted by the achievement of goals such as pledge drive milestones.",
+  "alliances": "FSTV has numerous partnerships with others in the progressive media and news community. Democracy Now! and the Media Consortium are two examples.",
+  "clients": "The clients and the participants are the same entity at FSTV as both are progressive activists adjudicating their success based on qualitative and quantitative assessments of political impacts.",
+  "sponsors": "Free Speech TV is a non-profit, tax-exempt organization. Free Speech TV is supported primarily through philanthropic contributions. Viewer donations are the fastest-growing source of support, as thousands of viewers make annual donations ranging from $5 to $10,000+.",
+  "elites": "Generous and progressively political individuals with expendable money are courted by FSTV regularly to make donations. Individuals well-connected in progressive politics and fundraising circles are courted for board positions. ",
+  "created_at": null,
+  "updated_at": "2012-08-03T21:33:41Z",
+  "summary": "FSTV is a non-profit and progressive traditional television news network. During the course of fieldwork with the network, I documented it transform with the emergence of social media into a participatory network. Within the ethnographic data collected are numerous instances of FSTV conceptualizing and implementing participation--from pledge drives, to live television productions, to volunteerism, to social media promotion. FSTV reveals how a lower-budget FSE wrestles with affordances enabling new forms of participation that coordinate with their political objectives. For the most part FSTV's OP remains a small group of volunteers of which the internet-as-tool remains an unnecessary technology. Their attempt to expand their OP through the internet has yet to be fulfilled. Additionally, FSTV exposes how FSEs relate to FSEs, particularly Free Press. FSTV is a unique case to contrast with Current TV because FSTV has been documented as historically making the reverse motion made by Current: from a traditional relationship with the audience, FSTV has began to rebrand itself as participatory.",
+  "birder_credits": "Adam Fish\r\n\r\nNumerous interviews transcribed but not included within this database.",
+  "tangible_problem": "",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Autogestion is often the decision-making model used in co-operative economic arrangements, such as worker cooperatives, workers' councils, participatory economics, political collectives of various sorts, and similar arrangements where the workplace or the project operates without a boss. Decision making is made by all participants of the project during council meetings and small decisions are made by those implementing them while coordinating with the rest and following more general agreements. Horizontal distribution of political power and autonomy are central to autogestion.",
+    "id": 2,
+    "name": "Self-managed worker cooperative (Autogestion)",
+    "updated_at": "2011-07-22T20:56:23Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Meritocracy, in the first, most administrative sense, is a system of government or other administration (such as business administration) wherein appointments are made and responsibilities assigned to individuals based upon their \"merits\", namely intelligence, technical skill, credentials, creativity, and education, determined through evaluations or examinations.",
+    "id": 1,
+    "name": "Meritocracy",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "user contributed news, video, etc.",
+    "id": 6,
+    "name": "Citizen Journalism",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Any of various projects those primary ecology is moving visual media.",
+    "id": 6,
+    "name": "Television and Internet Video",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2011-10-07T16:00:54Z",
+    "email": "rawbird@gmail.com",
+    "id": 6,
+    "updated_at": "2012-11-16T19:52:09Z"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": 232,
+  "name": "Ravelry",
+  "thumbnail_100_url": "/system/assets/293/sq100/Ravelry.jpg",
+  "thumbnail_50_url": "/system/assets/293/sq50/Ravelry.jpg",
+  "url": "www.ravelry.com",
+  "foritself": "Yes",
+  "brand": "Ravelry is a website for fiber artists to trade supplies and ideas, the logo is present but not overwhelming. It evokes a ball of yarn but also conveys dynamism. The welcome page has a cutesy feel, involving sheep and other animals, still focused on supplies but adding an almost folk, craft movement presence to the endeavor. ",
+  "fse_name": "Ravelry ",
+  "fse_owner_founder": "Just two guys essentially, Casey and Jessica Forbes. ",
+  "fse_significant_member": "Casey and Jessica Forbes - founders\r\nMary Heather Cogar - VP of Operations\r\n",
+  "fse_mission_statement": "\"Ravelry is a place for knitters, crocheters, designers, spinners, and dyers to keep track of their yarn, tools and pattern information, and look to others for ideas and inspiration.\"",
+  "op_name": "There is no general, agreed upon OP name. There are various organized groups, mostly around a specific style or cause but some have their own informal OP name. ",
+  "op_vip_founders": "N/A\r\n",
+  "op_typical_member": "According to statistics compiled by Quantcast, the typical Ravelry members are caucasian women who are highly educated, upper middle class, do not have children and are 35-44. ",
+  "formation": "FSE--OP ",
+  "history": "Beta launched in May of 2007 by Jessica Forbes and her husband Casey. Created out of frustration brought on by the seeming information and resource overload for fiber artists, Jessica and Casey attempted to create a website that would provide a social network like experience for users with similar goals and interests. The site was rolled out slowly but as of 2012 has approximately two million members. ",
+  "lifespan": "May 2007 - present.",
+  "resource": "The site's main function is to provide a platform for social networking based on fiber arts. However, Ravelry also supports micro-business by allowing users/crafters to sell their yarn, products and patterns in the three separate marketplaces supported by Ravelry. 98.7% of the profits go to the users, designers and crafters. The 1.3% goes to support the maintenance of Ravelry, which also keeps itself afloat through a small number of advertisers, again, only of fiber arts products. All advertising copy is subject to approval by Ravelry staff. ",
+  "availability": "Ravelry is a free community and there are no fees to participate in the marketplace. ",
+  "participation": "FSE\r\n",
+  "tasks": "In a social networking project, participation is never really done, but the tasks at Ravelry are still clearly defined and have clear parameters. Each user has ways of storing their own projects, a catalog of their current supplies as well as keeping track of events, friends and favorite projects of others. They can also participate in the marketplace as a buyer or seller. Each action is discrete but the participation is an ongoing process.",
+  "modularity": "The level of investment in any of the tasks is low.",
+  "granularity": "Not granular",
+  "metrics": "The metrics are visually tracked. In your own account you can see an aggregated representation of all of your activities on Ravelry.",
+  "alliances": "No formal relationships with any other groups, communities or entities, apart from those who advertise in their marketplace.",
+  "clients": "Project clients are the users, members of the fiber arts community. This includes spinners, knitters, crocheters, crafters etc., anyone who can use this site as a resource.",
+  "sponsors": "Advertisers, participants in the marketplace.\r\n",
+  "elites": "N/A other than staff.",
+  "created_at": "2012-08-07T21:41:55Z",
+  "updated_at": "2012-08-24T22:18:24Z",
+  "summary": "Ravelry is an online social networking community for those interested in the fiber arts and crafting. It provides means to share patterns, projects, and materials. It also supports micro-business by facilitating a marketplace for its users. It was founded by two people and the staff has expanded to four. It is supported mainly through its marketplace and a small numbers of advertisers. \r\n\r\nAdditional reading: \r\n\r\nHardin, Steve (2020) ASIS$T '09 Plenary Session I: Tim Bray Encourages Innovation.  Bulletin of the American Society for Information Science and Technology - February/March 2010 - Volume 36, Number 3. \r\n\r\nHudson, Tracy P. (2010) Spin artists, and how the internet fueld the art yarn movement. “Textiles and Settlement: From Plains Space to Cyber Space,” Textile Society of America 12th Biennial Symposium, Lincoln, Nebraska, October 6-9, 2010. Copyright 2010 Textile Society of America.\r\n\r\nHumphreys, Sal (2009) The economies within an online social network market : A case study of Ravelry. In ANZCA 09 annual conference : Communication, Creativity and Global Citizenship, 8-10 July 2009, QUT Brisbane.\r\n\r\nPustylnick, Igor (2011) Patterns of concealed advertising in social network websites.  Available at SSRN: http://ssrn.com/abstract=1746163 or http://dx.doi.org/10.2139/ssrn.1746163",
+  "birder_credits": "Created by Stacy Wood August 2012. ",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Seriously, It's just one guy.  And maybe some help from some friends.",
+    "id": 11,
+    "name": "Just One Guy.",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Internet-based projects and companies specialized in social networking",
+    "id": 3,
+    "name": "Social Networking",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2012-04-09T16:35:57Z",
+    "email": "stacyewood@gmail.com",
+    "id": 14,
+    "updated_at": "2012-11-02T17:02:53Z"
+  }
+}

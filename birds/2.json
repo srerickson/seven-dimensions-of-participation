@@ -1,0 +1,70 @@
+{
+  "id": 2,
+  "name": "Blender",
+  "thumbnail_100_url": "/system/assets/1/sq100/blender.png",
+  "thumbnail_50_url": "/system/assets/1/sq50/blender.png",
+  "url": "http://www.blender.org",
+  "foritself": "Yes, it is aware of its existence as an OP. Blender is developed jointly by the community of users and a few employees of the Blender Foundation.",
+  "brand": "The Blender logo evolved from the design of previous software projects and changed considerably as the project changed hands over its history. The logo is based on a stylized hand and an eye, referencing the hand-eye coordination of the 3-D designers who use the software. The logo is owned by a defunct enterprise that ran the project and leased to the foundation that currently oversees it.\r\n\r\nhttp://worldsbestlogos.blogspot.com/2007/10/blender-logo.html. Accessed 17 July 2012.",
+  "fse_name": "FSE-> OP. Blender was originally a commercial project, then a dual-license product, and is now currently a free, open-source project. The project is now led by the Blender Foundation and its subsidiary, Blender Institute.",
+  "fse_owner_founder": "Ton Roosendaal.",
+  "fse_significant_member": "Artists and programmers. Blender Foundation and its subsidiaries employ the founder and one other full-time employess and two part-time employees.",
+  "fse_mission_statement": "\"The Blender Foundation is an independent organisation (a Dutch \"stichting\"), acting as a non-profit public benefit corporation, with the following goals:\r\n\r\n•To establish services for active users and developers of Blender\r\n•To maintain and improve the current Blender product via a public accessible source code system under the GNU GPL license\r\n•To establish funding or revenue mechanisms that serve the foundation's goals and cover the foundation's expenses\r\n•To provide individual artists and small teams with a complete, free and open source 3D creation pipeline.\"\r\n\r\nhttp://www.blender.org/blenderorg/blender-foundation/. Accessed 17 July 2012.",
+  "op_name": "Blender or Blender Community. This is the group composed of Blender users and developers worldwide, including dozens of community websites and channels. \r\n\r\nhttp://www.blender.org/community/user-community/. Accessed 17 July 2012.\r\n\r\n",
+  "op_vip_founders": "Hackers and 3D artists. Notable sites that support the community include BlenderArtists, CGSociety, BlenderNation and PlanetBlender.",
+  "op_typical_member": "\"Blender is being made by 100s of active volunteers from all around the world; by studios and individual artists, professionals and hobbyists, scientists and students, vfx experts and animators, and so on.\r\n\r\nAll of them are united by an interest to have access to a fully free/open source 3D creation pipeline. Blender Foundation supports and facilitates these goals - even employs a small staff for that - but fully depends on the online community to achieve this goal.\"\r\n\r\nhttp://www.blender.org/community/get-involved/. Accessed 17 July 2012.",
+  "formation": "FSE -> OP. Blender started its life as a custom, in-house software suite at a commercial venture. After the company that owned it went dormant, the software's principal author created Blender Foundation and raised 100,000 EUR to pay investors a one-time fee for the right to release Blender's code.",
+  "history": "In 1988, Ton Roosendaal co-founded the Dutch animation studio NeoGeo and, as a part of this company, created a software environment for 3-D animation. In 1998, Roosendaal spun off a new company called Not a Number (NaN), to further market and develop Blender. In 2002, NaN shut down. Roosendaal founded the non-profit Blender Foundation to secure the rights to the software and to continue its development.  The \"Free Blender\" campaign raised 100,000 EUR to pay NaN investors a one-time fee for the right to release Blender's code. On Sunday Oct 13, 2002, Blender was released under the terms of the GNU General Public License and continues as an open-source project developed by volunteers and a staff of four, including Roosendall.\r\n\r\nhttp://www.blender.org/blenderorg/blender-foundation/history/. Accessed 17 July 2012.",
+  "lifespan": "Still exists. The Blender Foundation expanded to create the Blender Institute \"to coordinate and facilitate Open Projects related to 3D movies, games or visual effects.\" This constitutes a shift in the purpose of the OP to expand beyond the creation of open-source software into the creation of media projects.\r\n\r\nhttp://www.blender.org/blender-institute/, Accessed 17 July 2012.",
+  "resource": "Software, training in the use of software, and a means to make films using the software. Official versions of the software are released for Linux, Mac OS X, Microsoft Windows, and FreeBSD.",
+  "availability": "Copyleft. Blender is offered under the GNU General Public License. This license structure contains strong reciprocity and share-alike provisions for derivative works.",
+  "participation": "\"•To establish services for active users and developers of Blender\r\n•To maintain and improve the current Blender product via a public accessible source code system under the GNU GPL license\r\n•To establish funding or revenue mechanisms that serve the foundation's goals and cover the foundation's expenses\r\n•To provide individual artists and small teams with a complete, free and open source 3D creation pipeline.\"\r\n\r\nhttp://www.blender.org/blenderorg/blender-foundation/. Accessed 17 July 2012.",
+  "tasks": "Yes, the goal of the project is to advance Blender as a software tool for 3-D artwork. Tasks are divided and managed by the Blender Foundation, but users are encouraged to participate in high-level planning, coding, or debugging.",
+  "modularity": "Tasks vary by user and self-selection: from bug reports (no skill involved) to code hacking (high skill involved). Tasks are defined by the group in the \"road map\" of the project, in online meetings, and in periodic developer conferences. ",
+  "granularity": "Tasks vary by user and self-selection. Many tasks, the means used to solve them, level of documentation, and selection of coders for particular problems are left up to users to resolve:\r\n\r\n\"We're open for developers to create experimental Blender trees or even complete forks. \"\r\n\r\nhttp://www.blender.org/community/get-involved/. Accessed 17 July 2012.",
+  "metrics": "Tasks are measured by the ticket system and by the roadmap of the project. For the former, each open ticket is a feature request or a bug report that must be implemented or solved. For the latter, each release version is considered a collective accomplishment.",
+  "alliances": "None.",
+  "clients": "The Blender Community, including designers, animation students, individual artists, and small shops.",
+  "sponsors": "Donations from the Internet.",
+  "elites": "Ton Roosendaal, founder of the project and one of only four employees of the Blender Foundation.",
+  "created_at": null,
+  "updated_at": "2012-07-31T04:18:29Z",
+  "summary": "Blender is the name of an open-source software application for creating 3-D animation and a community of users and developers organized around the software. The Blender Foundation and its subsidiary the Blender Institute organize and oversee many aspects of the software's development, but users are encouraged to participate in high-level planning, coding, or debugging.\r\n\r\nIn 1988, Ton Roosendaal co-founded the Dutch animation studio NeoGeo and, as a part of this company, created a software environment for 3-D animation. In 1998, Roosendaal spun off a new company called Not a Number (NaN), to further market and develop Blender. In 2002, NaN shut down. Roosendaal founded the non-profit Blender Foundation in 2002 to secure the rights to the software and to continue its development.  The \"Free Blender\" campaign raised 100,000 EUR to pay NaN investors a one-time fee for the right to release Blender's code. On Sunday Oct 13, 2002, Blender was released under the terms of the GNU General Public License and continues as an open-source project developed by volunteers and a staff of four, including Roosendall.\r\n\r\nBlender funds itself though fundraising activities via the Blender Foundation. The Blender Institute, founded in 2007, is the main vehicle for Blender development and has, since it founding, shifted to bringing together artists to make films collaboratively using the software and shared funding structures.\r\n\r\nRoosendall, T. (2000) The Official Blender 2.0 Guide.\" Not a Number: Amsterdam, 2000. \r\n\r\nThere are numerous guides that cater to specific and different uses of Blender software ranging in difficulty and engagement. Since the ethic of the community is open source, the guides are available and easily accessible. ",
+  "birder_credits": "Luis Felipe R. Murillo.\r\nEdited by rncrooks@ucla.edu 17 July 2012.\r\nEdited by Stacy Wood, July 2012. ",
+  "tangible_problem": "Yes",
+  "tangible_problem_detail": "Create, maintain, and develop Blender software for 3-D animation.",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "An organization with one leader or decision maker whose authority rests on the consent of the governed and/or his/her charisma.  Other forms of organization may supplement it (hierarchy, meritocracacy,or consensus amongst the staff or participants) but the leader's authority is final and effective.",
+    "id": 3,
+    "name": "Charismatic Leadership/Benevelont Dictatorship",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "Meritocracy, in the first, most administrative sense, is a system of government or other administration (such as business administration) wherein appointments are made and responsibilities assigned to individuals based upon their \"merits\", namely intelligence, technical skill, credentials, creativity, and education, determined through evaluations or examinations.",
+    "id": 1,
+    "name": "Meritocracy",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "Free and Open Source Software",
+    "id": 1,
+    "name": "FOSS",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Projects that directly interacts with or depends on the ecology of low-level UNIX-based tools and Internet-based services such as UNIX operating systems, C compilers, source code management systems (SCM), POSIX standard components, internet protocols and services.  ",
+    "id": 1,
+    "name": "UNIX + Internet",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2012-04-09T16:35:57Z",
+    "email": "stacyewood@gmail.com",
+    "id": 14,
+    "updated_at": "2012-11-02T17:02:53Z"
+  }
+}

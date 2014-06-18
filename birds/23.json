@@ -1,0 +1,70 @@
+{
+  "id": 23,
+  "name": "Revver",
+  "thumbnail_100_url": "/system/assets/36/sq100/30371_g1.jpg",
+  "thumbnail_50_url": "/system/assets/36/sq50/30371_g1.jpg",
+  "url": "http://revver.com/",
+  "foritself": "Yes.",
+  "brand": "UGC video platform that will pay share revenue with users--one of several self-proclaimed profit \"democratizing\" media models.\r\n",
+  "fse_name": "Revver",
+  "fse_owner_founder": " Steven Starr, Ian Clarke, and Oliver Luckett in 2004",
+  "fse_significant_member": "no others.",
+  "fse_mission_statement": "\"Rev share\" (Revenue)",
+  "op_name": "Revvers (?) UGC producers",
+  "op_vip_founders": "The Mementos video producers who made $30,000 one year putting Revver on the map.",
+  "op_typical_member": "Video producer, aspirant comedian.",
+  "formation": "FSE-->OP. However, the OP is an outgrowth or digitalization of the citizen video movement that emerged in the 1970s with the so-called price \"democratization\" of video equipment. The digital networking of these video producers reached a critical point in 2005 with the emergence of wide-spectrum broadband and YouTube.\r\n",
+  "history": "Revver was founded by Steven Starr, Ian Clarke, and Oliver Luckett in 2004, and is currently based in Los Angeles. The website launched October 29th, 2005. The company received investment from Bessemer Venture Partners, Draper Fisher Jurvetson, Draper Richards, William R. Hearst, III, Comcast Interactive Capital and Turner Broadcasting.[1] Oliver Luckett and Ian Clarke departed the company in late 2006, Steven Starr in 2007.\r\nA revision of the site, Revver 1.0 was released in September 2006. This included a new design, user dashboard, a web based uploader and Flash as a video delivery method. Around the same time as the release, prominent YouTube user lonelygirl15 signed a promotional deal with Revver.[2]\r\nShortly prior to its relaunch, around 20,000 videos were available on the site.[3] By mid-October this number had almost quintupled to 100,000 videos.[4] The site's most popular user, a creator of videos mixing Mentos into Coke, had generated a payment to its creators of $30,000.[5]\r\nOn November 29, Verizon Wireless and Revver announced a deal to make Revver videos available to subscribers of Verizon's V CAST service. The deal was announced one day after a similar deal with YouTube. On V CAST, Revver videos do not contain advertisements at the end, but Revver shares half of the revenue from the venture with content creators.[6]\r\nRevver was acquired by LiveUniverse for $5 million in February 2008.[7] LiveUniverse stopped making regular payments of shared ad revenue to video creators several months after the acquisition.\r\n",
+  "lifespan": "Revver is considered \"Dead.\"",
+  "resource": "platform for video distribution, cloud storage for video content, revenue sharing",
+  "availability": "The resource was available to all video uploaders.",
+  "participation": "Only the FSE can participate in the goal setting.",
+  "tasks": "Tasks are clearly defined. The OP uploads videos, the FSE hosts the video and pays the OP.\r\n",
+  "modularity": "The OP must videotape and upload videos. It is easy to do but difficult to make money doing it.\r\n",
+  "granularity": "The tasks are not granular. A video is a complete entity, however the OP does better if the videos are parts of series, thus some granularity is advantageous.",
+  "metrics": "A task is the uploading of a video, the production of a series of videos, the development of a consistent audience. These tasks are measured by the number of viewers they receive.\r\n",
+  "alliances": "Revver was ahead of the present proliferation of internet video platforms and talent agencies so few partners except commercial corporations. ",
+  "clients": "advertisers, investors",
+  "sponsors": "The company received investment from Bessemer Venture Partners, Draper Fisher Jurvetson, Draper Richards, William R. Hearst, III, Comcast Interactive Capital and Turner Broadcasting",
+  "elites": "None.",
+  "created_at": null,
+  "updated_at": "2012-08-03T21:48:10Z",
+  "summary": "Continuing in the theme of the historical transformation of participatory practices is Revver, an extinct early user-generated internet video platform and community. Importantly, Revver was the first platform to incentivize user-generated content through the practice of revenue sharing with the producers. Alike Blip and YouTube's Partner Program, Revver attached commercials to videos and split the revenue with the producers. This practice is important in the recent creation of the professional internet video producer.",
+  "birder_credits": "Adam Fish\r\n\r\n",
+  "tangible_problem": "",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": "2011-09-23T19:04:33Z",
+    "description": "Media making from mainstream to remix to participatory/fan culture.",
+    "id": 11,
+    "name": "Culture Industry",
+    "updated_at": "2011-09-23T19:04:33Z"
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Any of various projects those primary ecology is moving visual media.",
+    "id": 6,
+    "name": "Television and Internet Video",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2011-10-07T16:00:54Z",
+    "email": "rawbird@gmail.com",
+    "id": 6,
+    "updated_at": "2012-11-16T19:52:09Z"
+  }
+}

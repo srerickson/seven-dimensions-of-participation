@@ -1,0 +1,70 @@
+{
+  "id": 7,
+  "name": "Wikia",
+  "thumbnail_100_url": "/system/assets/123/sq100/wikia_logo.jpg",
+  "thumbnail_50_url": "/system/assets/123/sq50/wikia_logo.jpg",
+  "url": "http://wikia.com",
+  "foritself": "Wiki's OPs are aware of themselves as internet-based communities, but they are not affiliated or related to Wikia. They only use the wiki service. ",
+  "brand": "Wikia's brand is not particularly relevant. It is a wiki-system to host wikis with their own identity. However the imagery on its site uses a kaleidoscope of rainbow colored lines and nodes to suggest the creativity of social networks. According to its site, \"In case you’re wondering about the creative on our pages - you know, all of the dots and lines? It’s our way of representing the infinite potential of collaborative content being created on Wikia. The dots are nodes of content and people. They are woven together by lines to represent connections and sharing. The colors convey the wide variety of topics. We call it our fractal.\" \r\n\r\nhttp://www.wikia.com/About_Us",
+  "fse_name": "Wikia, Inc.",
+  "fse_owner_founder": "Jimmy Wales and Angela Beesley",
+  "fse_significant_member": "Jimmy Wales and Angela Beesley are the founders, however Beesley has resigned and a co-worker, Jerome Steele, is replacing her. Craig Palmer is its CEO.",
+  "fse_mission_statement": "\"Wikia’s philosophy and publishing platform is designed to:\r\n\r\nUnleash the power of knowledge as influence. The collaborative media movement shows us that many minds are better than one. Wikia provides a collaborative publishing platform on which everyone - really, everyone - can share their passion and knowledge on subjects that range from video games, movies, TV and books to cars, cooking, crafts, education, and travel. By doing so, we both unleash the expert and satisfy the curiosity in everyone.\r\n\r\nEnable personal and collective creativity. Our communities assemble on their own initiative and dwell as living and breathing entertainment destinations -- interconnected through a shared desire to create, collaborate, learn and inform. We see collaboration intersect with influence around the idea that the more you learn, the more you have to share. That magnetic appeal makes our users inspiring people to be around and connect with -- and who doesn’t love to be inspired?\r\n\r\nDistribute rich, original content. Collaboration is what makes Wikia’s content unique. The natural assembly of information by many different people satisfies a huge craving for deep, original and quality content. Wikia fuels that growth with an open platform that attracts people who want to learn and share. Our site supports powerful search engine discovery and complementary curation tools for video, photo, text, quizzes and more. Wikia contributors and readers return again and again for real, useful information -- visiting an average of 4.8 times per month to consume an average of eight pages each visit.\"\r\n\r\nhttp://www.wikia.com/About_Us",
+  "op_name": "OPs are not derived from Wikia but are internet-based communities who take advantage of the free wiki platform. ",
+  "op_vip_founders": "N/A",
+  "op_typical_member": "Wikia's OPs include internet users, young nerd males, and gamers. The site actually defines its user types as young male gamers, socially networked females, musicians and music lovers, voracious information consumers, and heavy tech users.\r\nhttp://mediakit.wikia.com/wiki/Solutions/Audience",
+  "formation": "FSE and no OP",
+  "history": "Jimmy Wales and Angela Beesley founded Wikia in 2004, basing it on the model of Wikipedia. Originally called \"Wikicities\", the site changed its name to \"Wikia\" on March 27, 2006. Wikia announced the creation of its hundredth wiki on February 3, 2005. (http://community.wikia.com/wiki/Community_Central:Press:_100_Wikicities) Wikia grew in part due to ingesting formerly independent wikis including LyricWiki, The Vault, Uncyclopedia and WoWWiki (http://lyrics.wikia.com/LyricWiki:Wikia_Migration_FAQ, http://community.wikia.com/wiki/Community_Central:Press:_Uncyclopedia_joins_Wikia, . In the past six years the site has grown to 2 million registered users on 200,000 wiki communities. Wikia Entertainment grew 90% between 2010 and 2011, becoming the fastest growing US entertainment site in the world. In May 2010, the company offered the removal of external ads (though not internal promotions) for a fee, but only for wikis with fewer than 20,000 page-views per month. (http://community.wikia.com/wiki/Ad_free_wikis)\r\n\r\nAlso see http://www.wikia.com/About_Us",
+  "lifespan": "2006 to today. Wikia is not a project but a company that still exists, surfing the wave of popularity of Wikipedia and cashing in on the prestige of Jimmy Wales.",
+  "resource": "For fans, Wikia provides a collaborative editing hub for gamers and fans of Game of Thrones, Harry Potter, The Hunger Games, and the Marvel comic series. The site also functions for individual users as a library of content, for instance the Marvel Database and the Music Lyrics site. The site also supports curation tools for video, photo, text, quizzes and more.\r\nhttp://www.wikia.com/About_Us\r\n\r\nThe site also provides a portal for commercial companies to tap into an enormous network of media consumers. In addition to standard banner and video ads, advertisers can co-author original content and sponsor events. The site allows for very specific targeting based on geographic and demographic data, specific fan interests, 'retargeting' (users who have previously visited a commercial site, Wikia, or both), third-party data, and transaction data.\r\nhttp://mediakit.wikia.com/wiki/Solutions\r\n\r\nwhen fansites plus encyclopedia = consumer publishing. ",
+  "availability": "Except where otherwise specified, the text on Wikia sites is licensed under the Creative Commons Attribution-Share Alike License 3.0 (Unported) (CC-BY-SA). \"All users contributing to Wikia projects agree to grant broad permissions to the general public to re-distribute and re-use their contributions freely for any purpose including commercial use. Such use is allowed where attribution is given and the same freedom to re-use and re-distribute applies to any derivative works. By editing Wikia, you agree to license any text you add under the Creative Commons Attribution-Share Alike License 3.0 (Unported).\r\n\r\nAs an author, you agree to be attributed in any of the following fashions: a) through a hyperlink (where possible) or URL to the article or articles you contributed to, b) through a hyperlink (where possible) or URL to an alternative, stable online copy which is freely accessible, which conforms with the license, and which provides credit to the authors in a manner equivalent to the credit given on this website, or c) through a list of all authors. (Any list of authors may be filtered to exclude very small or irrelevant contributions.)\"\r\n\r\nhttp://community.wikia.com/wiki/Community_Central:Licensing",
+  "participation": "The FSE's goals appear purely commercial. This is a site that hypes free licensing and collaborative editing a la Wikipedia to pull in fan networks that commercial parties can target/exploit through fine data metrics.",
+  "tasks": "The primary task is contributing to a wikipedia page, whether adding new content or editing. Anyone can login and contribute.",
+  "modularity": "Task complexity and difficulty is determined by the amount of content contributed by a user.",
+  "granularity": "N/A",
+  "metrics": "There are no metrics. A completed task would be any public contribution to a wiki page.",
+  "alliances": "Wikimedia is officially unaffiliated, but the founders of Wikia include both the Chairman Emeritus and an Advisory Board member of the Wikimedia Foundation.",
+  "clients": "Wikia's clients are its advertisers. ",
+  "sponsors": "Wikia announced a US$4 million venture capital investment from Bessemer Venture Partners and First Round Capital (http://www.bizjournals.com/tampabay/stories/2006/03/13/story1.html). Amazon.com invested US$10 million in Series B funding. (http://paidcontent.org/tech/amazoncoms-investment-in-wikia-10-million-developing-wiki-based-search-engi/)",
+  "elites": "Elites include the FSE staff. For names see http://www.wikia.com/About.",
+  "created_at": null,
+  "updated_at": "2012-07-02T20:12:50Z",
+  "summary": "Wikia (formerly Wikicities) is a free web hosting service for wikis (or wiki farm). Rather than building a neutral encyclopedia, Wikia's fan communities post on pop culture content such as Gaming, Entertainment and Lifestyle, with the goal of creating a definitive, free resource on those topics. Like the open encyclopedia, anyone can contribute information on topics they know well. Unlike Wikipedia, however, Wikia's users are encouraged to share their points of view and express enthusiasm. As a for-profit company, Wikia makes income based on finely targeted advertising.",
+  "birder_credits": "Luis Felipe R. Murillo and Morgan Currie",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "online games, role-playing games, persistent virtual worlds etc.",
+    "id": 7,
+    "name": "Games/Persistent Worlds",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Wiki-powered website for community organizing, documentation and related projects",
+    "id": 7,
+    "name": "Wiki",
+    "updated_at": null
+  },
+  "updated_by": {
+    "created_at": "2011-10-11T04:09:00Z",
+    "email": "morganecurrie@gmail.com",
+    "id": 7,
+    "updated_at": "2013-07-02T22:12:45Z"
+  }
+}

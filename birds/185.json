@@ -1,0 +1,70 @@
+{
+  "id": 185,
+  "name": "mmowgli",
+  "thumbnail_100_url": "/system/assets/118/sq100/mmowgli_logo.png",
+  "thumbnail_50_url": "/system/assets/118/sq50/mmowgli_logo.png",
+  "url": "https://mmowgli.nps.edu",
+  "foritself": "Yes",
+  "brand": "Mmowgli stands for \"Massive Multiplayer Online Wargame Leveraging the Internet\".  The project presents a friendly \"game-like\" interface through which users (\"distributed players\") collaborate in response to hypothetical military scenarios. Player interaction (strategy brainstorming and planning) happens through \"card play\".",
+  "fse_name": "Mmowgli / The U.S. Navy / Institute for the Future (IFTF)\r\n\r\nThe project is funded by the Office of Naval Research (ONR) and is developed through a collaboration between the Institute for the Future (IFTF - a non-profit organization) and the Naval Postgraduate School (NPS). ",
+  "fse_owner_founder": "Institute for the Future, Naval Post Graduate School.",
+  "fse_significant_member": "Not surprising for a military-oriented project, the administration of the FSE is opaque. \r\n\r\nJason Tester (Director of Human-Future Interaction at IFTF)\r\n",
+  "fse_mission_statement": "\"MMOWGLI stands for Massive Multiplayer Online Wargame Leveraging the Internet. It is a message-based game to encourage innovative thinking about how the Navy can prepare for the future of piracy......starting in 2021 and beyond.\" (https://portal.mmowgli.nps.edu/game-wiki/-/wiki/PlayerResources/About%20MMOWGLI)\r\n\r\nIFTF: \"The Institute for the Future (IFTF) is an independent nonprofit research group. We work with organizations of all kinds to help them make better, more informed decisions about the future. We provide the foresight to create insights that lead to action.\" (http://www.iftf.org/about)\r\n\r\nNPS: \"NPS provides high-quality, relevant and unique advanced education and research programs that increase the combat effectiveness of the Naval Services, other Armed Forces of the U.S. and our partners, to enhance our national security.\" (http://www.nps.edu/About/index.html)",
+  "op_name": "Mmowgli Players - the US Navy research community.",
+  "op_vip_founders": "N/A - mmowgli's OP is relatively artificial in the sense that it was intentionally created to test the project's research questions.  ",
+  "op_typical_member": "For the moment mmowgli players seem to be member of the navy/military research community. The communicative culture within the game seems to require a fair amount of experience in the military community.\r\n\r\nAlthough the project is interested in \"leveraging the Internet\", it's unclear how much the FSE is interested in a truly public OP.\r\n\r\nThe rhetoric of the organization seems to be attempting to capitalize on the popularity and large customer base of first person shooter games but also relies on high level knowledge in order to contribute. ",
+  "formation": "FSE->OP? ... but the OP is not \"organic\" because the project's goal is to create an OP that can effectively tackle complex military problems. \r\n\r\n The FSE are the researchers and developers of the game (the people running the experiment). The OP are the players (the subjects of the experiment). ",
+  "history": "Mmowgli is preceded by several IFTF  projects which deal with \"massively multiplayer forecasting\" (http://www.iftf.org/mmowgli). These are: Signtific Lab (which aims to \" identify and aggregate signals of potential scientific innovations and disruptions\") and the Foresight Engine (which is a less-clear project having something to do with using games to business forecasting).\r\n\r\nMmowgli's first game was in May 2011.  ",
+  "lifespan": "It is difficult to say how \"healthy\" mmowgi is. While it certainly \"still exists\", mmowgli games are highly constructed events which don't happen very frequently - it's unclear when the next game will happen. There is no apparent way for the OP to participate when there is no game.\r\n\r\n",
+  "resource": "Mmowgli is as a kind of experiment which is looking to determine whether and how the Internet and massively multiplayer game environments can be \"leveraged\" to facilitated collaborative development of military strategy and planning around hypothetical scenarios. In addition, current priorities also include environmental facotis such as clean energy. \r\n\r\nOn one level, then, a resource that Mmowlgi seeks to provide is the answer to that research question. \r\n\r\nOn another level, the specific plans and strategies that are produced through mmowgli game-play are potentially of some value as well. After each mmowgli game, \"the best ideas  and concepts will be considered by the Office of Naval Research (ONR) and other Navy stakeholders.\" (https://portal.mmowgli.nps.edu/faq)\r\n",
+  "availability": "Mmowgli's research outcomes will be primarily of use to the US Navy. The players themselves are either military personel or individuals selectively drawn from an \"educated public\". ",
+  "participation": "FSE only.",
+  "tasks": "I will take \"task\" to refer to the game-play, itself - rather than the larger research project that the game represents.\r\n\r\nEach game represents a individual high-level task. Each game begins with a military scenario (defined by the FSE) which is presented to the players in a \"call to action video\". The game progresses through a series of \"moves\" which last for a few days with breaks between moves. \r\n\r\nThe game ends after some pre-defined amount of time. The person with the highest score wins. \r\n\r\nAfter each mmowgli game, \"the best ideas  and concepts will be considered by the Office of Naval Research (ONR) and other Navy stakeholders.\" (https://portal.mmowgli.nps.edu/faq)\r\nGame play, which is the lowest level of engagement, is still highly engaged. \r\n",
+  "modularity": "Within a Mmowgli game, there are several types of tasks and these tasks cover a range of investment-levels. \r\n\r\nOn the most trivial-level, for example, a player can star another player's \"idea cards.\" Alternatively, a player my comment on or suggest modifications to another player's ideas, or present their own ideas. \r\n\r\n\"idea cards\" are intentionally limited to 140 characters. \r\n\r\nMmowgli is essentially a very sophisticated commenting framework through which players propose, develop and connect ideas, which are represented as \"cards\". \r\n\r\n",
+  "granularity": "\"Each card is one idea, or the start of an idea\". Players collaborate by applying \"build\" cards to other players idea cards: expand, counter, adapt, explore. \r\n\r\nEach individual task is part of the larger context of the individual game, but of course also it is also within the larger context of the overarching project. The incentive to participate in this sense is in the recognition that even the smallest tasks are contributing to strategies and developments for the military. \r\n",
+  "metrics": "A mmowgli player's participation is assessed by fellow players (for example when many players agree with a strategy that you propose) and by members of the FSE who observe the game. Because of the nature of of the project, there will never be a public acknowledgement that an individual idea has been implemented by the Navy. ",
+  "alliances": "Funded through The U.S. Navy / Institute for the Future (IFTF.)",
+  "clients": "The U. S. Navy",
+  "sponsors": "The US Navy",
+  "elites": "FSE members",
+  "created_at": "2012-02-20T04:31:44Z",
+  "updated_at": "2012-07-12T16:35:21Z",
+  "summary": "MMowgli is a collaborative project between an independent nonprofit research institute (the Institute for the Future) and the US Navy research community.  \r\n\r\n\"MMOWGLI stands for Massive Multiplayer Online Wargame Leveraging the Internet. It is a message-based game to encourage innovative thinking about how the Navy can prepare for the future of piracy......starting in 2021 and beyond.\" (https://portal.mmowgli.nps.edu/game-wiki/-/wiki/PlayerResources/About%20MMOWGLI)\r\n\r\nWe can think of mmowgli as a social experiment which aims to determine whether and how the Internet and massively multiplayer game environments can be \"leveraged\" to facilitated collaborative development of military strategy and planning around hypothetical scenarios.\r\n\r\nThe game generates insights on how multiplayer games can be used to generate military strategies in for geo-politically complex scenarios (such as piracy). Further, the specific strategies produced through the course of a Mmowgli game may be of use to the military research community. \r\n\r\nAdditional reading: \r\n\r\nCichelli, Janet and Baginski, Maureen. \"Crowdsourcing Expert Performance to Improve Training at Cyber Speed,\" The Interservice/Industry Training, Simulation & Education Conference, 2011. \r\n\r\nKapp, Karl M. The Gamification of Learning and Instruction: Game-Based Methods and Strategies for Training and education,\" ASTD, 2011. \r\n\r\nKline, CGE. \"Maritime Defense and Security Research Program: Final Report, 2004-2011.\"\r\n\r\nLeung, Alice and Moore, Dana. \"MMOWGLI Feasibility Study,\" Raytheon BBN Technologies Corp. March 20, 2010.\r\n\r\n",
+  "birder_credits": "Seth Erickson\r\nStacy Wood \r\n",
+  "tangible_problem": "No",
+  "tangible_problem_detail": "",
+  "fse_org_style": {
+    "created_at": null,
+    "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
+    "id": 6,
+    "name": "Bureaucratic Hierarchy",
+    "updated_at": "2012-02-24T20:44:48Z"
+  },
+  "op_org_style": {
+    "created_at": null,
+    "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",
+    "id": 8,
+    "name": "Flat minimally organized network",
+    "updated_at": null
+  },
+  "genus_type": {
+    "created_at": null,
+    "description": "online games, role-playing games, persistent virtual worlds etc.",
+    "id": 7,
+    "name": "Games/Persistent Worlds",
+    "updated_at": null
+  },
+  "habitat": {
+    "created_at": null,
+    "description": "Primarily web-based.  Uses assorted tools and technologies that are primarily accessible through ports like http, https, etc. ",
+    "id": 5,
+    "name": "HTML, HTTP, and Associated Services",
+    "updated_at": "2011-08-12T20:17:18Z"
+  },
+  "updated_by": {
+    "created_at": "2012-04-09T16:35:57Z",
+    "email": "stacyewood@gmail.com",
+    "id": 14,
+    "updated_at": "2012-11-02T17:02:53Z"
+  }
+}
