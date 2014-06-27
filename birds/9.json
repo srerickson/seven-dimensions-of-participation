@@ -1,6 +1,7 @@
 {
   "id": 9,
   "name": "Linux",
+  "logo": "/system/assets/52/original/gnulinux.png?1319231961",
   "thumbnail_100_url": "/system/assets/52/sq100/gnulinux.png",
   "thumbnail_50_url": "/system/assets/52/sq50/gnulinux.png",
   "url": "http://kernel.org/",

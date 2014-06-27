@@ -1,6 +1,7 @@
 {
   "id": 206,
   "name": "Meetup.com",
+  "logo": "/system/assets/203/original/meetuplogo.png?1337645497",
   "thumbnail_100_url": "/system/assets/203/sq100/meetuplogo.png",
   "thumbnail_50_url": "/system/assets/203/sq50/meetuplogo.png",
   "url": "http://meetup.com",

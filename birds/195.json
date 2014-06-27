@@ -1,6 +1,7 @@
 {
   "id": 195,
   "name": "Bitcoin",
+  "logo": "/system/assets/143/original/200px-Bitcoin_logo.png?1337112903",
   "thumbnail_100_url": "/system/assets/143/sq100/200px-Bitcoin_logo.png",
   "thumbnail_50_url": "/system/assets/143/sq50/200px-Bitcoin_logo.png",
   "url": "http://bitcoin.org/",

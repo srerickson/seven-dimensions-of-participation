@@ -1,6 +1,7 @@
 {
   "id": 30,
   "name": "YouTube",
+  "logo": "/system/assets/259/original/youtube-logo.png?1342631244",
   "thumbnail_100_url": "/system/assets/259/sq100/youtube-logo.png",
   "thumbnail_50_url": "/system/assets/259/sq50/youtube-logo.png",
   "url": "youtube.com",

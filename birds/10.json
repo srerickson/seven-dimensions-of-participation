@@ -1,6 +1,7 @@
 {
   "id": 10,
   "name": "BSD/FreeBSD",
+  "logo": "/system/assets/3/original/logo-full-thumb.png?1313179236",
   "thumbnail_100_url": "/system/assets/3/sq100/logo-full-thumb.png",
   "thumbnail_50_url": "/system/assets/3/sq50/logo-full-thumb.png",
   "url": "http://www.freebsd.org/",

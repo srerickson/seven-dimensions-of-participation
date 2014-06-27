@@ -1,6 +1,7 @@
 {
   "id": 196,
   "name": "BOINC",
+  "logo": "/system/assets/144/original/www_logo.gif?1337113258",
   "thumbnail_100_url": "/system/assets/144/sq100/www_logo.gif",
   "thumbnail_50_url": "/system/assets/144/sq50/www_logo.gif",
   "url": "http://boinc.berkeley.edu/",

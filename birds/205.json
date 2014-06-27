@@ -1,6 +1,7 @@
 {
   "id": 205,
   "name": "OkCupid",
+  "logo": "/system/assets/202/original/okclogo.png?1337644249",
   "thumbnail_100_url": "/system/assets/202/sq100/okclogo.png",
   "thumbnail_50_url": "/system/assets/202/sq50/okclogo.png",
   "url": "http://www.okcupid.com",

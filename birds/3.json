@@ -1,6 +1,7 @@
 {
   "id": 3,
   "name": "Apache",
+  "logo": "/system/assets/2/original/feather-small.gif?1313179113",
   "thumbnail_100_url": "/system/assets/2/sq100/feather-small.gif",
   "thumbnail_50_url": "/system/assets/2/sq50/feather-small.gif",
   "url": "http://apache.org",

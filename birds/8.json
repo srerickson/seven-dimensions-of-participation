@@ -1,6 +1,7 @@
 {
   "id": 8,
   "name": "OLPC (One Laptop per Child)",
+  "logo": "/system/assets/76/original/olpc_logo.png?1322631562",
   "thumbnail_100_url": "/system/assets/76/sq100/olpc_logo.png",
   "thumbnail_50_url": "/system/assets/76/sq50/olpc_logo.png",
   "url": "http://one.laptop.org",

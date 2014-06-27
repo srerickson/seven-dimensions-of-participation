@@ -1,6 +1,7 @@
 {
   "id": 226,
   "name": "Internet Movie Database",
+  "logo": "/system/assets/272/original/imdb_logo.jpg?1343848808",
   "thumbnail_100_url": "/system/assets/272/sq100/imdb_logo.jpg",
   "thumbnail_50_url": "/system/assets/272/sq50/imdb_logo.jpg",
   "url": "imbd.com",

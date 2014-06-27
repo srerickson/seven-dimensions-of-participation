@@ -1,6 +1,7 @@
 {
   "id": 168,
   "name": "Open Street Map",
+  "logo": "/system/assets/62/original/newosmlogo.png?1320359977",
   "thumbnail_100_url": "/system/assets/62/sq100/newosmlogo.png",
   "thumbnail_50_url": "/system/assets/62/sq50/newosmlogo.png",
   "url": "http://www.openstreetmap.org/",

@@ -1,6 +1,7 @@
 {
   "id": 159,
   "name": "Tor",
+  "logo": "/system/assets/8/original/tor-logo.jpg?1313179950",
   "thumbnail_100_url": "/system/assets/8/sq100/tor-logo.jpg",
   "thumbnail_50_url": "/system/assets/8/sq50/tor-logo.jpg",
   "url": "http://www.torproject.org",

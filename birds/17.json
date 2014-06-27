@@ -1,6 +1,7 @@
 {
   "id": 17,
   "name": "Red Hat",
+  "logo": "/system/assets/122/original/red-hat-enterprise-linux.jpg?1330977592",
   "thumbnail_100_url": "/system/assets/122/sq100/red-hat-enterprise-linux.jpg",
   "thumbnail_50_url": "/system/assets/122/sq50/red-hat-enterprise-linux.jpg",
   "url": "http://www.redhat.com/",

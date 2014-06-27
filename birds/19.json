@@ -1,6 +1,7 @@
 {
   "id": 19,
   "name": "Eclipse",
+  "logo": "/system/assets/16/original/eclipse.png?1313181322",
   "thumbnail_100_url": "/system/assets/16/sq100/eclipse.png",
   "thumbnail_50_url": "/system/assets/16/sq50/eclipse.png",
   "url": "http://www.eclipse.org/",

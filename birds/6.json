@@ -1,6 +1,7 @@
 {
   "id": 6,
   "name": "Wikipedia",
+  "logo": "/system/assets/12/original/135px-Wikipedia-logo-v2-en.svg.png?1313180747",
   "thumbnail_100_url": "/system/assets/12/sq100/135px-Wikipedia-logo-v2-en.svg.png",
   "thumbnail_50_url": "/system/assets/12/sq50/135px-Wikipedia-logo-v2-en.svg.png",
   "url": "www.wikipedia.org",

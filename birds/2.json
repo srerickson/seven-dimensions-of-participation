@@ -1,6 +1,7 @@
 {
   "id": 2,
   "name": "Blender",
+  "logo": "/system/assets/1/original/blender.png?1313179089",
   "thumbnail_100_url": "/system/assets/1/sq100/blender.png",
   "thumbnail_50_url": "/system/assets/1/sq50/blender.png",
   "url": "http://www.blender.org",

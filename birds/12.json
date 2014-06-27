@@ -1,6 +1,7 @@
 {
   "id": 12,
   "name": "Debian",
+  "logo": "/system/assets/11/original/openlogo-100.png?1313180489",
   "thumbnail_100_url": "/system/assets/11/sq100/openlogo-100.png",
   "thumbnail_50_url": "/system/assets/11/sq50/openlogo-100.png",
   "url": "http://www.debian.org/",
