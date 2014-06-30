@@ -34,6 +34,17 @@
   "birder_credits": "KT Bender",
   "tangible_problem": "Yes",
   "tangible_problem_detail": "See 'Task Metrics'",
+  "images": [
+    {
+      "url": "/system/assets/223/original/LCSC%20about%20page%20image2.jpg?1338093290"
+    },
+    {
+      "url": "/system/assets/224/original/LCSC%20about%20page%20image1.jpg?1338093313"
+    },
+    {
+      "url": "/system/assets/225/original/CTYHALL.jpg?1338109194"
+    }
+  ],
   "fse_org_style": {
     "created_at": null,
     "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",

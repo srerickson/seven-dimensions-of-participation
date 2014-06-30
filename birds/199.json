@@ -34,6 +34,41 @@
   "birder_credits": "Jessica F. Thomas\r\nUpdated by rncrooks@ucla.edu, 12 July 2012.\r\nEdited by Stacy Wood, July 2012. \r\n",
   "tangible_problem": "Yes",
   "tangible_problem_detail": "Creating Drupal software.",
+  "images": [
+    {
+      "url": "/system/assets/151/original/Drupal%20Release%20Timeline.png?1337303070"
+    },
+    {
+      "url": "/system/assets/152/original/da_general_thumb.png?1337306214"
+    },
+    {
+      "url": "/system/assets/153/original/da_board_thumb.png?1337306215"
+    },
+    {
+      "url": "/system/assets/154/original/da_organization_thumb.png?1337306217"
+    },
+    {
+      "url": "/system/assets/155/original/da_individual_thumb.png?1337306219"
+    },
+    {
+      "url": "/system/assets/164/original/druplicon.small_.png?1337482446"
+    },
+    {
+      "url": "/system/assets/165/original/drupal_camp_victoria.jpg?1337482447"
+    },
+    {
+      "url": "/system/assets/166/original/Drupal_logo.png?1337482449"
+    },
+    {
+      "url": "/system/assets/167/original/drupalcampto07w_0.png?1337482450"
+    },
+    {
+      "url": "/system/assets/172/original/Drupal-inventor-Dries-Buytaert.jpg?1337543494"
+    },
+    {
+      "url": "/system/assets/173/original/AngelaByron.png?1337545659"
+    }
+  ],
   "fse_org_style": {
     "created_at": null,
     "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",

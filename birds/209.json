@@ -34,6 +34,17 @@
   "birder_credits": "Created by rncrooks@ucla.edu. Edited 5 September 2012.\r\n\r\n\r\n\r\n",
   "tangible_problem": "Yes",
   "tangible_problem_detail": "Enabling data-driven research by providing a secure, anonymous, non-commercial system for mobile device users to share their data.",
+  "images": [
+    {
+      "url": "/system/assets/207/original/open_paths_cc_screen_01.png?1337661514"
+    },
+    {
+      "url": "/system/assets/208/original/open_paths_cc_screen_02.png?1337661523"
+    },
+    {
+      "url": "/system/assets/209/original/open_paths_cc_screen_03.png?1337661532"
+    }
+  ],
   "fse_org_style": {
     "created_at": null,
     "description": "An aversion to hierarchy resulting in hierarchy.  See http://www.youtube.com/watch?v=yY-7_uzJL6w",

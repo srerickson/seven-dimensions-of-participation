@@ -34,6 +34,11 @@
   "birder_credits": "Luis Felipe R. Murillo\r\nPat Garcia ",
   "tangible_problem": "No",
   "tangible_problem_detail": "",
+  "images": [
+    {
+      "url": "/system/assets/115/original/apache_committers_location.png?1328850065"
+    }
+  ],
   "fse_org_style": {
     "created_at": null,
     "description": "Meritocracy, in the first, most administrative sense, is a system of government or other administration (such as business administration) wherein appointments are made and responsibilities assigned to individuals based upon their \"merits\", namely intelligence, technical skill, credentials, creativity, and education, determined through evaluations or examinations.",

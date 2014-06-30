@@ -34,6 +34,9 @@
   "birder_credits": "Created by \r\nMorgan Currie\r\nUpdated by\r\nSeth Erickson\r\nPat Garcia ",
   "tangible_problem": "Yes",
   "tangible_problem_detail": "Providing FLOSS manuals",
+  "images": [
+
+  ],
   "fse_org_style": {
     "created_at": null,
     "description": "OP framed as user-producers and collaborators",

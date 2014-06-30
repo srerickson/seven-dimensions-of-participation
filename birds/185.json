@@ -34,6 +34,14 @@
   "birder_credits": "Seth Erickson\r\nStacy Wood \r\n",
   "tangible_problem": "No",
   "tangible_problem_detail": "",
+  "images": [
+    {
+      "url": "/system/assets/119/original/image_gallery-2.jpeg?1329716061"
+    },
+    {
+      "url": "/system/assets/120/original/image_gallery.png?1329716064"
+    }
+  ],
   "fse_org_style": {
     "created_at": null,
     "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",

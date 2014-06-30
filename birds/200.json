@@ -34,6 +34,17 @@
   "birder_credits": "Jessica F. Thomas",
   "tangible_problem": "No",
   "tangible_problem_detail": "",
+  "images": [
+    {
+      "url": "/system/assets/199/original/rhizome_logo%20(1).jpg?1337635808"
+    },
+    {
+      "url": "/system/assets/200/original/rhizome_logo.jpg?1337635809"
+    },
+    {
+      "url": "/system/assets/201/original/rhizome_logo_color.jpg?1337635810"
+    }
+  ],
   "fse_org_style": {
     "created_at": null,
     "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",

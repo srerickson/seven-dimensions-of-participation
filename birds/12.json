@@ -34,6 +34,9 @@
   "birder_credits": "Luis Felipe R. Murillo\r\nStacy Wood\r\n",
   "tangible_problem": "Yes",
   "tangible_problem_detail": "Debian GNU/Linux aims to build a universal Free Software operating system. ",
+  "images": [
+
+  ],
   "fse_org_style": {
     "created_at": null,
     "description": "Any form of democratic organization that relies heavily on rules, voting and procedures for decision making and which acts only with the consent of the majority (defined by procedure).  ",

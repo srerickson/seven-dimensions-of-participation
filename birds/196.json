@@ -34,6 +34,17 @@
   "birder_credits": "Stacy Wood\r\n",
   "tangible_problem": "Yes",
   "tangible_problem_detail": "To provide more access to the scant resource of computer power for scientific research or other research problems.",
+  "images": [
+    {
+      "url": "/system/assets/197/original/boincheading.jpg?1337624634"
+    },
+    {
+      "url": "/system/assets/196/original/Logo_blau.jpg?1337624630"
+    },
+    {
+      "url": "/system/assets/195/original/BOINCManager.png?1337623191"
+    }
+  ],
   "fse_org_style": {
     "created_at": null,
     "description": "A group with no obvious visible organization in which everyone can potentially interact with everyone else. Exemples include: mailing lists, internet forums, IRC channels",

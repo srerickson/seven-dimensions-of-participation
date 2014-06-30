@@ -34,6 +34,17 @@
   "birder_credits": "Ashley Sands, began May 19, 2012\r\nAshley Sands, \"completed\" May 21, 2012",
   "tangible_problem": "No",
   "tangible_problem_detail": "Well, several, but not a single specific problem.",
+  "images": [
+    {
+      "url": "/system/assets/192/original/SoEasytoSign.jpg?1337574113"
+    },
+    {
+      "url": "/system/assets/190/original/Victory_Example_AdonHompage.jpg?1337571289"
+    },
+    {
+      "url": "/system/assets/189/original/ProfilePage_Example.jpg?1337571227"
+    }
+  ],
   "fse_org_style": {
     "created_at": null,
     "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",

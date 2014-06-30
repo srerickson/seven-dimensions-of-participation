@@ -34,6 +34,9 @@
   "birder_credits": "Created by rncrooks@ucla.edu 25 August 2012.",
   "tangible_problem": "Yes",
   "tangible_problem_detail": "Part of the LiveJournal community exists to create and maintain the software the runs the platform, although most users of the service do not participate in this manner.",
+  "images": [
+
+  ],
   "fse_org_style": {
     "created_at": null,
     "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",

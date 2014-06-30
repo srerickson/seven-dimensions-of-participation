@@ -34,6 +34,17 @@
   "birder_credits": "Luis Felipe R. Murillo.\r\nEdited by rncrooks@ucla.edu 17 July 2012.\r\nEdited by Stacy Wood, July 2012. ",
   "tangible_problem": "Yes",
   "tangible_problem_detail": "Create, maintain, and develop Blender software for 3-D animation.",
+  "images": [
+    {
+      "url": "/system/assets/251/original/blender_screen_cap_01.png?1342553154"
+    },
+    {
+      "url": "/system/assets/252/original/blender_open_project_map.png?1342553161"
+    },
+    {
+      "url": "/system/assets/253/original/blender_open_projects_can_share_resources.png?1342553169"
+    }
+  ],
   "fse_org_style": {
     "created_at": null,
     "description": "An organization with one leader or decision maker whose authority rests on the consent of the governed and/or his/her charisma.  Other forms of organization may supplement it (hierarchy, meritocracacy,or consensus amongst the staff or participants) but the leader's authority is final and effective.",

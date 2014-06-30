@@ -34,6 +34,14 @@
   "birder_credits": "Andrew Newton\r\nRevised by Roderic Crooks, June 2012\r\nRevised by Stacy Wood, July 2012",
   "tangible_problem": "No",
   "tangible_problem_detail": "",
+  "images": [
+    {
+      "url": "/system/assets/232/original/riseup_screen_cap_01.png?1340922591"
+    },
+    {
+      "url": "/system/assets/233/original/riseup_screen_cap_02.png?1340922597"
+    }
+  ],
   "fse_org_style": {
     "created_at": null,
     "description": "Any form of democratic organization that relies heavily on rules, voting and procedures for decision making and which acts only with the consent of the majority (defined by procedure).  ",

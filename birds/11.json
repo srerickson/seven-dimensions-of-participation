@@ -34,6 +34,14 @@
   "birder_credits": "Updated July 2012 by Roderic Crooks and revised by Stacy Wood July 2012.\r\n",
   "tangible_problem": "Yes",
   "tangible_problem_detail": "The Mozilla Corporation is involved in producing specific products (Firefox and other applications), but the Mozilla Foundation itself addresses general, intangible problems realted to promoting an open Internet.",
+  "images": [
+    {
+      "url": "/system/assets/244/original/mozilla_screen_cap_02.png?1342025318"
+    },
+    {
+      "url": "/system/assets/245/original/mozilla_foundation_articles_incorporation.pdf?1342029395"
+    }
+  ],
   "fse_org_style": {
     "created_at": null,
     "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",

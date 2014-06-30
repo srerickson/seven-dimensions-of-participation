@@ -34,6 +34,14 @@
   "birder_credits": "Dalena Hunter.\r\nEdited by rncrooks@ucla.edu 17 July 2012.\r\nEdited by Stacy Wood, July 2012. ",
   "tangible_problem": "No",
   "tangible_problem_detail": "",
+  "images": [
+    {
+      "url": "/system/assets/254/original/bakespace_screen_cap_01.png?1342627696"
+    },
+    {
+      "url": "/system/assets/301/original/Rakefile.rb?1383253274"
+    }
+  ],
   "fse_org_style": {
     "created_at": null,
     "description": "Organized primarily by weak ties (\"friends\") grouped into overlapping networks.",

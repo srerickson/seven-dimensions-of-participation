@@ -34,6 +34,17 @@
   "birder_credits": "Luis Felipe R. Murillo, Christopher Kelty",
   "tangible_problem": "Yes",
   "tangible_problem_detail": "To make copyright-protected scholarly works available to a global audience using a simple search interface.",
+  "images": [
+    {
+      "url": "/system/assets/86/original/essentials.png?1328645325"
+    },
+    {
+      "url": "/system/assets/111/original/ebookscluborg.gif?1328837246"
+    },
+    {
+      "url": "/system/assets/112/original/840library.nu_rules.png?1328837308"
+    }
+  ],
   "fse_org_style": {
     "created_at": null,
     "description": "An aversion to hierarchy resulting in hierarchy.  See http://www.youtube.com/watch?v=yY-7_uzJL6w",

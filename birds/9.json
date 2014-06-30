@@ -34,6 +34,14 @@
   "birder_credits": "Christopher M. Kelty",
   "tangible_problem": "Yes",
   "tangible_problem_detail": "to provide a free (as in speech) replacement to the UNIX operating system. ",
+  "images": [
+    {
+      "url": "/system/assets/49/original/NewTux.png?1319231720"
+    },
+    {
+      "url": "/system/assets/51/original/linux-foundation.png?1319231956"
+    }
+  ],
   "fse_org_style": {
     "created_at": null,
     "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",

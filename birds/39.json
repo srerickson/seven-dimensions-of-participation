@@ -34,6 +34,20 @@
   "birder_credits": "Aaron Panofsky (apanofsky@ucla.edu)",
   "tangible_problem": "Yes",
   "tangible_problem_detail": "Dearth of freely available genetic data",
+  "images": [
+    {
+      "url": "/system/assets/236/original/v20120430-study-guide.pdf?1341939198"
+    },
+    {
+      "url": "/system/assets/237/original/Church05s.pdf?1341939419"
+    },
+    {
+      "url": "/system/assets/238/original/How_the_Personal_Genome_Project_Could_Unlock_the_Mysteries_of_Life.pdf?1341939923"
+    },
+    {
+      "url": "/system/assets/239/original/msb4100040.pdf?1341950961"
+    }
+  ],
   "fse_org_style": {
     "created_at": null,
     "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",

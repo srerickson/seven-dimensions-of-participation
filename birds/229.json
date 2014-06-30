@@ -34,6 +34,23 @@
   "birder_credits": "Created by rncrooks@ucla.edu 14 August 2012.",
   "tangible_problem": "No",
   "tangible_problem_detail": "Foursquare is a mobile app that combines elements of a game, a social network, and a city guide.",
+  "images": [
+    {
+      "url": "/system/assets/277/original/explore.jpg?1345000726"
+    },
+    {
+      "url": "/system/assets/278/original/exploremap.jpg?1345000734"
+    },
+    {
+      "url": "/system/assets/279/original/friends.jpg?1345000740"
+    },
+    {
+      "url": "/system/assets/280/original/me.jpg?1345000747"
+    },
+    {
+      "url": "/system/assets/281/original/specials.jpg?1345000754"
+    }
+  ],
   "fse_org_style": {
     "created_at": null,
     "description": "Classic bureaucratic organization, with departments, roles and duties clearly defined, and a chain of command with a roughly pyramidal structure",
