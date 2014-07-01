@@ -23450,9 +23450,9 @@ function draw_answer_pie(yes_count,no_count, na_count, blank_count, yes_comments
       };
       $scope.init = function(num) {
         $scope.id = num;
-        return $http.get("/birds.json").success(function(data, status, headers, config) {
+        return $http.get("birds.json").success(function(data, status, headers, config) {
           $scope.birds = data;
-          return $http.get("/evaluation_sets/" + num + ".json").success(function(data, status, headers, config) {
+          return $http.get("evaluation_sets/" + num + ".json").success(function(data, status, headers, config) {
             var b, bird_index, i, q, result, _base, _i, _j, _k, _len, _len1, _len2, _ref, _ref1, _ref2;
             $scope.questions = data.evaluation_questions;
             $scope.questions.sort(function(a, b) {
@@ -23573,7 +23573,7 @@ function draw_answer_pie(yes_count,no_count, na_count, blank_count, yes_comments
       };
       $scope.load_kase = function(id) {
         return $modal.open({
-          templateUrl: "/assets/frontend/evaluation_set/_kase_popup.html",
+          templateUrl: "assets/frontend/evaluation_set/_kase_popup.html",
           windowClass: "kase_popup",
           resolve: {
             id: function() {
@@ -23582,7 +23582,7 @@ function draw_answer_pie(yes_count,no_count, na_count, blank_count, yes_comments
           },
           controller: [
             "$scope", "id", function($scope, id) {
-              return $http.get("/birds/" + id + ".json").success(function(data, status, headers, config) {
+              return $http.get("birds/" + id + ".json").success(function(data, status, headers, config) {
                 return $scope.kase = data;
               });
             }

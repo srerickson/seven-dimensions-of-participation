@@ -71,7 +71,7 @@
           </div>
         </td>
         <td ng-repeat='question in $parent.show_questions'>
-          <div ng-click='load_response_details(question)' popover-placement='top' popover-template='/assets/frontend/evaluation_set/pie_popup.html' popover-trigger='mouseenter'>
+          <div ng-click='load_response_details(question)' popover-placement='top' popover-template='assets/frontend/evaluation_set/pie_popup.html' popover-trigger='mouseenter'>
             <div case-result-pie class='evaluation_result_pie' ng-model='bird.results[question.id]' sub-question='$parent.is_sub_question(question)'></div>
           </div>
         </td>
@@ -94,7 +94,7 @@
           <h6>Case</h6>
         </div>
         <div class='span9'>
-          <img ng-show='bird.thumbnail_100_url' ng-src='{{bird.thumbnail_100_url}}'>
+          <img ng-show='bird.thumbnail_100_url' ng-src='./{{bird.thumbnail_100_url}}'>
           {{bird.name}}
         </div>
       </div>
