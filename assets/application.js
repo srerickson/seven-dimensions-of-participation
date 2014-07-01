@@ -23573,7 +23573,7 @@ function draw_answer_pie(yes_count,no_count, na_count, blank_count, yes_comments
       };
       $scope.load_kase = function(id) {
         return $modal.open({
-          templateUrl: "assets/frontend/evaluation_set/_kase_popup.html",
+          templateUrl: "assets/frontend/evaluation_set/kase_popup.html",
           windowClass: "kase_popup",
           resolve: {
             id: function() {
