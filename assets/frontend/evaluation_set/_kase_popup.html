@@ -1,0 +1,183 @@
+<h4>Basic Info</h4>
+<table>
+  <tbody>
+    <tr>
+      <th>Name</th>
+      <td>{{ kase.name }}</td>
+    </tr>
+    <tr>
+      <th>Logo</th>
+      <td>
+        <img ng-src='{{kase.thumbnail_100_url}}'>
+      </td>
+    </tr>
+    <tr>
+      <th>URL</th>
+      <td>
+        <a ng-href='{{kase.url}}' target='_blank'>{{kase.url}}</a>
+      </td>
+    </tr>
+    <tr>
+      <th>Habitat</th>
+      <td>{{kase.habitat.name }}</td>
+    </tr>
+    <tr>
+      <th>Classification</th>
+      <td>{{kase.genus_type.name}}</td>
+    </tr>
+    <tr>
+      <th>Brand</th>
+      <td>{{kase.brand}}</td>
+    </tr>
+  </tbody>
+</table>
+<h4>Structure</h4>
+<table>
+  <tbody>
+    <tr>
+      <th>FSE Name</th>
+      <td>{{kase.fse_name}}</td>
+    </tr>
+    <tr>
+      <th>FSE Organization Style</th>
+      <td>{{kase.fse_org_style.name}}</td>
+    </tr>
+    <tr>
+      <th>FSE Owner/Founder</th>
+      <td>{{kase.fse_owner_founder}}</td>
+    </tr>
+    <tr>
+      <th>FSE Significant Members</th>
+      <td>{{kase.fse_significant_member}}</td>
+    </tr>
+    <tr>
+      <th>FSE Mission Statement</th>
+      <td>{{kase.fse_mission_statement}}</td>
+    </tr>
+    <tr>
+      <th>OP Name</th>
+      <td>{{kase.op_name}}</td>
+    </tr>
+    <tr>
+      <th>OP Organization Style</th>
+      <td>{{kase.op_org_style.name}}</td>
+    </tr>
+    <tr>
+      <th>OP Founders/VIPs</th>
+      <td>{{kase.op_vip_founders}}</td>
+    </tr>
+    <tr>
+      <th>OP Typical Member</th>
+      <td>{{kase.op_typical_member}}</td>
+    </tr>
+    <tr>
+      <th>Is the OP self-aware?</th>
+      <td>{{kase.foritself}}</td>
+    </tr>
+  </tbody>
+</table>
+<h4>Ontogeny</h4>
+<table>
+  <tbody>
+    <tr>
+      <th>Formation</th>
+      <td>{{kase.formation}}</td>
+    </tr>
+    <tr>
+      <th>History</th>
+      <td>{{kase.history}}</td>
+    </tr>
+    <tr>
+      <th>Lifespan</th>
+      <td>{{kase.lifespan}}</td>
+    </tr>
+  </tbody>
+</table>
+<h4>Behavior</h4>
+<table>
+  <tbody>
+    <tr>
+      <th>Resource</th>
+      <td>{{kase.resource}}</td>
+    </tr>
+    <tr>
+      <th>Availability</th>
+      <td>{{kase.availability}}</td>
+    </tr>
+    <tr>
+      <th>Goals</th>
+      <td>{{kase.participation}}</td>
+    </tr>
+    <tr>
+      <th>Tasks</th>
+      <td>{{kase.tasks}}</td>
+    </tr>
+    <tr>
+      <th>Task Modularity</th>
+      <td>{{kase.modularity}}</td>
+    </tr>
+    <tr>
+      <th>Task Granularity</th>
+      <td>{{kase.granularity}}</td>
+    </tr>
+    <tr>
+      <th>Task Metrics</th>
+      <td>{{kase.metrics}}</td>
+    </tr>
+    <tr>
+      <th>Tangible Problem?</th>
+      <td>{{kase.tangible_problem}}. {{kase.tangible_problem_detail}}</td>
+    </tr>
+  </tbody>
+</table>
+<h4>Mating</h4>
+<table>
+  <tbody>
+    <tr>
+      <th>Alliances</th>
+      <td>{{kase.alliances}}</td>
+    </tr>
+    <tr>
+      <th>Project Clients</th>
+      <td>{{kase.clients}}</td>
+    </tr>
+    <tr>
+      <th>Project Sponsors</th>
+      <td>{{kase.sponsors}}</td>
+    </tr>
+    <tr>
+      <th>Elites</th>
+      <td>{{kase.elites}}</td>
+    </tr>
+  </tbody>
+</table>
+<h4>Summary</h4>
+<table>
+  <tbody>
+    <tr>
+      <th>&nbsp;</th>
+      <td>{{kase.summary}}</td>
+    </tr>
+  </tbody>
+</table>
+<h4>Case Credits</h4>
+<table>
+  <tbody>
+    <tr>
+      <th>&nbsp;</th>
+      <td>{{kase.birder_credits}}</td>
+    </tr>
+  </tbody>
+</table>
+<!-- %tr -->
+<!-- %th= "#{I18n.translate!("boi_schema.fields.birder_credits.human")}" -->
+<!-- %td {{kase.birder_credits}} -->
+<!-- %tr -->
+<!-- %th= :created_at -->
+<!-- {{kase.created_at}}.localtime unless {{kase.created_at}}.nil? -->
+<!-- %tr -->
+<!-- %th= :updated_at -->
+<!-- {{kase.updated_at}}.localtime unless {{kase.updated_at}}.nil? -->
+<!-- %tr -->
+<!-- %th= "Last Updated By" -->
+<!-- {{kase.updated_by}}.email unless {{kase.updated_by}}.nil? -->

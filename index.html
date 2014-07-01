@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BoiCms20</title>
+  <link href="assets/application.css" media="screen" rel="stylesheet" type="text/css" />
+  <script src="assets/application.js" type="text/javascript"></script>
+</head>
+<body>
+
+<div class='container evaluation_set' ng-app='boi' ng-controller='EvaluationSetController' ng-init='init(1)'>
+  <div class='span8'>
+    <h4>Birds of the Internet: Evaluating participation</h4>
+    <section class='overview'>
+      <p>
+        The table below presents responses to seven evaluation questions (and two sub-questions) for the 102 participatory entities (cases) in the <a href="http://recursivepublic.net/">Part.Lab</a> study. Each of the evaluation questions (displayed as columns) was answered with 'yes', 'no', or 'n/a' for each case (displayed as rows) by between three and five members of our research group. The number of responses for each question/case pair is indicated by the number in the center of the 'donut' diagram.
+        The evaluation questions are:
+      </p>
+      <ul>
+        <li>(1) Does participation in this entity produce an educative dividend?</li>
+        <li>(2) Does this entity allow participation in goals as well as tasks?</li>
+        <li>(2.1) If yes (#2), is participation in goals direct/ representative? Choose YES for direct and No for representative.</li>
+        <li>(3) Does this entity allow participants to maintain control or ownership of resources produced?</li>
+        <li>(3.1) If yes (#3), collective or individual control? YES for collective, NO for individual</li>
+        <li>(4) Is there the capacity for exit (with resources or without penalty)?</li>
+        <li>(5) Is there the capacity for effective voice (feedback, dissent or protest)?</li>
+        <li>(6) Are there metrics of participation? Can a participant see, measure or experience the outcome of their participation?</li>
+        <li>(7) Does the entity itself provide the capacity for communication (affective, subjective, rational or other meaningful intercourse) between participants in some form?</li>
+      </ul>
+      <p>
+        Move your mouse over the individual diagrams to see response details - click the diagram to see evaluator comments. You can sort the cases alphabetically by clicking "Case Name", by question response score (the average of the question responses for a particular question/case) by clicking the question number, or by response similarity by clicking "similarity sort" for a particular case. In the latter, cases are arranged by the (euclidean) distance between their response score "profile" and that of the chosen case – similarly evaluated cases will appear near the top, closer to the chosen case. (<a href="http://www.uta.edu/faculty/sawasthi/Statistics/stcluan.html#d">Euclidean distance</a> is a popular metric used in clustering techniques such as hierarchical agglomeration).
+      </p>
+      <a toggle-summary>
+        <span class='hidden'>show overview</span>
+        <span>hide</span>
+      </a>
+    </section>
+  </div>
+  <table class='span8 evaluation_results' ng-class="{sort_asc: sort_order == 'asc', sort_desc: sort_order != 'asc' }">
+    <thead>
+      <tr>
+        <th ng-class="{active_sort: sort_field == 'name' }">
+          <a class='field_name' ng-click=" set_sort_field('name') ">
+            Case Name
+          </a>
+          <span class='toggle_sort' ng-click='toggle_sort_order()'>
+            <span class='entypo'></span>
+          </span>
+        </th>
+        <th ng-class='{active_sort: sort_field == question.position}' ng-repeat='question in show_questions'>
+          <a class='field_name' ng-click='set_sort_field(question.position)' popover-placement='bottom' popover-trigger='mouseenter' popover='{{question.question}}'>{{question.position}}</a>
+          <span class='toggle_sort' ng-click='toggle_sort_order()'>
+            <span class='entypo'></span>
+          </span>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- / Bird Row -->
+      <tr ng-class='{ active_sort: sort_field == bird }' ng-controller='BirdResultController' ng-init='bird = b' ng-repeat='b in birds'>
+        <td>
+          <a class='case' ng-click='load_kase(b.id)'>
+            {{ bird.name }}
+          </a>
+          <div class='hint'>
+            <a class='proximity_sort' ng-click=' set_sort_field(bird) '>
+              similarity sort
+            </a>
+          </div>
+          <div class='hint' ng-show="sort_type == 'proximity' ">
+            distance: {{bird.distance | number:4}}
+          </div>
+        </td>
+        <td ng-repeat='question in $parent.show_questions'>
+          <div ng-click='load_response_details(question)' popover-placement='top' popover-template='/assets/frontend/evaluation_set/pie_popup.html' popover-trigger='mouseenter'>
+            <div case-result-pie class='evaluation_result_pie' ng-model='bird.results[question.id]' sub-question='$parent.is_sub_question(question)'></div>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <div ng-controller='ResponseDetailsController' ng-show='show'>
+    <div class='span4' id='response_details' style='position:fixed'>
+      <div class='row-fluid'>
+        <div class='span1'></div>
+        <div class='span10'>
+          <strong>EVALUATION RESPONSE DETAILS</strong>
+        </div>
+        <div class='span1'>
+          <div class='entypo cross' ng-click='show = false'></div>
+        </div>
+      </div>
+      <div class='row-fluid'>
+        <div class='span3'>
+          <h6>Case</h6>
+        </div>
+        <div class='span9'>
+          <img ng-show='bird.thumbnail_100_url' ng-src='{{bird.thumbnail_100_url}}'>
+          {{bird.name}}
+        </div>
+      </div>
+      <div class='row-fluid'>
+        <div class='span3'>
+          <h6>Question</h6>
+        </div>
+        <div class='span9'>{{question.question}}</div>
+      </div>
+      <div class='row-fluid'>
+        <div class='span3'>
+          <h6>Responses</h6>
+        </div>
+        <div class='span9'>
+          Yes: {{answers_of_type('YES').length}},
+          No: {{answers_of_type('NO').length}},
+          N/A: {{answers_of_type('N/A').length}}
+        </div>
+      </div>
+      <div class='row-fluid' ng-show=" comments_for_answer_type('YES').length ">
+        <div class='span3'>
+          <h6>YES Comments</h6>
+        </div>
+        <ul class='span9'>
+          <li ng-repeat="a in comments_for_answer_type('YES') ">
+            "{{a}}"
+          </li>
+        </ul>
+      </div>
+      <div class='row-fluid' ng-show=" comments_for_answer_type('NO').length ">
+        <div class='span3'>
+          <h6>NO Comments</h6>
+        </div>
+        <ul class='span9'>
+          <li ng-repeat="a in comments_for_answer_type('NO') ">
+            "{{a}}"
+          </li>
+        </ul>
+      </div>
+      <div class='row-fluid' ng-show=" comments_for_answer_type('N/A').length ">
+        <div class='span3'>
+          <h6>N/A Comments</h6>
+        </div>
+        <ul class='span9'>
+          <li ng-repeat="a in comments_for_answer_type('N/A') ">
+            "{{a}}"
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</body>
+</html>
