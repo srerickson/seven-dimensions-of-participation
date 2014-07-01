@@ -1,0 +1,26 @@
+[
+  {
+    "answer": "YES",
+    "comment": "yes. bitcoins are money. ",
+    "bird_id": 195,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "NO",
+    "comment": "The currency used by Bitcoin only has meaning within the context of that economy. Once a participant leaves, their Bitcoin capital essentially disappears. ",
+    "bird_id": 195,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 195,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 195,
+    "evaluation_question_id": 4
+  }
+]

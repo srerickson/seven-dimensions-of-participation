@@ -1,0 +1,20 @@
+[
+  {
+    "answer": "NO",
+    "comment": "The nature of the projects requires participants to work within a modular model, so it remains difficult to accurately measure an individuals contribution in a realistic way. ",
+    "bird_id": 202,
+    "evaluation_question_id": 8
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 202,
+    "evaluation_question_id": 8
+  },
+  {
+    "answer": "YES",
+    "comment": "tasks are informally recognized on mailing lists; patches and bugs are visible in the patch (Gerrit) and bug tracking software (code.google.com).",
+    "bird_id": 202,
+    "evaluation_question_id": 8
+  }
+]

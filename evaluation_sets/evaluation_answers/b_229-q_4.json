@@ -1,0 +1,26 @@
+[
+  {
+    "answer": "NO",
+    "comment": "How data on the user is used is out of his/her control.",
+    "bird_id": 229,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "NO",
+    "comment": "Coupons and deals are rewards for participation and users may keep them, but these have not been the primary products of participation in Foursquare.",
+    "bird_id": 229,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "NO",
+    "comment": "Geo-data is owned by FourSquare.",
+    "bird_id": 229,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "NO",
+    "comment": "",
+    "bird_id": 229,
+    "evaluation_question_id": 4
+  }
+]

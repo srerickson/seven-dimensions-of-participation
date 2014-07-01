@@ -1,0 +1,20 @@
+[
+  {
+    "answer": "YES",
+    "comment": "Given the complexity of the organization, goals may be created in many places (in subordinate FSEs associated with Mozilla, such as by the CEO of Mozilla Corporation). Goals can also be undertaken by individuals. Mozilla functions in several modes with regards to setting goals: top-down, bottom-up, and middle-out. The most esteemed, most complicated programming tasks, such as updating a release of Firefox, are more tightly controlled by a \"benevolent dictator\" in the form of Mozilla Corporation, but any person anywhere is free to develop, customize, or extend the various applications.",
+    "bird_id": 11,
+    "evaluation_question_id": 2
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 11,
+    "evaluation_question_id": 2
+  },
+  {
+    "answer": "YES",
+    "comment": "To a very small degree once you have been involved.  Otherwise FSE makes the goal setting decisions.",
+    "bird_id": 11,
+    "evaluation_question_id": 2
+  }
+]

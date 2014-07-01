@@ -1,0 +1,20 @@
+[
+  {
+    "answer": "NO",
+    "comment": "'Subject to any applicable account settings you select, you grant us a non-exclusive, royalty-free, transferable, sublicensable, worldwide license to use, display, reproduce, re-pin, modify (e.g., re-format), re-arrange, and distribute your User Content on Pinterest for the purposes of operating and providing the Service(s) to you and to our other Users. Nothing in these Terms shall restrict Pinterest’s rights under separate licenses to User Content. Please remember that the Pinterest Service is a public platform, and that other Users may search for, see, use, and/or re-pin any User Content that you make publicly available through the Service.' http://pinterest.com/about/terms/",
+    "bird_id": 234,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "NO",
+    "comment": "Resource is Pinterest system for sharing.",
+    "bird_id": 234,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "YES",
+    "comment": "Minimally.  Effectively the answer to this question is probably \"no.\"  In theory, users maintain copyright.",
+    "bird_id": 234,
+    "evaluation_question_id": 4
+  }
+]

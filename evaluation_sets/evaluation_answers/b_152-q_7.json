@@ -1,0 +1,26 @@
+[
+  {
+    "answer": "YES",
+    "comment": "Feedback page: https://www.freespeech.org/contact",
+    "bird_id": 152,
+    "evaluation_question_id": 7
+  },
+  {
+    "answer": "NO",
+    "comment": "Nominally, yes, but there is no formal mechanism by which participants can alter the goal-setting of FSTV.",
+    "bird_id": 152,
+    "evaluation_question_id": 7
+  },
+  {
+    "answer": "YES",
+    "comment": "They are trying to rebrand themselves as \"participatory\" media",
+    "bird_id": 152,
+    "evaluation_question_id": 7
+  },
+  {
+    "answer": "NO",
+    "comment": "",
+    "bird_id": 152,
+    "evaluation_question_id": 7
+  }
+]

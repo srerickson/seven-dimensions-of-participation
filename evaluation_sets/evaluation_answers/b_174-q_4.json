@@ -1,0 +1,26 @@
+[
+  {
+    "answer": "NO",
+    "comment": "Resources generally belong to the projects; some of them do share the resulting data.  The data is also aggregated.",
+    "bird_id": 174,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "NO",
+    "comment": "",
+    "bird_id": 174,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 174,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "NO",
+    "comment": "",
+    "bird_id": 174,
+    "evaluation_question_id": 4
+  }
+]

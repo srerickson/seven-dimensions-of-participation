@@ -1,0 +1,20 @@
+[
+  {
+    "answer": "YES",
+    "comment": "Users own their submitted materials",
+    "bird_id": 22,
+    "evaluation_question_id": 6
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 22,
+    "evaluation_question_id": 6
+  },
+  {
+    "answer": "YES",
+    "comment": "There is no penalty for exit, but the FSE retains ownership of resources in most cases.",
+    "bird_id": 22,
+    "evaluation_question_id": 6
+  }
+]

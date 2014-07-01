@@ -1,0 +1,32 @@
+[
+  {
+    "answer": "YES",
+    "comment": "number of books created, whether books are drafts or not. Sale of books and re-use of books might also be visible. ",
+    "bird_id": 166,
+    "evaluation_question_id": 8
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 166,
+    "evaluation_question_id": 8
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 166,
+    "evaluation_question_id": 8
+  },
+  {
+    "answer": "NO",
+    "comment": "",
+    "bird_id": 166,
+    "evaluation_question_id": 8
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 166,
+    "evaluation_question_id": 8
+  }
+]

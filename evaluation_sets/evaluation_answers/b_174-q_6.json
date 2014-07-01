@@ -1,0 +1,26 @@
+[
+  {
+    "answer": "YES",
+    "comment": "you can't take it with you; but there is no penalty for stopping.",
+    "bird_id": 174,
+    "evaluation_question_id": 6
+  },
+  {
+    "answer": "NO",
+    "comment": "The scientists that operate these citizen science projects largely retain control of and credit for the data produced.",
+    "bird_id": 174,
+    "evaluation_question_id": 6
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 174,
+    "evaluation_question_id": 6
+  },
+  {
+    "answer": "YES",
+    "comment": "No penalty for exit, but resources probably will not be retained.",
+    "bird_id": 174,
+    "evaluation_question_id": 6
+  }
+]

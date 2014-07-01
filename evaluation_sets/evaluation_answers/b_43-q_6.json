@@ -1,0 +1,20 @@
+[
+  {
+    "answer": "NO",
+    "comment": "This is also debatable. Can it still share your data to third-parties after you leave? What happenes to data its already sold - wouldn't this continue to be used and circulated?",
+    "bird_id": 43,
+    "evaluation_question_id": 6
+  },
+  {
+    "answer": "YES",
+    "comment": "Once entered, data become the property of the FSE.",
+    "bird_id": 43,
+    "evaluation_question_id": 6
+  },
+  {
+    "answer": "YES",
+    "comment": "No penalty for exit, but resources will not be retained.",
+    "bird_id": 43,
+    "evaluation_question_id": 6
+  }
+]

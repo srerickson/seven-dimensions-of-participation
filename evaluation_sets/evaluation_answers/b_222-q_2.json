@@ -1,0 +1,20 @@
+[
+  {
+    "answer": "NO",
+    "comment": "Presumably users could influence design of the platform, as there is no strong FSE, but it is not clear how this would happen.",
+    "bird_id": 222,
+    "evaluation_question_id": 2
+  },
+  {
+    "answer": "NO",
+    "comment": "Not FSE goals; only individual goals.",
+    "bird_id": 222,
+    "evaluation_question_id": 2
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 222,
+    "evaluation_question_id": 2
+  }
+]

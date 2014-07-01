@@ -1,0 +1,20 @@
+[
+  {
+    "answer": "NO",
+    "comment": "You cannot maintain your twitter resources without membership, although twitter profiles have the option to be public/private, you would not have full access without membership.",
+    "bird_id": 227,
+    "evaluation_question_id": 6
+  },
+  {
+    "answer": "YES",
+    "comment": "Again though this is debatable: if Twitter retains a license, can it use your resources after you exit?",
+    "bird_id": 227,
+    "evaluation_question_id": 6
+  },
+  {
+    "answer": "YES",
+    "comment": "No penalty, retention of resources is unlikely",
+    "bird_id": 227,
+    "evaluation_question_id": 6
+  }
+]

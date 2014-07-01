@@ -1,0 +1,20 @@
+[
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 15,
+    "evaluation_question_id": 7
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 15,
+    "evaluation_question_id": 7
+  },
+  {
+    "answer": "NO",
+    "comment": "The project itself seems to have this capacity, but since it is owned by Oracle now, the question is how effective that voice really is.",
+    "bird_id": 15,
+    "evaluation_question_id": 7
+  }
+]

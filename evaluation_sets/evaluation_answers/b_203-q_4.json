@@ -1,0 +1,20 @@
+[
+  {
+    "answer": "YES",
+    "comment": "Note that OpenSolaris was not 100% open source: Some drivers and some libraries were property of other companies that Sun (now Oracle) licensed and was not able to release. http://en.wikipedia.org/wiki/OpenSolaris",
+    "bird_id": 203,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 203,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 203,
+    "evaluation_question_id": 4
+  }
+]

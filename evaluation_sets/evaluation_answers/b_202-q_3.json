@@ -1,0 +1,20 @@
+[
+  {
+    "answer": "NO",
+    "comment": "This would be both yes and no depending on the level of decision making. ",
+    "bird_id": 202,
+    "evaluation_question_id": 3
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 202,
+    "evaluation_question_id": 3
+  },
+  {
+    "answer": "N/A",
+    "comment": "",
+    "bird_id": 202,
+    "evaluation_question_id": 3
+  }
+]

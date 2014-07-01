@@ -1,0 +1,26 @@
+[
+  {
+    "answer": "NO",
+    "comment": "Once data are generated, they become availble for research.",
+    "bird_id": 38,
+    "evaluation_question_id": 6
+  },
+  {
+    "answer": "NO",
+    "comment": "Upon exit you lose access to the sites data and possibilities for comparison. ",
+    "bird_id": 38,
+    "evaluation_question_id": 6
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 38,
+    "evaluation_question_id": 6
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 38,
+    "evaluation_question_id": 6
+  }
+]

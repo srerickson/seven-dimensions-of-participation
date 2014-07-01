@@ -1,0 +1,26 @@
+[
+  {
+    "answer": "YES",
+    "comment": "Users have some say over individual-level information, but all user aggregated data becomes availble ot 23andme for research.",
+    "bird_id": 38,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "NO",
+    "comment": "The company retains control of all data contributed by participants. ",
+    "bird_id": 38,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "NO",
+    "comment": "",
+    "bird_id": 38,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "NO",
+    "comment": "",
+    "bird_id": 38,
+    "evaluation_question_id": 4
+  }
+]

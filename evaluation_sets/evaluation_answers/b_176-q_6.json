@@ -1,0 +1,26 @@
+[
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 176,
+    "evaluation_question_id": 6
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 176,
+    "evaluation_question_id": 6
+  },
+  {
+    "answer": "YES",
+    "comment": "There is no penalty for exit, but resources are not retained.",
+    "bird_id": 176,
+    "evaluation_question_id": 6
+  },
+  {
+    "answer": "YES",
+    "comment": "You can leave without penalty, but you lose the ability to play the game. However, you can always return.",
+    "bird_id": 176,
+    "evaluation_question_id": 6
+  }
+]

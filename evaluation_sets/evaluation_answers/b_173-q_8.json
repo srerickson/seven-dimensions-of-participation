@@ -1,0 +1,26 @@
+[
+  {
+    "answer": "YES",
+    "comment": "A blog post would count as a task",
+    "bird_id": 173,
+    "evaluation_question_id": 8
+  },
+  {
+    "answer": "YES",
+    "comment": "Translators and authors see their work published.  Casual participants interact with blogs and other social media platforms, which have standard participation metrics like comments, likes and retweets.",
+    "bird_id": 173,
+    "evaluation_question_id": 8
+  },
+  {
+    "answer": "NO",
+    "comment": "",
+    "bird_id": 173,
+    "evaluation_question_id": 8
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 173,
+    "evaluation_question_id": 8
+  }
+]

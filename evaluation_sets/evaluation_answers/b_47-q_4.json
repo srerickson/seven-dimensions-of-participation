@@ -1,0 +1,26 @@
+[
+  {
+    "answer": "YES",
+    "comment": "With regard to developers who contribute to the commercial product, this may not be true.",
+    "bird_id": 47,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "YES",
+    "comment": "Community edition is open source (GPL Affero v3).  Other products are not",
+    "bird_id": 47,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 47,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 47,
+    "evaluation_question_id": 4
+  }
+]

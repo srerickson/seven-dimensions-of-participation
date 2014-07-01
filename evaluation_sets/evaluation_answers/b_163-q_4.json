@@ -1,0 +1,20 @@
+[
+  {
+    "answer": "YES",
+    "comment": "'forwarding via e-mail is allowed if the footer is included; for republishing on a web or ftp site, contact with the authors is recommended. when republishing in paper media, or if money changes hands, permission from the author(s) is obligatory.'",
+    "bird_id": 163,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "NO",
+    "comment": "The resource is a mailing list; individuals are not free to take it and use it for other purposes.",
+    "bird_id": 163,
+    "evaluation_question_id": 4
+  },
+  {
+    "answer": "YES",
+    "comment": "",
+    "bird_id": 163,
+    "evaluation_question_id": 4
+  }
+]
