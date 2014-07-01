@@ -7,6 +7,12 @@
   },
   {
     "answer": "YES",
+    "comment": "They can see how much their content is viewed (online, for example)",
+    "bird_id": 157,
+    "evaluation_question_id": 8
+  },
+  {
+    "answer": "YES",
     "comment": "",
     "bird_id": 157,
     "evaluation_question_id": 8

@@ -35,9 +35,7 @@
   "tangible_problem": "No",
   "tangible_problem_detail": "",
   "images": [
-    {
-      "url": "/system/assets/303/original/README.md?1383259933"
-    }
+
   ],
   "fse_org_style": {
     "created_at": null,
@@ -71,6 +69,6 @@
     "created_at": "2011-07-22T19:07:49Z",
     "email": "sr.erickson@gmail.com",
     "id": 1,
-    "updated_at": "2013-10-31T22:33:51Z"
+    "updated_at": "2014-06-30T15:43:08Z"
   }
 }

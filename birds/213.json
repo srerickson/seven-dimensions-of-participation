@@ -29,7 +29,7 @@
   "sponsors": "The site was funded by Babette Pepaj and friends and family.",
   "elites": "Babette Pepaj runs the operation.",
   "created_at": "2012-05-22T18:16:03Z",
-  "updated_at": "2013-10-31T21:01:17Z",
+  "updated_at": "2012-07-31T04:23:54Z",
   "summary": "BakeSpace is a recipe-themed social network site founded by Babette Pepaj in 2006. \r\n\r\nBakeSpace has garnered media attention because of its independent funding, a DIY ethos, and the various community forums and recipe sharing tools on its site. The site also allows members to create custom cookbooks from templates delivered via the BakeSpace iOS app. Although BakeSpace claims to be a community, the site's design and functionality limits users to an audience role. Users can post, like, share and undertake other tasks common to Web 2.0 sites, but the role of the community, its purpose, and its wider goals are largely determined by the site's founder and CEO.\r\nIt has won seven Webbys since 2007, and has been recognized by Twistiup, IACP and GIT Catalyst. \r\n\r\n",
   "birder_credits": "Dalena Hunter.\r\nEdited by rncrooks@ucla.edu 17 July 2012.\r\nEdited by Stacy Wood, July 2012. ",
   "tangible_problem": "No",
@@ -37,9 +37,6 @@
   "images": [
     {
       "url": "/system/assets/254/original/bakespace_screen_cap_01.png?1342627696"
-    },
-    {
-      "url": "/system/assets/301/original/Rakefile.rb?1383253274"
     }
   ],
   "fse_org_style": {
@@ -71,9 +68,9 @@
     "updated_at": "2011-08-12T20:17:18Z"
   },
   "updated_by": {
-    "created_at": "2011-07-22T19:07:49Z",
-    "email": "sr.erickson@gmail.com",
-    "id": 1,
-    "updated_at": "2013-10-31T22:33:51Z"
+    "created_at": "2012-04-09T16:35:57Z",
+    "email": "stacyewood@gmail.com",
+    "id": 14,
+    "updated_at": "2012-11-02T17:02:53Z"
   }
 }

@@ -1,0 +1,26 @@
+This is an excerpt of an exchange between me (Seth Erickson,'sre') and some 
+Tor developers (Roger Dingledine - 'arma', and phobos) on Tor's IRC chat room. 
+
+
+2011-05-31 16:06:19 -0700	[sre]	I wonder if I could get any Tor developers here to answer a quick question?
+2011-05-31 16:06:36 -0700	[sre]	(I'm doing some "academic" research on Tor from a sociological perspective)
+2011-05-31 16:07:09 -0700	[sre]	my question is basically, what is the nature your interest in anonymity? (primarily a political ideal? a fascinating technical problem? something else?). I'd like to know what interests you and motivated you to join (or create) the project.
+2011-05-31 16:08:30 -0700	[misc]	I am not a tor developper, but I think that if you want some answer, you may have to wait nil
+2011-05-31 16:08:56 -0700	[sre]	i don't mind waiting!
+2011-05-31 16:08:58 -0700	[arma]	i don't think any given tor developer has only one answer to that question
+2011-05-31 16:09:06 -0700	[arma]	my answer would be "yes" to both
+2011-05-31 16:09:14 -0700	[misc]	( or you may not have to wait and be lucky )
+2011-05-31 16:09:22 -0700	[arma]	i actually started from a combination of civil liberties interest and technical interest
+2011-05-31 16:10:12 -0700	[arma]	see the third bullet point at the bottom of http://freehaven.net/
+2011-05-31 16:10:14 -0700	[sre]	thans arma
+2011-05-31 16:10:35 -0700	[notr00t]	i'm not a developer, but as a user i don't want people reading my traffic
+2011-05-31 16:11:00 -0700	[notr00t]	just a matter of principle
+2011-05-31 16:11:24 -0700	[Atari-Frosch]	Not a developer, too. nil I want to help people in countries with strong censorship to be able to use the net as I can.
+2011-05-31 16:13:17 -0700	[arma]	i think many tor developers also regard it as something they want to have for themselves too
+2011-05-31 16:13:36 -0700	[arma]	building a tool for "those people over there who need freedom" doesn't work very well
+2011-05-31 16:14:09 -0700	[phobos]	sre: you'll probably get much better responses by emailing tor-assistants@torproject.org
+2011-05-31 16:14:18 -0700	[phobos]	or tor-dev
+2011-05-31 16:14:39 -0700	[arma]	i dunno, this might be the best answer you get nil
+2011-05-31 16:14:57 -0700	[sre]	yeah, i'm digging it
+2011-05-31 16:15:37 -0700	[notr00t]	and there's legitimate fear that the "free" governments of the world have no long-term intention of remaining free
+2011-05-31 16:16:03 -0700	[notr00t]	and effective resistance will depend on secure communication

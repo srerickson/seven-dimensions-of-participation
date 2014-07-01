@@ -29,7 +29,7 @@
   "sponsors": "figshare is sponsored by Digital Science, a Macmillan Publishers company. However, the organization clearly states that figshare is an \"independent body\": \"Digital Science’s relationship with figshare represents the first of its kind in the company’s history: a community- based, open science project that will retain its autonomy whilst receiving support from the division.\"\r\n\r\n('FAQs', accessed August 17, 2012: http://figshare.com/faqs)",
   "elites": "The founder Mark Hahnel has legitimate authority over the organization. He receives funding and personnel support from Digital Science; although, Digital Science claims that figshare retains its \"autonomy.\"",
   "created_at": "2012-08-07T21:22:51Z",
-  "updated_at": "2013-10-31T20:23:24Z",
+  "updated_at": "2012-09-05T22:59:34Z",
   "summary": "figshare is a cloud-based platform for storing, browsing, and publishing open datasets, including negative results and unpublished figures. The data is provided under a Creative Commons License for re-use. The figshare repository caters to all research domains. figshare was created by Mark Hahnel in 2011 and the site was re-launched in 2012 after Hahnel received support from Digital Science. ",
   "birder_credits": "Pat Garcia ",
   "tangible_problem": "No",
@@ -66,9 +66,9 @@
     "updated_at": "2011-08-12T20:17:18Z"
   },
   "updated_by": {
-    "created_at": "2011-07-22T19:07:49Z",
-    "email": "sr.erickson@gmail.com",
-    "id": 1,
-    "updated_at": "2013-10-31T22:33:51Z"
+    "created_at": "2012-04-22T23:44:57Z",
+    "email": "patgarcia83@gmail.com",
+    "id": 24,
+    "updated_at": "2013-07-09T03:38:55Z"
   }
 }
