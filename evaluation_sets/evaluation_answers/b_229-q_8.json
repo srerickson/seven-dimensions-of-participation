@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 229,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "It is structured as a competitive game.",
     "bird_id": 229,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 25
   },
   {
     "answer": "YES",
     "comment": "You can earn badges. ",
     "bird_id": 229,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 229,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 14
   }
 ]

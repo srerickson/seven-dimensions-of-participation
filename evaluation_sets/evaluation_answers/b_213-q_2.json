@@ -3,18 +3,21 @@
     "answer": "NO",
     "comment": "The site is a commercial enterprise, maintained and executed by the CEO. ",
     "bird_id": 213,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 14
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 213,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 23
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 213,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 24
   }
 ]

@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 20,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 20,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "If the community-building component is robust",
     "bird_id": 20,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 4
   }
 ]

@@ -3,30 +3,35 @@
     "answer": "NO",
     "comment": "Contributions to the FSE (whether in time or in money) essentially become the property of the FSE. ",
     "bird_id": 179,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 2
   },
   {
     "answer": "YES",
     "comment": "'We encourage reproduction and distribution of original materials on this site for educational and personal use. All content on this site created by Free Press (unless otherwise noted) is available to you under a Creative Commons Attribution-NonCommercial-ShareAlike license.' http://www.freepress.net/privacy-copyright",
     "bird_id": 179,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "This is a bit tricky.  As Free Press makes its content freely available under a CC license, they cede some control but still own the content on the site.  This content is largely produced by the FSE anyway.  Tasks involve political action, the FSE cannot maintain control of the resources produced.  However, it is not clear that tasks like signing a petition or lobbying are tasks that can be controlled or owned at all.",
     "bird_id": 179,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 25
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 179,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 24
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 179,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 14
   }
 ]

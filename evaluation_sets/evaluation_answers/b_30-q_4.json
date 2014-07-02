@@ -3,18 +3,21 @@
     "answer": "NO",
     "comment": "You retain ownership but also allow Youtube to do whatever it wants with the content by participating.",
     "bird_id": 30,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 14
   },
   {
     "answer": "NO",
     "comment": "This is debatable, but it seems that once you subscribe you never quite know what data will be collected about you and how this will be used. Also, uploaded content is automatically licensed to youtube to use as they please.",
     "bird_id": 30,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "The original material that is posted may be retained, but future use cannot be controlled.",
     "bird_id": 30,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 25
   }
 ]

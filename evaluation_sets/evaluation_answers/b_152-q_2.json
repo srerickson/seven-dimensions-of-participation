@@ -3,24 +3,28 @@
     "answer": "NO",
     "comment": "",
     "bird_id": 152,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "Nominally, yes, but functionally, no.",
     "bird_id": 152,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 25
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 152,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 24
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 152,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 14
   }
 ]

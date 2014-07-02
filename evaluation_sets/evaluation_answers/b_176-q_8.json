@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "Leader boards showing top \"evolvers\" and top \"soloists\" as well as hall of famers and points scored. ",
     "bird_id": 176,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 2
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 176,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "It is a competitive game.  Also, publication credit has been offered.",
     "bird_id": 176,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 25
   },
   {
     "answer": "YES",
     "comment": "You get a score for playing.",
     "bird_id": 176,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 24
   }
 ]

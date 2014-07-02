@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 19,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "Feed back is important, but even though the Board of Stewards makes decisions democratically (the site claims) but regular participants will not have access to this group directly.",
     "bird_id": 19,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 25
   },
   {
     "answer": null,
     "comment": null,
     "bird_id": 19,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 24
   }
 ]

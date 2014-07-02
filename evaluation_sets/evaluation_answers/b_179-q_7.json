@@ -3,30 +3,35 @@
     "answer": "NO",
     "comment": "The only actions available to individuals are signing petitions or reading.  There are no apparent ways to interact directly with Free Press from the outside. ",
     "bird_id": 179,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 2
   },
   {
     "answer": "YES",
     "comment": "In so far as you can contact them: http://www.freepress.net/contact",
     "bird_id": 179,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "Not at the level of agenda setting.  On the other hand, Free Press exists expressly to facilitate dissent on a broader scale.",
     "bird_id": 179,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 25
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 179,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 24
   },
   {
     "answer": "NO",
     "comment": "Obviously, the urging towards signing petitions and joining preexisting campaigns is the capacity for effective voice but if we are considering capacity for effective voice within the resource itself this does not exist. ",
     "bird_id": 179,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 14
   }
 ]

@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "Although the format of conversations is limited to tweets/retweets, there is the ability to communicate and comment. ",
     "bird_id": 227,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 227,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 227,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 25
   }
 ]

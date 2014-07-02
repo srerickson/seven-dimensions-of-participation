@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "'anyone can contribute to, edit, remix and download its 'learning objects and modules' from its online repository.' 'Connexions' collaborative community continuously converts and adapts information in the Connexions repository. Connexions also encourages participation through author feedback and shared work areas. '",
     "bird_id": 44,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 44,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 14
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 44,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 25
   }
 ]

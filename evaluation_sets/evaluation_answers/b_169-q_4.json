@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 169,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "Participants choose to make documents public or keep them behind a pay wall.",
     "bird_id": 169,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "In the sense that the documents can be used freely and the research that is produced using the primary sources is not controlled by the entity.",
     "bird_id": 169,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 25
   }
 ]

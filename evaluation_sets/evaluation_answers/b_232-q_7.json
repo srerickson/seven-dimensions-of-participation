@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 232,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 24
   },
   {
     "answer": "NO",
     "comment": "There are forums for discussing the site, but they invest no direct authority in users.",
     "bird_id": 232,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 23
   },
   {
     "answer": "NO",
     "comment": "Not clear how direct the access to the FSE is",
     "bird_id": 232,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 2
   }
 ]

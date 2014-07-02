@@ -3,18 +3,21 @@
     "answer": "NO",
     "comment": "Twitter openly sells data and information to third parties.",
     "bird_id": 227,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 14
   },
   {
     "answer": "NO",
     "comment": "ou retain your rights to any Content you submit, post or display on or through the Services. By submitting, posting or displaying Content on or through the Services, you grant us a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute such Content in any and all media or distribution methods (now known or later developed). https://twitter.com/tos",
     "bird_id": 227,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "If tweets are public, they may not be controlled.  If tweets are private, control and ownership is ambiguous.",
     "bird_id": 227,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 25
   }
 ]

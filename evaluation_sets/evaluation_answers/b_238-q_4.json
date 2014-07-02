@@ -3,24 +3,28 @@
     "answer": "NO",
     "comment": "This is tricky.  The products of the crwodsourcing IdeaScale facilitates may be controlled by participants who use IdeaScale, but this is not true for participants who contribute ideas and opinions.  As IdeaScale operates across platforms, including Facebook, it is difficult to definitively answer \"yes\" to this question.",
     "bird_id": 238,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 25
   },
   {
     "answer": "YES",
     "comment": "it seems that the results and IP remain with the creator of the particular instance of crowdsourcing",
     "bird_id": 238,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 2
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 238,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 24
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 238,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 14
   }
 ]

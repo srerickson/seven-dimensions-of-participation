@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 173,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "Only through the social media platforms on which it relies and from which it aggregates content.",
     "bird_id": 173,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 25
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 173,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 173,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 14
   }
 ]

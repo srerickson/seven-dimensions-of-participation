@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "Though this is based on dual licenses:  \t  MySQL is dual-licensed.  \"MySQL AB makes MySQL available under the GPL at no charge, but sells it under other more traditional licenses to clients who do not find the GPL to be ideal for their purposes, such as inclusion of MySQL AB technology in a closed source product.\" (http://en.wikipedia.org/wiki/MySQL_AB)",
     "bird_id": 14,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "Dual licensing structure requires clarification of resource disposition.",
     "bird_id": 14,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "In the sense that the resource is publicly accessible. ",
     "bird_id": 14,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 25
   }
 ]

@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "Yes only insofar as one can see the effect of code or fixes one has contibuted in the next release of the software.  Periodically there are lists of \"most frequent contributors.\" ",
     "bird_id": 9,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 2
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 9,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 9,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 4
   }
 ]

@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "how much you have and also how much you have mined. ",
     "bird_id": 195,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 2
   },
   {
     "answer": "YES",
     "comment": "Participation is measured in terms of currency - bitcoins.",
     "bird_id": 195,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 195,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 195,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 24
   }
 ]

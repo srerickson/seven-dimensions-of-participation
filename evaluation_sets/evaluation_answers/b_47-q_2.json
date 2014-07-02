@@ -3,24 +3,28 @@
     "answer": "NO",
     "comment": "Developers have some influence due to the fact that the platform is open source, but as a commercial product, the FSE controls the goals.",
     "bird_id": 47,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 25
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 47,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 2
   },
   {
     "answer": "NO",
     "comment": "the goals are set by the FSE",
     "bird_id": 47,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 47,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 14
   }
 ]

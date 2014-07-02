@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "Again, yes and no, essentially you see the aggregate outcome through voting. In the case of an individual design, then the metric is clear. ",
     "bird_id": 151,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "The vote is the main task",
     "bird_id": 151,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 151,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 25
   }
 ]

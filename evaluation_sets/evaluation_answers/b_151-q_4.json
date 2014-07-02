@@ -3,18 +3,21 @@
     "answer": "NO",
     "comment": "The designs, once voted on become licensed to Threadless itself and can't be used by the designer for commercial purposes.",
     "bird_id": 151,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 14
   },
   {
     "answer": "NO",
     "comment": "Designs are automatically licensed to Threadless for use on clothes and wall decals. . Submitted designs that remain on the site can't be relicensed elsewhere",
     "bird_id": 151,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 151,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 25
   }
 ]

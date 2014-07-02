@@ -3,24 +3,28 @@
     "answer": "N/A",
     "comment": "",
     "bird_id": 157,
-    "evaluation_question_id": 3
+    "evaluation_question_id": 3,
+    "user_id": 7
   },
   {
     "answer": "N/A",
     "comment": "",
     "bird_id": 157,
-    "evaluation_question_id": 3
+    "evaluation_question_id": 3,
+    "user_id": 1
   },
   {
     "answer": "N/A",
     "comment": "",
     "bird_id": 157,
-    "evaluation_question_id": 3
+    "evaluation_question_id": 3,
+    "user_id": 14
   },
   {
     "answer": "N/A",
     "comment": "",
     "bird_id": 157,
-    "evaluation_question_id": 3
+    "evaluation_question_id": 3,
+    "user_id": 25
   }
 ]

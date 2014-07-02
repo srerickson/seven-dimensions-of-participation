@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 218,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "The questions teach users new languages, vocabulary words, etc. The more you play, the more content you learn. ",
     "bird_id": 218,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 218,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 14
   }
 ]

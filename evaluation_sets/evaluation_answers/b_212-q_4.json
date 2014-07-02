@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "You retain copyright to anything you post, but Etsy sublicenses everything, too: Etsy does not claim ownership rights in your Content. You grant Etsy a license solely to enable Etsy to use any information or Content you supply Etsy with, so that Etsy is not violating any rights you might have in that Content. You grant Etsy a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, sublicensable (through multiple tiers) right to exercise the copyright, publicity, and database rights (but no other rights) you have in the Content, in any media now known or not currently known, with respect to your Content. You agree to allow Etsy to store or re-format your Content on Etsy and display your Content on Etsy in any way as Etsy chooses. Etsy will only use personal information in accordance with Etsy's Privacy Policy.  http://www.etsy.com/help/article/479",
     "bird_id": 212,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 212,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "The resource may be a product that is sold to another participant, but standard property ownership rules apply.",
     "bird_id": 212,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 25
   }
 ]

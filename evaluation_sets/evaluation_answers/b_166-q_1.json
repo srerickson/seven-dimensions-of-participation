@@ -3,30 +3,35 @@
     "answer": "YES",
     "comment": "Contributors learn how the system works, how to create good manuals, and how to participate effectively in the project",
     "bird_id": 166,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 2
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 166,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "Manuals are produced, but the process of constructing one is also educative.",
     "bird_id": 166,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 25
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 166,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 166,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 14
   }
 ]

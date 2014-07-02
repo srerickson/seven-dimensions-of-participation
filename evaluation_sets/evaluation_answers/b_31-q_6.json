@@ -3,18 +3,21 @@
     "answer": "NO",
     "comment": "",
     "bird_id": 31,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 31,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "No penalty, retention of resources is unlikely",
     "bird_id": 31,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 25
   }
 ]

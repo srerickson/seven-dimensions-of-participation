@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 202,
-    "evaluation_question_id": 5
+    "evaluation_question_id": 5,
+    "user_id": 14
   },
   {
     "answer": "NO",
     "comment": "Depending on what exactly is being developed, control could be individual or collective.",
     "bird_id": 202,
-    "evaluation_question_id": 5
+    "evaluation_question_id": 5,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 202,
-    "evaluation_question_id": 5
+    "evaluation_question_id": 5,
+    "user_id": 24
   }
 ]

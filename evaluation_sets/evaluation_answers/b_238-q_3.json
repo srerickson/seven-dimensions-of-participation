@@ -3,24 +3,28 @@
     "answer": "N/A",
     "comment": "",
     "bird_id": 238,
-    "evaluation_question_id": 3
+    "evaluation_question_id": 3,
+    "user_id": 25
   },
   {
     "answer": "NO",
     "comment": "the actions of the crowd have an indirect effect on the design and structure of the company and product",
     "bird_id": 238,
-    "evaluation_question_id": 3
+    "evaluation_question_id": 3,
+    "user_id": 2
   },
   {
     "answer": "N/A",
     "comment": "",
     "bird_id": 238,
-    "evaluation_question_id": 3
+    "evaluation_question_id": 3,
+    "user_id": 24
   },
   {
     "answer": "N/A",
     "comment": "",
     "bird_id": 238,
-    "evaluation_question_id": 3
+    "evaluation_question_id": 3,
+    "user_id": 14
   }
 ]

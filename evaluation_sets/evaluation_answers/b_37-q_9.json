@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 37,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "The project aims to bring together creators and audiences.",
     "bird_id": 37,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "Each project has a comments section where potential funders can communicate with the artists",
     "bird_id": 37,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 24
   }
 ]

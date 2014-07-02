@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "It is all under a free software license - the Apache license!",
     "bird_id": 3,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 3,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 3,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 24
   }
 ]

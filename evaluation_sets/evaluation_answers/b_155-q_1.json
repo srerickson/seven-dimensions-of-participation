@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "The Stream allows the user to be both the creator and critic of content. By engaging a user becomes more involved in the specific political conversations but also learns how to better utilize The Stream itself as a platform for expression ",
     "bird_id": 155,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 155,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 155,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "News and information as a public good.",
     "bird_id": 155,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 6
   }
 ]

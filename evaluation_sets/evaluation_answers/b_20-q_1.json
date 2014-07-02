@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "Not only does a user become a more active content provider/creator by participating, but there is also a sense of developing a community of creators and producers and the sharing of resources through that community. ",
     "bird_id": 20,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 14
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 20,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "Yes if there's help professionalizing amateurs",
     "bird_id": 20,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 4
   }
 ]

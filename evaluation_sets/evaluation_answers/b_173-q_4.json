@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "'All Global Voices content is published under a Creative Commons attribution license, which means that anybody can re-publish our content as long as they follow the guidelines we lay out in our attribution policy.'",
     "bird_id": 173,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "In the sense that all content is published and made freely available under a CC license..",
     "bird_id": 173,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 25
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 173,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 173,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 14
   }
 ]

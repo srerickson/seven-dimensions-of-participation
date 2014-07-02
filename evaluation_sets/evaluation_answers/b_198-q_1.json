@@ -3,24 +3,28 @@
     "answer": "NO",
     "comment": "",
     "bird_id": 198,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 2
   },
   {
     "answer": "YES",
     "comment": "Through participating one becomes privy to geo-cultural knowledge that is inaccessible to non-participants.",
     "bird_id": 198,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 25
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 198,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 198,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 14
   }
 ]

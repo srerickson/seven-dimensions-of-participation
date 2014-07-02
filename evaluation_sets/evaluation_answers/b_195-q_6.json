@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "you can exchange them for dollars",
     "bird_id": 195,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 2
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 195,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 195,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "Bitcoin currency can be exchanged for fiat currencies, such as American dollars. ",
     "bird_id": 195,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 24
   }
 ]

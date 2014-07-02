@@ -3,18 +3,21 @@
     "answer": "NO",
     "comment": "'Users are generally restricted to defining the goals of a particular educational project, not the goals of Connexions itself. There is no obvious way to interact directly with the FSE beyond an infrequently updated Developer blog. Connexions itself is influenced by its funders and partners in the Connexions Consortium, and others involved in the development of \"Open Educational Resources.\" '",
     "bird_id": 44,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 44,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 14
   },
   {
     "answer": "NO",
     "comment": "Participants can design learning modules, in that sense shaping goals, but decision making about the entity itself happens in the FSE.",
     "bird_id": 44,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 25
   }
 ]

@@ -3,18 +3,21 @@
     "answer": "NO",
     "comment": "This might be debatable, but it seems quite bureaucratic: http://www.plos.org/contact/",
     "bird_id": 35,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "Goals and policies appear to be set by FSE.",
     "bird_id": 35,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 23
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 35,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 25
   }
 ]

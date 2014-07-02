@@ -3,18 +3,21 @@
     "answer": "NO",
     "comment": "Pinterest can use your data after deactivating your account: 'Following termination or deactivation of your account, or if you remove any User Content from your account or your boards, Pinterest may retain your User Content for a commercially reasonable period of time for backup, archival, or audit purposes. Furthermore, Pinterest and other Users may retain and continue to display, reproduce, re-pin, modify, re-arrange, and distribute any of your User Content that other Users have re-pinned to their own boards or which you have posted to public or semi-public areas of the Service.'",
     "bird_id": 234,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 234,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "No penalty for exit, the resource you produce is your own, but you cannot take the platform, that gives form to your resource, with you.  Also, The FSE retains a sublicense.",
     "bird_id": 234,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 25
   }
 ]

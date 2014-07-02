@@ -3,24 +3,28 @@
     "answer": "NO",
     "comment": "",
     "bird_id": 152,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "FSTV relies on secondary services (Facebook, Twitter) to facilitate interaction for most casual users.",
     "bird_id": 152,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 25
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 152,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 24
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 152,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 14
   }
 ]

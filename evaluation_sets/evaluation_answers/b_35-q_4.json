@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 35,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 35,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 23
   },
   {
     "answer": "NO",
     "comment": "It's a bit grey.  Everything published is licensed to the author(s) via a Creative Commons license, but PLoS also maintains ownership.",
     "bird_id": 35,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 25
   }
 ]

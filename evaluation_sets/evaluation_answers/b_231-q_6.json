@@ -3,18 +3,21 @@
     "answer": "NO",
     "comment": "You cannot keep your resources unless you back them up individually. ",
     "bird_id": 231,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 231,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "No penalty for exit, the resource you produce is your own, but you cannot take the platform, that gives form to your resource, with you.",
     "bird_id": 231,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 25
   }
 ]

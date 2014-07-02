@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "In some form, yes. Producers can set up their own profile and frame their posted stories themselves. You can 'share', tweet, and recommend stories",
     "bird_id": 157,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 157,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 1
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 157,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 157,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 25
   }
 ]

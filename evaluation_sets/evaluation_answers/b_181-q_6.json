@@ -3,18 +3,21 @@
     "answer": "NO",
     "comment": "",
     "bird_id": 181,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 181,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "But limited control over products. ",
     "bird_id": 181,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 4
   }
 ]

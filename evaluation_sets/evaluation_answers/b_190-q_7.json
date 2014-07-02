@@ -3,12 +3,14 @@
     "answer": "",
     "comment": "",
     "bird_id": 190,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 24
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 190,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 23
   }
 ]

@@ -3,18 +3,21 @@
     "answer": "NO",
     "comment": "",
     "bird_id": 183,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "The hierarchy among users/posters is based on the highest number of contributions and the quality of contributions. ",
     "bird_id": 183,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 24
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 183,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 4
   }
 ]

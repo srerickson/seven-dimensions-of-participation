@@ -3,18 +3,21 @@
     "answer": "NO",
     "comment": "'The Content on the Service, and the trademarks, service marks and logos (\"Marks\") on the Service, are owned by or licensed to YouTube, subject to copyright and other intellectual property rights under the law.' http://www.youtube.com/t/terms",
     "bird_id": 165,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 165,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "But effectively, no.",
     "bird_id": 165,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 25
   }
 ]

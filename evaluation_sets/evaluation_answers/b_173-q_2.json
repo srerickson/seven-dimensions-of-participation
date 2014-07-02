@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "'Our Editors review all stories before they are published on Global Voices. Every Editor works with a team of volunteer Authors who help monitor and write about blogs in their country or region. Our editorial coverage is driven by what Authors tell us is important to pay attention to in their blogospheres.'",
     "bird_id": 173,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "For the average participant, no.  The FSE sets the goals.  On the other hand, meaningful participation requires an involved application process, in which case, it might be argued that participants do participate in goal setting.",
     "bird_id": 173,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 25
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 173,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 173,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 14
   }
 ]

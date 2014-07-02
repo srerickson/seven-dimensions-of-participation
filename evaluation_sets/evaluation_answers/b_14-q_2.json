@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "Developers can make high level suggestions, however ' The power to commit code and make decisions about the upstream version of MySQL is done by the company, MySQL AB. '",
     "bird_id": 14,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 14,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 23
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 14,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 25
   }
 ]

@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 186,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "Metric of participation is number of loans or dollars lent.",
     "bird_id": 186,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "You can see how much you loaned and how much has been paid back. ",
     "bird_id": 186,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 24
   }
 ]

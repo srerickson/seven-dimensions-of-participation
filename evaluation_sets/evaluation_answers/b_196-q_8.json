@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "You can see how much processing power you have contributed to a specific project.",
     "bird_id": 196,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 196,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "You can see how much computational power you've contributed.",
     "bird_id": 196,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 24
   }
 ]

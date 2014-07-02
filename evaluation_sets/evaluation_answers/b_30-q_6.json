@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 30,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "This is also debatable, since once you leave, there is the question of whether they still use your uploaded content or collected data.",
     "bird_id": 30,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "There is no penalty, but full retention of resources is unlikely.",
     "bird_id": 30,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 25
   }
 ]

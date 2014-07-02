@@ -3,18 +3,21 @@
     "answer": null,
     "comment": null,
     "bird_id": 223,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 14
   },
   {
     "answer": "NO",
     "comment": "Intellectual property rights are transfered to Quirky upon submission of an idea.",
     "bird_id": 223,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 24
   },
   {
     "answer": "NO",
     "comment": "Participation by users produces products for sale by the FSE.",
     "bird_id": 223,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 23
   }
 ]

@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "via IRC-- becoming a member is also an initiation into an underground of sorts. ",
     "bird_id": 164,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 2
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 164,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 164,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "However, often the identities of those who are communicating are unknown. ",
     "bird_id": 164,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 24
   }
 ]

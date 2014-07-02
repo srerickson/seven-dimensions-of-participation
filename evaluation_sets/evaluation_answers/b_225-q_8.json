@@ -3,18 +3,21 @@
     "answer": "NO",
     "comment": "",
     "bird_id": 225,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 225,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "Sellers have rankings and buyers have a list of the products they've purchased. Reviews also exist to measure satisfaction. ",
     "bird_id": 225,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 24
   }
 ]

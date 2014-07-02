@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "The entity is based around political participation.",
     "bird_id": 193,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "They encourage gatherings, such as \"Voters Rising Call\" parties. ",
     "bird_id": 193,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 193,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 4
   }
 ]

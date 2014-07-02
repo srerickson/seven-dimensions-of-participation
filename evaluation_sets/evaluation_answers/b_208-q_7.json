@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "'Community review. We will make our development process and our business decisions as transparent as possible, and look for community feedback at all stages. While we know we can't please everyone all the time, we know that our users are incredibly diverse, and the ways they use the site are just as diverse. We will strive to take your feedback into account as much as we can.' - http://www.dreamwidth.org/legal/principles",
     "bird_id": 208,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 208,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 14
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 208,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 25
   }
 ]

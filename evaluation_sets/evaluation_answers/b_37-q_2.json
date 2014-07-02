@@ -3,18 +3,21 @@
     "answer": "NO",
     "comment": "",
     "bird_id": 37,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 37,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 23
   },
   {
     "answer": "NO",
     "comment": "Goals are set by the FSE",
     "bird_id": 37,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 24
   }
 ]

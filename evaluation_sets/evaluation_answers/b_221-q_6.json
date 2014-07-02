@@ -3,18 +3,21 @@
     "answer": "NO",
     "comment": "Once you leave the group you are no longer benefiting from the resource (unless all of the goals of the BRU is met in which case everyone benefits from their work) ",
     "bird_id": 221,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 221,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 221,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 25
   }
 ]

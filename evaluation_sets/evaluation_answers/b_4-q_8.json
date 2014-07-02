@@ -3,18 +3,21 @@
     "answer": "NO",
     "comment": "he aggregate is measured through its success and the Python community itself judges the merit of different releases and versions.",
     "bird_id": 4,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 4,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 23
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 4,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 2
   }
 ]

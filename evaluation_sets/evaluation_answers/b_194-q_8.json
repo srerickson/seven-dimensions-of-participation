@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 194,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 194,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 194,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 25
   }
 ]

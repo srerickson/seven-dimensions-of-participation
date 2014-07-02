@@ -3,18 +3,21 @@
     "answer": "NO",
     "comment": "I'd say it's more about self-promotion in a specific marketplace",
     "bird_id": 194,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 194,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 194,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 25
   }
 ]

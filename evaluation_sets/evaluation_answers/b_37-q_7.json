@@ -3,18 +3,21 @@
     "answer": "NO",
     "comment": "This is unclear. There is a contact page, but the site doesn't encourage a community of participants to take part in goal setting.",
     "bird_id": 37,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 37,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 23
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 37,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 24
   }
 ]

@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "most events and resources related to them are anonymous and in the public domain",
     "bird_id": 164,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 2
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 164,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 164,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 164,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 24
   }
 ]

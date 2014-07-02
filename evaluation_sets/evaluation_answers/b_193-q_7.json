@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 193,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "However, it is limited and there is little evidence that it actually occurs",
     "bird_id": 193,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 193,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 4
   }
 ]

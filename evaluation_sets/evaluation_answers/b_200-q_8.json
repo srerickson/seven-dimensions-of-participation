@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 200,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 23
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 200,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 24
   },
   {
     "answer": "NO",
     "comment": "There are some informal measures based on reaction or discussion created by the participation of in individual.",
     "bird_id": 200,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 2
   }
 ]

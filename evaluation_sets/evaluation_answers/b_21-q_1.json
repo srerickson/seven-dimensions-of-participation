@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 21,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 25
   },
   {
     "answer": "YES",
     "comment": "Classic involvement in both journalism and political activism, and in some cases in the technical side as well.",
     "bird_id": 21,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 2
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 21,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 21,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 14
   }
 ]

@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "There are discussion forums. ",
     "bird_id": 156,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 156,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "Sounds like the goal is to produce affinity groups, but it is not clear.",
     "bird_id": 156,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 2
   }
 ]

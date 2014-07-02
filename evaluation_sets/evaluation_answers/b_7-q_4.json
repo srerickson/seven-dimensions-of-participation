@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "All creation of content requires citation etc., so original content produced for a Wikia is publicly accessible but is credited to the creator. ",
     "bird_id": 7,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 7,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 7,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 25
   }
 ]

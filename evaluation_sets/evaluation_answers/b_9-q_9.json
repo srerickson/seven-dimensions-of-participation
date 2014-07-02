@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "The mailing list is fraught with affect, and is also one of the main places where experiences are reported.  Also, any number of user mailing lists, conferences, etc. ",
     "bird_id": 9,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 2
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 9,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 9,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 4
   }
 ]

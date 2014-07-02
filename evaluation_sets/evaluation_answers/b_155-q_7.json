@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "In this case I would specifically address the difference between participant and user. A user who creates content or engages in commentary can leave and still use the resource of The Stream, albeit at a different level. ",
     "bird_id": 155,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 155,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 23
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 155,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "But any dissent is gatekept and filtered by the management previous to publication on air.",
     "bird_id": 155,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 6
   }
 ]

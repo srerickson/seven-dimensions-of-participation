@@ -3,24 +3,28 @@
     "answer": "NO",
     "comment": "Users retain the rights to the content they share, but grant Instagram license to use and modify that content within the service.  While photograhs themselves belong to users, I don't think this is a resource produced by Instagram, but is produced prior to circulation on Instagram.",
     "bird_id": 230,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 25
   },
   {
     "answer": "YES",
     "comment": "photos remain the property of those who take them, but they must grant IG/FB a non-exclusive right to do whatever they want with them.",
     "bird_id": 230,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 2
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 230,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "This is one of those cases in which Instagram does not claim ownership over content but because of the nature of its service it requires users to grant them a limited licensing agreement that allows them to display and modify content on or off the site/app. If a user's setting are on private, this limited licensing does not aply.",
     "bird_id": 230,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 14
   }
 ]

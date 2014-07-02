@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "Content is owned by produser and licensed to CNN",
     "bird_id": 157,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "Not really. The TOS gives CNN power to redistribute and repurposed (worldwide and in perpetuity) any materials uploaded.  (http://ireport.cnn.com/terms.jspa)",
     "bird_id": 157,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 1
   },
   {
     "answer": "NO",
     "comment": "Terms of use allow CNN to use your content in any way they see fit...IF they give your content to a third party as a stand alone piece, then they will pay you a portion of their licensing agreement. ",
     "bird_id": 157,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 14
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 157,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 25
   }
 ]

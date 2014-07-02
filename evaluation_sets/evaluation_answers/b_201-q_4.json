@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "Content uploaded by users is owned by users and licensed by the FSE under Creative Commons 3.0 attribution..",
     "bird_id": 201,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 23
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 201,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "The FSE claims to be only a \"passive intermediary\" and \"provider of interactive computer services\"; they don't make any claim to the petitions created",
     "bird_id": 201,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 24
   }
 ]

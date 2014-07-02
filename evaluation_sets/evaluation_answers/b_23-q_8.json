@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "They can track how much revenue they generate. ",
     "bird_id": 23,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "User participation could be measured in share of revenue.",
     "bird_id": 23,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 23
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 23,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 2
   }
 ]

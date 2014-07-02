@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "Although there isn't a clear space for providing feedback, the entire website is a forum and community space for posting one's ideas on self-tracking.",
     "bird_id": 204,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 24
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 204,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 23
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 204,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 2
   }
 ]

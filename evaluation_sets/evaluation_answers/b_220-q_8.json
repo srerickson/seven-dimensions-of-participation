@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 220,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "A user's profile lists the number of articles they've contributed.",
     "bird_id": 220,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 24
   },
   {
     "answer": "NO",
     "comment": "It doesn't seem like content generation (the main task) is measured.",
     "bird_id": 220,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 4
   }
 ]

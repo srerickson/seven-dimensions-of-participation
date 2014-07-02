@@ -3,30 +3,35 @@
     "answer": "YES",
     "comment": "OP members can see the outcome of the petitions they sign, but not much more than that.",
     "bird_id": 179,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 2
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 179,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "Metrics are kept by the FSE.  These are generally inaccessible to participants.  On the other hand, participants can see the effects of their participation in the political impact their actions have.",
     "bird_id": 179,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 25
   },
   {
     "answer": "NO",
     "comment": "The FSE measures participation in campaigns but there isnt readily available for the OP to measure the outcome of their participation ",
     "bird_id": 179,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 24
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 179,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 14
   }
 ]

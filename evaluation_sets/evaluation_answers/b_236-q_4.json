@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 236,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 236,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "Probably yes on content, though ambiguity. No on platform",
     "bird_id": 236,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 4
   }
 ]

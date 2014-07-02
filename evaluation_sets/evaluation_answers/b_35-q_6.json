@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 35,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 35,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "No penalty for exit.  While authors retain rights to their work, it is unlikely that they could easily have their published work removed from PLoS.",
     "bird_id": 35,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 25
   }
 ]

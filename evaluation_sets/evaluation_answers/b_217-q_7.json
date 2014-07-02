@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "The operation relies on voting and editing of entries.",
     "bird_id": 217,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 14
   },
   {
     "answer": "NO",
     "comment": "'The website does not have a forum for users to discuss goals or changes to the design or workings of the website either. '",
     "bird_id": 217,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 217,
-    "evaluation_question_id": 7
+    "evaluation_question_id": 7,
+    "user_id": 25
   }
 ]

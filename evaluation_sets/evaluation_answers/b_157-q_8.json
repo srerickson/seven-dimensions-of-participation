@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "Videos are uploaded and made public on the iReport website",
     "bird_id": 157,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "They can see how much their content is viewed (online, for example)",
     "bird_id": 157,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 1
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 157,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 157,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 25
   }
 ]

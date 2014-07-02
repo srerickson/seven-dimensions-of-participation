@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "The site has many affordances that you become used to and are able to utilize once you become used to the resource.",
     "bird_id": 213,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 213,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "You get to learn about new recipes.",
     "bird_id": 213,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 24
   }
 ]

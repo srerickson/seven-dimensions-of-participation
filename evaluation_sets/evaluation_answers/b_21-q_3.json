@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "Most participation in goal-setting is direct, but as the network has grown, representative forms have also emerged.",
     "bird_id": 21,
-    "evaluation_question_id": 3
+    "evaluation_question_id": 3,
+    "user_id": 25
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 21,
-    "evaluation_question_id": 3
+    "evaluation_question_id": 3,
+    "user_id": 2
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 21,
-    "evaluation_question_id": 3
+    "evaluation_question_id": 3,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 21,
-    "evaluation_question_id": 3
+    "evaluation_question_id": 3,
+    "user_id": 14
   }
 ]

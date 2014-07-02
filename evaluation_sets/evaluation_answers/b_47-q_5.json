@@ -3,24 +3,28 @@
     "answer": "NO",
     "comment": "Because the products are generally creative works, they are subject to copyright law.",
     "bird_id": 47,
-    "evaluation_question_id": 5
+    "evaluation_question_id": 5,
+    "user_id": 25
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 47,
-    "evaluation_question_id": 5
+    "evaluation_question_id": 5,
+    "user_id": 2
   },
   {
     "answer": "YES",
     "comment": "the open source platform contributions are shared by everyone who uses the platform; however, the media made by universities, enterprises, media companies can be controlled and protected by the clients ",
     "bird_id": 47,
-    "evaluation_question_id": 5
+    "evaluation_question_id": 5,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 47,
-    "evaluation_question_id": 5
+    "evaluation_question_id": 5,
+    "user_id": 14
   }
 ]

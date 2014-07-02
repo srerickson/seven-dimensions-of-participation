@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "minor.  players learn something about protein folding and about its relevance in science",
     "bird_id": 176,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 2
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 176,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "The purpose of Fold It is to produce new knowledge about protein folding. ",
     "bird_id": 176,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 25
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 176,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 24
   }
 ]

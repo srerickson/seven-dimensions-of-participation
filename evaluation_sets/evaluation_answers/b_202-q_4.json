@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "",
     "bird_id": 202,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "Android uses various kinds of licenses, but the platform as a whole is open source and allows for forking and ownership of derivative products.",
     "bird_id": 202,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "Google, however, very intentionally publishes Android as a multi-license potpourri of GPL'd software",
     "bird_id": 202,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 24
   }
 ]

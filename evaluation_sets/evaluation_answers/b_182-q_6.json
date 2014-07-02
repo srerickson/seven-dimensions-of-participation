@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "Users may stop particiapting at any time.",
     "bird_id": 182,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "You can download ebooks and never return. ",
     "bird_id": 182,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 182,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 2
   }
 ]

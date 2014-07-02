@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "One may exit without penalty, but may not retain resources.",
     "bird_id": 226,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 25
   },
   {
     "answer": "YES",
     "comment": "just stop contributing",
     "bird_id": 226,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 2
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 226,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 226,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 14
   }
 ]

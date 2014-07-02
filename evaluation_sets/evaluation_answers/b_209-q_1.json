@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "You can learn more about the data you create and how researchers/companies can use it.",
     "bird_id": 209,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 209,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 23
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 209,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 25
   }
 ]

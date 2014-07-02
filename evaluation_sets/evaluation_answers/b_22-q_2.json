@@ -3,18 +3,21 @@
     "answer": "NO",
     "comment": "",
     "bird_id": 22,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 22,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 14
   },
   {
     "answer": "NO",
     "comment": "Participant feedback may be important, but in the end, the FSE decides.",
     "bird_id": 22,
-    "evaluation_question_id": 2
+    "evaluation_question_id": 2,
+    "user_id": 25
   }
 ]

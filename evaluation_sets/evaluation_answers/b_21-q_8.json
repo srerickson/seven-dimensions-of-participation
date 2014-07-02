@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "There is no formal metric, but participants can see the results of their participation.  Metrics such as number of articles, for example, are easy to imagine, but are not a part of the IMC infrastructure itself.",
     "bird_id": 21,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 25
   },
   {
     "answer": "NO",
     "comment": "No metrics per se, only stories and discussion online, or successful organization of protest events,",
     "bird_id": 21,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 2
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 21,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 24
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 21,
-    "evaluation_question_id": 8
+    "evaluation_question_id": 8,
+    "user_id": 14
   }
 ]

@@ -3,30 +3,35 @@
     "answer": "YES",
     "comment": "Participants can leave, content and skills can come with them",
     "bird_id": 166,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 2
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 166,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "Because the resources produced are freely available to all, one may not exit with resources, but there is no penalty for exit.",
     "bird_id": 166,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 25
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 166,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 166,
-    "evaluation_question_id": 6
+    "evaluation_question_id": 6,
+    "user_id": 14
   }
 ]

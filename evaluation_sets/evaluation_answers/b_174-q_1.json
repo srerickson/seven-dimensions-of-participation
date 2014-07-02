@@ -3,24 +3,28 @@
     "answer": "YES",
     "comment": "substantively, and also in terms of how science and participation in science works",
     "bird_id": 174,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 2
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 174,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 174,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 174,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 25
   }
 ]

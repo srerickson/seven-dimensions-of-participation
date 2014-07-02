@@ -3,30 +3,35 @@
     "answer": "YES",
     "comment": "One goal of the Free Press is to increase awareness of media reform issues; participation might therefore increase understanding of both these issues, and how to change them.",
     "bird_id": 179,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 2
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 179,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "Both the product and process of participation are educative.",
     "bird_id": 179,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 25
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 179,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 24
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 179,
-    "evaluation_question_id": 1
+    "evaluation_question_id": 1,
+    "user_id": 14
   }
 ]

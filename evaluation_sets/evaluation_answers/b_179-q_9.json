@@ -3,30 +3,35 @@
     "answer": "NO",
     "comment": "There are no obvious places where a Free Press OP would congregate, and the experience of FSE members would require direct contact.",
     "bird_id": 179,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 2
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 179,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 7
   },
   {
     "answer": "NO",
     "comment": "Answering \"Yes\" here would not be outside the realm of possibility, but the majority of a participants time will no involve meaningful communication with other participants within the confines of the official Free Press site.",
     "bird_id": 179,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 25
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 179,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 24
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 179,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 14
   }
 ]

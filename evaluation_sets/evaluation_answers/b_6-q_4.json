@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "All content is under Creative Commons licensing.",
     "bird_id": 6,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 14
   },
   {
     "answer": "YES",
     "comment": "",
     "bird_id": 6,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 7
   },
   {
     "answer": "YES",
     "comment": "In sofar as the content on Wikipedia may be used by anyone, yes, but no individual may control what is a collectively owned resource.",
     "bird_id": 6,
-    "evaluation_question_id": 4
+    "evaluation_question_id": 4,
+    "user_id": 25
   }
 ]

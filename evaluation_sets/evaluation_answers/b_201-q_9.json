@@ -3,18 +3,21 @@
     "answer": "YES",
     "comment": "The site exists to allow users to particiapate in online activism.",
     "bird_id": 201,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 23
   },
   {
     "answer": "NO",
     "comment": "",
     "bird_id": 201,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 14
   },
   {
     "answer": "NO",
     "comment": "People mainly have access to petitions. I couldn't find a forum where people discuss the issues. People can state their personal reason for signing the petition but it doesnt allow anyone to respond. ",
     "bird_id": 201,
-    "evaluation_question_id": 9
+    "evaluation_question_id": 9,
+    "user_id": 24
   }
 ]
