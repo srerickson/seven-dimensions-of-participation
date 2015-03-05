@@ -3242,7 +3242,7 @@ table.evaluation_results tr a.case {
 table.evaluation_results td {
   padding: 4px;
   margin: 0;
-  border-top: 1px solid #E8E8E8;
+  border: 1px solid #E8E8E8;
   border-bottom: none;
 }
 /* line 111, ../../../app/assets/stylesheets/frontend/evaluation_set.css.scss */
@@ -3257,9 +3257,9 @@ table.evaluation_results td.sub_question a {
 /* line 120, ../../../app/assets/stylesheets/frontend/evaluation_set.css.scss */
 table.evaluation_results .evaluation_result_pie {
   position: relative;
-  width: 45px;
+  width: 55px;
   height: 60px;
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   text-align: center;
   -moz-user-select: none;
@@ -3463,4 +3463,13 @@ body h2, body h3, body h4, body h5 {
 /* line 34, ../../../app/assets/stylesheets/frontend/kase_popup.css.scss */
 .kase_popup table tr td {
   padding: 10px;
+}
+
+
+table.evaluation_results th.question {
+  width:15%;
+}
+
+table.evaluation_results th.question {
+  width:15%;
 }

@@ -46,8 +46,8 @@
             <span class='entypo'></span>
           </span>
         </th>
-        <th ng-class='{active_sort: sort_field == question.position}' ng-repeat='question in show_questions'>
-          <a class='field_name' ng-click='set_sort_field(question.position)' popover-placement='bottom' popover-trigger='mouseenter' popover='{{question.question}}'>{{question.position}}</a>
+        <th ng-class='{active_sort: sort_field == question.position}' ng-repeat='question in show_questions' class="question">
+          <a class='field_name' ng-click='set_sort_field(question.position)' popover-placement='bottom' popover-trigger='mouseenter' popover='{{question.question}}'>{{question.name}}</a>
           <span class='toggle_sort' ng-click='toggle_sort_order()'>
             <span class='entypo'></span>
           </span>

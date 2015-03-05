@@ -23430,7 +23430,7 @@ function draw_answer_pie(yes_count,no_count, na_count, blank_count, yes_comments
   var __indexOf = [].indexOf || function(item) { for (var i = 0, l = this.length; i < l; i++) { if (i in this && this[i] === item) return i; } return -1; };
 
   app.controller("EvaluationSetController", [
-    "$scope", "$http", "$modal", function($scope, $http, $modal) {
+    "$scope", "$http", "$modal","$location", function($scope, $http, $modal,$location) {
       $scope.id = false;
       $scope.questions = [];
       $scope.birds = [];
@@ -23442,6 +23442,12 @@ function draw_answer_pie(yes_count,no_count, na_count, blank_count, yes_comments
       $scope.sort_order = "asc";
       $scope.sort_type = "";
       $scope.response_details = false;
+
+      $scope.exclude_question = ["3","5"] // exclude sub questions by default
+      if($location.search().except){
+      	$scope.exclude_question = $location.search().except.split(",");
+      }
+
       $scope.set_sort_field = function(val) {
         return $scope.sort_field = val;
       };
@@ -23458,12 +23464,14 @@ function draw_answer_pie(yes_count,no_count, na_count, blank_count, yes_comments
             $scope.questions.sort(function(a, b) {
               return a.position - b.position;
             });
-            $scope.show_questions = $scope.questions;
             _ref = $scope.questions;
             for (_i = 0, _len = _ref.length; _i < _len; _i++) {
               q = _ref[_i];
               if (q.sub_question) {
                 $scope.sub_questions.push(q.id);
+              }
+              if($scope.exclude_question.indexOf(String(q.id)) < 0){
+              	$scope.show_questions.push(q)
               }
             }
             _ref1 = data.evaluation_results;
