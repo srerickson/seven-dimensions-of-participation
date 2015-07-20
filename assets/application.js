@@ -23361,10 +23361,10 @@ function draw_answer_pie(yes_count,no_count, na_count, blank_count, yes_comments
       h = $elem.height()-4,
       r = Math.min(w,h)/2,
       answer_styles = [
-        "fill: #ACA;",    // answer_yes
-        "fill: #CAA;",    // answer_no
-        "fill: #E5E579;", // answer_na
-        "fill: #EEE;"     // answer_blank
+        "fill: #99d594;",    // answer_yes
+        "fill: #fc8d59;",    // answer_no
+        "fill: #ffffbf;", // answer_na
+        "fill: #FFF;"     // answer_blank
       ],
   
       comment_styles = [
